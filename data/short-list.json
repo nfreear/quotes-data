@@ -1,0 +1,55 @@
+{
+  "meta": {
+    "title": "A short-list of authors and their quotes in 'Open Quotes'.",
+    "authorList": "./authors.txt"
+    "locales": [ "en", "zh" ],
+    "properties": [ "id", "name" ]
+  },
+
+  "#": [
+    "https://en.wikipedia.org/wiki/List_of_Chinese_philosophers",
+    "https://github.com/nfreear/data/blob/master/data/gist-signed0-quotes.en.json",
+    " .. Mozi; Zhuangzi; siddhartha-mukherjee .."
+  ],
+
+  "data": [
+    { "id": "a-a-milne" },
+    { "id": "abraham-lincoln" },
+    { "id": "ada-lovelace" },
+    { "id": "albert-einstein" },
+    { "id": "anne-frank" },
+    { "id": "aretha-franklin" },
+    { "id": "aristotle" },
+    { "id": "benjamin-franklin" },
+    { "id": "bob-dylan" },
+    { "id": "booker-t-washington" },
+    { "id": "charles-dickens" },
+    { "id": "confucius" },
+    { "id": "george-eliot" },
+    { "id": "henry-ford" },
+    { "id": "jack-london" },
+    { "id": "jane-austen" },
+    { "id": "jesse-owens" },
+    { "id": "jesus-christ" },
+    { "id": "john-lennon" },
+    { "id": "lao-tzu", "zh": "老子", "name": "Lǎozǐ (Lao Tzŭ)" },
+    { "id": "mahatma-gandhi" },
+    { "id": "mark-twain" },
+    { "id": "martin-luther-king-jr" },
+    { "id": "muhammad-ali" },
+    { "id": "nelson-mandela" },
+    { "id": "oprah-winfrey" },
+    { "id": "oscar-wilde" },
+    { "id": "pablo-picasso" },
+    { "id": "richard-p-feynman" },
+    { "id": "rosa-parks" },
+    { "id": "siddhartha-mukherjee" },
+    { "id": "socrates" },
+    { "id": "tony-robbins" },
+    { "id": "unknown" },
+    { "id": "william-shakespeare" },
+    { "id": "winston-churchill" },
+    { "id": "woody-allen" },
+    { "id": "zhuangzi", "zh": "莊子", "name": "Zhuang Zhou (Chuang Tzŭ)" }
+  ]
+}

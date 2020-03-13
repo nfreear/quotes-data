@@ -1,0 +1,10 @@
+
+.DS_Store
+node_modules
+package-lock.json
+*openquotes.github.io*
+*.zip
+*.html
+*BAK*
+data/a
+data/stats

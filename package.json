@@ -1,0 +1,32 @@
+{
+  "private": true,
+  "name": "openquotes-data",
+  "version": "0.8.0",
+  "description": "...",
+  "x-copyright": "Content owned by the authors, individuals, and publishers.",
+  "license": "UNLICENSED",
+  "repository": "https://github.com/nfreear/quotes-data.git",
+  "main": "index.js",
+  "scripts": {
+    "grep": "cat data/authors.txt | grep -rni '\\-twain'",
+    "start": "node src/parse.js",
+    "zip": "zip -r ./data.zip data"
+  },
+  "files": [
+    "data/authors.txt",
+    "data/short-list.json"
+  ],
+  "devDependencies": {
+    "cheerio": "^1.0.0-rc.3",
+    "jest": "^25.1.0",
+    "jsonlint": "^1.6.3"
+  },
+  "peerDependencies": {
+    "openquotes.github.io": "https://github.com/openquotes/openquotes.github.io.git#master"
+  },
+  "x": {
+    "homepage": "https://openquotes.github.io/",
+    "copyright": "https://openquotes.github.io/copyright/",
+    "imageUrl": "https://openquotes.github.io/img/authors/{REF}-quotes.jpg"
+  }
+}
