@@ -8,6 +8,7 @@
   "repository": "https://github.com/nfreear/quotes-data.git",
   "main": "index.js",
   "scripts": {
+    "count": "ls -l data/short-list/ | wc -l",
     "grep": "cat data/authors.txt | grep -rni '\\-twain'",
     "start": "node src/parse.js",
     "zip": "zip -r ./data.zip data"

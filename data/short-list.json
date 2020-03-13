@@ -1,12 +1,14 @@
 {
   "meta": {
     "title": "A short-list of authors and their quotes in 'Open Quotes'.",
+    "count": 46,
     "authorList": "./authors.txt",
     "locales": [ "en", "zh" ],
     "properties": [ "id", "name" ]
   },
 
   "#": [
+    "http://www.thebest100lists.com/best100authors/",
     "https://en.wikipedia.org/wiki/List_of_Chinese_philosophers",
     "https://github.com/nfreear/data/blob/master/data/gist-signed0-quotes.en.json",
     " .. Mozi; Zhuangzi; siddhartha-mukherjee .."
@@ -24,7 +26,9 @@
     { "id": "bob-dylan" },
     { "id": "booker-t-washington" },
     { "id": "charles-dickens" },
+    { "id": "charlotte-bronte" },
     { "id": "confucius" },
+    { "id": "franz-kafka" },
     { "id": "fyodor-dostoevsky" },
     { "id": "george-eliot" },
     { "id": "hans-christian-andersen" },
@@ -43,7 +47,9 @@
     { "id": "oprah-winfrey" },
     { "id": "oscar-wilde" },
     { "id": "pablo-picasso" },
+    { "id": "plato" },
     { "id": "richard-p-feynman" },
+    { "id": "roald-dahl" },
     { "id": "rosa-parks" },
     { "id": "siddhartha-mukherjee" },
     { "id": "socrates" },

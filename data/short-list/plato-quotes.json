@@ -1,0 +1,602 @@
+{
+  "name": "Plato",
+  "image": "Plato",
+  "quotes": [
+    {
+      "id": "51c7f197",
+      "en": "Music is a moral law. It gives soul to the universe, wings to the mind, flight to the imagination, and charm and gaiety to life and to everything."
+    },
+    {
+      "id": "57f48ca9",
+      "en": "There's a victory, and defeat; the first and best of victories, the lowest and worst of defeats which each man gains or sustains at the hands not of another, but of himself."
+    },
+    {
+      "id": "2211b638",
+      "en": "For a man to conquer himself is the first and noblest of all victories."
+    },
+    {
+      "id": "bb2e2a3d",
+      "en": "Philosophy is the highest music."
+    },
+    {
+      "id": "537b72ac",
+      "en": "For good nurture and education implant good constitutions."
+    },
+    {
+      "id": "7f8d7580",
+      "en": "Astronomy compels the soul to look upwards and leads us from this world to another."
+    },
+    {
+      "id": "da058972",
+      "en": "Injustice is censured because the censures are afraid of suffering, and not from any fear which they have of doing injustice."
+    },
+    {
+      "id": "1ac9e012",
+      "en": "No one ever teaches well who wants to teach, or governs well who wants to govern."
+    },
+    {
+      "id": "580d4719",
+      "en": "They certainly give very strange names to diseases."
+    },
+    {
+      "id": "77b4b5fa",
+      "en": "The good is the beautiful."
+    },
+    {
+      "id": "d6a595d5",
+      "en": "All men are by nature equal, made all of the same earth by one Workman; and however we deceive ourselves, as dear unto God is the poor peasant as the mighty prince."
+    },
+    {
+      "id": "b70cbe96",
+      "en": "There are two things a person should never be angry at, what they can help, and what they cannot."
+    },
+    {
+      "id": "88c576ec",
+      "en": "A hero is born among a hundred, a wise man is found among a thousand, but an accomplished one might not be found even among a hundred thousand men."
+    },
+    {
+      "id": "5b49100c",
+      "en": "Any man may easily do harm, but not every man can do good to another."
+    },
+    {
+      "id": "d13dd4b6",
+      "en": "When the tyrant has disposed of foreign enemies by conquest or treaty, and there is nothing more to fear from them, then he is always stirring up some war or other, in order that the people may require a leader."
+    },
+    {
+      "id": "09bcf682",
+      "en": "Knowledge without justice ought to be called cunning rather than wisdom."
+    },
+    {
+      "id": "057b3424",
+      "en": "To prefer evil to good is not in human nature; and when a man is compelled to choose one of two evils, no one will choose the greater when he might have the less."
+    },
+    {
+      "id": "c7f186af",
+      "en": "To go to the world below, having a soul which is like a vessel full of injustice, is the last and worst of all the evils."
+    },
+    {
+      "id": "b9897e9f",
+      "en": "There is no harm in repeating a good thing."
+    },
+    {
+      "id": "814789f7",
+      "en": "Ignorance, the root and stem of all evil."
+    },
+    {
+      "id": "efcf6e00",
+      "en": "The first and greatest victory is to conquer yourself; to be conquered by yourself is of all things most shameful and vile."
+    },
+    {
+      "id": "fcdfce55",
+      "en": "The learning and knowledge that we have, is, at the most, but little compared with that of which we are ignorant."
+    },
+    {
+      "id": "a90e9e22",
+      "en": "The most virtuous are those who content themselves with being virtuous without seeking to appear so."
+    },
+    {
+      "id": "fec82eed",
+      "en": "Man - a being in search of meaning."
+    },
+    {
+      "id": "341d5ac2",
+      "en": "The beginning is the most important part of the work."
+    },
+    {
+      "id": "9d191638",
+      "en": "No one is a friend to his friend who does not love in return."
+    },
+    {
+      "id": "4d52bdf1",
+      "en": "It is clear to everyone that astronomy at all events compels the soul to look upwards, and draws it from the things of this world to the other."
+    },
+    {
+      "id": "b6d7b503",
+      "en": "There will be no end to the troubles of states, or of humanity itself, till philosophers become kings in this world, or till those we now call kings and rulers really and truly become philosophers, and political power and philosophy thus come into the same hands."
+    },
+    {
+      "id": "a7e59108",
+      "en": "Those who intend on becoming great should love neither themselves nor their own things, but only what is just, whether it happens to be done by themselves or others."
+    },
+    {
+      "id": "2f23c425",
+      "en": "You can discover more about a person in an hour of play than in a year of conversation."
+    },
+    {
+      "id": "a9efb293",
+      "en": "We can easily forgive a child who is afraid of the dark; the real tragedy of life is when men are afraid of the light."
+    },
+    {
+      "id": "84574ac6",
+      "en": "Let parents bequeath to their children not riches, but the spirit of reverence."
+    },
+    {
+      "id": "098edc78",
+      "en": "The punishment which the wise suffer who refuse to take part in the government, is to live under the government of worse men."
+    },
+    {
+      "id": "340f2a0a",
+      "en": "Justice in the life and conduct of the State is possible only as first it resides in the hearts and souls of the citizens."
+    },
+    {
+      "id": "10f469a9",
+      "en": "He who is not a good servant will not be a good master."
+    },
+    {
+      "id": "29548055",
+      "en": "A good decision is based on knowledge and not on numbers."
+    },
+    {
+      "id": "5fdebec7",
+      "en": "Death is not the worst that can happen to men."
+    },
+    {
+      "id": "16609aa5",
+      "en": "Wise men speak because they have something to say; Fools because they have to say something."
+    },
+    {
+      "id": "a28205c0",
+      "en": "To love rightly is to love what is orderly and beautiful in an educated and disciplined way."
+    },
+    {
+      "id": "5ca198d6",
+      "en": "The most important part of education is proper training in the nursery."
+    },
+    {
+      "id": "74499642",
+      "en": "Poetry is nearer to vital truth than history."
+    },
+    {
+      "id": "c5782179",
+      "en": "Excess generally causes reaction, and produces a change in the opposite direction, whether it be in the seasons, or in individuals, or in governments."
+    },
+    {
+      "id": "0cd21681",
+      "en": "The curse of me and my nation is that we always think things can be bettered by immediate action of some sort, any sort rather than no sort."
+    },
+    {
+      "id": "ed8c779b",
+      "en": "Better a little which is well done, than a great deal imperfectly."
+    },
+    {
+      "id": "8e719eab",
+      "en": "Rhetoric is the art of ruling the minds of men."
+    },
+    {
+      "id": "10aef5c2",
+      "en": "Democracy... is a charming form of government, full of variety and disorder; and dispensing a sort of equality to equals and unequals alike."
+    },
+    {
+      "id": "12c9a978",
+      "en": "Apply yourself both now and in the next life. Without effort, you cannot be prosperous. Though the land be good, You cannot have an abundant crop without cultivation."
+    },
+    {
+      "id": "d881a677",
+      "en": "Ignorance of all things is an evil neither terrible nor excessive, nor yet the greatest of all; but great cleverness and much learning, if they be accompanied by a bad training, are a much greater misfortune."
+    },
+    {
+      "id": "04eb854c",
+      "en": "Man never legislates, but destinies and accidents, happening in all sorts of ways, legislate in all sorts of ways."
+    },
+    {
+      "id": "261a8acf",
+      "en": "No man should bring children into the world who is unwilling to persevere to the end in their nature and education."
+    },
+    {
+      "id": "1a56f8c5",
+      "en": "The blame is his who chooses: God is blameless."
+    },
+    {
+      "id": "b3cd9dd2",
+      "en": "Then not only custom, but also nature affirms that to do is more disgraceful than to suffer injustice, and that justice is equality."
+    },
+    {
+      "id": "13691f25",
+      "en": "The rulers of the state are the only persons who ought to have the privilege of lying, either at home or abroad; they may be allowed to lie for the good of the state."
+    },
+    {
+      "id": "955fcb39",
+      "en": "To suffer the penalty of too much haste, which is too little speed."
+    },
+    {
+      "id": "c1bf69cd",
+      "en": "Entire ignorance is not so terrible or extreme an evil, and is far from being the greatest of all; too much cleverness and too much learning, accompanied with ill bringing-up, are far more fatal."
+    },
+    {
+      "id": "b2c2b915",
+      "en": "Knowledge which is acquired under compulsion obtains no hold on the mind."
+    },
+    {
+      "id": "60f61fbe",
+      "en": "Then not only an old man, but also a drunkard, becomes a second time a child."
+    },
+    {
+      "id": "3a0c9aef",
+      "en": "Not to help justice in her need would be an impiety."
+    },
+    {
+      "id": "e78716ff",
+      "en": "Truth is the beginning of every good to the gods, and of every good to man."
+    },
+    {
+      "id": "84a3002c",
+      "en": "I never did anything worth doing by accident, nor did any of my inventions come by accident; they came by work."
+    },
+    {
+      "id": "a0b681f7",
+      "en": "Tyranny naturally arises out of democracy."
+    },
+    {
+      "id": "e3f594b9",
+      "en": "Life must be lived as play."
+    },
+    {
+      "id": "e04eb620",
+      "en": "If particulars are to have meaning, there must be universals."
+    },
+    {
+      "id": "45e330d4",
+      "en": "Good people do not need laws to tell them to act responsibly, while bad people will find a way around the laws."
+    },
+    {
+      "id": "3078de7e",
+      "en": "I would fain grow old learning many things."
+    },
+    {
+      "id": "cc84b475",
+      "en": "Know one knows whether death, which people fear to be the greatest evil, may not be the greatest good."
+    },
+    {
+      "id": "23d25cc5",
+      "en": "Human behavior flows from three main sources: desire, emotion, and knowledge."
+    },
+    {
+      "id": "29cb0578",
+      "en": "The measure of a man is what he does with power."
+    },
+    {
+      "id": "41eac456",
+      "en": "Dictatorship naturally arises out of democracy, and the most aggravated form of tyranny and slavery out of the most extreme liberty."
+    },
+    {
+      "id": "6996f092",
+      "en": "Virtue is relative to the actions and ages of each of us in all that we do."
+    },
+    {
+      "id": "02d2d908",
+      "en": "How can you prove whether at this moment we are sleeping, and all our thoughts are a dream; or whether we are awake, and talking to one another in the waking state?"
+    },
+    {
+      "id": "6e35d3c5",
+      "en": "We ought to fly away from earth to heaven as quickly as we can; and to fly away is to become like God, as far as this is possible; and to become like him is to become holy, just, and wise."
+    },
+    {
+      "id": "479d9d7f",
+      "en": "There is no such thing as a lovers' oath."
+    },
+    {
+      "id": "807176f5",
+      "en": "Wisdom alone is the science of other sciences."
+    },
+    {
+      "id": "4d170096",
+      "en": "Science is nothing but perception."
+    },
+    {
+      "id": "8e5d2d26",
+      "en": "The direction in which education starts a man will determine his future in life."
+    },
+    {
+      "id": "380cb1a1",
+      "en": "I have hardly ever known a mathematician who was capable of reasoning."
+    },
+    {
+      "id": "cd7a8fd9",
+      "en": "States are as the men, they grow out of human characters."
+    },
+    {
+      "id": "dddb1cca",
+      "en": "When the mind is thinking it is talking to itself."
+    },
+    {
+      "id": "f0fdb67f",
+      "en": "Must not all things at the last be swallowed up in death?"
+    },
+    {
+      "id": "7e00ac4f",
+      "en": "Opinion is the medium between knowledge and ignorance."
+    },
+    {
+      "id": "94286eaa",
+      "en": "It is right to give every man his due."
+    },
+    {
+      "id": "6ac61611",
+      "en": "One of the penalties for refusing to participate in politics is that you end up being governed by your inferiors."
+    },
+    {
+      "id": "905bf4db",
+      "en": "No evil can happen to a good man, either in life or after death."
+    },
+    {
+      "id": "57616669",
+      "en": "He who commits injustice is ever made more wretched than he who suffers it."
+    },
+    {
+      "id": "0a879eea",
+      "en": "People are like dirt. They can either nourish you and help you grow as a person or they can stunt your growth and make you wilt and die."
+    },
+    {
+      "id": "eaf0aff7",
+      "en": "The excessive increase of anything causes a reaction in the opposite direction."
+    },
+    {
+      "id": "db1ea2b0",
+      "en": "This City is what it is because our citizens are what they are."
+    },
+    {
+      "id": "3a444b70",
+      "en": "All things will be produced in superior quantity and quality, and with greater ease, when each man works at a single occupation, in accordance with his natural gifts, and at the right moment, without meddling with anything else."
+    },
+    {
+      "id": "bbce6430",
+      "en": "Philosophy begins in wonder."
+    },
+    {
+      "id": "fc223942",
+      "en": "He who steals a little steals with the same wish as he who steals much, but with less power."
+    },
+    {
+      "id": "fe5b6fed",
+      "en": "Whatever deceives men seems to produce a magical enchantment."
+    },
+    {
+      "id": "597559d5",
+      "en": "Courage is a kind of salvation."
+    },
+    {
+      "id": "2e1424b3",
+      "en": "Necessity... the mother of invention."
+    },
+    {
+      "id": "5a13c403",
+      "en": "When there is an income tax, the just man will pay more and the unjust less on the same amount of income."
+    },
+    {
+      "id": "c63b295b",
+      "en": "Excess of liberty, whether it lies in state or individuals, seems only to pass into excess of slavery."
+    },
+    {
+      "id": "ec148a0e",
+      "en": "Man is a wingless animal with two feet and flat nails."
+    },
+    {
+      "id": "5476d4c4",
+      "en": "At the touch of love everyone becomes a poet."
+    },
+    {
+      "id": "5a8f90c0",
+      "en": "Nothing can be more absurd than the practice that prevails in our country of men and women not following the same pursuits with all their strengths and with one mind, for thus, the state instead of being whole is reduced to half."
+    },
+    {
+      "id": "f6007814",
+      "en": "It is a common saying, and in everybody's mouth, that life is but a sojourn."
+    },
+    {
+      "id": "6e755338",
+      "en": "Our object in the construction of the state is the greatest happiness of the whole, and not that of any one class."
+    },
+    {
+      "id": "29a64237",
+      "en": "I exhort you also to take part in the great combat, which is the combat of life, and greater than every other earthly conflict."
+    },
+    {
+      "id": "b8377168",
+      "en": "They do certainly give very strange, and newfangled, names to diseases."
+    },
+    {
+      "id": "86d682c4",
+      "en": "The wisest have the most authority."
+    },
+    {
+      "id": "9621157e",
+      "en": "Twice and thrice over, as they say, good is it to repeat and review what is good."
+    },
+    {
+      "id": "3c8e6db3",
+      "en": "The community which has neither poverty nor riches will always have the noblest principles."
+    },
+    {
+      "id": "6d5c4b67",
+      "en": "There must always remain something that is antagonistic to good."
+    },
+    {
+      "id": "5de5ce8d",
+      "en": "When men speak ill of thee, live so as nobody may believe them."
+    },
+    {
+      "id": "08aad277",
+      "en": "The highest reach of injustice is to be deemed just when you are not."
+    },
+    {
+      "id": "01b33386",
+      "en": "Music is the movement of sound to reach the soul for the education of its virtue."
+    },
+    {
+      "id": "d5e415db",
+      "en": "We ought to esteem it of the greatest importance that the fictions which children first hear should be adapted in the most perfect manner to the promotion of virtue."
+    },
+    {
+      "id": "431e6a41",
+      "en": "Cunning... is but the low mimic of wisdom."
+    },
+    {
+      "id": "118b143f",
+      "en": "No trace of slavery ought to mix with the studies of the freeborn man. No study, pursued under compulsion, remains rooted in the memory."
+    },
+    {
+      "id": "153a0fdb",
+      "en": "Democracy passes into despotism."
+    },
+    {
+      "id": "c0f18022",
+      "en": "The man who makes everything that leads to happiness depends upon himself, and not upon other men, has adopted the very best plan for living happily. This is the man of moderation, the man of manly character and of wisdom."
+    },
+    {
+      "id": "28185a82",
+      "en": "When a Benefit is wrongly conferred, the author of the Benefit may often be said to injure."
+    },
+    {
+      "id": "ad6c446e",
+      "en": "Wonder is the feeling of the philosopher, and philosophy begins in wonder."
+    },
+    {
+      "id": "19b02601",
+      "en": "Attention to health is life's greatest hindrance."
+    },
+    {
+      "id": "1f5efe7c",
+      "en": "Knowledge becomes evil if the aim be not virtuous."
+    },
+    {
+      "id": "e10a15d2",
+      "en": "Nothing in the affairs of men is worthy of great anxiety."
+    },
+    {
+      "id": "67dd0a44",
+      "en": "Every heart sings a song, incomplete, until another heart whispers back. Those who wish to sing always find a song. At the touch of a lover, everyone becomes a poet."
+    },
+    {
+      "id": "b20f0b6d",
+      "en": "Hardly any human being is capable of pursuing two professions or two arts rightly."
+    },
+    {
+      "id": "5719edc2",
+      "en": "Thinking: the talking of the soul with itself."
+    },
+    {
+      "id": "c6d99503",
+      "en": "We are twice armed if we fight with faith."
+    },
+    {
+      "id": "548a7e71",
+      "en": "Poets utter great and wise things which they do not themselves understand."
+    },
+    {
+      "id": "2b66e415",
+      "en": "Courage is knowing what not to fear."
+    },
+    {
+      "id": "f3c54239",
+      "en": "A state arises, as I conceive, out of the needs of mankind; no one is self-sufficing, but all of us have many wants."
+    },
+    {
+      "id": "0cfc18ad",
+      "en": "If a man neglects education, he walks lame to the end of his life."
+    },
+    {
+      "id": "d1f405b6",
+      "en": "Love is a serious mental disease."
+    },
+    {
+      "id": "8decf133",
+      "en": "Knowledge is true opinion."
+    },
+    {
+      "id": "bc101ee7",
+      "en": "This and no other is the root from which a tyrant springs; when he first appears he is a protector."
+    },
+    {
+      "id": "43fa2059",
+      "en": "Love is the joy of the good, the wonder of the wise, the amazement of the Gods."
+    },
+    {
+      "id": "366317f6",
+      "en": "He who is of calm and happy nature will hardly feel the pressure of age, but to him who is of an opposite disposition youth and age are equally a burden."
+    },
+    {
+      "id": "e5790966",
+      "en": "To be sure I must; and therefore I may assume that your silence gives consent."
+    },
+    {
+      "id": "39152624",
+      "en": "The gods' service is tolerable, man's intolerable."
+    },
+    {
+      "id": "1153ab51",
+      "en": "There are three classes of men; lovers of wisdom, lovers of honor, and lovers of gain."
+    },
+    {
+      "id": "1f85450d",
+      "en": "The eyes of the soul of the multitudes are unable to endure the vision of the divine."
+    },
+    {
+      "id": "aca82b63",
+      "en": "Honesty is for the most part less profitable than dishonesty."
+    },
+    {
+      "id": "33182e24",
+      "en": "All the gold which is under or upon the earth is not enough to give in exchange for virtue."
+    },
+    {
+      "id": "ef8c1e19",
+      "en": "The god of love lives in a state of need. It is a need. It is an urge. It is a homeostatic imbalance. Like hunger and thirst, it's almost impossible to stamp out."
+    },
+    {
+      "id": "3e66d4bc",
+      "en": "The greatest wealth is to live content with little."
+    },
+    {
+      "id": "c044edce",
+      "en": "We do not learn; and what we call learning is only a process of recollection."
+    },
+    {
+      "id": "9a7c7526",
+      "en": "No law or ordinance is mightier than understanding."
+    },
+    {
+      "id": "bf3eef92",
+      "en": "Wealth is well known to be a great comforter."
+    },
+    {
+      "id": "781457fd",
+      "en": "One man cannot practice many arts with success."
+    },
+    {
+      "id": "43eb25ec",
+      "en": "As the builders say, the larger stones do not lie well without the lesser."
+    },
+    {
+      "id": "2b218155",
+      "en": "Justice means minding one's own business and not meddling with other men's concerns."
+    },
+    {
+      "id": "540bb331",
+      "en": "And what, Socrates, is the food of the soul? Surely, I said, knowledge is the food of the soul."
+    },
+    {
+      "id": "20d9312d",
+      "en": "For the introduction of a new kind of music must be shunned as imperiling the whole state; since styles of music are never disturbed without affecting the most important political institutions."
+    }
+  ]
+}
