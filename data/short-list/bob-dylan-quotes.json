@@ -1,0 +1,410 @@
+{
+  "name": "Bob Dylan",
+  "image": "Bob-Dylan",
+  "quotes": [
+    {
+      "id": "23a46949",
+      "en": "It's not easy to define poetry."
+    },
+    {
+      "id": "4250d50a",
+      "en": "A hero is someone who understands the responsibility that comes with his freedom."
+    },
+    {
+      "id": "7bb5cb46",
+      "en": "What did I owe the rest of the world? Nothing."
+    },
+    {
+      "id": "032c4da3",
+      "en": "My songs always sound a lot better in person than they do on the record."
+    },
+    {
+      "id": "5b42bef2",
+      "en": "I kinda live where I find myself."
+    },
+    {
+      "id": "972f72b9",
+      "en": "I'm not the kind of cat that's going to cut off an ear if I can't do something."
+    },
+    {
+      "id": "82263197",
+      "en": "It's hard to speculate what tomorrow may bring."
+    },
+    {
+      "id": "db88bb50",
+      "en": "Look, when I started out, mainstream culture was Sinatra, Perry Como, Andy Williams, Sound of Music. There was no fitting into it then and of course, there's no fitting into it now."
+    },
+    {
+      "id": "5e030a8f",
+      "en": "I consider myself a poet first and a musician second. I live like a poet and I'll die like a poet."
+    },
+    {
+      "id": "f4551ac2",
+      "en": "I'm just glad to be feeling better. I really thought I'd be seeing Elvis soon."
+    },
+    {
+      "id": "fff11a48",
+      "en": "Death to me means nothing as long as I can die fast."
+    },
+    {
+      "id": "4d77e17a",
+      "en": "Some people seem to fade away but then when they are truly gone, it's like they didn't fade away at all."
+    },
+    {
+      "id": "913d103d",
+      "en": "I'm speaking for all of us. I'm the spokesman for a generation."
+    },
+    {
+      "id": "cb0af8e4",
+      "en": "Being noticed can be a burden. Jesus got himself crucified because he got himself noticed. So I disappear a lot."
+    },
+    {
+      "id": "f24e68fb",
+      "en": "You learn from a conglomeration of the incredible past - whatever experience gotten in any way whatsoever."
+    },
+    {
+      "id": "d1858731",
+      "en": "I felt like I might as well have been living in another part of the solar system."
+    },
+    {
+      "id": "8bb4287a",
+      "en": "I really didn't consider myself happy or unhappy."
+    },
+    {
+      "id": "50360c13",
+      "en": "My father probably thought the capital of the world was wherever he was at the time. It couldn't possibly be anyplace else. Where he and his wife were in their own home, that, for them, was the capital of the world."
+    },
+    {
+      "id": "1e83f1b1",
+      "en": "Just because you like my stuff doesn't mean I owe you anything."
+    },
+    {
+      "id": "7b43ed30",
+      "en": "I'm mortified to be on the stage, but then again, it's the only place where I'm happy."
+    },
+    {
+      "id": "50580f53",
+      "en": "All the truth in the world adds up to one big lie."
+    },
+    {
+      "id": "725af848",
+      "en": "You hear a lot about God these days: God, the beneficent; God, the all-great; God, the Almighty; God, the most powerful; God, the giver of life; God, the creator of death. I mean, we're hearing about God all the time, so we better learn how to deal with it. But if we know anything about God, God is arbitrary."
+    },
+    {
+      "id": "e4ba5037",
+      "en": "A song is anything that can walk by itself."
+    },
+    {
+      "id": "7e1d6305",
+      "en": "To live outside the law, you must be honest."
+    },
+    {
+      "id": "c8c2c1cf",
+      "en": "I realize I don't do a very good job in keeping up to date, but I try to."
+    },
+    {
+      "id": "705cff00",
+      "en": "The land created me. I'm wild and lonesome. Even as I travel the cities, I'm more at home in the vacant lots."
+    },
+    {
+      "id": "acd27804",
+      "en": "I accept chaos, I'm not sure whether it accepts me."
+    },
+    {
+      "id": "4b5168c6",
+      "en": "A lot of people can't stand touring but to me it's like breathing. I do it because I'm driven to do it."
+    },
+    {
+      "id": "57b71bff",
+      "en": "Chaos is a friend of mine."
+    },
+    {
+      "id": "282e4886",
+      "en": "What good are fans? You can't eat applause for breakfast. You can't sleep with it."
+    },
+    {
+      "id": "c28647f2",
+      "en": "I don't think I've ever been an agnostic. I've always thought there's a superior power, that this is not the real world and that there's a world to come."
+    },
+    {
+      "id": "f3c6a444",
+      "en": "I became interested in folk music because I had to make it somehow."
+    },
+    {
+      "id": "78e672e5",
+      "en": "The radio makes hideous sounds."
+    },
+    {
+      "id": "509109d7",
+      "en": "The people in my songs are all me."
+    },
+    {
+      "id": "dcb5e194",
+      "en": "I'm sick of giving creeps money off my soul."
+    },
+    {
+      "id": "cef8dbd3",
+      "en": "A lot of people don't like the road, but it's as natural to me as breathing."
+    },
+    {
+      "id": "e55dd2bd",
+      "en": "All this talk about equality. The only thing people really have in common is that they are all going to die."
+    },
+    {
+      "id": "ee4335f1",
+      "en": "I've never written a political song. Songs can't save the world. I've gone through all that."
+    },
+    {
+      "id": "957fcd2a",
+      "en": "Folk music is a bunch of fat people."
+    },
+    {
+      "id": "ff8eca5f",
+      "en": "Yesterday's just a memory, tomorrow is never what it's supposed to be."
+    },
+    {
+      "id": "f5ca687a",
+      "en": "No one is free, even the birds are chained to the sky."
+    },
+    {
+      "id": "bd7006cc",
+      "en": "I'm more of an adventurous type than a relationship type."
+    },
+    {
+      "id": "9fdab948",
+      "en": "I'll let you be in my dreams if I can be in yours."
+    },
+    {
+      "id": "d1c26206",
+      "en": "A mistake is to commit a misunderstanding."
+    },
+    {
+      "id": "ee5ea8bd",
+      "en": "Nothing can affect my voice, it's so bad."
+    },
+    {
+      "id": "78a90dec",
+      "en": "Don't matter how much money you got, there's only two kinds of people: there's saved people and there's lost people."
+    },
+    {
+      "id": "ca6208c8",
+      "en": "What's money? A man is a success if he gets up in the morning and goes to bed at night and in between does what he wants to do."
+    },
+    {
+      "id": "1c322425",
+      "en": "Being on tour is like being in limbo. It's like going from nowhere to nowhere."
+    },
+    {
+      "id": "d94f1a10",
+      "en": "In ceremonies of the horsemen, even the pawn must hold a grudge."
+    },
+    {
+      "id": "fad13944",
+      "en": "I'm inconsistent, even to myself."
+    },
+    {
+      "id": "4678adcc",
+      "en": "But even the President of the United States sometimes must have to stand naked."
+    },
+    {
+      "id": "10c097dc",
+      "en": "A poem is a naked person... Some people say that I am a poet."
+    },
+    {
+      "id": "4213ec3f",
+      "en": "When you cease to exist, then who will you blame?"
+    },
+    {
+      "id": "df9a1871",
+      "en": "I don't think the human mind can comprehend the past and the future. They are both just illusions that can manipulate you into thinking theres some kind of change."
+    },
+    {
+      "id": "e69bb0ae",
+      "en": "Democracy don't rule the world, You'd better get that in your head; This world is ruled by violence, But I guess that's better left unsaid."
+    },
+    {
+      "id": "fbf58561",
+      "en": "Having these colossal accolades and titles, they get in the way."
+    },
+    {
+      "id": "10e99275",
+      "en": "Here's the thing with me and the religious thing. This is the flat-out truth: I find the religiosity and philosophy in the music. I don't find it anywhere else."
+    },
+    {
+      "id": "6fe5b94a",
+      "en": "I stopped smoking. When I stopped smoking, my voice changed... so drastically, I couldn't believe it myself."
+    },
+    {
+      "id": "4bae1de9",
+      "en": "Take care of all your memories. For you cannot relive them."
+    },
+    {
+      "id": "a51c0a1b",
+      "en": "I can't see myself singing the same song twice in a row. That's terrible."
+    },
+    {
+      "id": "7efee13d",
+      "en": "Basically you have to suppress your own ambitions in order to be who you need to be."
+    },
+    {
+      "id": "8f3ef012",
+      "en": "All I can do is be me, whoever that is."
+    },
+    {
+      "id": "a0906fc3",
+      "en": "I can be jubilant one moment and pensive the next, and a cloud could go by and make that happen."
+    },
+    {
+      "id": "e96c1f62",
+      "en": "I paint mostly from real life. It has to start with that. Real people, real street scenes, behind the curtain scenes, live models, paintings, photographs, staged setups, architecture, grids, graphic design. Whatever it takes to make it work."
+    },
+    {
+      "id": "ee681fc6",
+      "en": "You're going to die. You're going to be dead. It could be 20 years, it could be tomorrow, anytime. So am I. I mean, we're just going to be gone. The world's going to go on without us. All right now. You do your job in the face of that, and how seriously you take yourself you decide for yourself."
+    },
+    {
+      "id": "f870255a",
+      "en": "Some formulas are too complex and I don't want anything to do with them."
+    },
+    {
+      "id": "538a6078",
+      "en": "If I wasn't Bob Dylan, I'd probably think that Bob Dylan has a lot of answers myself."
+    },
+    {
+      "id": "2dfefdcf",
+      "en": "I change during the course of a day. I wake and I'm one person, and when I go to sleep I know for certain I'm somebody else."
+    },
+    {
+      "id": "be8cf4df",
+      "en": "I think I have a dualistic nature."
+    },
+    {
+      "id": "51b8939f",
+      "en": "People seldom do what they believe in. They do what is convenient, then repent."
+    },
+    {
+      "id": "a824ec18",
+      "en": "I don't think I'm tangible to myself."
+    },
+    {
+      "id": "a8e76714",
+      "en": "He not busy being born is busy dying."
+    },
+    {
+      "id": "07049ce8",
+      "en": "I think a poet is anybody who wouldn't call himself a poet."
+    },
+    {
+      "id": "2718224f",
+      "en": "The songs are my lexicon. I believe the songs."
+    },
+    {
+      "id": "69d56cb4",
+      "en": "I never saw myself as a folk singer."
+    },
+    {
+      "id": "ca48ad87",
+      "en": "My range is limited."
+    },
+    {
+      "id": "990de26a",
+      "en": "You can't do something forever."
+    },
+    {
+      "id": "ef234b17",
+      "en": "Well, the future for me is already a thing of the past."
+    },
+    {
+      "id": "624702fe",
+      "en": "You can't imagine parlor ballads drifting out of high-rise multi-towered buildings. That kind of music existed in a more timeless state of life."
+    },
+    {
+      "id": "5e9a959d",
+      "en": "You can't be happy by doing something groovy."
+    },
+    {
+      "id": "523e7a21",
+      "en": "Colleges are like old-age homes, except for the fact that more people die in colleges."
+    },
+    {
+      "id": "fe91155c",
+      "en": "In the dime stores and bus stations, people talk of situations, read books, repeat quotations, draw conclusions on the wall."
+    },
+    {
+      "id": "1ce7a3d5",
+      "en": "I have dined with kings, I've been offered wings. And I've never been too impressed."
+    },
+    {
+      "id": "88219e3a",
+      "en": "You call yourself what you want to call yourself."
+    },
+    {
+      "id": "b83929a1",
+      "en": "Anybody can be specific and obvious. That's always been the easy way. It's not that it's so difficult to be unspecific and less obvious; it's just that there's nothing, absolutely nothing, to be specific and obvious about."
+    },
+    {
+      "id": "a059cbe1",
+      "en": "I am against nature. I don't dig nature at all. I think nature is very unnatural. I think the truly natural things are dreams, which nature can't touch with decay."
+    },
+    {
+      "id": "148c8959",
+      "en": "I can't stand to see myself on television."
+    },
+    {
+      "id": "7ecbe2b5",
+      "en": "Money doesn't talk, it swears."
+    },
+    {
+      "id": "b9fd62cb",
+      "en": "I define nothing. Not beauty, not patriotism. I take each thing as it is, without prior rules about what it should be."
+    },
+    {
+      "id": "0cd9a024",
+      "en": "You just don't wake up one day and decide that you need to write songs."
+    },
+    {
+      "id": "f9935f8c",
+      "en": "There is nothing so stable as change."
+    },
+    {
+      "id": "c5bfe360",
+      "en": "This land is your land and this land is my land, sure, but the world is run by those that never listen to music anyway."
+    },
+    {
+      "id": "fb2cea88",
+      "en": "I can't act!"
+    },
+    {
+      "id": "7e2a86a9",
+      "en": "I like America, just as everybody else does. I love America, I gotta say that. But America will be judged."
+    },
+    {
+      "id": "3dbcf317",
+      "en": "People have different emotional levels. Especially when you're young."
+    },
+    {
+      "id": "82bc9acf",
+      "en": "I think of a hero as someone who understands the degree of responsibility that comes with his freedom."
+    },
+    {
+      "id": "28d9efe1",
+      "en": "People today are still living off the table scraps of the sixties. They are still being passed around - the music and the ideas."
+    },
+    {
+      "id": "211164cd",
+      "en": "Inspiration is hard to come by. You have to take it where you find it."
+    },
+    {
+      "id": "a8b1d915",
+      "en": "At times in my life the only place I have been happy is when I am on stage."
+    },
+    {
+      "id": "0af6c97b",
+      "en": "I say there're no depressed words just depressed minds."
+    },
+    {
+      "id": "0e9582b6",
+      "en": "I'm not a playwright."
+    }
+  ]
+}

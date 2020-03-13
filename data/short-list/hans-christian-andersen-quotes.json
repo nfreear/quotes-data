@@ -1,0 +1,38 @@
+{
+  "name": "Hans Christian Andersen",
+  "image": "Hans-Christian-Andersen",
+  "quotes": [
+    {
+      "id": "bee7af80",
+      "en": "Most of the people who will walk after me will be children, so make the beat keep time with short steps."
+    },
+    {
+      "id": "84f0f842",
+      "en": "Every man's life is a fairy tale written by God's fingers."
+    },
+    {
+      "id": "128b9357",
+      "en": "Life itself is the most wonderful fairy tale."
+    },
+    {
+      "id": "f7e8cdcd",
+      "en": "Travelling expands the mind rarely."
+    },
+    {
+      "id": "81c47308",
+      "en": "Where words fail, music speaks."
+    },
+    {
+      "id": "90593f13",
+      "en": "Just living is not enough... one must have sunshine, freedom, and a little flower."
+    },
+    {
+      "id": "bae73cd5",
+      "en": "My life is a lovely story, happy and full of incident."
+    },
+    {
+      "id": "485d2858",
+      "en": "Being born in a duck yard does not matter, if only you are hatched from a swan's egg."
+    }
+  ]
+}

@@ -1,0 +1,846 @@
+{
+  "name": "Mark Twain",
+  "image": "Mark-Twain",
+  "quotes": [
+    {
+      "id": "a0f02bca",
+      "en": "Don't let schooling interfere with your education."
+    },
+    {
+      "id": "039fec97",
+      "en": "How lucky Adam was. He knew when he said a good thing, nobody had said it before."
+    },
+    {
+      "id": "8f39ab4a",
+      "en": "Humor is mankind's greatest blessing."
+    },
+    {
+      "id": "3351fd84",
+      "en": "The reports of my death have been greatly exaggerated."
+    },
+    {
+      "id": "9f4024d7",
+      "en": "I make it a rule never to smoke while I'm sleeping."
+    },
+    {
+      "id": "38955a5c",
+      "en": "But who prays for Satan? Who, in eighteen centuries, has had the common humanity to pray for the one sinner that needed it most?"
+    },
+    {
+      "id": "feaca2e0",
+      "en": "Prophesy is a good line of business, but it is full of risks."
+    },
+    {
+      "id": "935ff5aa",
+      "en": "It is better to keep your mouth closed and let people think you are a fool than to open it and remove all doubt."
+    },
+    {
+      "id": "ba40d067",
+      "en": "'Classic.' A book which people praise and don't read."
+    },
+    {
+      "id": "bd0969dc",
+      "en": "Everything human is pathetic. The secret source of humor itself is not joy but sorrow. There is no humor in heaven."
+    },
+    {
+      "id": "345310ed",
+      "en": "Do not tell fish stories where the people know you; but particularly, don't tell them where they know the fish."
+    },
+    {
+      "id": "8fbcca59",
+      "en": "The first of April is the day we remember what we are the other 364 days of the year."
+    },
+    {
+      "id": "3b445569",
+      "en": "I must have a prodigious quantity of mind; it takes me as much as a week sometimes to make it up."
+    },
+    {
+      "id": "98a64abf",
+      "en": "Courage is resistance to fear, mastery of fear, not absence of fear."
+    },
+    {
+      "id": "b244b49a",
+      "en": "Often it does seem such a pity that Noah and his party did not miss the boat."
+    },
+    {
+      "id": "c7dd6b41",
+      "en": "All right, then, I'll go to hell."
+    },
+    {
+      "id": "8f34a505",
+      "en": "Why shouldn't truth be stranger than fiction? Fiction, after all, has to make sense."
+    },
+    {
+      "id": "5a4450b7",
+      "en": "Let us endeavor so to live so that when we come to die even the undertaker will be sorry."
+    },
+    {
+      "id": "2cfdf671",
+      "en": "Education consists mainly of what we have unlearned."
+    },
+    {
+      "id": "ee5eef3e",
+      "en": "Honesty is the best policy - when there is money in it."
+    },
+    {
+      "id": "5f74a59e",
+      "en": "I don't like to commit myself about heaven and hell - you see, I have friends in both places."
+    },
+    {
+      "id": "1c08992a",
+      "en": "Never pick a fight with people who buy ink by the barrel."
+    },
+    {
+      "id": "c2ce4168",
+      "en": "A man's character may be learned from the adjectives which he habitually uses in conversation."
+    },
+    {
+      "id": "c1ecb8cd",
+      "en": "To be good is noble; but to show others how to be good is nobler and no trouble."
+    },
+    {
+      "id": "b807d0e5",
+      "en": "Under certain circumstances, urgent circumstances, desperate circumstances, profanity provides a relief denied even to prayer."
+    },
+    {
+      "id": "d6b939c1",
+      "en": "I never smoke to excess - that is, I smoke in moderation, only one cigar at a time."
+    },
+    {
+      "id": "55480d45",
+      "en": "When in doubt tell the truth."
+    },
+    {
+      "id": "0a7761ed",
+      "en": "Whenever you find yourself on the side of the majority, it is time to pause and reflect."
+    },
+    {
+      "id": "eda3f611",
+      "en": "All generalizations are false, including this one."
+    },
+    {
+      "id": "83b9bba0",
+      "en": "What a wee little part of a person's life are his acts and his words! His real life is led in his head, and is known to none but himself."
+    },
+    {
+      "id": "9ab25ba7",
+      "en": "Giving up smoking is the easiest thing in the world. I know because I've done it thousands of times."
+    },
+    {
+      "id": "09687f9a",
+      "en": "All you need in this life is ignorance and confidence, and then success is sure."
+    },
+    {
+      "id": "76a5c4b7",
+      "en": "Thunder is good, thunder is impressive; but it is lightning that does the work."
+    },
+    {
+      "id": "865e4feb",
+      "en": "The more things are forbidden, the more popular they become."
+    },
+    {
+      "id": "d8833f3b",
+      "en": "I didn't attend the funeral, but I sent a nice letter saying I approved of it."
+    },
+    {
+      "id": "08614376",
+      "en": "The finest clothing made is a person's own skin, but, of course, society demands something more than this."
+    },
+    {
+      "id": "d0fdcbac",
+      "en": "Words are only painted fire; a look is the fire itself."
+    },
+    {
+      "id": "880acee3",
+      "en": "Ideally a book would have no order to it, and the reader would have to discover his own."
+    },
+    {
+      "id": "2550482d",
+      "en": "Lord save us all from old age and broken health and a hope tree that has lost the faculty of putting out blossoms."
+    },
+    {
+      "id": "7a80de89",
+      "en": "Man is the only animal that blushes - or needs to."
+    },
+    {
+      "id": "14bc7694",
+      "en": "Don't part with your illusions. When they are gone, you may still exist, but you have ceased to live."
+    },
+    {
+      "id": "123af851",
+      "en": "The Christian's Bible is a drug store. Its contents remain the same, but the medical practice changes."
+    },
+    {
+      "id": "6157c297",
+      "en": "When angry, count to four; when very angry, swear."
+    },
+    {
+      "id": "52d9e792",
+      "en": "It was wonderful to find America, but it would have been more wonderful to miss it."
+    },
+    {
+      "id": "b2ae7913",
+      "en": "One of the most striking differences between a cat and a lie is that a cat has only nine lives."
+    },
+    {
+      "id": "44d631e0",
+      "en": "It is better to deserve honors and not have them than to have them and not deserve them."
+    },
+    {
+      "id": "79e12c6c",
+      "en": "The lack of money is the root of all evil."
+    },
+    {
+      "id": "ce498f00",
+      "en": "I never let schooling interfere with my education."
+    },
+    {
+      "id": "3145e2dc",
+      "en": "Humor must not professedly teach and it must not professedly preach, but it must do both if it would live forever."
+    },
+    {
+      "id": "8e93c139",
+      "en": "Soap and education are not as sudden as a massacre, but they are more deadly in the long run."
+    },
+    {
+      "id": "baa2bf19",
+      "en": "Better a broken promise than none at all."
+    },
+    {
+      "id": "b8f7c871",
+      "en": "Everything has its limit - iron ore cannot be educated into gold."
+    },
+    {
+      "id": "b80c7302",
+      "en": "It put our energies to sleep and made visionaries of us - dreamers and indolent... It is good to begin life poor; it is good to begin life rich - these are wholesome; but to begin it prospectively rich! The man who has not experienced it cannot imagine the curse of it."
+    },
+    {
+      "id": "85e62e8a",
+      "en": "The more you explain it, the more I don't understand it."
+    },
+    {
+      "id": "4382caa2",
+      "en": "I don't give a damn for a man that can only spell a word one way."
+    },
+    {
+      "id": "9acf7971",
+      "en": "Work consists of whatever a body is obliged to do. Play consists of whatever a body is not obliged to do."
+    },
+    {
+      "id": "4056b72d",
+      "en": "A person with a new idea is a crank until the idea succeeds."
+    },
+    {
+      "id": "1feb4de9",
+      "en": "The human race is a race of cowards; and I am not only marching in that procession but carrying a banner."
+    },
+    {
+      "id": "bfef723f",
+      "en": "Water, taken in moderation, cannot hurt anybody."
+    },
+    {
+      "id": "12fbe836",
+      "en": "Necessity is the mother of taking chances."
+    },
+    {
+      "id": "b5b4389e",
+      "en": "A round man cannot be expected to fit in a square hole right away. He must have time to modify his shape."
+    },
+    {
+      "id": "e1a28c97",
+      "en": "I can live for two months on a good compliment."
+    },
+    {
+      "id": "5faa6843",
+      "en": "Thousands of geniuses live and die undiscovered - either by themselves or by others."
+    },
+    {
+      "id": "51b870fa",
+      "en": "Man was made at the end of the week's work, when God was tired."
+    },
+    {
+      "id": "bd688a99",
+      "en": "When we remember we are all mad, the mysteries disappear and life stands explained."
+    },
+    {
+      "id": "ffe0c21a",
+      "en": "Get your facts first, then you can distort them as you please."
+    },
+    {
+      "id": "303be236",
+      "en": "If the world comes to an end, I want to be in Cincinnati. Everything comes there ten years later."
+    },
+    {
+      "id": "91065b21",
+      "en": "It usually takes me more than three weeks to prepare a good impromptu speech."
+    },
+    {
+      "id": "d790f76e",
+      "en": "Age is an issue of mind over matter. If you don't mind, it doesn't matter."
+    },
+    {
+      "id": "4f299f2a",
+      "en": "She was not quite what you would call refined. She was not quite what you would call unrefined. She was the kind of person that keeps a parrot."
+    },
+    {
+      "id": "1a19faff",
+      "en": "If it's your job to eat a frog, it's best to do it first thing in the morning. And If it's your job to eat two frogs, it's best to eat the biggest one first."
+    },
+    {
+      "id": "048d4c63",
+      "en": "Principles have no real force except when one is well-fed."
+    },
+    {
+      "id": "3873068a",
+      "en": "Never put off till tomorrow what you can do the day after tomorrow."
+    },
+    {
+      "id": "c8d782a1",
+      "en": "Truth is mighty and will prevail. There is nothing wrong with this, except that it ain't so."
+    },
+    {
+      "id": "ad4aa83a",
+      "en": "In the Spring, I have counted 136 different kinds of weather inside of 24 hours."
+    },
+    {
+      "id": "0d09ecd1",
+      "en": "Loyalty to the Nation all the time, loyalty to the Government when it deserves it."
+    },
+    {
+      "id": "2733b1da",
+      "en": "Name the greatest of all inventors. Accident."
+    },
+    {
+      "id": "aef6d6bf",
+      "en": "The very ink with which history is written is merely fluid prejudice."
+    },
+    {
+      "id": "f57f43f8",
+      "en": "Let us not be too particular; it is better to have old secondhand diamonds than none at all."
+    },
+    {
+      "id": "26cfdc92",
+      "en": "What is the difference between a taxidermist and a tax collector? The taxidermist takes only your skin."
+    },
+    {
+      "id": "083080c0",
+      "en": "There are people who can do all fine and heroic things but one - keep from telling their happiness to the unhappy."
+    },
+    {
+      "id": "e4d8f617",
+      "en": "In the first place, God made idiots. That was for practice. Then he made school boards."
+    },
+    {
+      "id": "0c80d7b7",
+      "en": "It's good sportsmanship to not pick up lost golf balls while they are still rolling."
+    },
+    {
+      "id": "b26cbe86",
+      "en": "Patriot: the person who can holler the loudest without knowing what he is hollering about."
+    },
+    {
+      "id": "073364ef",
+      "en": "I have never taken any exercise, except sleeping and resting, and I never intend to take any."
+    },
+    {
+      "id": "0b6c478d",
+      "en": "Suppose you were an idiot, and suppose you were a member of Congress; but I repeat myself."
+    },
+    {
+      "id": "22cf18b2",
+      "en": "Kindness is the language which the deaf can hear and the blind can see."
+    },
+    {
+      "id": "461307fa",
+      "en": "Denial ain't just a river in Egypt."
+    },
+    {
+      "id": "fa7c89fa",
+      "en": "Against the assault of laughter, nothing can stand."
+    },
+    {
+      "id": "7a26233b",
+      "en": "When your friends begin to flatter you on how young you look, it's a sure sign you're getting old."
+    },
+    {
+      "id": "baa3caf6",
+      "en": "Don't go around saying the world owes you a living. The world owes you nothing. It was here first."
+    },
+    {
+      "id": "c9faa893",
+      "en": "What, sir, would the people of the earth be without woman? They would be scarce, sir, almighty scarce."
+    },
+    {
+      "id": "6741a9ab",
+      "en": "It were not best that we should all think alike; it is difference of opinion that makes horse races."
+    },
+    {
+      "id": "7924f5c6",
+      "en": "Good friends, good books and a sleepy conscience: this is the ideal life."
+    },
+    {
+      "id": "ffb194ec",
+      "en": "It ain't those parts of the Bible that I can't understand that bother me, it is the parts that I do understand."
+    },
+    {
+      "id": "55190f96",
+      "en": "Man will do many things to get himself loved, he will do all things to get himself envied."
+    },
+    {
+      "id": "431d20a3",
+      "en": "Wrinkles should merely indicate where smiles have been."
+    },
+    {
+      "id": "be70776d",
+      "en": "It's no wonder that truth is stranger than fiction. Fiction has to make sense."
+    },
+    {
+      "id": "55015e46",
+      "en": "I was gratified to be able to answer promptly, and I did. I said I didn't know."
+    },
+    {
+      "id": "16a92f02",
+      "en": "Loyalty to petrified opinion never yet broke a chain or freed a human soul."
+    },
+    {
+      "id": "d4a18395",
+      "en": "Cauliflower is nothing but cabbage with a college education."
+    },
+    {
+      "id": "a7184f05",
+      "en": "There is no sadder sight than a young pessimist."
+    },
+    {
+      "id": "d0708d43",
+      "en": "It is just like man's vanity and impertinence to call an animal dumb because it is dumb to his dull perceptions."
+    },
+    {
+      "id": "5acd914c",
+      "en": "A person who won't read has no advantage over one who can't read."
+    },
+    {
+      "id": "ebf30f88",
+      "en": "The educated Southerner has no use for an 'r', except at the beginning of a word."
+    },
+    {
+      "id": "dc781461",
+      "en": "Laws control the lesser man... Right conduct controls the greater one."
+    },
+    {
+      "id": "3aad0ecb",
+      "en": "George Washington, as a boy, was ignorant of the commonest accomplishments of youth. He could not even lie."
+    },
+    {
+      "id": "1e26aaf4",
+      "en": "Part of the secret of a success in life is to eat what you like and let the food fight it out inside."
+    },
+    {
+      "id": "2e01040b",
+      "en": "Go to Heaven for the climate, Hell for the company."
+    },
+    {
+      "id": "b7e9ec75",
+      "en": "The secret of getting ahead is getting started."
+    },
+    {
+      "id": "5fef8897",
+      "en": "Don't say the old lady screamed. Bring her on and let her scream."
+    },
+    {
+      "id": "75ab8086",
+      "en": "It is by the goodness of God that in our country we have those three unspeakably precious things: freedom of speech, freedom of conscience, and the prudence never to practice either of them."
+    },
+    {
+      "id": "c78b2815",
+      "en": "Only one thing is impossible for God: To find any sense in any copyright law on the planet."
+    },
+    {
+      "id": "e5830a24",
+      "en": "Grief can take care if itself, but to get the full value of a joy you must have somebody to divide it with."
+    },
+    {
+      "id": "9b1064af",
+      "en": "There is a charm about the forbidden that makes it unspeakably desirable."
+    },
+    {
+      "id": "bc55c69c",
+      "en": "Facts are stubborn, but statistics are more pliable."
+    },
+    {
+      "id": "cc9f1a4b",
+      "en": "The only way to keep your health is to eat what you don't want, drink what you don't like, and do what you'd rather not."
+    },
+    {
+      "id": "d7a44a20",
+      "en": "My mother had a great deal of trouble with me, but I think she enjoyed it."
+    },
+    {
+      "id": "8c3817d7",
+      "en": "Biographies are but the clothes and buttons of the man. The biography of the man himself cannot be written."
+    },
+    {
+      "id": "3fdb6e2d",
+      "en": "A man cannot be comfortable without his own approval."
+    },
+    {
+      "id": "18a42de1",
+      "en": "It's not the size of the dog in the fight, it's the size of the fight in the dog."
+    },
+    {
+      "id": "b79c0771",
+      "en": "Truth is stranger than fiction, but it is because Fiction is obliged to stick to possibilities; Truth isn't."
+    },
+    {
+      "id": "4def0196",
+      "en": "Few of us can stand prosperity. Another man's, I mean."
+    },
+    {
+      "id": "384d1960",
+      "en": "Patriotism is supporting your country all the time, and your government when it deserves it."
+    },
+    {
+      "id": "5482f6b6",
+      "en": "If you tell the truth, you don't have to remember anything."
+    },
+    {
+      "id": "b86feec7",
+      "en": "You can't depend on your eyes when your imagination is out of focus."
+    },
+    {
+      "id": "ce095aad",
+      "en": "Fiction is obliged to stick to possibilities. Truth isn't."
+    },
+    {
+      "id": "bd6fed6a",
+      "en": "Drag your thoughts away from your troubles... by the ears, by the heels, or any other way you can manage it."
+    },
+    {
+      "id": "1fb03473",
+      "en": "We Americans... bear the ark of liberties of the world."
+    },
+    {
+      "id": "1a60a969",
+      "en": "We are all alike, on the inside."
+    },
+    {
+      "id": "27fde20c",
+      "en": "Good breeding consists in concealing how much we think of ourselves and how little we think of the other person."
+    },
+    {
+      "id": "69ce7a17",
+      "en": "It is curious that physical courage should be so common in the world and moral courage so rare."
+    },
+    {
+      "id": "7c0934a6",
+      "en": "Truth is the most valuable thing we have. Let us economize it."
+    },
+    {
+      "id": "f42fa1fd",
+      "en": "Martyrdom covers a multitude of sins."
+    },
+    {
+      "id": "a8c51f39",
+      "en": "The rule is perfect: in all matters of opinion our adversaries are insane."
+    },
+    {
+      "id": "ed2ef2c3",
+      "en": "It is easier to stay out than get out."
+    },
+    {
+      "id": "6d61dceb",
+      "en": "When you fish for love, bait with your heart, not your brain."
+    },
+    {
+      "id": "4c1b201e",
+      "en": "Noise proves nothing. Often a hen who has merely laid an egg cackles as if she laid an asteroid."
+    },
+    {
+      "id": "a096fa8f",
+      "en": "Repartee is something we think of twenty-four hours too late."
+    },
+    {
+      "id": "9cb45eaf",
+      "en": "Golf is a good walk spoiled."
+    },
+    {
+      "id": "0075b8be",
+      "en": "I came in with Halley's Comet in 1835. It is coming again next year, and I expect to go out with it. It will be the greatest disappointment of my life if I don't go out with Halley's Comet. The Almighty has said, no doubt: 'Now here are these two unaccountable freaks; they came in together, they must go out together.'"
+    },
+    {
+      "id": "a0e20a87",
+      "en": "The Public is merely a multiplied 'me.'"
+    },
+    {
+      "id": "71668dd3",
+      "en": "The right word may be effective, but no word was ever as effective as a rightly timed pause."
+    },
+    {
+      "id": "d3105827",
+      "en": "Prosperity is the best protector of principle."
+    },
+    {
+      "id": "78180a50",
+      "en": "Be careless in your dress if you must, but keep a tidy soul."
+    },
+    {
+      "id": "910b8d2b",
+      "en": "Do the thing you fear most and the death of fear is certain."
+    },
+    {
+      "id": "54443a62",
+      "en": "Forgiveness is the fragrance that the violet sheds on the heel that has crushed it."
+    },
+    {
+      "id": "205ac19c",
+      "en": "Training is everything. The peach was once a bitter almond; cauliflower is nothing but cabbage with a college education."
+    },
+    {
+      "id": "231adcaa",
+      "en": "A man who carries a cat by the tail learns something he can learn in no other way."
+    },
+    {
+      "id": "27ef87e8",
+      "en": "As an example to others, and not that I care for moderation myself, it has always been my rule never to smoke when asleep, and never to refrain from smoking when awake."
+    },
+    {
+      "id": "5a9cf739",
+      "en": "The man who does not read good books has no advantage over the man who cannot read them."
+    },
+    {
+      "id": "7913cf7a",
+      "en": "A man is never more truthful than when he acknowledges himself a liar."
+    },
+    {
+      "id": "d2719f9a",
+      "en": "The most interesting information comes from children, for they tell all they know and then stop."
+    },
+    {
+      "id": "5278d365",
+      "en": "When red-haired people are above a certain social grade their hair is auburn."
+    },
+    {
+      "id": "8de91407",
+      "en": "When I was younger I could remember anything, whether it happened or not."
+    },
+    {
+      "id": "36b2ecfb",
+      "en": "We have the best government that money can buy."
+    },
+    {
+      "id": "70473f3c",
+      "en": "Why is it that we rejoice at a birth and grieve at a funeral? It is because we are not the person involved."
+    },
+    {
+      "id": "f6f2040d",
+      "en": "Few things are harder to put up with than the annoyance of a good example."
+    },
+    {
+      "id": "1c2b293d",
+      "en": "Work is a necessary evil to be avoided."
+    },
+    {
+      "id": "53fd7eba",
+      "en": "By trying we can easily learn to endure adversity. Another man's, I mean."
+    },
+    {
+      "id": "18076bcc",
+      "en": "Action speaks louder than words but not nearly as often."
+    },
+    {
+      "id": "2e6f508b",
+      "en": "There are times when one would like to hang the whole human race, and finish the farce."
+    },
+    {
+      "id": "6262f30a",
+      "en": "Sometimes too much to drink is barely enough."
+    },
+    {
+      "id": "06995351",
+      "en": "When a person cannot deceive himself the chances are against his being able to deceive other people."
+    },
+    {
+      "id": "a358ba99",
+      "en": "The human race has one really effective weapon, and that is laughter."
+    },
+    {
+      "id": "86110e0a",
+      "en": "Climate is what we expect, weather is what we get."
+    },
+    {
+      "id": "76c4ce10",
+      "en": "The man who is a pessimist before 48 knows too much; if he is an optimist after it, he knows too little."
+    },
+    {
+      "id": "e3343e1d",
+      "en": "It is better to take what does not belong to you than to let it lie around neglected."
+    },
+    {
+      "id": "6bbe4ba8",
+      "en": "My books are like water; those of the great geniuses are wine. (Fortunately) everybody drinks water."
+    },
+    {
+      "id": "545b30c1",
+      "en": "The difference between the almost right word and the right word is really a large matter - 'tis the difference between the lightning-bug and the lightning."
+    },
+    {
+      "id": "6d7389bc",
+      "en": "Nothing so needs reforming as other people's habits."
+    },
+    {
+      "id": "392b772e",
+      "en": "He is now rising from affluence to poverty."
+    },
+    {
+      "id": "db32fa12",
+      "en": "The fear of death follows from the fear of life. A man who lives fully is prepared to die at any time."
+    },
+    {
+      "id": "39ef6d9b",
+      "en": "If you hold a cat by the tail you learn things you cannot learn any other way."
+    },
+    {
+      "id": "7ac76bea",
+      "en": "If man could be crossed with the cat it would improve man, but deteriorate the cat."
+    },
+    {
+      "id": "6dfbbaaa",
+      "en": "The wit knows that his place is at the tail of a procession."
+    },
+    {
+      "id": "e8cadb81",
+      "en": "Wit is the sudden marriage of ideas which, before their union, were not perceived to have any relation."
+    },
+    {
+      "id": "d82ae037",
+      "en": "Only kings, presidents, editors, and people with tapeworms have the right to use the editorial 'we.'"
+    },
+    {
+      "id": "24a90577",
+      "en": "Substitute 'damn' every time you're inclined to write 'very'; your editor will delete it and the writing will be just as it should be."
+    },
+    {
+      "id": "3154a617",
+      "en": "There are basically two types of people. People who accomplish things, and people who claim to have accomplished things. The first group is less crowded."
+    },
+    {
+      "id": "5e5e7b4c",
+      "en": "It ain't what you don't know that gets you into trouble. It's what you know for sure that just ain't so."
+    },
+    {
+      "id": "e74afc92",
+      "en": "The public is the only critic whose opinion is worth anything at all."
+    },
+    {
+      "id": "817b1607",
+      "en": "To refuse awards is another way of accepting them with more noise than is normal."
+    },
+    {
+      "id": "9fa74c1d",
+      "en": "Life would be infinitely happier if we could only be born at the age of eighty and gradually approach eighteen."
+    },
+    {
+      "id": "50925770",
+      "en": "The best way to cheer yourself up is to try to cheer somebody else up."
+    },
+    {
+      "id": "f29b38ca",
+      "en": "In 'Huckleberry Finn,' I have drawn Tom Blankenship exactly as he was. He was ignorant, unwashed, insufficiently fed; but he had as good a heart as ever any boy had."
+    },
+    {
+      "id": "c3506372",
+      "en": "Optimist: day dreamer more elegantly spelled."
+    },
+    {
+      "id": "b54e7531",
+      "en": "Do the right thing. It will gratify some people and astonish the rest."
+    },
+    {
+      "id": "9f8a6067",
+      "en": "Apparently there is nothing that cannot happen today."
+    },
+    {
+      "id": "a9b45976",
+      "en": "Be careful about reading health books. You may die of a misprint."
+    },
+    {
+      "id": "828850bd",
+      "en": "Clothes make the man. Naked people have little or no influence on society."
+    },
+    {
+      "id": "16303ac1",
+      "en": "The main difference between a cat and a lie is that a cat only has nine lives."
+    },
+    {
+      "id": "558d5083",
+      "en": "God made the Idiot for practice, and then He made the School Board."
+    },
+    {
+      "id": "f70a6988",
+      "en": "There are lies, damned lies and statistics."
+    },
+    {
+      "id": "169a5755",
+      "en": "Buy land, they're not making it anymore."
+    },
+    {
+      "id": "8ab1c3c5",
+      "en": "When people do not respect us we are sharply offended; yet in his private heart no man much respects himself."
+    },
+    {
+      "id": "500efe14",
+      "en": "There are several good protections against temptation, but the surest is cowardice."
+    },
+    {
+      "id": "a6ffdafb",
+      "en": "No sinner is ever saved after the first twenty minutes of a sermon."
+    },
+    {
+      "id": "bd250638",
+      "en": "All emotion is involuntary when genuine."
+    },
+    {
+      "id": "cfeb1b38",
+      "en": "There is no distinctly American criminal class - except Congress."
+    },
+    {
+      "id": "e6882226",
+      "en": "I have been complimented many times and they always embarrass me; I always feel that they have not said enough."
+    },
+    {
+      "id": "7823decf",
+      "en": "I was seldom able to see an opportunity until it had ceased to be one."
+    },
+    {
+      "id": "faf488d0",
+      "en": "Anger is an acid that can do more harm to the vessel in which it is stored than to anything on which it is poured."
+    },
+    {
+      "id": "437a533c",
+      "en": "Let us make a special effort to stop communicating with each other, so we can have some conversation."
+    },
+    {
+      "id": "06b0fb7e",
+      "en": "Civilization is the limitless multiplication of unnecessary necessities."
+    },
+    {
+      "id": "40f25cdb",
+      "en": "The trouble ain't that there is too many fools, but that the lightning ain't distributed right."
+    },
+    {
+      "id": "1961a572",
+      "en": "The secret source of humor is not joy but sorrow; there is no humor in Heaven."
+    },
+    {
+      "id": "a8573477",
+      "en": "Familiarity breeds contempt - and children."
+    },
+    {
+      "id": "6929d13c",
+      "en": "I am an old man and have known a great many troubles, but most of them never happened."
+    },
+    {
+      "id": "93801010",
+      "en": "Many a small thing has been made large by the right kind of advertising."
+    }
+  ]
+}

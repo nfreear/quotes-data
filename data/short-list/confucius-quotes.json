@@ -1,0 +1,362 @@
+{
+  "name": "Confucius",
+  "image": "Confucius",
+  "quotes": [
+    {
+      "id": "d481c7b4",
+      "en": "To practice five things under all circumstances constitutes perfect virtue; these five are gravity, generosity of soul, sincerity, earnestness, and kindness."
+    },
+    {
+      "id": "d1b3cb59",
+      "en": "Better a diamond with a flaw than a pebble without."
+    },
+    {
+      "id": "e11e01e8",
+      "en": "In a country well governed, poverty is something to be ashamed of. In a country badly governed, wealth is something to be ashamed of."
+    },
+    {
+      "id": "a7cc36ab",
+      "en": "The superior man acts before he speaks, and afterwards speaks according to his action."
+    },
+    {
+      "id": "2837835e",
+      "en": "Success depends upon previous preparation, and without such preparation there is sure to be failure."
+    },
+    {
+      "id": "9ee3692f",
+      "en": "The will to win, the desire to succeed, the urge to reach your full potential... these are the keys that will unlock the door to personal excellence."
+    },
+    {
+      "id": "361f3044",
+      "en": "I am not one who was born in the possession of knowledge; I am one who is fond of antiquity, and earnest in seeking it there."
+    },
+    {
+      "id": "8b611789",
+      "en": "The strength of a nation derives from the integrity of the home."
+    },
+    {
+      "id": "0ba99c56",
+      "en": "Heaven means to be one with God."
+    },
+    {
+      "id": "8feea738",
+      "en": "A youth, when at home, should be filial and, abroad, respectful to his elders. He should be earnest and truthful. He should overflow in love to all and cultivate the friendship of the good. When he has time and opportunity, after the performance of these things, he should employ them in polite studies."
+    },
+    {
+      "id": "07165f44",
+      "en": "A superior man is modest in his speech, but exceeds in his actions."
+    },
+    {
+      "id": "741200a9",
+      "en": "To those whose talents are above mediocrity, the highest subjects may be announced. To those who are below mediocrity, the highest subjects may not be announced."
+    },
+    {
+      "id": "e9eec9f1",
+      "en": "I will not be concerned at other men's not knowing me; I will be concerned at my own want of ability."
+    },
+    {
+      "id": "435ca34f",
+      "en": "An oppressive government is more to be feared than a tiger."
+    },
+    {
+      "id": "a5930466",
+      "en": "If I am walking with two other men, each of them will serve as my teacher. I will pick out the good points of the one and imitate them, and the bad points of the other and correct them in myself."
+    },
+    {
+      "id": "746b2125",
+      "en": "The superior man does not, even for the space of a single meal, act contrary to virtue. In moments of haste, he cleaves to it. In seasons of danger, he cleaves to it."
+    },
+    {
+      "id": "d18f9b5e",
+      "en": "Virtue is not left to stand alone. He who practices it will have neighbors."
+    },
+    {
+      "id": "0da87216",
+      "en": "Study the past, if you would divine the future."
+    },
+    {
+      "id": "e71119ab",
+      "en": "Choose a job you love, and you will never have to work a day in your life."
+    },
+    {
+      "id": "38943f65",
+      "en": "Go before the people with your example, and be laborious in their affairs."
+    },
+    {
+      "id": "e47928c2",
+      "en": "When you know a thing, to hold that you know it, and when you do not know a thing, to allow that you do not know it - this is knowledge."
+    },
+    {
+      "id": "8065779a",
+      "en": "When you are laboring for others let it be with the same zeal as if it were for yourself."
+    },
+    {
+      "id": "9c6558ec",
+      "en": "Without feelings of respect, what is there to distinguish men from beasts?"
+    },
+    {
+      "id": "c91cdd09",
+      "en": "To rule a country of a thousand chariots, there must be reverent attention to business, and sincerity; economy in expenditure, and love for men; and the employment of the people at the proper seasons."
+    },
+    {
+      "id": "065bdb4a",
+      "en": "Death and life have their determined appointments; riches and honors depend upon heaven."
+    },
+    {
+      "id": "137d3427",
+      "en": "It is easy to hate and it is difficult to love. This is how the whole scheme of things works. All good things are difficult to achieve; and bad things are very easy to get."
+    },
+    {
+      "id": "ac7368ed",
+      "en": "Silence is a true friend who never betrays."
+    },
+    {
+      "id": "58288dec",
+      "en": "To see what is right and not to do it is want of courage, or of principle."
+    },
+    {
+      "id": "a51c1bd1",
+      "en": "How to play music may be known. At the commencement of the piece, all the parts should sound together. As it proceeds, they should be in harmony while severally distinct and flowing without break, and thus on to the conclusion."
+    },
+    {
+      "id": "478a0209",
+      "en": "He who learns but does not think, is lost! He who thinks but does not learn is in great danger."
+    },
+    {
+      "id": "2ba93e1a",
+      "en": "The superior man thinks always of virtue; the common man thinks of comfort."
+    },
+    {
+      "id": "8f9b8ff9",
+      "en": "He who speaks without modesty will find it difficult to make his words good."
+    },
+    {
+      "id": "6d454bf4",
+      "en": "To go beyond is as wrong as to fall short."
+    },
+    {
+      "id": "e4d11591",
+      "en": "Ability will never catch up with the demand for it."
+    },
+    {
+      "id": "4d223baa",
+      "en": "If you think in terms of a year, plant a seed; if in terms of ten years, plant trees; if in terms of 100 years, teach the people."
+    },
+    {
+      "id": "7032e970",
+      "en": "It is more shameful to distrust our friends than to be deceived by them."
+    },
+    {
+      "id": "b61fd0d8",
+      "en": "To see the right and not to do it is cowardice."
+    },
+    {
+      "id": "71c17cfe",
+      "en": "The faults of a superior person are like the sun and moon. They have their faults, and everyone sees them; they change and everyone looks up to them."
+    },
+    {
+      "id": "3e5bc97a",
+      "en": "The superior man is distressed by the limitations of his ability; he is not distressed by the fact that men do not recognize the ability that he has."
+    },
+    {
+      "id": "42b1f9a6",
+      "en": "Only the wisest and stupidest of men never change."
+    },
+    {
+      "id": "467f4d34",
+      "en": "Wisdom, compassion, and courage are the three universally recognized moral qualities of men."
+    },
+    {
+      "id": "1804e52e",
+      "en": "Faced with what is right, to leave it undone shows a lack of courage."
+    },
+    {
+      "id": "ea993ec4",
+      "en": "When we see persons of worth, we should think of equaling them; when we see persons of a contrary character, we should turn inwards and examine ourselves."
+    },
+    {
+      "id": "a268a7d1",
+      "en": "Virtuous people often revenge themselves for the constraints to which they submit by the boredom which they inspire."
+    },
+    {
+      "id": "1e25f6f3",
+      "en": "What you do not want done to yourself, do not do to others."
+    },
+    {
+      "id": "85590ad0",
+      "en": "By three methods we may learn wisdom: First, by reflection, which is noblest; Second, by imitation, which is easiest; and third by experience, which is the bitterest."
+    },
+    {
+      "id": "b8eda490",
+      "en": "Everything has beauty, but not everyone sees it."
+    },
+    {
+      "id": "368df2e7",
+      "en": "The book salesman should be honored because he brings to our attention, as a rule, the very books we need most and neglect most."
+    },
+    {
+      "id": "638ca159",
+      "en": "You cannot open a book without learning something."
+    },
+    {
+      "id": "525b369d",
+      "en": "To know what you know and what you do not know, that is true knowledge."
+    },
+    {
+      "id": "64e1b20a",
+      "en": "He who acts with a constant view to his own advantage will be much murmured against."
+    },
+    {
+      "id": "8f500bb3",
+      "en": "To be wronged is nothing unless you continue to remember it."
+    },
+    {
+      "id": "f77e0322",
+      "en": "The superior man makes the difficulty to be overcome his first interest; success only comes later."
+    },
+    {
+      "id": "45bb92ba",
+      "en": "Old age, believe me, is a good and pleasant thing. It is true you are gently shouldered off the stage, but then you are given such a comfortable front stall as spectator."
+    },
+    {
+      "id": "7890dd14",
+      "en": "When anger rises, think of the consequences."
+    },
+    {
+      "id": "187d3b74",
+      "en": "We should feel sorrow, but not sink under its oppression."
+    },
+    {
+      "id": "312f9f2d",
+      "en": "When it is obvious that the goals cannot be reached, don't adjust the goals, adjust the action steps."
+    },
+    {
+      "id": "3373c79a",
+      "en": "A gentleman would be ashamed should his deeds not match his words."
+    },
+    {
+      "id": "bedfbeb0",
+      "en": "Our greatest glory is not in never falling, but in rising every time we fall."
+    },
+    {
+      "id": "c4dda613",
+      "en": "Humility is the solid foundation of all virtues."
+    },
+    {
+      "id": "95556ade",
+      "en": "Wherever you go, go with all your heart."
+    },
+    {
+      "id": "a7a58e61",
+      "en": "The superior man understands what is right; the inferior man understands what will sell."
+    },
+    {
+      "id": "0cc25b2a",
+      "en": "Look at the means which a man employs, consider his motives, observe his pleasures. A man simply cannot conceal himself!"
+    },
+    {
+      "id": "987aa5cf",
+      "en": "I hear and I forget. I see and I remember. I do and I understand."
+    },
+    {
+      "id": "3a7577fe",
+      "en": "Never contract friendship with a man that is not better than thyself."
+    },
+    {
+      "id": "8a632d26",
+      "en": "The object of the superior man is truth."
+    },
+    {
+      "id": "4adee13b",
+      "en": "He who exercises government by means of his virtue may be compared to the north polar star, which keeps its place and all the stars turn towards it."
+    },
+    {
+      "id": "a5a3d7fb",
+      "en": "If you look into your own heart, and you find nothing wrong there, what is there to worry about? What is there to fear?"
+    },
+    {
+      "id": "366ddbd6",
+      "en": "If some years were added to my life, I would give fifty to the study of the Yi, and then I might come to be without great faults."
+    },
+    {
+      "id": "ba6e26c4",
+      "en": "There are three methods to gaining wisdom. The first is reflection, which is the highest. The second is limitation, which is the easiest. The third is experience, which is the bitterest."
+    },
+    {
+      "id": "5e57746f",
+      "en": "To see and listen to the wicked is already the beginning of wickedness."
+    },
+    {
+      "id": "5cdc578b",
+      "en": "Speak the truth, do not yield to anger; give, if thou art asked for little; by these three steps thou wilt go near the gods."
+    },
+    {
+      "id": "24ca07a8",
+      "en": "The more man meditates upon good thoughts, the better will be his world and the world at large."
+    },
+    {
+      "id": "1d8e55f3",
+      "en": "I want you to be everything that's you, deep at the center of your being."
+    },
+    {
+      "id": "bd1d30ed",
+      "en": "Learning without thought is labor lost; thought without learning is perilous."
+    },
+    {
+      "id": "9a3661ec",
+      "en": "Real knowledge is to know the extent of one's ignorance."
+    },
+    {
+      "id": "9dbd3eea",
+      "en": "The superior man is modest in his speech, but exceeds in his actions."
+    },
+    {
+      "id": "ecfbc0f7",
+      "en": "The cautious seldom err."
+    },
+    {
+      "id": "b3f06682",
+      "en": "Life is really simple, but we insist on making it complicated."
+    },
+    {
+      "id": "e2d40736",
+      "en": "Never give a sword to a man who can't dance."
+    },
+    {
+      "id": "ed54e31c",
+      "en": "If we don't know life, how can we know death?"
+    },
+    {
+      "id": "e7477e09",
+      "en": "The expectations of life depend upon diligence; the mechanic that would perfect his work must first sharpen his tools."
+    },
+    {
+      "id": "bd1c2eaa",
+      "en": "It does not matter how slowly you go as long as you do not stop."
+    },
+    {
+      "id": "c5047a4c",
+      "en": "Instead of being concerned that you have no office, be concerned to think how you may fit yourself for office. Instead of being concerned that you are not known, seek to be worthy of being known."
+    },
+    {
+      "id": "ca79ab49",
+      "en": "I hear, I know. I see, I remember. I do, I understand."
+    },
+    {
+      "id": "98faefcd",
+      "en": "Look not at what is contrary to propriety; listen not to what is contrary to propriety; speak not what is contrary to propriety; make no movement which is contrary to propriety."
+    },
+    {
+      "id": "c629d774",
+      "en": "The firm, the enduring, the simple, and the modest are near to virtue."
+    },
+    {
+      "id": "3296a852",
+      "en": "They must often change, who would be constant in happiness or wisdom."
+    },
+    {
+      "id": "28407404",
+      "en": "Do not impose on others what you yourself do not desire."
+    }
+  ]
+}

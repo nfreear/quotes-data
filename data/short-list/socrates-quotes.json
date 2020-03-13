@@ -1,0 +1,178 @@
+{
+  "name": "Socrates",
+  "image": "Socrates",
+  "quotes": [
+    {
+      "id": "ff7186ed",
+      "en": "It is not living that matters, but living rightly."
+    },
+    {
+      "id": "a3e03123",
+      "en": "Let him that would move the world first move himself."
+    },
+    {
+      "id": "baaca999",
+      "en": "Not life, but good life, is to be chiefly valued."
+    },
+    {
+      "id": "5e985c51",
+      "en": "True knowledge exists in knowing that you know nothing."
+    },
+    {
+      "id": "c9008e35",
+      "en": "Beauty is the bait which with delight allures man to enlarge his kind."
+    },
+    {
+      "id": "5312722e",
+      "en": "A system of morality which is based on relative emotional values is a mere illusion, a thoroughly vulgar conception which has nothing sound in it and nothing true."
+    },
+    {
+      "id": "3c0c0fcd",
+      "en": "From the deepest desires often come the deadliest hate."
+    },
+    {
+      "id": "f5247800",
+      "en": "I am the wisest man alive, for I know one thing, and that is that I know nothing."
+    },
+    {
+      "id": "d5f86420",
+      "en": "The end of life is to be like God, and the soul following God will be like Him."
+    },
+    {
+      "id": "74ba7210",
+      "en": "I know nothing except the fact of my ignorance."
+    },
+    {
+      "id": "56ab2759",
+      "en": "Where there is reverence there is fear, but there is not reverence everywhere that there is fear, because fear presumably has a wider extension than reverence."
+    },
+    {
+      "id": "8b24f8ba",
+      "en": "I only wish that ordinary people had an unlimited capacity for doing harm; then they might have an unlimited power for doing good."
+    },
+    {
+      "id": "5627bcf7",
+      "en": "As to marriage or celibacy, let a man take which course he will, he will be sure to repent."
+    },
+    {
+      "id": "e7853cc1",
+      "en": "Wisdom begins in wonder."
+    },
+    {
+      "id": "d0ab50da",
+      "en": "The unexamined life is not worth living."
+    },
+    {
+      "id": "51e029bb",
+      "en": "If a man is proud of his wealth, he should not be praised until it is known how he employs it."
+    },
+    {
+      "id": "e15c076b",
+      "en": "Worthless people live only to eat and drink; people of worth eat and drink only to live."
+    },
+    {
+      "id": "0f6f0b48",
+      "en": "I decided that it was not wisdom that enabled poets to write their poetry, but a kind of instinct or inspiration, such as you find in seers and prophets who deliver all their sublime messages without knowing in the least what they mean."
+    },
+    {
+      "id": "967091b9",
+      "en": "Beware the barrenness of a busy life."
+    },
+    {
+      "id": "f47fa4c5",
+      "en": "Once made equal to man, woman becomes his superior."
+    },
+    {
+      "id": "4bc546c2",
+      "en": "Ordinary people seem not to realize that those who really apply themselves in the right way to philosophy are directly and of their own accord preparing themselves for dying and death."
+    },
+    {
+      "id": "600a0c27",
+      "en": "If all misfortunes were laid in one common heap whence everyone must take an equal portion, most people would be contented to take their own and depart."
+    },
+    {
+      "id": "6aedd0de",
+      "en": "True wisdom comes to each of us when we realize how little we understand about life, ourselves, and the world around us."
+    },
+    {
+      "id": "780dc91d",
+      "en": "Beauty is a short-lived tyranny."
+    },
+    {
+      "id": "4d44f49a",
+      "en": "Be slow to fall into friendship; but when thou art in, continue firm and constant."
+    },
+    {
+      "id": "0d49de4d",
+      "en": "The poets are only the interpreters of the gods."
+    },
+    {
+      "id": "062cab0c",
+      "en": "Employ your time in improving yourself by other men's writings, so that you shall gain easily what others have labored hard for."
+    },
+    {
+      "id": "da52b5cd",
+      "en": "Be as you wish to seem."
+    },
+    {
+      "id": "cd512683",
+      "en": "To know, is to know that you know nothing. That is the meaning of true knowledge."
+    },
+    {
+      "id": "469e7e37",
+      "en": "He is richest who is content with the least, for content is the wealth of nature."
+    },
+    {
+      "id": "29586a4b",
+      "en": "I know that I am intelligent, because I know that I know nothing."
+    },
+    {
+      "id": "5aaf09a3",
+      "en": "The only true wisdom is in knowing you know nothing."
+    },
+    {
+      "id": "6fc66f75",
+      "en": "All men's souls are immortal, but the souls of the righteous are immortal and divine."
+    },
+    {
+      "id": "42f6a5b1",
+      "en": "He is a man of courage who does not run away, but remains at his post and fights against the enemy."
+    },
+    {
+      "id": "3f92a5f6",
+      "en": "False words are not only evil in themselves, but they infect the soul with evil."
+    },
+    {
+      "id": "08b604b1",
+      "en": "An honest man is always a child."
+    },
+    {
+      "id": "5813c2cc",
+      "en": "By all means, marry. If you get a good wife, you'll become happy; if you get a bad one, you'll become a philosopher."
+    },
+    {
+      "id": "933b21d1",
+      "en": "Death may be the greatest of all human blessings."
+    },
+    {
+      "id": "0c208d97",
+      "en": "Our prayers should be for blessings in general, for God knows best what is good for us."
+    },
+    {
+      "id": "afa40eaf",
+      "en": "The greatest way to live with honor in this world is to be what we pretend to be."
+    },
+    {
+      "id": "5a7e27eb",
+      "en": "I was really too honest a man to be a politician and live."
+    },
+    {
+      "id": "be37c7b3",
+      "en": "One who is injured ought not to return the injury, for on no account can it be right to do an injustice; and it is not right to return an injury, or to do evil to any man, however much we have suffered from him."
+    },
+    {
+      "id": "966cbca6",
+      "en": "The way to gain a good reputation is to endeavor to be what you desire to appear."
+    }
+  ]
+}

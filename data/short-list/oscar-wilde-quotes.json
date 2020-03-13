@@ -1,0 +1,930 @@
+{
+  "name": "Oscar Wilde",
+  "image": "Oscar-Wilde",
+  "quotes": [
+    {
+      "id": "3c884567",
+      "en": "A thing is not necessarily true because a man dies for it."
+    },
+    {
+      "id": "c874c1ff",
+      "en": "America is the only country that went from barbarism to decadence without civilization in between."
+    },
+    {
+      "id": "28297ffd",
+      "en": "Perhaps, after all, America never has been discovered. I myself would say that it had merely been detected."
+    },
+    {
+      "id": "b3c2db08",
+      "en": "One's real life is so often the life that one does not lead."
+    },
+    {
+      "id": "23f9439d",
+      "en": "I always pass on good advice. It is the only thing to do with it. It is never of any use to oneself."
+    },
+    {
+      "id": "cd259bea",
+      "en": "I would have a workshop attached to every school, and one hour a day given up to the teaching of simple decorative arts. It would be a golden hour to the children."
+    },
+    {
+      "id": "54b95cb0",
+      "en": "Democracy means simply the bludgeoning of the people by the people for the people."
+    },
+    {
+      "id": "7295506a",
+      "en": "It is absurd to divide people into good and bad. People are either charming or tedious."
+    },
+    {
+      "id": "9890e3a2",
+      "en": "I have never given adoration to any body except myself."
+    },
+    {
+      "id": "9382ad1c",
+      "en": "Man is least himself when he talks in his own person. Give him a mask, and he will tell you the truth."
+    },
+    {
+      "id": "63463f24",
+      "en": "Perhaps one of the most difficult things for us to do is to choose a notable and joyous dress for men. There would be more joy in life if we were to accustom ourselves to use all the beautiful colours we can in fashioning our own clothes."
+    },
+    {
+      "id": "2c2a85e7",
+      "en": "It is what you read when you don't have to that determines what you will be when you can't help it."
+    },
+    {
+      "id": "1fa7a4ef",
+      "en": "How marriage ruins a man! It is as demoralizing as cigarettes, and far more expensive."
+    },
+    {
+      "id": "319150e7",
+      "en": "There is no such thing as a moral or an immoral book. Books are well written, or badly written."
+    },
+    {
+      "id": "21e6c2b8",
+      "en": "There is nothing in the world like the devotion of a married woman. It is a thing no married man knows anything about."
+    },
+    {
+      "id": "02b2588f",
+      "en": "Why was I born with such contemporaries?"
+    },
+    {
+      "id": "89372412",
+      "en": "Whenever people agree with me I always feel I must be wrong."
+    },
+    {
+      "id": "58bdaea2",
+      "en": "The only difference between the saint and the sinner is that every saint has a past, and every sinner has a future."
+    },
+    {
+      "id": "fe5f5a1f",
+      "en": "Anybody can be good in the country. There are no temptations there."
+    },
+    {
+      "id": "347957c2",
+      "en": "Men marry because they are tired; women, because they are curious; both are disappointed."
+    },
+    {
+      "id": "b652f942",
+      "en": "In judging of a beautiful statue, the aesthetic faculty is absolutely and completely gratified by the splendid curves of those marble lips that are dumb to our complaint, the noble modelling of those limbs that are powerless to help us."
+    },
+    {
+      "id": "284e65e0",
+      "en": "A poet can survive everything but a misprint."
+    },
+    {
+      "id": "f336c91d",
+      "en": "Seriousness is the only refuge of the shallow."
+    },
+    {
+      "id": "cb1a0ea1",
+      "en": "There should be a law that no ordinary newspaper should be allowed to write about art. The harm they do by their foolish and random writing it would be impossible to overestimate - not to the artist, but to the public, blinding them to all but harming the artist not at all."
+    },
+    {
+      "id": "29fd18bf",
+      "en": "The world is a stage, but the play is badly cast."
+    },
+    {
+      "id": "0cf5715c",
+      "en": "Women are made to be loved, not understood."
+    },
+    {
+      "id": "ca810a3a",
+      "en": "There are only two kinds of people who are really fascinating - people who know absolutely everything, and people who know absolutely nothing."
+    },
+    {
+      "id": "ce940053",
+      "en": "Romantic art deals with the exception and with the individual. Good people, belonging as they do to the normal, and so, commonplace type, are artistically uninteresting."
+    },
+    {
+      "id": "561adccf",
+      "en": "The function of the artist is to invent, not to chronicle."
+    },
+    {
+      "id": "32d219a0",
+      "en": "Biography lends to death a new terror."
+    },
+    {
+      "id": "14d267ef",
+      "en": "There is only one thing in life worse than being talked about, and that is not being talked about."
+    },
+    {
+      "id": "e3b2ce90",
+      "en": "Experience is one thing you can't get for nothing."
+    },
+    {
+      "id": "9b8c868e",
+      "en": "Our ambition should be to rule ourselves, the true kingdom for each one of us; and true progress is to know more, and be more, and to do more."
+    },
+    {
+      "id": "7c1fc893",
+      "en": "Between men and women there is no friendship possible. There is passion, enmity, worship, love, but no friendship."
+    },
+    {
+      "id": "5c0633a6",
+      "en": "If one could only teach the English how to talk, and the Irish how to listen, society here would be quite civilized."
+    },
+    {
+      "id": "4cb9d06a",
+      "en": "A gentleman is one who never hurts anyone's feelings unintentionally."
+    },
+    {
+      "id": "878b177a",
+      "en": "The imagination imitates. It is the critical spirit that creates."
+    },
+    {
+      "id": "c36c8011",
+      "en": "I am the only person in the world I should like to know thoroughly."
+    },
+    {
+      "id": "f4236ef1",
+      "en": "Man can believe the impossible, but man can never believe the improbable."
+    },
+    {
+      "id": "ebc09dbe",
+      "en": "I find it harder and harder every day to live up to my blue china."
+    },
+    {
+      "id": "c201c109",
+      "en": "It is through art, and through art only, that we can realise our perfection."
+    },
+    {
+      "id": "3e075813",
+      "en": "If you are not too long, I will wait here for you all my life."
+    },
+    {
+      "id": "ede22d95",
+      "en": "There is nothing so difficult to marry as a large nose."
+    },
+    {
+      "id": "22bf9ad7",
+      "en": "Literature must rest always on a principle, and temporal considerations are no principle at all. For, to the poet, all times and places are one; the stuff he deals with is eternal and eternally the same: no theme is inept, no past or present preferable."
+    },
+    {
+      "id": "52a9b0e6",
+      "en": "I have the simplest tastes. I am always satisfied with the best."
+    },
+    {
+      "id": "70b5d81f",
+      "en": "One should always be in love. That is the reason one should never marry."
+    },
+    {
+      "id": "9039fe16",
+      "en": "One should always play fairly when one has the winning cards."
+    },
+    {
+      "id": "73381592",
+      "en": "Bad people are, from the point of view of art, fascinating studies. They represent colour, variety and strangeness. Good people exasperate one's reason; bad people stir one's imagination."
+    },
+    {
+      "id": "ea755486",
+      "en": "All women become like their mothers. That is their tragedy. No man does. That's his."
+    },
+    {
+      "id": "bb00381d",
+      "en": "In its primary aspect, a painting has no more spiritual message than an exquisite fragment of Venetian glass. The channels by which all noble and imaginative work in painting should touch the soul are not those of the truths of lives."
+    },
+    {
+      "id": "dd16fe38",
+      "en": "Some cause happiness wherever they go; others whenever they go."
+    },
+    {
+      "id": "f6af6362",
+      "en": "Who, being loved, is poor?"
+    },
+    {
+      "id": "0cea06de",
+      "en": "Fathers should be neither seen nor heard. That is the only proper basis for family life."
+    },
+    {
+      "id": "b84a95b1",
+      "en": "It is only the modern that ever becomes old-fashioned."
+    },
+    {
+      "id": "c97b0507",
+      "en": "While we look to the dramatist to give romance to realism, we ask of the actor to give realism to romance."
+    },
+    {
+      "id": "30125caf",
+      "en": "Those who find ugly meanings in beautiful things are corrupt without being charming. This is a fault."
+    },
+    {
+      "id": "86e405ff",
+      "en": "If a work of art is rich and vital and complete, those who have artistic instincts will see its beauty, and those to whom ethics appeal more strongly than aesthetics will see its moral lesson. It will fill the cowardly with terror, and the unclean will see in it their own shame."
+    },
+    {
+      "id": "84c26b7f",
+      "en": "The world has grown suspicious of anything that looks like a happily married life."
+    },
+    {
+      "id": "6048398a",
+      "en": "If there was less sympathy in the world, there would be less trouble in the world."
+    },
+    {
+      "id": "8577f89d",
+      "en": "The critic has to educate the public; the artist has to educate the critic."
+    },
+    {
+      "id": "80d58391",
+      "en": "There is no sin except stupidity."
+    },
+    {
+      "id": "a1860e2c",
+      "en": "All art is at once surface and symbol. Those who go beneath the surface do so at their peril. Those who read the symbol do so at their peril. It is the spectator, and not life, that art really mirrors. Diversity of opinion about a work of art shows that the work is new, complex and vital."
+    },
+    {
+      "id": "3d574b67",
+      "en": "A little sincerity is a dangerous thing, and a great deal of it is absolutely fatal."
+    },
+    {
+      "id": "57831a37",
+      "en": "A man's face is his autobiography. A woman's face is her work of fiction."
+    },
+    {
+      "id": "31f64366",
+      "en": "Death and vulgarity are the only two facts in the nineteenth century that one cannot explain away."
+    },
+    {
+      "id": "2666c657",
+      "en": "I put all my genius into my life; I put only my talent into my works."
+    },
+    {
+      "id": "c1dd94f5",
+      "en": "Those whom the gods love grow young."
+    },
+    {
+      "id": "9421365d",
+      "en": "I can stand brute force, but brute reason is quite unbearable. There is something unfair about its use. It is hitting below the intellect."
+    },
+    {
+      "id": "aed13390",
+      "en": "It is always the unreadable that occurs."
+    },
+    {
+      "id": "7a233362",
+      "en": "There is only one class in the community that thinks more about money than the rich, and that is the poor. The poor can think of nothing else."
+    },
+    {
+      "id": "cbc4f544",
+      "en": "In married life three is company and two none."
+    },
+    {
+      "id": "8ac3e3ad",
+      "en": "As long as war is regarded as wicked, it will always have its fascination. When it is looked upon as vulgar, it will cease to be popular."
+    },
+    {
+      "id": "d8b94e22",
+      "en": "No better way is there to learn to love Nature than to understand Art. It dignifies every flower of the field. And, the boy who sees the thing of beauty which a bird on the wing becomes when transferred to wood or canvas will probably not throw the customary stone."
+    },
+    {
+      "id": "b44eb44e",
+      "en": "'The Lady's World' should be made the recognized organ for the expression of women's opinions on all subjects of literature, art and modern life, and yet it should be a magazine that men could read with pleasure."
+    },
+    {
+      "id": "df9f10ef",
+      "en": "Romance should never begin with sentiment. It should begin with science and end with a settlement."
+    },
+    {
+      "id": "b8068f2c",
+      "en": "Selfishness is not living as one wishes to live, it is asking others to live as one wishes to live."
+    },
+    {
+      "id": "5ed0f2fb",
+      "en": "He has no enemies, but is intensely disliked by his friends."
+    },
+    {
+      "id": "dc24279a",
+      "en": "All bad poetry springs from genuine feeling."
+    },
+    {
+      "id": "bc83fd17",
+      "en": "The well bred contradict other people. The wise contradict themselves."
+    },
+    {
+      "id": "e0e97092",
+      "en": "I want my food dead. Not sick, not dying, dead."
+    },
+    {
+      "id": "018c3121",
+      "en": "An idea that is not dangerous is unworthy of being called an idea at all."
+    },
+    {
+      "id": "71beacae",
+      "en": "Art should never try to be popular. The public should try to make itself artistic."
+    },
+    {
+      "id": "b6068e8d",
+      "en": "True friends stab you in the front."
+    },
+    {
+      "id": "ee3115d0",
+      "en": "What is a cynic? A man who knows the price of everything and the value of nothing."
+    },
+    {
+      "id": "9e55b1b5",
+      "en": "Art is the most intense mode of individualism that the world has known."
+    },
+    {
+      "id": "a48120f5",
+      "en": "There is no necessity to separate the monarch from the mob; all authority is equally bad."
+    },
+    {
+      "id": "02f07def",
+      "en": "Most people die of a sort of creeping common sense, and discover when it is too late that the only things one never regrets are one's mistakes."
+    },
+    {
+      "id": "9c5ba964",
+      "en": "It is better to be beautiful than to be good. But... it is better to be good than to be ugly."
+    },
+    {
+      "id": "a0bbc864",
+      "en": "Children begin by loving their parents; after a time they judge them; rarely, if ever, do they forgive them."
+    },
+    {
+      "id": "a258834a",
+      "en": "Men always want to be a woman's first love - women like to be a man's last romance."
+    },
+    {
+      "id": "f67a3e2f",
+      "en": "Education is an admirable thing, but it is well to remember from time to time that nothing that is worth knowing can be taught."
+    },
+    {
+      "id": "a017897d",
+      "en": "All art is quite useless."
+    },
+    {
+      "id": "659ae3e9",
+      "en": "The advantage of the emotions is that they lead us astray."
+    },
+    {
+      "id": "83fed205",
+      "en": "When good Americans die they go to Paris."
+    },
+    {
+      "id": "8b10fd00",
+      "en": "The man who can dominate a London dinner-table can dominate the world."
+    },
+    {
+      "id": "0b3bd1eb",
+      "en": "Consistency is the last refuge of the unimaginative."
+    },
+    {
+      "id": "f74a6e34",
+      "en": "How can a woman be expected to be happy with a man who insists on treating her as if she were a perfectly normal human being."
+    },
+    {
+      "id": "ac8397c6",
+      "en": "In all matters of opinion, our adversaries are insane."
+    },
+    {
+      "id": "0ad90e8f",
+      "en": "The spirit of an age may be best expressed in the abstract ideal arts, for the spirit itself is abstract and ideal."
+    },
+    {
+      "id": "83d89d85",
+      "en": "It is only an auctioneer who can equally and impartially admire all schools of art."
+    },
+    {
+      "id": "84fb41c9",
+      "en": "Moderation is a fatal thing. Nothing succeeds like excess."
+    },
+    {
+      "id": "07a0da48",
+      "en": "The good ended happily, and the bad unhappily. That is what fiction means."
+    },
+    {
+      "id": "057a0688",
+      "en": "A critic should be taught to criticise a work of art without making any reference to the personality of the author."
+    },
+    {
+      "id": "da1371d2",
+      "en": "The old believe everything, the middle-aged suspect everything, the young know everything."
+    },
+    {
+      "id": "05b9712b",
+      "en": "I am so clever that sometimes I don't understand a single word of what I am saying."
+    },
+    {
+      "id": "b781e7d6",
+      "en": "Society exists only as a mental concept; in the real world there are only individuals."
+    },
+    {
+      "id": "7a6782e6",
+      "en": "The salesman knows nothing of what he is selling save that he is charging a great deal too much for it."
+    },
+    {
+      "id": "047e461b",
+      "en": "The basis of optimism is sheer terror."
+    },
+    {
+      "id": "95dd3630",
+      "en": "It is the spectator, and not life, that art really mirrors."
+    },
+    {
+      "id": "ab594af2",
+      "en": "I see when men love women. They give them but a little of their lives. But women when they love give everything."
+    },
+    {
+      "id": "e8f87846",
+      "en": "One of the many lessons that one learns in prison is, that things are what they are and will be what they will be."
+    },
+    {
+      "id": "60311d1c",
+      "en": "I am not young enough to know everything."
+    },
+    {
+      "id": "dcfd4798",
+      "en": "Arguments are extremely vulgar, for everyone in good society holds exactly the same opinion."
+    },
+    {
+      "id": "be1f9a89",
+      "en": "To lose one parent may be regarded as a misfortune; to lose both looks like carelessness."
+    },
+    {
+      "id": "207647d6",
+      "en": "Most people are other people. Their thoughts are someone else's opinions, their lives a mimicry, their passions a quotation."
+    },
+    {
+      "id": "517dfa8a",
+      "en": "If you pretend to be good, the world takes you very seriously. If you pretend to be bad, it doesn't. Such is the astounding stupidity of optimism."
+    },
+    {
+      "id": "24c88d31",
+      "en": "There is a luxury in self-reproach. When we blame ourselves we feel no one else has a right to blame us."
+    },
+    {
+      "id": "d0288260",
+      "en": "The only way to get rid of temptation is to yield to it... I can resist everything but temptation."
+    },
+    {
+      "id": "e28b23d1",
+      "en": "An excellent man; he has no enemies; and none of his friends like him."
+    },
+    {
+      "id": "900fdf8a",
+      "en": "Everybody who is incapable of learning has taken to teaching."
+    },
+    {
+      "id": "09fe95f8",
+      "en": "A man who does not think for himself does not think at all."
+    },
+    {
+      "id": "c51b123f",
+      "en": "Life is far too important a thing ever to talk seriously about."
+    },
+    {
+      "id": "7e87caa0",
+      "en": "Beauty has as many meanings as man has moods. Beauty is the symbol of symbols. Beauty reveals everything, because it expresses nothing. When it shows us itself, it shows us the whole fiery-coloured world."
+    },
+    {
+      "id": "aba23419",
+      "en": "Morality is simply the attitude we adopt towards people whom we personally dislike."
+    },
+    {
+      "id": "1c792e99",
+      "en": "No object is so beautiful that, under certain conditions, it will not look ugly."
+    },
+    {
+      "id": "72d91f59",
+      "en": "Do you really think it is weakness that yields to temptation? I tell you that there are terrible temptations which it requires strength, strength and courage to yield to."
+    },
+    {
+      "id": "3dc74eb5",
+      "en": "The only thing to do with good advice is to pass it on. It is never of any use to oneself."
+    },
+    {
+      "id": "4be30900",
+      "en": "Fashion is a form of ugliness so intolerable that we have to alter it every six months."
+    },
+    {
+      "id": "67027461",
+      "en": "Yes, there is a terrible moral in 'Dorian Gray' - a moral which the prurient will not be able to find in it, but it will be revealed to all whose minds are healthy. Is this an artistic error? I fear it is. It is the only error in the book."
+    },
+    {
+      "id": "870bb03e",
+      "en": "There is something terribly morbid in the modern sympathy with pain. One should sympathise with the colour, the beauty, the joy of life. The less said about life's sores the better."
+    },
+    {
+      "id": "03e28189",
+      "en": "By giving us the opinions of the uneducated, journalism keeps us in touch with the ignorance of the community."
+    },
+    {
+      "id": "ed3234a7",
+      "en": "Mr. Henry James writes fiction as if it were a painful duty."
+    },
+    {
+      "id": "38f0888e",
+      "en": "Now that the House of Commons is trying to become useful, it does a great deal of harm."
+    },
+    {
+      "id": "cb386620",
+      "en": "I can resist everything except temptation."
+    },
+    {
+      "id": "bba3ebcf",
+      "en": "Nothing, indeed, is more dangerous to the young artist than any conception of ideal beauty: he is constantly led by it either into weak prettiness or lifeless abstraction: whereas to touch the ideal at all, you must not strip it of vitality."
+    },
+    {
+      "id": "fb4e2765",
+      "en": "The public is wonderfully tolerant. It forgives everything except genius."
+    },
+    {
+      "id": "d8bca560",
+      "en": "There is always something infinitely mean about other people's tragedies."
+    },
+    {
+      "id": "063ddcfe",
+      "en": "Pessimist: One who, when he has the choice of two evils, chooses both."
+    },
+    {
+      "id": "2ce38846",
+      "en": "You will always be fond of me. I represent to you all the sins you have never had the courage to commit."
+    },
+    {
+      "id": "d7e85e7b",
+      "en": "There's nothing in the world like the devotion of a married woman. It's a thing no married man knows anything about."
+    },
+    {
+      "id": "055dc565",
+      "en": "Writing bores me so."
+    },
+    {
+      "id": "d955f520",
+      "en": "Let us have no machine-made ornament at all; it is all bad and worthless and ugly."
+    },
+    {
+      "id": "d883c074",
+      "en": "This suspense is terrible. I hope it will last."
+    },
+    {
+      "id": "3277541b",
+      "en": "Women love us for our defects. If we have enough of them, they will forgive us everything, even our gigantic intellects."
+    },
+    {
+      "id": "68fb04ce",
+      "en": "A work of art is the unique result of a unique temperament."
+    },
+    {
+      "id": "9a97e436",
+      "en": "In designing the scenery and costumes for any of Shakespeare's plays, the first thing the artist has to settle is the best date for the drama. This should be determined by the general spirit of the play more than by any actual historical references which may occur in it."
+    },
+    {
+      "id": "770eae31",
+      "en": "In modern life nothing produces such an effect as a good platitude. It makes the whole world kin."
+    },
+    {
+      "id": "c5456f1f",
+      "en": "I think that God, in creating man, somewhat overestimated his ability."
+    },
+    {
+      "id": "357da1e3",
+      "en": "Ambition is the last refuge of the failure."
+    },
+    {
+      "id": "250a4dfd",
+      "en": "Ambition is the germ from which all growth of nobleness proceeds."
+    },
+    {
+      "id": "71086486",
+      "en": "The typewriting machine, when played with expression, is no more annoying than the piano when played by a sister or near relation."
+    },
+    {
+      "id": "0ca98bef",
+      "en": "Conversation about the weather is the last refuge of the unimaginative."
+    },
+    {
+      "id": "1c7aaec5",
+      "en": "I have nothing to declare except my genius."
+    },
+    {
+      "id": "e19694a1",
+      "en": "Art is individualism, and individualism is a disturbing and disintegrating force."
+    },
+    {
+      "id": "4c936b13",
+      "en": "If one cannot enjoy reading a book over and over again, there is no use in reading it at all."
+    },
+    {
+      "id": "d549adb0",
+      "en": "America had often been discovered before Columbus, but it had always been hushed up."
+    },
+    {
+      "id": "38b7932c",
+      "en": "Patriotism is the virtue of the vicious."
+    },
+    {
+      "id": "d484c58e",
+      "en": "Charity creates a multitude of sins."
+    },
+    {
+      "id": "b40b3d6c",
+      "en": "There is always something ridiculous about the emotions of people whom one has ceased to love."
+    },
+    {
+      "id": "e1c78fae",
+      "en": "When I was young I thought that money was the most important thing in life; now that I am old I know that it is."
+    },
+    {
+      "id": "4d8ae259",
+      "en": "Hatred is blind, as well as love."
+    },
+    {
+      "id": "f4e13b61",
+      "en": "Arguments are to be avoided: they are always vulgar and often convincing."
+    },
+    {
+      "id": "b605127d",
+      "en": "Technique is really personality. That is the reason why the artist cannot teach it, why the pupil cannot learn it, and why the aesthetic critic can understand it."
+    },
+    {
+      "id": "592e596a",
+      "en": "Always forgive your enemies - nothing annoys them so much."
+    },
+    {
+      "id": "a5b99b10",
+      "en": "In America the young are always ready to give to those who are older than themselves the full benefits of their inexperience."
+    },
+    {
+      "id": "15a801b1",
+      "en": "Questions are never indiscreet, answers sometimes are."
+    },
+    {
+      "id": "1cf7722a",
+      "en": "Everything popular is wrong."
+    },
+    {
+      "id": "8f970ecf",
+      "en": "It is better to have a permanent income than to be fascinating."
+    },
+    {
+      "id": "1b71ec02",
+      "en": "One can survive everything, nowadays, except death, and live down everything except a good reputation."
+    },
+    {
+      "id": "dacf115a",
+      "en": "If one plays good music, people don't listen and if one plays bad music people don't talk."
+    },
+    {
+      "id": "b817fcd8",
+      "en": "London is too full of fogs and serious people. Whether the fogs produce the serious people, or whether the serious people produce the fogs, I don't know."
+    },
+    {
+      "id": "3fcd2742",
+      "en": "Memory... is the diary that we all carry about with us."
+    },
+    {
+      "id": "bf742ba3",
+      "en": "In America the President reigns for four years, and Journalism governs forever and ever."
+    },
+    {
+      "id": "d9c3e532",
+      "en": "Women are never disarmed by compliments. Men always are. That is the difference between the sexes."
+    },
+    {
+      "id": "236c53b5",
+      "en": "It is only by not paying one's bills that one can hope to live in the memory of the commercial classes."
+    },
+    {
+      "id": "4c87e95c",
+      "en": "Sometimes the poor are praised for being thrifty. But to recommend thrift to the poor is both grotesque and insulting. It is like advising a man who is starving to eat less."
+    },
+    {
+      "id": "2fcb7dbb",
+      "en": "I sometimes think that God in creating man somewhat overestimated his ability."
+    },
+    {
+      "id": "ef56713c",
+      "en": "I suppose society is wonderfully delightful. To be in it is merely a bore. But to be out of it is simply a tragedy."
+    },
+    {
+      "id": "80b0428e",
+      "en": "No woman should ever be quite accurate about her age. It looks so calculating."
+    },
+    {
+      "id": "43d60f63",
+      "en": "One's past is what one is. It is the only way by which people should be judged."
+    },
+    {
+      "id": "a80c9bcc",
+      "en": "Bigamy is having one wife too many. Monogamy is the same."
+    },
+    {
+      "id": "101ba344",
+      "en": "A man can be happy with any woman, as long as he does not love her."
+    },
+    {
+      "id": "67e2e966",
+      "en": "She is a peacock in everything but beauty."
+    },
+    {
+      "id": "1a1a70cd",
+      "en": "Work is the curse of the drinking classes."
+    },
+    {
+      "id": "aeec3324",
+      "en": "I choose my friends for their good looks, my acquaintances for their good characters, and my enemies for their intellects. A man cannot be too careful in the choice of his enemies."
+    },
+    {
+      "id": "e956a252",
+      "en": "Beauty is the only thing that time cannot harm. Philosophies fall away like sand, creeds follow one another, but what is beautiful is a joy for all seasons, a possession for all eternity."
+    },
+    {
+      "id": "180cf2a4",
+      "en": "A dreamer is one who can only find his way by moonlight, and his punishment is that he sees the dawn before the rest of the world."
+    },
+    {
+      "id": "918b7f82",
+      "en": "Alas, I am dying beyond my means."
+    },
+    {
+      "id": "1223ca16",
+      "en": "I never travel without my diary. One should always have something sensational to read in the train."
+    },
+    {
+      "id": "e336b7fb",
+      "en": "Success is a science; if you have the conditions, you get the result."
+    },
+    {
+      "id": "bd8afd59",
+      "en": "When the gods wish to punish us they answer our prayers."
+    },
+    {
+      "id": "38c46cec",
+      "en": "Life imitates art far more than art imitates Life."
+    },
+    {
+      "id": "38794113",
+      "en": "Only the shallow know themselves."
+    },
+    {
+      "id": "2f8a7f64",
+      "en": "There are only two tragedies in life: one is not getting what one wants, and the other is getting it."
+    },
+    {
+      "id": "985f15ca",
+      "en": "I have a dining room done in different shades of white, with white cushions embroidered in yellow silk: the effect is absolutely delightful and the room beautiful."
+    },
+    {
+      "id": "81c3c6af",
+      "en": "What we have to do, what at any rate it is our duty to do, is to revive the old art of Lying."
+    },
+    {
+      "id": "1d11a740",
+      "en": "The truth is rarely pure and never simple."
+    },
+    {
+      "id": "9cb29abe",
+      "en": "Laughter is not at all a bad beginning for a friendship, and it is far the best ending for one."
+    },
+    {
+      "id": "f994f985",
+      "en": "Whenever a man does a thoroughly stupid thing, it is always from the noblest motives."
+    },
+    {
+      "id": "b10357fb",
+      "en": "I like persons better than principles, and I like persons with no principles better than anything else in the world."
+    },
+    {
+      "id": "572e607f",
+      "en": "Nothing is so aggravating than calmness."
+    },
+    {
+      "id": "9a31748a",
+      "en": "The books that the world calls immoral are books that show the world its own shame."
+    },
+    {
+      "id": "17757047",
+      "en": "No great artist ever sees things as they really are. If he did, he would cease to be an artist."
+    },
+    {
+      "id": "8927cf2e",
+      "en": "The moment you think you understand a great work of art, it's dead for you."
+    },
+    {
+      "id": "ad014efd",
+      "en": "Woman begins by resisting a man's advances and ends by blocking his retreat."
+    },
+    {
+      "id": "0435b3de",
+      "en": "To expect the unexpected shows a thoroughly modern intellect."
+    },
+    {
+      "id": "cd654fa8",
+      "en": "The world is divided into two classes, those who believe the incredible, and those who do the improbable."
+    },
+    {
+      "id": "f8dce8f5",
+      "en": "Nothing can cure the soul but the senses, just as nothing can cure the senses but the soul."
+    },
+    {
+      "id": "f0767450",
+      "en": "Ordinary riches can be stolen; real riches cannot. In your soul are infinitely precious things that cannot be taken from you."
+    },
+    {
+      "id": "0e3d35b4",
+      "en": "Keep love in your heart. A life without it is like a sunless garden when the flowers are dead."
+    },
+    {
+      "id": "7cfaea1b",
+      "en": "It is a very sad thing that nowadays there is so little useless information."
+    },
+    {
+      "id": "92943819",
+      "en": "We are all in the gutter, but some of us are looking at the stars."
+    },
+    {
+      "id": "c6197254",
+      "en": "When a man has once loved a woman he will do anything for her except continue to love her."
+    },
+    {
+      "id": "a91a8749",
+      "en": "As long as a woman can look ten years younger than her own daughter, she is perfectly satisfied."
+    },
+    {
+      "id": "a9344679",
+      "en": "Ridicule is the tribute paid to the genius by the mediocrities."
+    },
+    {
+      "id": "085d1db1",
+      "en": "I think it is perfectly natural for any artist to admire intensely and love a young man. It is an incident in the life of almost every artist."
+    },
+    {
+      "id": "e91469ad",
+      "en": "In England, an inventor is regarded almost as a crazy man, and in too many instances, invention ends in disappointment and poverty. In America, an inventor is honoured, help is forthcoming, and the exercise of ingenuity, the application of science to the work of man, is there the shortest road to wealth."
+    },
+    {
+      "id": "0ff96433",
+      "en": "Art never harms itself by keeping aloof from the social problems of the day: rather, by so doing, it more completely realises for us that which we desire."
+    },
+    {
+      "id": "10668d92",
+      "en": "Deceiving others. That is what the world calls a romance."
+    },
+    {
+      "id": "b24c17bc",
+      "en": "Experience is simply the name we give our mistakes."
+    },
+    {
+      "id": "718b0449",
+      "en": "The true mystery of the world is the visible, not the invisible."
+    },
+    {
+      "id": "c606d372",
+      "en": "Man is a rational animal who always loses his temper when he is called upon to act in accordance with the dictates of reason."
+    },
+    {
+      "id": "6cef1bc2",
+      "en": "Every portrait that is painted with feeling is a portrait of the artist, not of the sitter."
+    },
+    {
+      "id": "7d4842c0",
+      "en": "To love oneself is the beginning of a lifelong romance."
+    },
+    {
+      "id": "4506226f",
+      "en": "The mark of all good art is not that the thing done is done exactly or finely, for machinery may do as much, but that it is worked out with the head and the workman's heart."
+    },
+    {
+      "id": "aa9b10d3",
+      "en": "A man can't be too careful in the choice of his enemies."
+    },
+    {
+      "id": "5ebc4909",
+      "en": "The one charm about marriage is that it makes a life of deception absolutely necessary for both parties."
+    },
+    {
+      "id": "37123108",
+      "en": "Life is never fair, and perhaps it is a good thing for most of us that it is not."
+    },
+    {
+      "id": "93eaf67f",
+      "en": "The difference between literature and journalism is that journalism is unreadable and literature is not read."
+    },
+    {
+      "id": "9047c368",
+      "en": "No man is rich enough to buy back his past."
+    },
+    {
+      "id": "0249bc58",
+      "en": "There are many things that we would throw away if we were not afraid that others might pick them up."
+    }
+  ]
+}

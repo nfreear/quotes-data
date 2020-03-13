@@ -1,0 +1,894 @@
+{
+  "name": "Benjamin Franklin",
+  "image": "Benjamin-Franklin",
+  "quotes": [
+    {
+      "id": "1c80131e",
+      "en": "He that is good for making excuses is seldom good for anything else."
+    },
+    {
+      "id": "4feac875",
+      "en": "Do not fear mistakes. You will know failure. Continue to reach out."
+    },
+    {
+      "id": "6fcc9156",
+      "en": "Money has never made man happy, nor will it, there is nothing in its nature to produce happiness. The more of it one has the more one wants."
+    },
+    {
+      "id": "2decdfc4",
+      "en": "For having lived long, I have experienced many instances of being obliged, by better information or fuller consideration, to change opinions, even on important subjects, which I once thought right but found to be otherwise."
+    },
+    {
+      "id": "39e234d6",
+      "en": "Genius without education is like silver in the mine."
+    },
+    {
+      "id": "e495e719",
+      "en": "Since thou are not sure of a minute, throw not away an hour."
+    },
+    {
+      "id": "66eafd56",
+      "en": "It is the eye of other people that ruin us. If I were blind I would want, neither fine clothes, fine houses or fine furniture."
+    },
+    {
+      "id": "789920b6",
+      "en": "Write your injuries in dust, your benefits in marble."
+    },
+    {
+      "id": "c2288103",
+      "en": "God helps those who help themselves."
+    },
+    {
+      "id": "03d7d5f9",
+      "en": "Well done is better than well said."
+    },
+    {
+      "id": "ff0583be",
+      "en": "Where there is a free government, and the people make their own laws by their representatives, I see no injustice in their obliging one another to take their own paper money."
+    },
+    {
+      "id": "ec3fe0b3",
+      "en": "As we must account for every idle word, so must we account for every idle silence."
+    },
+    {
+      "id": "1e911e80",
+      "en": "Who is wise? He that learns from everyone. Who is powerful? He that governs his passions. Who is rich? He that is content. Who is that? Nobody."
+    },
+    {
+      "id": "f380f98b",
+      "en": "Fatigue is the best pillow."
+    },
+    {
+      "id": "f3060a1b",
+      "en": "There are three things extremely hard: steel, a diamond, and to know one's self."
+    },
+    {
+      "id": "f898f6e0",
+      "en": "Keep your eyes wide open before marriage, half shut afterwards."
+    },
+    {
+      "id": "7f6bbfc1",
+      "en": "Honesty is the best policy."
+    },
+    {
+      "id": "de568e69",
+      "en": "Nine men in ten are would be suicides."
+    },
+    {
+      "id": "57a5259f",
+      "en": "Life's tragedy is that we get old too soon and wise too late."
+    },
+    {
+      "id": "29628ed4",
+      "en": "To lengthen thy life, lessen thy meals."
+    },
+    {
+      "id": "4eb9b208",
+      "en": "Tricks and treachery are the practice of fools, that don't have brains enough to be honest."
+    },
+    {
+      "id": "eb5907de",
+      "en": "Where liberty is, there is my country."
+    },
+    {
+      "id": "1de4a6a2",
+      "en": "Either write something worth reading or do something worth writing."
+    },
+    {
+      "id": "a564cae9",
+      "en": "Trouble springs from idleness, and grievous toil from needless ease."
+    },
+    {
+      "id": "c3337cc6",
+      "en": "Buy what thou hast no need of and ere long thou shalt sell thy necessities."
+    },
+    {
+      "id": "0df47432",
+      "en": "Let all your things have their places; let each part of your business have its time."
+    },
+    {
+      "id": "7145c628",
+      "en": "Half a truth is often a great lie."
+    },
+    {
+      "id": "43efd56e",
+      "en": "She laughs at everything you say. Why? Because she has fine teeth."
+    },
+    {
+      "id": "d671988a",
+      "en": "He that won't be counseled can't be helped."
+    },
+    {
+      "id": "bd027e10",
+      "en": "A great empire, like a great cake, is most easily diminished at the edges."
+    },
+    {
+      "id": "c906093f",
+      "en": "I conceive that the great part of the miseries of mankind are brought upon them by false estimates they have made of the value of things."
+    },
+    {
+      "id": "205668d2",
+      "en": "Gain may be temporary and uncertain; but ever while you live, expense is constant and certain: and it is easier to build two chimneys than to keep one in fuel."
+    },
+    {
+      "id": "6f53a4c9",
+      "en": "At twenty years of age the will reigns; at thirty, the wit; and at forty, the judgment."
+    },
+    {
+      "id": "fbb332ce",
+      "en": "I saw few die of hunger; of eating, a hundred thousand."
+    },
+    {
+      "id": "68ef4f5c",
+      "en": "Remember not only to say the right thing in the right place, but far more difficult still, to leave unsaid the wrong thing at the tempting moment."
+    },
+    {
+      "id": "a6f56c23",
+      "en": "Any fool can criticize, condemn and complain - and most fools do."
+    },
+    {
+      "id": "0383a5d9",
+      "en": "Even peace may be purchased at too high a price."
+    },
+    {
+      "id": "de2fa302",
+      "en": "You may delay, but time will not."
+    },
+    {
+      "id": "0ff59962",
+      "en": "If you know how to spend less than you get, you have the philosopher's stone."
+    },
+    {
+      "id": "dad1d818",
+      "en": "If passion drives you, let reason hold the reins."
+    },
+    {
+      "id": "b51c0890",
+      "en": "It is the working man who is the happy man. It is the idle man who is the miserable man."
+    },
+    {
+      "id": "3f968427",
+      "en": "If you would not be forgotten as soon as you are dead, either write something worth reading or do things worth writing."
+    },
+    {
+      "id": "4c797f64",
+      "en": "Each year one vicious habit discarded, in time might make the worst of us good."
+    },
+    {
+      "id": "51d32433",
+      "en": "It is easier to prevent bad habits than to break them."
+    },
+    {
+      "id": "0e6b1c57",
+      "en": "There are two ways of being happy: We must either diminish our wants or augment our means - either may do - the result is the same and it is for each man to decide for himself and to do that which happens to be easier."
+    },
+    {
+      "id": "fdc1ceb4",
+      "en": "To succeed, jump as quickly at opportunities as you do at conclusions."
+    },
+    {
+      "id": "acaac1ab",
+      "en": "A man wrapped up in himself makes a very small bundle."
+    },
+    {
+      "id": "0db7b670",
+      "en": "Whatever is begun in anger ends in shame."
+    },
+    {
+      "id": "69cfab19",
+      "en": "If we do not hang together, we shall surely hang separately."
+    },
+    {
+      "id": "e07dac9b",
+      "en": "The art of acting consists in keeping people from coughing."
+    },
+    {
+      "id": "9974b05b",
+      "en": "Do good to your friends to keep them, to your enemies to win them."
+    },
+    {
+      "id": "a117a84d",
+      "en": "Danger is sauce for prayers."
+    },
+    {
+      "id": "f6dc1956",
+      "en": "Take time for all things: great haste makes great waste."
+    },
+    {
+      "id": "74724ca4",
+      "en": "God works wonders now and then; Behold a lawyer, an honest man."
+    },
+    {
+      "id": "d9fdffdd",
+      "en": "Never leave that till tomorrow which you can do today."
+    },
+    {
+      "id": "deaa1d5d",
+      "en": "For my own part, I wish the bald eagle had not been chosen the representative of our country. He is a bird of bad moral character. He does not get his living honestly."
+    },
+    {
+      "id": "72170cba",
+      "en": "Our necessities never equal our wants."
+    },
+    {
+      "id": "213330b6",
+      "en": "When will mankind be convinced and agree to settle their difficulties by arbitration?"
+    },
+    {
+      "id": "92972c98",
+      "en": "A house is not a home unless it contains food and fire for the mind as well as the body."
+    },
+    {
+      "id": "5304008a",
+      "en": "Who is rich? He that rejoices in his portion."
+    },
+    {
+      "id": "f500d3a6",
+      "en": "Savages we call them because their manners differ from ours."
+    },
+    {
+      "id": "696cb256",
+      "en": "So convenient a thing it is to be a reasonable creature, since it enables one to find or make a reason for every thing one has a mind to do."
+    },
+    {
+      "id": "3b2235e9",
+      "en": "A countryman between two lawyers is like a fish between two cats."
+    },
+    {
+      "id": "23f84cd1",
+      "en": "Energy and persistence conquer all things."
+    },
+    {
+      "id": "31b69aeb",
+      "en": "It is a grand mistake to think of being great without goodness and I pronounce it as certain that there was never a truly great man that was not at the same time truly virtuous."
+    },
+    {
+      "id": "eec12ba8",
+      "en": "As we enjoy great advantages from the inventions of others, we should be glad of an opportunity to serve others by any invention of ours, and this we should do freely and generously."
+    },
+    {
+      "id": "e30da8e4",
+      "en": "Mine is better than ours."
+    },
+    {
+      "id": "4423a578",
+      "en": "Write injuries in dust, benefits in marble."
+    },
+    {
+      "id": "f71496a5",
+      "en": "All wars are follies, very expensive and very mischievous ones."
+    },
+    {
+      "id": "2e40371c",
+      "en": "If a man could have half of his wishes, he would double his troubles."
+    },
+    {
+      "id": "b309c280",
+      "en": "He that sows thorns should never go barefoot."
+    },
+    {
+      "id": "40af14fa",
+      "en": "I didn't fail the test, I just found 100 ways to do it wrong."
+    },
+    {
+      "id": "cc35659c",
+      "en": "Blessed is he that expects nothing, for he shall never be disappointed."
+    },
+    {
+      "id": "e21f3793",
+      "en": "We are all born ignorant, but one must work hard to remain stupid."
+    },
+    {
+      "id": "1a16b9df",
+      "en": "Beauty and folly are old companions."
+    },
+    {
+      "id": "2ae097b2",
+      "en": "Eat to please thyself, but dress to please others."
+    },
+    {
+      "id": "a190b347",
+      "en": "Wars are not paid for in wartime, the bill comes later."
+    },
+    {
+      "id": "f32e7aaf",
+      "en": "A learned blockhead is a greater blockhead than an ignorant one."
+    },
+    {
+      "id": "d26739a6",
+      "en": "All mankind is divided into three classes: those that are immovable, those that are movable, and those that move."
+    },
+    {
+      "id": "23eba46a",
+      "en": "In my youth, I traveled much, and I observed in different countries, that the more public provisions were made for the poor, the less they provided for themselves, and of course became poorer. And, on the contrary, the less was done for them, the more they did for themselves, and became richer."
+    },
+    {
+      "id": "18ae7649",
+      "en": "There are three faithful friends - an old wife, an old dog, and ready money."
+    },
+    {
+      "id": "ad20f6aa",
+      "en": "God grant that not only the love of liberty but a thorough knowledge of the rights of man may pervade all the nations of the earth, so that a philosopher may set his foot anywhere on its surface and say: 'This is my country.'"
+    },
+    {
+      "id": "b48ef78c",
+      "en": "He that's secure is not safe."
+    },
+    {
+      "id": "0aeb5865",
+      "en": "The strictest law sometimes becomes the severest injustice."
+    },
+    {
+      "id": "fba51a88",
+      "en": "Beware the hobby that eats."
+    },
+    {
+      "id": "54741c36",
+      "en": "A child thinks 20 shillings and 20 years can scarce ever be spent."
+    },
+    {
+      "id": "98dd4031",
+      "en": "Anger is never without a reason, but seldom with a good one."
+    },
+    {
+      "id": "08b7344e",
+      "en": "Hide not your talents. They for use were made. What's a sundial in the shade?"
+    },
+    {
+      "id": "32a5d778",
+      "en": "We must, indeed, all hang together or, most assuredly, we shall all hang separately."
+    },
+    {
+      "id": "b362e1cf",
+      "en": "Dost thou love life? Then do not squander time, for that is the stuff life is made of."
+    },
+    {
+      "id": "38f2afb0",
+      "en": "If a man empties his purse into his head, no one can take it from him."
+    },
+    {
+      "id": "cdc0c2a8",
+      "en": "It takes many good deeds to build a good reputation, and only one bad one to lose it."
+    },
+    {
+      "id": "ed113740",
+      "en": "The U. S. Constitution doesn't guarantee happiness, only the pursuit of it. You have to catch up with it yourself."
+    },
+    {
+      "id": "3053d412",
+      "en": "Work as if you were to live a hundred years. Pray as if you were to die tomorrow."
+    },
+    {
+      "id": "033b1e3a",
+      "en": "From a child I was fond of reading, and all the little money that came into my hands was ever laid out in books. Pleased with the 'Pilgrim's Progress,' my first collection was of John Bunyan's works in separate little volumes."
+    },
+    {
+      "id": "5c784ab7",
+      "en": "The worst wheel of the cart makes the most noise."
+    },
+    {
+      "id": "9d769438",
+      "en": "He that rises late must trot all day."
+    },
+    {
+      "id": "40dbf768",
+      "en": "Leisure is the time for doing something useful. This leisure the diligent person will obtain the lazy one never."
+    },
+    {
+      "id": "0c116e23",
+      "en": "The eye of the master will do more work than both his hands."
+    },
+    {
+      "id": "e79b0416",
+      "en": "Be at war with your vices, at peace with your neighbors, and let every new year find you a better man."
+    },
+    {
+      "id": "8f80776e",
+      "en": "He that lives upon hope will die fasting."
+    },
+    {
+      "id": "fdb20401",
+      "en": "An investment in knowledge pays the best interest."
+    },
+    {
+      "id": "accfd2cb",
+      "en": "He that has not got a wife is not yet a complete man."
+    },
+    {
+      "id": "c012d199",
+      "en": "You can bear your own faults, and why not a fault in your wife?"
+    },
+    {
+      "id": "3fa9d783",
+      "en": "Guests, like fish, begin to smell after three days."
+    },
+    {
+      "id": "dd4c98e8",
+      "en": "Experience keeps a dear school, but fools will learn in no other."
+    },
+    {
+      "id": "6bdde556",
+      "en": "He that can have patience can have what he will."
+    },
+    {
+      "id": "74c54591",
+      "en": "In general, mankind, since the improvement of cookery, eats twice as much as nature requires."
+    },
+    {
+      "id": "9917e8b9",
+      "en": "Rather go to bed with out dinner than to rise in debt."
+    },
+    {
+      "id": "5a8ac935",
+      "en": "When you're finished changing, you're finished."
+    },
+    {
+      "id": "3af62efa",
+      "en": "Remember that credit is money."
+    },
+    {
+      "id": "830aba0a",
+      "en": "Most people return small favors, acknowledge medium ones and repay greater ones - with ingratitude."
+    },
+    {
+      "id": "9839775d",
+      "en": "Industry need not wish."
+    },
+    {
+      "id": "842a0d12",
+      "en": "There is no kind of dishonesty into which otherwise good people more easily and frequently fall than that of defrauding the government."
+    },
+    {
+      "id": "643b8156",
+      "en": "Never confuse motion with action."
+    },
+    {
+      "id": "22087536",
+      "en": "Where sense is wanting, everything is wanting."
+    },
+    {
+      "id": "53f31371",
+      "en": "Being ignorant is not so much a shame, as being unwilling to learn."
+    },
+    {
+      "id": "22926acc",
+      "en": "When befriended, remember it; when you befriend, forget it."
+    },
+    {
+      "id": "b2e7824a",
+      "en": "A place for everything, everything in its place."
+    },
+    {
+      "id": "ca1d6915",
+      "en": "A good conscience is a continual Christmas."
+    },
+    {
+      "id": "ab2af7c5",
+      "en": "There never was a truly great man that was not at the same time truly virtuous."
+    },
+    {
+      "id": "a38e0faf",
+      "en": "Necessity never made a good bargain."
+    },
+    {
+      "id": "1880b72d",
+      "en": "The first mistake in public business is the going into it."
+    },
+    {
+      "id": "9f80c4cc",
+      "en": "Your net worth to the world is usually determined by what remains after your bad habits are subtracted from your good ones."
+    },
+    {
+      "id": "4741aafd",
+      "en": "The discontented man finds no easy chair."
+    },
+    {
+      "id": "522086a4",
+      "en": "Admiration is the daughter of ignorance."
+    },
+    {
+      "id": "e01f2e80",
+      "en": "The absent are never without fault, nor the present without excuse."
+    },
+    {
+      "id": "4ab9107d",
+      "en": "How few there are who have courage enough to own their faults, or resolution enough to mend them."
+    },
+    {
+      "id": "626c42fc",
+      "en": "Games lubricate the body and the mind."
+    },
+    {
+      "id": "bc66d3b8",
+      "en": "I guess I don't so much mind being old, as I mind being fat and old."
+    },
+    {
+      "id": "eb5d3917",
+      "en": "Some people die at 25 and aren't buried until 75."
+    },
+    {
+      "id": "fd1db8b2",
+      "en": "He does not possess wealth; it possesses him."
+    },
+    {
+      "id": "39bba385",
+      "en": "I am for doing good to the poor, but I differ in opinion about the means. I think the best way of doing good to the poor is not making them easy in poverty, but leading or driving them out of it."
+    },
+    {
+      "id": "5c6bf73e",
+      "en": "Distrust and caution are the parents of security."
+    },
+    {
+      "id": "da5da412",
+      "en": "In reality, there is, perhaps, no one of our natural passions so hard to subdue as pride."
+    },
+    {
+      "id": "7d82a3f0",
+      "en": "Many a man thinks he is buying pleasure, when he is really selling himself to it."
+    },
+    {
+      "id": "5e13d22f",
+      "en": "Employ thy time well, if thou meanest to gain leisure."
+    },
+    {
+      "id": "b35fbfbd",
+      "en": "Be slow in choosing a friend, slower in changing."
+    },
+    {
+      "id": "8696a118",
+      "en": "Who had deceived thee so often as thyself?"
+    },
+    {
+      "id": "14a093d0",
+      "en": "Lost time is never found again."
+    },
+    {
+      "id": "a72dcc77",
+      "en": "A false friend and a shadow attend only while the sun shines."
+    },
+    {
+      "id": "f8bbdf53",
+      "en": "When men and woman die, as poets sung, his heart's the last part moves, her last, the tongue."
+    },
+    {
+      "id": "ebc4d179",
+      "en": "Marriage is the most natural state of man, and... the state in which you will find solid happiness."
+    },
+    {
+      "id": "e43fb089",
+      "en": "No nation was ever ruined by trade."
+    },
+    {
+      "id": "61470460",
+      "en": "To Follow by faith alone is to follow blindly."
+    },
+    {
+      "id": "46e3d27e",
+      "en": "I have never entered into any controversy in defense of my philosophical opinions; I leave them to take their chance in the world. If they are right, truth and experience will support them; if wrong, they ought to be refuted and rejected. Disputes are apt to sour one's temper and disturb one's quiet."
+    },
+    {
+      "id": "ebc4913d",
+      "en": "Hunger is the best pickle."
+    },
+    {
+      "id": "af8ab45d",
+      "en": "All who think cannot but see there is a sanction like that of religion which binds us in partnership in the serious work of the world."
+    },
+    {
+      "id": "8cb8a734",
+      "en": "In this world nothing can be said to be certain, except death and taxes."
+    },
+    {
+      "id": "6eeab915",
+      "en": "I have no private interest in the reception of my inventions by the world, having never made, nor proposed to make, the least profit by any of them."
+    },
+    {
+      "id": "e62daa53",
+      "en": "If you would be loved, love, and be loveable."
+    },
+    {
+      "id": "84491b80",
+      "en": "Beware of little expenses. A small leak will sink a great ship."
+    },
+    {
+      "id": "47d77d35",
+      "en": "Early to bed and early to rise makes a man healthy, wealthy and wise."
+    },
+    {
+      "id": "6700f776",
+      "en": "In the affairs of this world, men are saved not by faith, but by the want of it."
+    },
+    {
+      "id": "e5207dc7",
+      "en": "Words may show a man's wit but actions his meaning."
+    },
+    {
+      "id": "0e90b862",
+      "en": "Don't throw stones at your neighbors if your own windows are glass."
+    },
+    {
+      "id": "909644e8",
+      "en": "Many people die at twenty five and aren't buried until they are seventy five."
+    },
+    {
+      "id": "a84800a6",
+      "en": "It is much easier to suppress a first desire than to satisfy those that follow."
+    },
+    {
+      "id": "7387e2e3",
+      "en": "Wise men don't need advice. Fools won't take it."
+    },
+    {
+      "id": "8b896bba",
+      "en": "The doorstep to the temple of wisdom is a knowledge of our own ignorance."
+    },
+    {
+      "id": "455a8e0f",
+      "en": "One today is worth two tomorrows."
+    },
+    {
+      "id": "348dba08",
+      "en": "It is only when the rich are sick that they fully feel the impotence of wealth."
+    },
+    {
+      "id": "c84bceb2",
+      "en": "Laws too gentle are seldom obeyed; too severe, seldom executed."
+    },
+    {
+      "id": "09883925",
+      "en": "Tell me and I forget. Teach me and I remember. Involve me and I learn."
+    },
+    {
+      "id": "12eac6b8",
+      "en": "Wine is constant proof that God loves us and loves to see us happy."
+    },
+    {
+      "id": "fdf1a655",
+      "en": "He who falls in love with himself will have no rivals."
+    },
+    {
+      "id": "730351d6",
+      "en": "Observe all men, thyself most."
+    },
+    {
+      "id": "d910545b",
+      "en": "He that has done you a kindness will be more ready to do you another, than he whom you yourself have obliged."
+    },
+    {
+      "id": "54b57ec0",
+      "en": "He that composes himself is wiser than he that composes a book."
+    },
+    {
+      "id": "b52af785",
+      "en": "The doors of wisdom are never shut."
+    },
+    {
+      "id": "dd0b98de",
+      "en": "Applause waits on success."
+    },
+    {
+      "id": "9cc47e6c",
+      "en": "Tomorrow, every Fault is to be amended; but that Tomorrow never comes."
+    },
+    {
+      "id": "1fc880f9",
+      "en": "He that would live in peace and at ease must not speak all he knows or all he sees."
+    },
+    {
+      "id": "688f5d24",
+      "en": "Those have a short Lent who owe money to be paid at Easter."
+    },
+    {
+      "id": "9250bac8",
+      "en": "He that waits upon fortune, is never sure of a dinner."
+    },
+    {
+      "id": "a788dc95",
+      "en": "Where there's marriage without love, there will be love without marriage."
+    },
+    {
+      "id": "347c2a77",
+      "en": "Time is money."
+    },
+    {
+      "id": "de699fcd",
+      "en": "When in doubt, don't."
+    },
+    {
+      "id": "9f8dc2be",
+      "en": "Never take a wife till thou hast a house (and a fire) to put her in."
+    },
+    {
+      "id": "66c02384",
+      "en": "Rebellion against tyrants is obedience to God."
+    },
+    {
+      "id": "1f079158",
+      "en": "Diligence is the mother of good luck."
+    },
+    {
+      "id": "7123a1f3",
+      "en": "We are more thoroughly an enlightened people, with respect to our political interests, than perhaps any other under heaven. Every man among us reads, and is so easy in his circumstances as to have leisure for conversations of improvement and for acquiring information."
+    },
+    {
+      "id": "395cf355",
+      "en": "And whether you're an honest man, or whether you're a thief, depends on whose solicitor has given me my brief."
+    },
+    {
+      "id": "798416d6",
+      "en": "If you desire many things, many things will seem few."
+    },
+    {
+      "id": "2e360842",
+      "en": "The use of money is all the advantage there is in having it."
+    },
+    {
+      "id": "8eb2e90a",
+      "en": "A penny saved is two pence clear."
+    },
+    {
+      "id": "3b12f79d",
+      "en": "A life of leisure and a life of laziness are two things. There will be sleeping enough in the grave."
+    },
+    {
+      "id": "1c31270b",
+      "en": "There was never a good war, or a bad peace."
+    },
+    {
+      "id": "29e37d35",
+      "en": "The way to see by Faith is to shut the Eye of Reason."
+    },
+    {
+      "id": "e4be5f7c",
+      "en": "A penny saved is a penny earned."
+    },
+    {
+      "id": "d7bc464d",
+      "en": "He that is of the opinion money will do everything may well be suspected of doing everything for money."
+    },
+    {
+      "id": "28e5e3cf",
+      "en": "He that speaks much, is much mistaken."
+    },
+    {
+      "id": "8e5ee545",
+      "en": "My elder brothers were all put apprentices to different trades. I was put to the grammar-school at eight years of age, my father intending to devote me, as the tithe of his sons, to the service of the Church."
+    },
+    {
+      "id": "2935907c",
+      "en": "They who can give up essential liberty to obtain a little temporary safety deserve neither liberty nor safety."
+    },
+    {
+      "id": "fdf8ece8",
+      "en": "If time be of all things the most precious, wasting time must be the greatest prodigality."
+    },
+    {
+      "id": "762c326f",
+      "en": "Human felicity is produced not as much by great pieces of good fortune that seldom happen as by little advantages that occur every day."
+    },
+    {
+      "id": "be8a6d4d",
+      "en": "Those that won't be counseled can't be helped."
+    },
+    {
+      "id": "866b898c",
+      "en": "Many foxes grow gray but few grow good."
+    },
+    {
+      "id": "0f0b980d",
+      "en": "Who is rich? He that is content. Who is that? Nobody."
+    },
+    {
+      "id": "96c254cf",
+      "en": "I should have no objection to go over the same life from its beginning to the end: requesting only the advantage authors have, of correcting in a second edition the faults of the first."
+    },
+    {
+      "id": "a484909c",
+      "en": "The Constitution only gives people the right to pursue happiness. You have to catch it yourself."
+    },
+    {
+      "id": "052f7ad1",
+      "en": "If you would know the value of money, go and try to borrow some."
+    },
+    {
+      "id": "8d4e2970",
+      "en": "Without continual growth and progress, such words as improvement, achievement, and success have no meaning."
+    },
+    {
+      "id": "c4f882ca",
+      "en": "There cannot be a stronger natural right than that of a man's making the best profit he can of the natural produce of his lands."
+    },
+    {
+      "id": "3719084e",
+      "en": "Without freedom of thought, there can be no such thing as wisdom - and no such thing as public liberty without freedom of speech."
+    },
+    {
+      "id": "bf364669",
+      "en": "If you would have a faithful servant, and one that you like, serve yourself."
+    },
+    {
+      "id": "002dadb9",
+      "en": "He that displays too often his wife and his wallet is in danger of having both of them borrowed."
+    },
+    {
+      "id": "b35a78dc",
+      "en": "Creditors have better memories than debtors."
+    },
+    {
+      "id": "77132e45",
+      "en": "Hear reason, or she'll make you feel her."
+    },
+    {
+      "id": "f061cc51",
+      "en": "Three can keep a secret, if two of them are dead."
+    },
+    {
+      "id": "5f87d384",
+      "en": "If all printers were determined not to print anything till they were sure it would offend nobody, there would be very little printed."
+    },
+    {
+      "id": "2c10ded7",
+      "en": "Those disputing, contradicting, and confuting people are generally unfortunate in their affairs. They get victory, sometimes, but they never get good will, which would be of more use to them."
+    },
+    {
+      "id": "4a52732f",
+      "en": "Wealth is not his that has it, but his that enjoys it."
+    },
+    {
+      "id": "73cd8fa6",
+      "en": "Those who govern, having much business on their hands, do not generally like to take the trouble of considering and carrying into execution new projects. The best public measures are therefore seldom adopted from previous wisdom, but forced by the occasion."
+    },
+    {
+      "id": "6d5687ff",
+      "en": "Having been poor is no shame, but being ashamed of it, is."
+    },
+    {
+      "id": "3b88ac1b",
+      "en": "Speak ill of no man, but speak all the good you know of everybody."
+    },
+    {
+      "id": "b9163b24",
+      "en": "I look upon death to be as necessary to our constitution as sleep. We shall rise refreshed in the morning."
+    },
+    {
+      "id": "d59cc810",
+      "en": "Content makes poor men rich; discontent makes rich men poor."
+    },
+    {
+      "id": "7459a5cd",
+      "en": "An egg today is better than a hen to-morrow."
+    },
+    {
+      "id": "08588c86",
+      "en": "I wake up every morning at nine and grab for the morning paper. Then I look at the obituary page. If my name is not on it, I get up."
+    },
+    {
+      "id": "37dfed0a",
+      "en": "He that raises a large family does, indeed, while he lives to observe them, stand a broader mark for sorrow; but then he stands a broader mark for pleasure too."
+    },
+    {
+      "id": "24a51087",
+      "en": "By failing to prepare, you are preparing to fail."
+    }
+  ]
+}

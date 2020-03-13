@@ -1,7 +1,7 @@
 {
   "meta": {
     "title": "A short-list of authors and their quotes in 'Open Quotes'.",
-    "authorList": "./authors.txt"
+    "authorList": "./authors.txt",
     "locales": [ "en", "zh" ],
     "properties": [ "id", "name" ]
   },
@@ -25,7 +25,9 @@
     { "id": "booker-t-washington" },
     { "id": "charles-dickens" },
     { "id": "confucius" },
+    { "id": "fyodor-dostoevsky" },
     { "id": "george-eliot" },
+    { "id": "hans-christian-andersen" },
     { "id": "henry-ford" },
     { "id": "jack-london" },
     { "id": "jane-austen" },
@@ -50,6 +52,7 @@
     { "id": "william-shakespeare" },
     { "id": "winston-churchill" },
     { "id": "woody-allen" },
+    { "id": "william-wordsworth" },
     { "id": "zhuangzi", "zh": "莊子", "name": "Zhuang Zhou (Chuang Tzŭ)" }
   ]
 }

@@ -5,23 +5,37 @@
  * @see https://stackoverflow.com/questions/6156501/read-a-file-one-line-at-a-time-in-node-js
  */
 
+const SHORT_LIST = require('../data/short-list');
 const cheerio = require('cheerio');
 const fs = require('fs');
 const readline = require('readline');
 const path = require('path');
 
-const AUTHOR_REF = 'a-a-milne';
+const BY_LETTER = false;
 
-const LIMIT = 1;
+const AUTHOR_REF = 'a-a-milne';
 const LETTER = 'a';
+const LIMIT = 999;
+const COMPACT_JSON = false;
 const STATS_FILE = path.join(__dirname, '..', 'data', 'stats', `${LETTER}.json`);
 
-const authorRefs = getAuthorsStarting(LETTER);
+let authorRefs;
+if (BY_LETTER) {
+  authorRefs = getAuthorsStarting(LETTER);
+} else {
+  authorRefs = Promise.resolve(SHORT_LIST.data.map(author => author.id));
+  console.log('By short-list:', authorRefs);
+}
+
+// process.exit( 1 );
+
+const DIR = BY_LETTER ? LETTER : 'short-list';
+
 let stats = [];
 
 authorRefs.then(async refs => {
   await refs.slice(0, LIMIT).forEach(async (ref) => {
-    await parseHtmlFile(ref);
+    await parseHtmlFile(ref, DIR);
   });
 
   writeCompactJsonFile(STATS_FILE, { stats });
@@ -65,14 +79,19 @@ async function processLineByLine(filePath, callbackFn) {
 
 function writeCompactJsonFile(filePath, data) {
   const json = JSON.stringify(data, null, 2);
-  const compacted = json.replace(/\},\s+\{/gms, '},{').replace(/  /g, '').replace(/": "/g, '":"');
+  let compacted;
+  if (COMPACT_JSON) {
+    compacted = json.replace(/\},\s+\{/gms, '},{').replace(/  /g, '').replace(/": "/g, '":"');
+  } else {
+    compacted = json;
+  }
 
   fs.promises.writeFile(filePath, compacted);
 }
 
-async function parseHtmlFile(authorRef = AUTHOR_REF) {
+async function parseHtmlFile(authorRef = AUTHOR_REF, $dir = LETTER) {
   const INPUT  = path.join(__dirname, '..', 'openquotes.github.io', 'authors', `${authorRef}-quotes`, 'index.html');
-  const OUTPUT = path.join(__dirname, '..', 'data', 'a', `${authorRef}-quotes.json`);
+  const OUTPUT = path.join(__dirname, '..', 'data', $dir, `${authorRef}-quotes.json`);
 
   const HTML = await fs.promises.readFile(INPUT, 'utf8');
   const $ = cheerio.load(HTML);
