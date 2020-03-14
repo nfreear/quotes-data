@@ -1,10 +1,18 @@
 {
   "meta": {
     "title": "A short-list of authors and their quotes in 'Open Quotes'.",
+    "copyright": "'All quotations remain the intellectual property of their authors...'",
     "count": 46,
-    "authorList": "./authors.txt",
+    "authorList": "data/authors.txt",
+    "authorPath": "data/short-list/{ID}-quotes.json",
     "locales": [ "en", "zh" ],
     "properties": [ "id", "name" ]
+  },
+
+  "urls": {
+    "author": "https://openquotes.github.io/authors/{ID}",
+    "copyright": "https://openquotes.github.io/copyright/",
+    "image": "https://openquotes.github.io/img/authors/{ID}-quotes.jpg"
   },
 
   "#": [
@@ -48,6 +56,7 @@
     { "id": "oscar-wilde" },
     { "id": "pablo-picasso" },
     { "id": "plato" },
+    { "id": "pliny-the-elder" },
     { "id": "richard-p-feynman" },
     { "id": "roald-dahl" },
     { "id": "rosa-parks" },
