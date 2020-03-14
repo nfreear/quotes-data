@@ -1,101 +1,125 @@
 {
-  "name": "Unknown",
-  "image": "Unknown",
-  "quotes": [
+  "author": "Unknown",
+  "imageId": "Unknown",
+  "data": [
     {
-      "id": "9205d40f",
+      "qid": "9205d40f",
+      "author": "Unknown",
       "en": "Preach the Gospel at all times and when necessary use words."
     },
     {
-      "id": "24420a48",
+      "qid": "24420a48",
+      "author": "Unknown",
       "en": "True change takes place in the imagination."
     },
     {
-      "id": "4681572f",
+      "qid": "4681572f",
+      "author": "Unknown",
       "en": "It's a damn poor mind that can only think of one way to spell a word."
     },
     {
-      "id": "667b5b04",
+      "qid": "667b5b04",
+      "author": "Unknown",
       "en": "He was a wise man who invented beer."
     },
     {
-      "id": "8cd88ba1",
+      "qid": "8cd88ba1",
+      "author": "Unknown",
       "en": "The past cannot be changed. The future is yet in your power."
     },
     {
-      "id": "5a1901f5",
+      "qid": "5a1901f5",
+      "author": "Unknown",
       "en": "Never ascribe to malice that which is adequately explained by incompetence."
     },
     {
-      "id": "c374722e",
+      "qid": "c374722e",
+      "author": "Unknown",
       "en": "You have to learn the rules of the game. And then you have to play better than anyone else."
     },
     {
-      "id": "949b6c7c",
+      "qid": "949b6c7c",
+      "author": "Unknown",
       "en": "I freed a thousand slaves I could have freed a thousand more if only they knew they were slaves."
     },
     {
-      "id": "5bc5af96",
+      "qid": "5bc5af96",
+      "author": "Unknown",
       "en": "An insincere and evil friend is more to be feared than a wild beast; a wild beast may wound your body, but an evil friend will wound your mind."
     },
     {
-      "id": "40808571",
+      "qid": "40808571",
+      "author": "Unknown",
       "en": "In a time of universal deceit - telling the truth is a revolutionary act."
     },
     {
-      "id": "b8f907e0",
+      "qid": "b8f907e0",
+      "author": "Unknown",
       "en": "However beautiful the strategy, you should occasionally look at the results."
     },
     {
-      "id": "9a5966cd",
+      "qid": "9a5966cd",
+      "author": "Unknown",
       "en": "You should examine yourself daily. If you find faults, you should correct them. When you find none, you should try even harder."
     },
     {
-      "id": "ec721d8b",
+      "qid": "ec721d8b",
+      "author": "Unknown",
       "en": "Turn your face to the sun and the shadows fall behind you."
     },
     {
-      "id": "ce51c9f2",
+      "qid": "ce51c9f2",
+      "author": "Unknown",
       "en": "Large skepticism leads to large understanding. Small skepticism leads to small understanding. No skepticism leads to no understanding."
     },
     {
-      "id": "338445f4",
+      "qid": "338445f4",
+      "author": "Unknown",
       "en": "There is no such thing as a good tax."
     },
     {
-      "id": "f00f6252",
+      "qid": "f00f6252",
+      "author": "Unknown",
       "en": "The secret to creativity is knowing how to hide your sources."
     },
     {
-      "id": "56af92a9",
+      "qid": "56af92a9",
+      "author": "Unknown",
       "en": "The way is not in the sky. The way is in the heart."
     },
     {
-      "id": "d9b4984b",
+      "qid": "d9b4984b",
+      "author": "Unknown",
       "en": "A picture is worth a thousand words."
     },
     {
-      "id": "8f350dba",
+      "qid": "8f350dba",
+      "author": "Unknown",
       "en": "All warfare is based on deception."
     },
     {
-      "id": "2606a5ba",
+      "qid": "2606a5ba",
+      "author": "Unknown",
       "en": "There has to be evil so that good can prove its purity above it."
     },
     {
-      "id": "a00bee7b",
+      "qid": "a00bee7b",
+      "author": "Unknown",
       "en": "Women are like teabags. We don't know our true strength until we are in hot water!"
     },
     {
-      "id": "1be30f46",
+      "qid": "1be30f46",
+      "author": "Unknown",
       "en": "People who say it cannot be done should not interrupt those who are doing it."
     },
     {
-      "id": "3ef01062",
+      "qid": "3ef01062",
+      "author": "Unknown",
       "en": "I never drink water because of the disgusting things that fish do in it."
     },
     {
-      "id": "ed00bd1f",
+      "qid": "ed00bd1f",
+      "author": "Unknown",
       "en": "Everybody wants to go to heaven, but nobody wants to die."
     }
   ]

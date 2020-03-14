@@ -1,849 +1,1060 @@
 {
-  "name": "William Shakespeare",
-  "image": "William-Shakespeare",
-  "quotes": [
+  "author": "William Shakespeare",
+  "imageId": "William-Shakespeare",
+  "data": [
     {
-      "id": "8557b53f",
+      "qid": "8557b53f",
+      "author": "William Shakespeare",
       "en": "Speak low, if you speak love."
     },
     {
-      "id": "45b8e56e",
+      "qid": "45b8e56e",
+      "author": "William Shakespeare",
       "en": "The stroke of death is as a lover's pinch, which hurts and is desired."
     },
     {
-      "id": "1c4368e7",
+      "qid": "1c4368e7",
+      "author": "William Shakespeare",
       "en": "The fashion of the world is to avoid cost, and you encounter it."
     },
     {
-      "id": "6170658f",
+      "qid": "6170658f",
+      "author": "William Shakespeare",
       "en": "How sharper than a serpent's tooth it is to have a thankless child!"
     },
     {
-      "id": "7ce029c8",
+      "qid": "7ce029c8",
+      "author": "William Shakespeare",
       "en": "The empty vessel makes the loudest sound."
     },
     {
-      "id": "6464c8f7",
+      "qid": "6464c8f7",
+      "author": "William Shakespeare",
       "en": "So foul and fair a day I have not seen."
     },
     {
-      "id": "e480d619",
+      "qid": "e480d619",
+      "author": "William Shakespeare",
       "en": "Now, God be praised, that to believing souls gives light in darkness, comfort in despair."
     },
     {
-      "id": "9bc503db",
+      "qid": "9bc503db",
+      "author": "William Shakespeare",
       "en": "I give unto my wife my second best bed with the furniture."
     },
     {
-      "id": "3103f08a",
+      "qid": "3103f08a",
+      "author": "William Shakespeare",
       "en": "God has given you one face, and you make yourself another."
     },
     {
-      "id": "fc434efe",
+      "qid": "fc434efe",
+      "author": "William Shakespeare",
       "en": "Sweet mercy is nobility's true badge."
     },
     {
-      "id": "fef0a722",
+      "qid": "fef0a722",
+      "author": "William Shakespeare",
       "en": "Suit the action to the word, the word to the action."
     },
     {
-      "id": "e69c89bc",
+      "qid": "e69c89bc",
+      "author": "William Shakespeare",
       "en": "The evil that men do lives after them; the good is oft interred with their bones."
     },
     {
-      "id": "a78fcd18",
+      "qid": "a78fcd18",
+      "author": "William Shakespeare",
       "en": "I will praise any man that will praise me."
     },
     {
-      "id": "5a05b21c",
+      "qid": "5a05b21c",
+      "author": "William Shakespeare",
       "en": "Uneasy lies the head that wears a crown."
     },
     {
-      "id": "66904d33",
+      "qid": "66904d33",
+      "author": "William Shakespeare",
       "en": "Listen to many, speak to a few."
     },
     {
-      "id": "732166f9",
+      "qid": "732166f9",
+      "author": "William Shakespeare",
       "en": "Men are April when they woo, December when they wed. Maids are May when they are maids, but the sky changes when they are wives."
     },
     {
-      "id": "749a3431",
+      "qid": "749a3431",
+      "author": "William Shakespeare",
       "en": "Thou know'st the first time that we smell the air we wawl and cry. When we are born we cry, that we are come to this great state of fools."
     },
     {
-      "id": "00575358",
+      "qid": "00575358",
+      "author": "William Shakespeare",
       "en": "Death is a fearful thing."
     },
     {
-      "id": "ac8be1b4",
+      "qid": "ac8be1b4",
+      "author": "William Shakespeare",
       "en": "Talking isn't doing. It is a kind of good deed to say well; and yet words are not deeds."
     },
     {
-      "id": "542bf8cf",
+      "qid": "542bf8cf",
+      "author": "William Shakespeare",
       "en": "Nothing can come of nothing."
     },
     {
-      "id": "68a55e02",
+      "qid": "68a55e02",
+      "author": "William Shakespeare",
       "en": "There is no darkness but ignorance."
     },
     {
-      "id": "eb8388d3",
+      "qid": "eb8388d3",
+      "author": "William Shakespeare",
       "en": "For I can raise no money by vile means."
     },
     {
-      "id": "587d7568",
+      "qid": "587d7568",
+      "author": "William Shakespeare",
       "en": "Pleasure and action make the hours seem short."
     },
     {
-      "id": "a1033ccb",
+      "qid": "a1033ccb",
+      "author": "William Shakespeare",
       "en": "For my part, it was Greek to me."
     },
     {
-      "id": "c5f4f113",
+      "qid": "c5f4f113",
+      "author": "William Shakespeare",
       "en": "As flies to wanton boys, are we to the gods; they kill us for their sport."
     },
     {
-      "id": "2581ba89",
+      "qid": "2581ba89",
+      "author": "William Shakespeare",
       "en": "The undiscovered country from whose bourn no traveler returns."
     },
     {
-      "id": "0e4cbdf1",
+      "qid": "0e4cbdf1",
+      "author": "William Shakespeare",
       "en": "Sweet are the uses of adversity which, like the toad, ugly and venomous, wears yet a precious jewel in his head."
     },
     {
-      "id": "9f0b268c",
+      "qid": "9f0b268c",
+      "author": "William Shakespeare",
       "en": "And why not death rather than living torment? To die is to be banish'd from myself; And Silvia is myself: banish'd from her Is self from self: a deadly banishment!"
     },
     {
-      "id": "a04ff897",
+      "qid": "a04ff897",
+      "author": "William Shakespeare",
       "en": "But if it be a sin to covet honour, I am the most offending soul alive."
     },
     {
-      "id": "5fc5fe88",
+      "qid": "5fc5fe88",
+      "author": "William Shakespeare",
       "en": "O' What may man within him hide, though angel on the outward side!"
     },
     {
-      "id": "4908efba",
+      "qid": "4908efba",
+      "author": "William Shakespeare",
       "en": "To be, or not to be, that is the question."
     },
     {
-      "id": "0999fcaa",
+      "qid": "0999fcaa",
+      "author": "William Shakespeare",
       "en": "If to do were as easy as to know what were good to do, chapels had been churches, and poor men's cottage princes' palaces."
     },
     {
-      "id": "ca4ad18e",
+      "qid": "ca4ad18e",
+      "author": "William Shakespeare",
       "en": "Men shut their doors against a setting sun."
     },
     {
-      "id": "d46bb551",
+      "qid": "d46bb551",
+      "author": "William Shakespeare",
       "en": "There have been many great men that have flattered the people who ne'er loved them."
     },
     {
-      "id": "c8772dab",
+      "qid": "c8772dab",
+      "author": "William Shakespeare",
       "en": "This above all; to thine own self be true."
     },
     {
-      "id": "f6c8bf9d",
+      "qid": "f6c8bf9d",
+      "author": "William Shakespeare",
       "en": "Teach not thy lip such scorn, for it was made For kissing, lady, not for such contempt."
     },
     {
-      "id": "2f9d5d40",
+      "qid": "2f9d5d40",
+      "author": "William Shakespeare",
       "en": "Virtue itself scapes not calumnious strokes."
     },
     {
-      "id": "7afdd00f",
+      "qid": "7afdd00f",
+      "author": "William Shakespeare",
       "en": "Having nothing, nothing can he lose."
     },
     {
-      "id": "84847e58",
+      "qid": "84847e58",
+      "author": "William Shakespeare",
       "en": "A peace is of the nature of a conquest; for then both parties nobly are subdued, and neither party loser."
     },
     {
-      "id": "5321449b",
+      "qid": "5321449b",
+      "author": "William Shakespeare",
       "en": "Where every something, being blent together turns to a wild of nothing."
     },
     {
-      "id": "77a5e34b",
+      "qid": "77a5e34b",
+      "author": "William Shakespeare",
       "en": "No, I will be the pattern of all patience; I will say nothing."
     },
     {
-      "id": "deb984f1",
+      "qid": "deb984f1",
+      "author": "William Shakespeare",
       "en": "Mind your speech a little lest you should mar your fortunes."
     },
     {
-      "id": "77532167",
+      "qid": "77532167",
+      "author": "William Shakespeare",
       "en": "Let every eye negotiate for itself and trust no agent."
     },
     {
-      "id": "ef620ad3",
+      "qid": "ef620ad3",
+      "author": "William Shakespeare",
       "en": "If you can look into the seeds of time, and say which grain will grow and which will not, speak then unto me."
     },
     {
-      "id": "efcd560d",
+      "qid": "efcd560d",
+      "author": "William Shakespeare",
       "en": "The very substance of the ambitious is merely the shadow of a dream."
     },
     {
-      "id": "228da7bd",
+      "qid": "228da7bd",
+      "author": "William Shakespeare",
       "en": "They do not love that do not show their love."
     },
     {
-      "id": "87054b05",
+      "qid": "87054b05",
+      "author": "William Shakespeare",
       "en": "I shall the effect of this good lesson keeps as watchman to my heart."
     },
     {
-      "id": "9052d6d0",
+      "qid": "9052d6d0",
+      "author": "William Shakespeare",
       "en": "How far that little candle throws its beams! So shines a good deed in a naughty world."
     },
     {
-      "id": "007ca94c",
+      "qid": "007ca94c",
+      "author": "William Shakespeare",
       "en": "Our peace shall stand as firm as rocky mountains."
     },
     {
-      "id": "2a2126fb",
+      "qid": "2a2126fb",
+      "author": "William Shakespeare",
       "en": "Some rise by sin, and some by virtue fall."
     },
     {
-      "id": "f2369f14",
+      "qid": "f2369f14",
+      "author": "William Shakespeare",
       "en": "Poor and content is rich, and rich enough."
     },
     {
-      "id": "7b8b9f9a",
+      "qid": "7b8b9f9a",
+      "author": "William Shakespeare",
       "en": "It will have blood, they say; blood will have blood."
     },
     {
-      "id": "6eec6d43",
+      "qid": "6eec6d43",
+      "author": "William Shakespeare",
       "en": "'Tis one thing to be tempted, another thing to fall."
     },
     {
-      "id": "8ee8f147",
+      "qid": "8ee8f147",
+      "author": "William Shakespeare",
       "en": "With mirth and laughter let old wrinkles come."
     },
     {
-      "id": "e08e6e03",
+      "qid": "e08e6e03",
+      "author": "William Shakespeare",
       "en": "But O, how bitter a thing it is to look into happiness through another man's eyes."
     },
     {
-      "id": "1090d63f",
+      "qid": "1090d63f",
+      "author": "William Shakespeare",
       "en": "Wisely, and slow. They stumble that run fast."
     },
     {
-      "id": "445d4915",
+      "qid": "445d4915",
+      "author": "William Shakespeare",
       "en": "They say miracles are past."
     },
     {
-      "id": "a4ff09fe",
+      "qid": "a4ff09fe",
+      "author": "William Shakespeare",
       "en": "Ignorance is the curse of God; knowledge is the wing wherewith we fly to heaven."
     },
     {
-      "id": "7d4bdffd",
+      "qid": "7d4bdffd",
+      "author": "William Shakespeare",
       "en": "Heat not a furnace for your foe so hot that it do singe yourself."
     },
     {
-      "id": "b9ea0f17",
+      "qid": "b9ea0f17",
+      "author": "William Shakespeare",
       "en": "Let me embrace thee, sour adversity, for wise men say it is the wisest course."
     },
     {
-      "id": "14878405",
+      "qid": "14878405",
+      "author": "William Shakespeare",
       "en": "Most dangerous is that temptation that doth goad us on to sin in loving virtue."
     },
     {
-      "id": "19921b8e",
+      "qid": "19921b8e",
+      "author": "William Shakespeare",
       "en": "Use every man after his desert, and who should scape whipping?"
     },
     {
-      "id": "4c6e12ca",
+      "qid": "4c6e12ca",
+      "author": "William Shakespeare",
       "en": "Praise us as we are tasted, allow us as we prove."
     },
     {
-      "id": "77ad98a1",
+      "qid": "77ad98a1",
+      "author": "William Shakespeare",
       "en": "'Tis not enough to help the feeble up, but to support them after."
     },
     {
-      "id": "6e0c5972",
+      "qid": "6e0c5972",
+      "author": "William Shakespeare",
       "en": "Life every man holds dear; but the dear man holds honor far more precious dear than life."
     },
     {
-      "id": "e13e18b9",
+      "qid": "e13e18b9",
+      "author": "William Shakespeare",
       "en": "What's done can't be undone."
     },
     {
-      "id": "03f8b16a",
+      "qid": "03f8b16a",
+      "author": "William Shakespeare",
       "en": "Words, words, mere words, no matter from the heart."
     },
     {
-      "id": "01909b08",
+      "qid": "01909b08",
+      "author": "William Shakespeare",
       "en": "Suspicion always haunts the guilty mind."
     },
     {
-      "id": "367037c5",
+      "qid": "367037c5",
+      "author": "William Shakespeare",
       "en": "It is the stars, The stars above us, govern our conditions."
     },
     {
-      "id": "cf0a468c",
+      "qid": "cf0a468c",
+      "author": "William Shakespeare",
       "en": "Good night, good night! Parting is such sweet sorrow, that I shall say good night till it be morrow."
     },
     {
-      "id": "4af8d0f3",
+      "qid": "4af8d0f3",
+      "author": "William Shakespeare",
       "en": "One touch of nature makes the whole world kin."
     },
     {
-      "id": "6a05d882",
+      "qid": "6a05d882",
+      "author": "William Shakespeare",
       "en": "Give thy thoughts no tongue."
     },
     {
-      "id": "4bd3a09f",
+      "qid": "4bd3a09f",
+      "author": "William Shakespeare",
       "en": "I must be cruel, only to be kind."
     },
     {
-      "id": "b06fe85b",
+      "qid": "b06fe85b",
+      "author": "William Shakespeare",
       "en": "O! Let me not be mad, not mad, sweet heaven; keep me in temper; I would not be mad!"
     },
     {
-      "id": "030c1599",
+      "qid": "030c1599",
+      "author": "William Shakespeare",
       "en": "The wheel is come full circle."
     },
     {
-      "id": "7d874c33",
+      "qid": "7d874c33",
+      "author": "William Shakespeare",
       "en": "It is a wise father that knows his own child."
     },
     {
-      "id": "93fcc906",
+      "qid": "93fcc906",
+      "author": "William Shakespeare",
       "en": "Fishes live in the sea, as men do a-land; the great ones eat up the little ones."
     },
     {
-      "id": "f5a74851",
+      "qid": "f5a74851",
+      "author": "William Shakespeare",
       "en": "As he was valiant, I honour him. But as he was ambitious, I slew him."
     },
     {
-      "id": "345e2ac9",
+      "qid": "345e2ac9",
+      "author": "William Shakespeare",
       "en": "This life, which had been the tomb of his virtue and of his honour, is but a walking shadow; a poor player, that struts and frets his hour upon the stage, and then is heard no more: it is a tale told by an idiot, full of sound and fury, signifying nothing."
     },
     {
-      "id": "2dbd2f16",
+      "qid": "2dbd2f16",
+      "author": "William Shakespeare",
       "en": "If you prick us do we not bleed? If you tickle us do we not laugh? If you poison us do we not die? And if you wrong us shall we not revenge?"
     },
     {
-      "id": "b833a585",
+      "qid": "b833a585",
+      "author": "William Shakespeare",
       "en": "Men's vows are women's traitors!"
     },
     {
-      "id": "6fa91db4",
+      "qid": "6fa91db4",
+      "author": "William Shakespeare",
       "en": "Some are born great, some achieve greatness, and some have greatness thrust upon them."
     },
     {
-      "id": "b601625e",
+      "qid": "b601625e",
+      "author": "William Shakespeare",
       "en": "A man loves the meat in his youth that he cannot endure in his age."
     },
     {
-      "id": "f52b4439",
+      "qid": "f52b4439",
+      "author": "William Shakespeare",
       "en": "Like as the waves make towards the pebbl'd shore, so do our minutes, hasten to their end."
     },
     {
-      "id": "2903d8bf",
+      "qid": "2903d8bf",
+      "author": "William Shakespeare",
       "en": "Give me my robe, put on my crown; I have Immortal longings in me."
     },
     {
-      "id": "53173a46",
+      "qid": "53173a46",
+      "author": "William Shakespeare",
       "en": "Virtue is bold, and goodness never fearful."
     },
     {
-      "id": "5c4dce75",
+      "qid": "5c4dce75",
+      "author": "William Shakespeare",
       "en": "I had rather have a fool to make me merry than experience to make me sad and to travel for it too!"
     },
     {
-      "id": "a1528c60",
+      "qid": "a1528c60",
+      "author": "William Shakespeare",
       "en": "Love is a smoke made with the fume of sighs."
     },
     {
-      "id": "a95ff9b2",
+      "qid": "a95ff9b2",
+      "author": "William Shakespeare",
       "en": "Faith, there hath been many great men that have flattered the people who ne'er loved them."
     },
     {
-      "id": "b78965f6",
+      "qid": "b78965f6",
+      "author": "William Shakespeare",
       "en": "He that loves to be flattered is worthy o' the flatterer."
     },
     {
-      "id": "1a5a96a9",
+      "qid": "1a5a96a9",
+      "author": "William Shakespeare",
       "en": "Go to you bosom: Knock there, and ask your heart what it doth know."
     },
     {
-      "id": "6ce1522e",
+      "qid": "6ce1522e",
+      "author": "William Shakespeare",
       "en": "He is winding the watch of his wit; by and by it will strike."
     },
     {
-      "id": "3aae81b1",
+      "qid": "3aae81b1",
+      "author": "William Shakespeare",
       "en": "All the world's a stage, and all the men and women merely players: they have their exits and their entrances; and one man in his time plays many parts, his acts being seven ages."
     },
     {
-      "id": "ede03a19",
+      "qid": "ede03a19",
+      "author": "William Shakespeare",
       "en": "No legacy is so rich as honesty."
     },
     {
-      "id": "0f4f1afb",
+      "qid": "0f4f1afb",
+      "author": "William Shakespeare",
       "en": "The robbed that smiles, steals something from the thief."
     },
     {
-      "id": "0bb3eb8a",
+      "qid": "0bb3eb8a",
+      "author": "William Shakespeare",
       "en": "How oft the sight of means to do ill deeds makes ill deeds done!"
     },
     {
-      "id": "5db148c3",
+      "qid": "5db148c3",
+      "author": "William Shakespeare",
       "en": "Farewell, fair cruelty."
     },
     {
-      "id": "3947be4a",
+      "qid": "3947be4a",
+      "author": "William Shakespeare",
       "en": "To do a great right do a little wrong."
     },
     {
-      "id": "bbbfc95a",
+      "qid": "bbbfc95a",
+      "author": "William Shakespeare",
       "en": "Give every man thy ear, but few thy voice."
     },
     {
-      "id": "fe6e0b98",
+      "qid": "fe6e0b98",
+      "author": "William Shakespeare",
       "en": "'Tis better to bear the ills we have than fly to others that we know not of."
     },
     {
-      "id": "ea07fcaa",
+      "qid": "ea07fcaa",
+      "author": "William Shakespeare",
       "en": "Love is too young to know what conscience is."
     },
     {
-      "id": "2981f71a",
+      "qid": "2981f71a",
+      "author": "William Shakespeare",
       "en": "O God, O God, how weary, stale, flat, and unprofitable seem to me all the uses of this world!"
     },
     {
-      "id": "96262b45",
+      "qid": "96262b45",
+      "author": "William Shakespeare",
       "en": "There's no art to find the mind's construction in the face."
     },
     {
-      "id": "0fb38929",
+      "qid": "0fb38929",
+      "author": "William Shakespeare",
       "en": "What is past is prologue."
     },
     {
-      "id": "8d307138",
+      "qid": "8d307138",
+      "author": "William Shakespeare",
       "en": "What a piece of work is a man, how noble in reason, how infinite in faculties, in form and moving how express and admirable, in action how like an angel, in apprehension how like a god."
     },
     {
-      "id": "f059bfb5",
+      "qid": "f059bfb5",
+      "author": "William Shakespeare",
       "en": "If you have tears, prepare to shed them now."
     },
     {
-      "id": "d10b5e33",
+      "qid": "d10b5e33",
+      "author": "William Shakespeare",
       "en": "There's not a note of mine that's worth the noting."
     },
     {
-      "id": "c84ccfe0",
+      "qid": "c84ccfe0",
+      "author": "William Shakespeare",
       "en": "Love is not love that alters when it alteration finds."
     },
     {
-      "id": "f3be2ebd",
+      "qid": "f3be2ebd",
+      "author": "William Shakespeare",
       "en": "When we are born we cry that we are come to this great stage of fools."
     },
     {
-      "id": "40b75b53",
+      "qid": "40b75b53",
+      "author": "William Shakespeare",
       "en": "In a false quarrel there is no true valor."
     },
     {
-      "id": "afb9708f",
+      "qid": "afb9708f",
+      "author": "William Shakespeare",
       "en": "If it be a sin to covet honor, I am the most offending soul."
     },
     {
-      "id": "45885434",
+      "qid": "45885434",
+      "author": "William Shakespeare",
       "en": "A fool thinks himself to be wise, but a wise man knows himself to be a fool."
     },
     {
-      "id": "926fbe87",
+      "qid": "926fbe87",
+      "author": "William Shakespeare",
       "en": "Exceeds man's might: that dwells with the gods above."
     },
     {
-      "id": "39ea2dea",
+      "qid": "39ea2dea",
+      "author": "William Shakespeare",
       "en": "Things done well and with a care, exempt themselves from fear."
     },
     {
-      "id": "71c4ca2e",
+      "qid": "71c4ca2e",
+      "author": "William Shakespeare",
       "en": "'Tis best to weigh the enemy more mighty than he seems."
     },
     {
-      "id": "453db5aa",
+      "qid": "453db5aa",
+      "author": "William Shakespeare",
       "en": "Fortune brings in some boats that are not steered."
     },
     {
-      "id": "b512c71d",
+      "qid": "b512c71d",
+      "author": "William Shakespeare",
       "en": "Doubt thou the stars are fire, Doubt that the sun doth move. Doubt truth to be a liar, But never doubt I love."
     },
     {
-      "id": "9f4825d0",
+      "qid": "9f4825d0",
+      "author": "William Shakespeare",
       "en": "There are many events in the womb of time, which will be delivered."
     },
     {
-      "id": "a7828d77",
+      "qid": "a7828d77",
+      "author": "William Shakespeare",
       "en": "O, had I but followed the arts!"
     },
     {
-      "id": "b818a913",
+      "qid": "b818a913",
+      "author": "William Shakespeare",
       "en": "Our doubts are traitors and make us lose the good we oft might win by fearing to attempt."
     },
     {
-      "id": "ae978f6d",
+      "qid": "ae978f6d",
+      "author": "William Shakespeare",
       "en": "What's in a name? That which we call a rose by any other name would smell as sweet."
     },
     {
-      "id": "2b821056",
+      "qid": "2b821056",
+      "author": "William Shakespeare",
       "en": "Truly, I would not hang a dog by my will, much more a man who hath any honesty in him."
     },
     {
-      "id": "cc9bcd91",
+      "qid": "cc9bcd91",
+      "author": "William Shakespeare",
       "en": "The course of true love never did run smooth."
     },
     {
-      "id": "3cd32002",
+      "qid": "3cd32002",
+      "author": "William Shakespeare",
       "en": "There was never yet fair woman but she made mouths in a glass."
     },
     {
-      "id": "1bd81923",
+      "qid": "1bd81923",
+      "author": "William Shakespeare",
       "en": "And oftentimes excusing of a fault doth make the fault the worse by the excuse."
     },
     {
-      "id": "ecd4eb55",
+      "qid": "ecd4eb55",
+      "author": "William Shakespeare",
       "en": "Better three hours too soon than a minute too late."
     },
     {
-      "id": "796a56d8",
+      "qid": "796a56d8",
+      "author": "William Shakespeare",
       "en": "How well he's read, to reason against reading!"
     },
     {
-      "id": "636c7cdb",
+      "qid": "636c7cdb",
+      "author": "William Shakespeare",
       "en": "By that sin fell the angels."
     },
     {
-      "id": "1d98c9f3",
+      "qid": "1d98c9f3",
+      "author": "William Shakespeare",
       "en": "There is nothing either good or bad but thinking makes it so."
     },
     {
-      "id": "a937bba4",
+      "qid": "a937bba4",
+      "author": "William Shakespeare",
       "en": "There is a tide in the affairs of men, Which taken at the flood, leads on to fortune. Omitted, all the voyage of their life is bound in shallows and in miseries. On such a full sea are we now afloat. And we must take the current when it serves, or lose our ventures."
     },
     {
-      "id": "fd8b2126",
+      "qid": "fd8b2126",
+      "author": "William Shakespeare",
       "en": "Better a witty fool than a foolish wit."
     },
     {
-      "id": "68d37bba",
+      "qid": "68d37bba",
+      "author": "William Shakespeare",
       "en": "Life is as tedious as twice-told tale, vexing the dull ear of a drowsy man."
     },
     {
-      "id": "766e4287",
+      "qid": "766e4287",
+      "author": "William Shakespeare",
       "en": "Well, if Fortune be a woman, she's a good wench for this gear."
     },
     {
-      "id": "14a05080",
+      "qid": "14a05080",
+      "author": "William Shakespeare",
       "en": "Love sought is good, but given unsought, is better."
     },
     {
-      "id": "b6fddef2",
+      "qid": "b6fddef2",
+      "author": "William Shakespeare",
       "en": "Now is the winter of our discontent."
     },
     {
-      "id": "b182aff1",
+      "qid": "b182aff1",
+      "author": "William Shakespeare",
       "en": "An overflow of good converts to bad."
     },
     {
-      "id": "bebc6d66",
+      "qid": "bebc6d66",
+      "author": "William Shakespeare",
       "en": "Lord, Lord, how subject we old men are to this vice of lying!"
     },
     {
-      "id": "2e8b7523",
+      "qid": "2e8b7523",
+      "author": "William Shakespeare",
       "en": "Such as we are made of, such we be."
     },
     {
-      "id": "f0e16ace",
+      "qid": "f0e16ace",
+      "author": "William Shakespeare",
       "en": "Nature hath framed strange fellows in her time."
     },
     {
-      "id": "e6da002f",
+      "qid": "e6da002f",
+      "author": "William Shakespeare",
       "en": "When a father gives to his son, both laugh; when a son gives to his father, both cry."
     },
     {
-      "id": "f800feb3",
+      "qid": "f800feb3",
+      "author": "William Shakespeare",
       "en": "To thine own self be true, and it must follow, as the night the day, thou canst not then be false to any man."
     },
     {
-      "id": "d7dc7a19",
+      "qid": "d7dc7a19",
+      "author": "William Shakespeare",
       "en": "Is it not strange that desire should so many years outlive performance?"
     },
     {
-      "id": "777601db",
+      "qid": "777601db",
+      "author": "William Shakespeare",
       "en": "Boldness be my friend."
     },
     {
-      "id": "d14380a4",
+      "qid": "d14380a4",
+      "author": "William Shakespeare",
       "en": "Children wish fathers looked but with their eyes; fathers that children with their judgment looked; and either may be wrong."
     },
     {
-      "id": "449ccec5",
+      "qid": "449ccec5",
+      "author": "William Shakespeare",
       "en": "Let no such man be trusted."
     },
     {
-      "id": "4f56d42b",
+      "qid": "4f56d42b",
+      "author": "William Shakespeare",
       "en": "We are time's subjects, and time bids be gone."
     },
     {
-      "id": "8273f00d",
+      "qid": "8273f00d",
+      "author": "William Shakespeare",
       "en": "O thou invisible spirit of wine, if thou hast no name to be known by, let us call thee devil."
     },
     {
-      "id": "fb7c050e",
+      "qid": "fb7c050e",
+      "author": "William Shakespeare",
       "en": "I dote on his very absence."
     },
     {
-      "id": "d7843270",
+      "qid": "d7843270",
+      "author": "William Shakespeare",
       "en": "He does it with better grace, but I do it more natural."
     },
     {
-      "id": "2af3ccee",
+      "qid": "2af3ccee",
+      "author": "William Shakespeare",
       "en": "It is not in the stars to hold our destiny but in ourselves."
     },
     {
-      "id": "00884506",
+      "qid": "00884506",
+      "author": "William Shakespeare",
       "en": "I say there is no darkness but ignorance."
     },
     {
-      "id": "2258287a",
+      "qid": "2258287a",
+      "author": "William Shakespeare",
       "en": "Come, gentlemen, I hope we shall drink down all unkindness."
     },
     {
-      "id": "c852cafd",
+      "qid": "c852cafd",
+      "author": "William Shakespeare",
       "en": "We know what we are, but know not what we may be."
     },
     {
-      "id": "285c378c",
+      "qid": "285c378c",
+      "author": "William Shakespeare",
       "en": "The man that hath no music in himself, Nor is not moved with concord of sweet sounds, is fit for treasons, stratagems and spoils."
     },
     {
-      "id": "d165d15e",
+      "qid": "d165d15e",
+      "author": "William Shakespeare",
       "en": "Neither a borrower nor a lender be."
     },
     {
-      "id": "a7ed2bee",
+      "qid": "a7ed2bee",
+      "author": "William Shakespeare",
       "en": "Brevity is the soul of wit."
     },
     {
-      "id": "f6478b9e",
+      "qid": "f6478b9e",
+      "author": "William Shakespeare",
       "en": "How poor are they that have not patience! What wound did ever heal but by degrees?"
     },
     {
-      "id": "97af9fb2",
+      "qid": "97af9fb2",
+      "author": "William Shakespeare",
       "en": "My crown is called content, a crown that seldom kings enjoy."
     },
     {
-      "id": "5b6d6b1f",
+      "qid": "5b6d6b1f",
+      "author": "William Shakespeare",
       "en": "God hath given you one face, and you make yourselves another."
     },
     {
-      "id": "d5fede3d",
+      "qid": "d5fede3d",
+      "author": "William Shakespeare",
       "en": "Love all, trust a few, do wrong to none."
     },
     {
-      "id": "5e488e19",
+      "qid": "5e488e19",
+      "author": "William Shakespeare",
       "en": "Women may fall when there's no strength in men."
     },
     {
-      "id": "9c9edf78",
+      "qid": "9c9edf78",
+      "author": "William Shakespeare",
       "en": "I see that the fashion wears out more apparel than the man."
     },
     {
-      "id": "d170db18",
+      "qid": "d170db18",
+      "author": "William Shakespeare",
       "en": "We cannot conceive of matter being formed of nothing, since things require a seed to start from... Therefore there is not anything which returns to nothing, but all things return dissolved into their elements."
     },
     {
-      "id": "952b33a3",
+      "qid": "952b33a3",
+      "author": "William Shakespeare",
       "en": "I were better to be eaten to death with a rust than to be scoured to nothing with perpetual motion."
     },
     {
-      "id": "54d82f0f",
+      "qid": "54d82f0f",
+      "author": "William Shakespeare",
       "en": "I was adored once too."
     },
     {
-      "id": "83190b43",
+      "qid": "83190b43",
+      "author": "William Shakespeare",
       "en": "Maids want nothing but husbands, and when they have them, they want everything."
     },
     {
-      "id": "cfad748a",
+      "qid": "cfad748a",
+      "author": "William Shakespeare",
       "en": "Words without thoughts never to heaven go."
     },
     {
-      "id": "d3309473",
+      "qid": "d3309473",
+      "author": "William Shakespeare",
       "en": "Reputation is an idle and most false imposition; oft got without merit, and lost without deserving."
     },
     {
-      "id": "95d83285",
+      "qid": "95d83285",
+      "author": "William Shakespeare",
       "en": "Who could refrain that had a heart to love and in that heart courage to make love known?"
     },
     {
-      "id": "6a93a78a",
+      "qid": "6a93a78a",
+      "author": "William Shakespeare",
       "en": "The lady doth protest too much, methinks."
     },
     {
-      "id": "dc627cea",
+      "qid": "dc627cea",
+      "author": "William Shakespeare",
       "en": "The most peaceable way for you, if you do take a thief, is, to let him show himself what he is and steal out of your company."
     },
     {
-      "id": "4aabdc1d",
+      "qid": "4aabdc1d",
+      "author": "William Shakespeare",
       "en": "He that is giddy thinks the world turns round."
     },
     {
-      "id": "5eeec07f",
+      "qid": "5eeec07f",
+      "author": "William Shakespeare",
       "en": "There's place and means for every man alive."
     },
     {
-      "id": "121ea464",
+      "qid": "121ea464",
+      "author": "William Shakespeare",
       "en": "My pride fell with my fortunes."
     },
     {
-      "id": "ab6df1f3",
+      "qid": "ab6df1f3",
+      "author": "William Shakespeare",
       "en": "Alas, I am a woman friendless, hopeless!"
     },
     {
-      "id": "c22c4de9",
+      "qid": "c22c4de9",
+      "author": "William Shakespeare",
       "en": "Cowards die many times before their deaths; the valiant never taste of death but once."
     },
     {
-      "id": "ac7daf62",
+      "qid": "ac7daf62",
+      "author": "William Shakespeare",
       "en": "The devil can cite Scripture for his purpose."
     },
     {
-      "id": "280d3b7e",
+      "qid": "280d3b7e",
+      "author": "William Shakespeare",
       "en": "The lunatic, the lover, and the poet, are of imagination all compact."
     },
     {
-      "id": "c024a3fe",
+      "qid": "c024a3fe",
+      "author": "William Shakespeare",
       "en": "I bear a charmed life."
     },
     {
-      "id": "fb86cb37",
+      "qid": "fb86cb37",
+      "author": "William Shakespeare",
       "en": "In time we hate that which we often fear."
     },
     {
-      "id": "c2d36424",
+      "qid": "c2d36424",
+      "author": "William Shakespeare",
       "en": "If we are marked to die, we are enough to do our country loss; and if to live, the fewer men, the greater share of honor."
     },
     {
-      "id": "23314807",
+      "qid": "23314807",
+      "author": "William Shakespeare",
       "en": "The valiant never taste of death but once."
     },
     {
-      "id": "ff81d82e",
+      "qid": "ff81d82e",
+      "author": "William Shakespeare",
       "en": "There's many a man has more hair than wit."
     },
     {
-      "id": "3df49d3f",
+      "qid": "3df49d3f",
+      "author": "William Shakespeare",
       "en": "When sorrows come, they come not single spies, but in battalions."
     },
     {
-      "id": "023e35f4",
+      "qid": "023e35f4",
+      "author": "William Shakespeare",
       "en": "As soon go kindle fire with snow, as seek to quench the fire of love with words."
     },
     {
-      "id": "f7d9a8cf",
+      "qid": "f7d9a8cf",
+      "author": "William Shakespeare",
       "en": "I like not fair terms and a villain's mind."
     },
     {
-      "id": "a672f2c3",
+      "qid": "a672f2c3",
+      "author": "William Shakespeare",
       "en": "We are such stuff as dreams are made on; and our little life is rounded with a sleep."
     },
     {
-      "id": "66fcbf22",
+      "qid": "66fcbf22",
+      "author": "William Shakespeare",
       "en": "Time and the hour run through the roughest day."
     },
     {
-      "id": "d99ad508",
+      "qid": "d99ad508",
+      "author": "William Shakespeare",
       "en": "Lawless are they that make their wills their law."
     },
     {
-      "id": "7b56ad9b",
+      "qid": "7b56ad9b",
+      "author": "William Shakespeare",
       "en": "What, man, defy the devil. Consider, he's an enemy to mankind."
     },
     {
-      "id": "e23af13e",
+      "qid": "e23af13e",
+      "author": "William Shakespeare",
       "en": "And this, our life, exempt from public haunt, finds tongues in trees, books in the running brooks, sermons in stones, and good in everything."
     },
     {
-      "id": "8001f3c8",
+      "qid": "8001f3c8",
+      "author": "William Shakespeare",
       "en": "Love looks not with the eyes, but with the mind, And therefore is winged Cupid painted blind."
     },
     {
-      "id": "07226c8d",
+      "qid": "07226c8d",
+      "author": "William Shakespeare",
       "en": "Hell is empty and all the devils are here."
     },
     {
-      "id": "204333a0",
+      "qid": "204333a0",
+      "author": "William Shakespeare",
       "en": "O! for a muse of fire, that would ascend the brightest heaven of invention."
     },
     {
-      "id": "a6bc7dfc",
+      "qid": "a6bc7dfc",
+      "author": "William Shakespeare",
       "en": "I hold the world but as the world, Gratiano; A stage where every man must play a part, And mine is a sad one."
     },
     {
-      "id": "602ee14e",
+      "qid": "602ee14e",
+      "author": "William Shakespeare",
       "en": "I may neither choose who I would, nor refuse who I dislike; so is the will of a living daughter curbed by the will of a dead father."
     },
     {
-      "id": "7079580d",
+      "qid": "7079580d",
+      "author": "William Shakespeare",
       "en": "Ambition should be made of sterner stuff."
     },
     {
-      "id": "09c05544",
+      "qid": "09c05544",
+      "author": "William Shakespeare",
       "en": "Modest doubt is called the beacon of the wise."
     },
     {
-      "id": "1f79bd00",
+      "qid": "1f79bd00",
+      "author": "William Shakespeare",
       "en": "Many a good hanging prevents a bad marriage."
     },
     {
-      "id": "420468a8",
+      "qid": "420468a8",
+      "author": "William Shakespeare",
       "en": "I never see thy face but I think upon hell-fire."
     },
     {
-      "id": "4de952f6",
+      "qid": "4de952f6",
+      "author": "William Shakespeare",
       "en": "O, what a goodly outside falsehood hath!"
     },
     {
-      "id": "279dcfd7",
+      "qid": "279dcfd7",
+      "author": "William Shakespeare",
       "en": "Things won are done, joy's soul lies in the doing."
     },
     {
-      "id": "9b4a8ef4",
+      "qid": "9b4a8ef4",
+      "author": "William Shakespeare",
       "en": "When words are scarce they are seldom spent in vain."
     },
     {
-      "id": "95c9a25d",
+      "qid": "95c9a25d",
+      "author": "William Shakespeare",
       "en": "Desire of having is the sin of covetousness."
     },
     {
-      "id": "068b767b",
+      "qid": "068b767b",
+      "author": "William Shakespeare",
       "en": "But men are men; the best sometimes forget."
     },
     {
-      "id": "0a402fd3",
+      "qid": "0a402fd3",
+      "author": "William Shakespeare",
       "en": "The attempt and not the deed confounds us."
     },
     {
-      "id": "845ad2d1",
+      "qid": "845ad2d1",
+      "author": "William Shakespeare",
       "en": "False face must hide what the false heart doth know."
     },
     {
-      "id": "7f71b966",
+      "qid": "7f71b966",
+      "author": "William Shakespeare",
       "en": "If music be the food of love, play on."
     },
     {
-      "id": "3631dc9d",
+      "qid": "3631dc9d",
+      "author": "William Shakespeare",
       "en": "I am not bound to please thee with my answer."
     },
     {
-      "id": "9f4afd52",
+      "qid": "9f4afd52",
+      "author": "William Shakespeare",
       "en": "The love of heaven makes one heavenly."
     },
     {
-      "id": "12bb9bb2",
+      "qid": "12bb9bb2",
+      "author": "William Shakespeare",
       "en": "I wasted time, and now doth time waste me."
     }
   ]

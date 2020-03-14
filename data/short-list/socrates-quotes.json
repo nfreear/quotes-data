@@ -1,177 +1,220 @@
 {
-  "name": "Socrates",
-  "image": "Socrates",
-  "quotes": [
+  "author": "Socrates",
+  "imageId": "Socrates",
+  "data": [
     {
-      "id": "ff7186ed",
+      "qid": "ff7186ed",
+      "author": "Socrates",
       "en": "It is not living that matters, but living rightly."
     },
     {
-      "id": "a3e03123",
+      "qid": "a3e03123",
+      "author": "Socrates",
       "en": "Let him that would move the world first move himself."
     },
     {
-      "id": "baaca999",
+      "qid": "baaca999",
+      "author": "Socrates",
       "en": "Not life, but good life, is to be chiefly valued."
     },
     {
-      "id": "5e985c51",
+      "qid": "5e985c51",
+      "author": "Socrates",
       "en": "True knowledge exists in knowing that you know nothing."
     },
     {
-      "id": "c9008e35",
+      "qid": "c9008e35",
+      "author": "Socrates",
       "en": "Beauty is the bait which with delight allures man to enlarge his kind."
     },
     {
-      "id": "5312722e",
+      "qid": "5312722e",
+      "author": "Socrates",
       "en": "A system of morality which is based on relative emotional values is a mere illusion, a thoroughly vulgar conception which has nothing sound in it and nothing true."
     },
     {
-      "id": "3c0c0fcd",
+      "qid": "3c0c0fcd",
+      "author": "Socrates",
       "en": "From the deepest desires often come the deadliest hate."
     },
     {
-      "id": "f5247800",
+      "qid": "f5247800",
+      "author": "Socrates",
       "en": "I am the wisest man alive, for I know one thing, and that is that I know nothing."
     },
     {
-      "id": "d5f86420",
+      "qid": "d5f86420",
+      "author": "Socrates",
       "en": "The end of life is to be like God, and the soul following God will be like Him."
     },
     {
-      "id": "74ba7210",
+      "qid": "74ba7210",
+      "author": "Socrates",
       "en": "I know nothing except the fact of my ignorance."
     },
     {
-      "id": "56ab2759",
+      "qid": "56ab2759",
+      "author": "Socrates",
       "en": "Where there is reverence there is fear, but there is not reverence everywhere that there is fear, because fear presumably has a wider extension than reverence."
     },
     {
-      "id": "8b24f8ba",
+      "qid": "8b24f8ba",
+      "author": "Socrates",
       "en": "I only wish that ordinary people had an unlimited capacity for doing harm; then they might have an unlimited power for doing good."
     },
     {
-      "id": "5627bcf7",
+      "qid": "5627bcf7",
+      "author": "Socrates",
       "en": "As to marriage or celibacy, let a man take which course he will, he will be sure to repent."
     },
     {
-      "id": "e7853cc1",
+      "qid": "e7853cc1",
+      "author": "Socrates",
       "en": "Wisdom begins in wonder."
     },
     {
-      "id": "d0ab50da",
+      "qid": "d0ab50da",
+      "author": "Socrates",
       "en": "The unexamined life is not worth living."
     },
     {
-      "id": "51e029bb",
+      "qid": "51e029bb",
+      "author": "Socrates",
       "en": "If a man is proud of his wealth, he should not be praised until it is known how he employs it."
     },
     {
-      "id": "e15c076b",
+      "qid": "e15c076b",
+      "author": "Socrates",
       "en": "Worthless people live only to eat and drink; people of worth eat and drink only to live."
     },
     {
-      "id": "0f6f0b48",
+      "qid": "0f6f0b48",
+      "author": "Socrates",
       "en": "I decided that it was not wisdom that enabled poets to write their poetry, but a kind of instinct or inspiration, such as you find in seers and prophets who deliver all their sublime messages without knowing in the least what they mean."
     },
     {
-      "id": "967091b9",
+      "qid": "967091b9",
+      "author": "Socrates",
       "en": "Beware the barrenness of a busy life."
     },
     {
-      "id": "f47fa4c5",
+      "qid": "f47fa4c5",
+      "author": "Socrates",
       "en": "Once made equal to man, woman becomes his superior."
     },
     {
-      "id": "4bc546c2",
+      "qid": "4bc546c2",
+      "author": "Socrates",
       "en": "Ordinary people seem not to realize that those who really apply themselves in the right way to philosophy are directly and of their own accord preparing themselves for dying and death."
     },
     {
-      "id": "600a0c27",
+      "qid": "600a0c27",
+      "author": "Socrates",
       "en": "If all misfortunes were laid in one common heap whence everyone must take an equal portion, most people would be contented to take their own and depart."
     },
     {
-      "id": "6aedd0de",
+      "qid": "6aedd0de",
+      "author": "Socrates",
       "en": "True wisdom comes to each of us when we realize how little we understand about life, ourselves, and the world around us."
     },
     {
-      "id": "780dc91d",
+      "qid": "780dc91d",
+      "author": "Socrates",
       "en": "Beauty is a short-lived tyranny."
     },
     {
-      "id": "4d44f49a",
+      "qid": "4d44f49a",
+      "author": "Socrates",
       "en": "Be slow to fall into friendship; but when thou art in, continue firm and constant."
     },
     {
-      "id": "0d49de4d",
+      "qid": "0d49de4d",
+      "author": "Socrates",
       "en": "The poets are only the interpreters of the gods."
     },
     {
-      "id": "062cab0c",
+      "qid": "062cab0c",
+      "author": "Socrates",
       "en": "Employ your time in improving yourself by other men's writings, so that you shall gain easily what others have labored hard for."
     },
     {
-      "id": "da52b5cd",
+      "qid": "da52b5cd",
+      "author": "Socrates",
       "en": "Be as you wish to seem."
     },
     {
-      "id": "cd512683",
+      "qid": "cd512683",
+      "author": "Socrates",
       "en": "To know, is to know that you know nothing. That is the meaning of true knowledge."
     },
     {
-      "id": "469e7e37",
+      "qid": "469e7e37",
+      "author": "Socrates",
       "en": "He is richest who is content with the least, for content is the wealth of nature."
     },
     {
-      "id": "29586a4b",
+      "qid": "29586a4b",
+      "author": "Socrates",
       "en": "I know that I am intelligent, because I know that I know nothing."
     },
     {
-      "id": "5aaf09a3",
+      "qid": "5aaf09a3",
+      "author": "Socrates",
       "en": "The only true wisdom is in knowing you know nothing."
     },
     {
-      "id": "6fc66f75",
+      "qid": "6fc66f75",
+      "author": "Socrates",
       "en": "All men's souls are immortal, but the souls of the righteous are immortal and divine."
     },
     {
-      "id": "42f6a5b1",
+      "qid": "42f6a5b1",
+      "author": "Socrates",
       "en": "He is a man of courage who does not run away, but remains at his post and fights against the enemy."
     },
     {
-      "id": "3f92a5f6",
+      "qid": "3f92a5f6",
+      "author": "Socrates",
       "en": "False words are not only evil in themselves, but they infect the soul with evil."
     },
     {
-      "id": "08b604b1",
+      "qid": "08b604b1",
+      "author": "Socrates",
       "en": "An honest man is always a child."
     },
     {
-      "id": "5813c2cc",
+      "qid": "5813c2cc",
+      "author": "Socrates",
       "en": "By all means, marry. If you get a good wife, you'll become happy; if you get a bad one, you'll become a philosopher."
     },
     {
-      "id": "933b21d1",
+      "qid": "933b21d1",
+      "author": "Socrates",
       "en": "Death may be the greatest of all human blessings."
     },
     {
-      "id": "0c208d97",
+      "qid": "0c208d97",
+      "author": "Socrates",
       "en": "Our prayers should be for blessings in general, for God knows best what is good for us."
     },
     {
-      "id": "afa40eaf",
+      "qid": "afa40eaf",
+      "author": "Socrates",
       "en": "The greatest way to live with honor in this world is to be what we pretend to be."
     },
     {
-      "id": "5a7e27eb",
+      "qid": "5a7e27eb",
+      "author": "Socrates",
       "en": "I was really too honest a man to be a politician and live."
     },
     {
-      "id": "be37c7b3",
+      "qid": "be37c7b3",
+      "author": "Socrates",
       "en": "One who is injured ought not to return the injury, for on no account can it be right to do an injustice; and it is not right to return an injury, or to do evil to any man, however much we have suffered from him."
     },
     {
-      "id": "966cbca6",
+      "qid": "966cbca6",
+      "author": "Socrates",
       "en": "The way to gain a good reputation is to endeavor to be what you desire to appear."
     }
   ]

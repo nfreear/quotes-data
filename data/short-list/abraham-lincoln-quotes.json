@@ -1,881 +1,1100 @@
 {
-  "name": "Abraham Lincoln",
-  "image": "Abraham-Lincoln",
-  "quotes": [
+  "author": "Abraham Lincoln",
+  "imageId": "Abraham-Lincoln",
+  "data": [
     {
-      "id": "7340c306",
+      "qid": "7340c306",
+      "author": "Abraham Lincoln",
       "en": "Any people anywhere, being inclined and having the power, have the right to rise up, and shake off the existing government, and form a new one that suits them better. This is a most valuable - a most sacred right - a right, which we hope and believe, is to liberate the world."
     },
     {
-      "id": "39fff7cd",
+      "qid": "39fff7cd",
+      "author": "Abraham Lincoln",
       "en": "Fellow citizens, we cannot escape history. We, of this Congress and this administration, will be remembered in spite of ourselves. No personal significance, or insignificance, can spare one or another of us. The fiery trial through which we pass will light us down in honor or dishonor, to the latest generation."
     },
     {
-      "id": "730468a5",
+      "qid": "730468a5",
+      "author": "Abraham Lincoln",
       "en": "If there should prove to be one real, living Free State Democrat in Kansas, I suggest that it might be well to catch him and stuff and preserve his skin as an interesting specimen of that soon-to-be-extinct variety of the genus Democrat."
     },
     {
-      "id": "abbf38cd",
+      "qid": "abbf38cd",
+      "author": "Abraham Lincoln",
       "en": "We the people are the rightful masters of both Congress and the courts, not to overthrow the Constitution but to overthrow the men who pervert the Constitution."
     },
     {
-      "id": "b86105af",
+      "qid": "b86105af",
+      "author": "Abraham Lincoln",
       "en": "I never had a policy; I have just tried to do my very best each and every day."
     },
     {
-      "id": "16bff5bf",
+      "qid": "16bff5bf",
+      "author": "Abraham Lincoln",
       "en": "By what principle of original right is it that one-fiftieth or one-ninetieth of a great nation, by calling themselves a State, have the right to break up and ruin that nation as a matter of original principle?"
     },
     {
-      "id": "12f7a6f9",
+      "qid": "12f7a6f9",
+      "author": "Abraham Lincoln",
       "en": "With Malice toward none, with charity for all, with firmness in the right, as God gives us to see the right, let us strive on to finish the work we are in, to bind up the nation's wounds."
     },
     {
-      "id": "c0b37d17",
+      "qid": "c0b37d17",
+      "author": "Abraham Lincoln",
       "en": "My paramount object in this struggle is to save the Union, and is not either to save or to destroy slavery. If I could save the Union without freeing any slave, I would do it; and if I could save it by freeing some and leaving others alone, I would also do that."
     },
     {
-      "id": "76ffe891",
+      "qid": "76ffe891",
+      "author": "Abraham Lincoln",
       "en": "Whatever you are, be a good one."
     },
     {
-      "id": "d33bf80b",
+      "qid": "d33bf80b",
+      "author": "Abraham Lincoln",
       "en": "No matter how much cats fight, there always seem to be plenty of kittens."
     },
     {
-      "id": "31a12c78",
+      "qid": "31a12c78",
+      "author": "Abraham Lincoln",
       "en": "These capitalists generally act harmoniously and in concert to fleece the people; and now that they have got into a quarrel with themselves, we are called upon to appropriate the people's money to settle the quarrel."
     },
     {
-      "id": "5523c5b7",
+      "qid": "5523c5b7",
+      "author": "Abraham Lincoln",
       "en": "With the fearful strain that is on me night and day, if I did not laugh I should die."
     },
     {
-      "id": "94e54add",
+      "qid": "94e54add",
+      "author": "Abraham Lincoln",
       "en": "I am a firm believer in the people. If given the truth, they can be depended upon to meet any national crisis. The great point is to bring them the real facts."
     },
     {
-      "id": "f035263a",
+      "qid": "f035263a",
+      "author": "Abraham Lincoln",
       "en": "It is with your aid, as the people, that I think we shall be able to preserve - not the country, for the country will preserve itself, but the institutions of the country - those institutions which have made us free, intelligent and happy - the most free, the most intelligent, and the happiest people on the globe."
     },
     {
-      "id": "6c1b3920",
+      "qid": "6c1b3920",
+      "author": "Abraham Lincoln",
       "en": "Some day I shall be President."
     },
     {
-      "id": "73151269",
+      "qid": "73151269",
+      "author": "Abraham Lincoln",
       "en": "The people know their rights, and they are never slow to assert and maintain them when they are invaded."
     },
     {
-      "id": "59bcba44",
+      "qid": "59bcba44",
+      "author": "Abraham Lincoln",
       "en": "Discourage litigation. Persuade your neighbors to compromise whenever you can. As a peacemaker the lawyer has superior opportunity of being a good man. There will still be business enough."
     },
     {
-      "id": "7cd56fd1",
+      "qid": "7cd56fd1",
+      "author": "Abraham Lincoln",
       "en": "It is not my nature, when I see a people borne down by the weight of their shackles - the oppression of tyranny - to make their life more bitter by heaping upon them greater burdens; but rather would I do all in my power to raise the yoke than to add anything that would tend to crush them."
     },
     {
-      "id": "71e3141d",
+      "qid": "71e3141d",
+      "author": "Abraham Lincoln",
       "en": "Being elected to Congress, though I am very grateful to our friends for having done it, has not pleased me as much as I expected."
     },
     {
-      "id": "677422da",
+      "qid": "677422da",
+      "author": "Abraham Lincoln",
       "en": "I think that slavery is wrong, morally, socially and politically. I desire that it should be no further spread in these United States, and I should not object if it should gradually terminate in the whole Union."
     },
     {
-      "id": "4d292b95",
+      "qid": "4d292b95",
+      "author": "Abraham Lincoln",
       "en": "Nothing new here, except my marrying, which to me is a matter of profound wonder."
     },
     {
-      "id": "0940ea0f",
+      "qid": "0940ea0f",
+      "author": "Abraham Lincoln",
       "en": "Illinois surpasses every other spot of equal extent upon the face of the globe in fertility of soil and in the proportionable amount of the same which is sufficiently level for actual cultivation."
     },
     {
-      "id": "04e1bd6a",
+      "qid": "04e1bd6a",
+      "author": "Abraham Lincoln",
       "en": "The best way to get a bad law repealed is to enforce it strictly."
     },
     {
-      "id": "b4cfe06e",
+      "qid": "b4cfe06e",
+      "author": "Abraham Lincoln",
       "en": "In the end, it's not the years in your life that count. It's the life in your years."
     },
     {
-      "id": "e3f5259d",
+      "qid": "e3f5259d",
+      "author": "Abraham Lincoln",
       "en": "I can make more generals, but horses cost money."
     },
     {
-      "id": "5f90e1a6",
+      "qid": "5f90e1a6",
+      "author": "Abraham Lincoln",
       "en": "We here highly resolve that these dead shall not have died in vain - that this nation, under God, shall have a new birth of freedom - and that government of the people, by the people, for the people, shall not perish from the earth."
     },
     {
-      "id": "a63af519",
+      "qid": "a63af519",
+      "author": "Abraham Lincoln",
       "en": "We should be too big to take offense and too noble to give it."
     },
     {
-      "id": "11b63a75",
+      "qid": "11b63a75",
+      "author": "Abraham Lincoln",
       "en": "Every man is said to have his peculiar ambition. Whether it be true or not, I can say, for one, that I have no other so great as that of being truly esteemed of my fellow-men, by rendering myself worthy of their esteem. How far I shall succeed in gratifying this ambition is yet to be developed."
     },
     {
-      "id": "89cb33ce",
+      "qid": "89cb33ce",
+      "author": "Abraham Lincoln",
       "en": "I know that the Lord is always on the side of the right; but it is my constant anxiety and prayer that I and this nation may be on the Lord's side."
     },
     {
-      "id": "ab5524a4",
+      "qid": "ab5524a4",
+      "author": "Abraham Lincoln",
       "en": "My great concern is not whether you have failed, but whether you are content with your failure."
     },
     {
-      "id": "55b34c6a",
+      "qid": "55b34c6a",
+      "author": "Abraham Lincoln",
       "en": "If you think you can slander a woman into loving you, or a man into voting for you, try it till you are satisfied."
     },
     {
-      "id": "c7e10181",
+      "qid": "c7e10181",
+      "author": "Abraham Lincoln",
       "en": "The assertion that 'all men are created equal' was of no practical use in effecting our separation from Great Britain and it was placed in the Declaration not for that, but for future use."
     },
     {
-      "id": "c877b0bc",
+      "qid": "c877b0bc",
+      "author": "Abraham Lincoln",
       "en": "I go for all sharing the privileges of the government, who assist in bearing its burdens. Consequently, I go for admitting all whites to the right of suffrage, who pay taxes or bear arms (by no means excluding females)."
     },
     {
-      "id": "dfcace40",
+      "qid": "dfcace40",
+      "author": "Abraham Lincoln",
       "en": "I like to see a man proud of the place in which he lives. I like to see a man live so that his place will be proud of him."
     },
     {
-      "id": "5be69779",
+      "qid": "5be69779",
+      "author": "Abraham Lincoln",
       "en": "A capacity, and taste, for reading gives access to whatever has already been discovered by others."
     },
     {
-      "id": "8bbec2f1",
+      "qid": "8bbec2f1",
+      "author": "Abraham Lincoln",
       "en": "The time comes upon every public man when it is best for him to keep his lips closed."
     },
     {
-      "id": "c506e1a5",
+      "qid": "c506e1a5",
+      "author": "Abraham Lincoln",
       "en": "The point - the power to hurt - of all figures lies in the truthfulness of their application."
     },
     {
-      "id": "8a00320e",
+      "qid": "8a00320e",
+      "author": "Abraham Lincoln",
       "en": "In giving freedom to the slave, we assure freedom to the free - honorable alike in that we give and what we preserve. We shall nobly save, or meanly lose, the last best hope of earth."
     },
     {
-      "id": "13e1906f",
+      "qid": "13e1906f",
+      "author": "Abraham Lincoln",
       "en": "I have always been an old-line Henry Clay Whig."
     },
     {
-      "id": "792a5b7d",
+      "qid": "792a5b7d",
+      "author": "Abraham Lincoln",
       "en": "Books serve to show a man that those original thoughts of his aren't very new at all."
     },
     {
-      "id": "c80c24c6",
+      "qid": "c80c24c6",
+      "author": "Abraham Lincoln",
       "en": "I believe it is universally understood and acknowledged that all men will ever act correctly, unless they have a motive to do otherwise."
     },
     {
-      "id": "61395611",
+      "qid": "61395611",
+      "author": "Abraham Lincoln",
       "en": "A woman is the only thing I am afraid of that I know will not hurt me."
     },
     {
-      "id": "ca554ed5",
+      "qid": "ca554ed5",
+      "author": "Abraham Lincoln",
       "en": "When Southern people tell us they are no more responsible for the origin of slavery than we are, I acknowledge the fact. When it is said that the institution exists, and that it is very difficult to get rid of it in any satisfactory way, I can understand and appreciate the saying."
     },
     {
-      "id": "c4c2c909",
+      "qid": "c4c2c909",
+      "author": "Abraham Lincoln",
       "en": "I pass my life in preventing the storm from blowing down the tent, and I drive in the pegs as fast as they are pulled up."
     },
     {
-      "id": "a55258db",
+      "qid": "a55258db",
+      "author": "Abraham Lincoln",
       "en": "All that I am, or hope to be, I owe to my angel mother."
     },
     {
-      "id": "ce3c3b15",
+      "qid": "ce3c3b15",
+      "author": "Abraham Lincoln",
       "en": "The shepherd drives the wolf from the sheep's for which the sheep thanks the shepherd as his liberator, while the wolf denounces him for the same act as the destroyer of liberty. Plainly, the sheep and the wolf are not agreed upon a definition of liberty."
     },
     {
-      "id": "f505274e",
+      "qid": "f505274e",
+      "author": "Abraham Lincoln",
       "en": "It has been my experience that folks who have no vices have very few virtues."
     },
     {
-      "id": "6ec67ee9",
+      "qid": "6ec67ee9",
+      "author": "Abraham Lincoln",
       "en": "As I would not be a slave, so I would not be a master. This expresses my idea of democracy."
     },
     {
-      "id": "51fe69c7",
+      "qid": "51fe69c7",
+      "author": "Abraham Lincoln",
       "en": "Sir, my concern is not whether God is on our side; my greatest concern is to be on God's side, for God is always right."
     },
     {
-      "id": "18b45f2c",
+      "qid": "18b45f2c",
+      "author": "Abraham Lincoln",
       "en": "I should like to know if, taking this old Declaration of Independence, which declares that all men are equal upon principle, you begin making exceptions to it, where will you stop? If one man says it does not mean a Negro, why not another say it does not mean some other man?"
     },
     {
-      "id": "f35f6dbf",
+      "qid": "f35f6dbf",
+      "author": "Abraham Lincoln",
       "en": "That I am not a member of any Christian church is true; but I have never denied the truth of the Scriptures, and I have never spoken with intentional disrespect of religion in general, or of any denomination of Christians in particular."
     },
     {
-      "id": "5d0edf1c",
+      "qid": "5d0edf1c",
+      "author": "Abraham Lincoln",
       "en": "A house divided against itself cannot stand."
     },
     {
-      "id": "1b88b1a6",
+      "qid": "1b88b1a6",
+      "author": "Abraham Lincoln",
       "en": "He who molds the public sentiment... makes statutes and decisions possible or impossible to make."
     },
     {
-      "id": "659afbfe",
+      "qid": "659afbfe",
+      "author": "Abraham Lincoln",
       "en": "He who would be no slave must consent to have no slave. Those who deny freedom to others deserve it not for themselves and, under a just God, cannot long retain it."
     },
     {
-      "id": "7c1d7c93",
+      "qid": "7c1d7c93",
+      "author": "Abraham Lincoln",
       "en": "I learned a great many years ago that in a fight between husband and wife, a third party should never get between the woman's skillet and the man's ax-helve."
     },
     {
-      "id": "4d3bf45c",
+      "qid": "4d3bf45c",
+      "author": "Abraham Lincoln",
       "en": "I understand a ship to be made for the carrying and preservation of the cargo, and so long as the ship can be saved, with the cargo, it should never be abandoned. This Union likewise should never be abandoned unless it fails and the possibility of its preservation shall cease to exist, without throwing passengers and cargo overboard."
     },
     {
-      "id": "38a4f57a",
+      "qid": "38a4f57a",
+      "author": "Abraham Lincoln",
       "en": "Things may come to those who wait, but only the things left by those who hustle."
     },
     {
-      "id": "c7fecbf4",
+      "qid": "c7fecbf4",
+      "author": "Abraham Lincoln",
       "en": "I never went to school more than six months in my life, but I can say this: that among my earliest recollections, I remember how, when a mere child, I used to get irritated when anybody talked to me in a way I could not understand."
     },
     {
-      "id": "fc21f0c0",
+      "qid": "fc21f0c0",
+      "author": "Abraham Lincoln",
       "en": "If the great American people will only keep their temper, on both sides of the line, the troubles will come to an end, and the question which now distracts the country will be settled just as surely as all other difficulties of like character which have originated in this government have been adjusted."
     },
     {
-      "id": "7b6fb6d2",
+      "qid": "7b6fb6d2",
+      "author": "Abraham Lincoln",
       "en": "Concede that the new government of Louisiana is only to what it should be, as the egg is to the fowl; we shall sooner have the fowl by hatching the egg than by smashing it."
     },
     {
-      "id": "6d78fe34",
+      "qid": "6d78fe34",
+      "author": "Abraham Lincoln",
       "en": "If the people of Utah shall peacefully form a State Constitution tolerating polygamy, will the Democracy admit them into the Union?"
     },
     {
-      "id": "c36ee797",
+      "qid": "c36ee797",
+      "author": "Abraham Lincoln",
       "en": "I was losing interest in politics, when the repeal of the Missouri Compromise aroused me again. What I have done since then is pretty well known."
     },
     {
-      "id": "623faaad",
+      "qid": "623faaad",
+      "author": "Abraham Lincoln",
       "en": "In great contests each party claims to act in accordance with the will of God. Both may be, and one must be wrong."
     },
     {
-      "id": "273156bf",
+      "qid": "273156bf",
+      "author": "Abraham Lincoln",
       "en": "Character is like a tree and reputation like a shadow. The shadow is what we think of it; the tree is the real thing."
     },
     {
-      "id": "86a51799",
+      "qid": "86a51799",
+      "author": "Abraham Lincoln",
       "en": "I do not expect the Union to be dissolved - I do not expect the house to fall - but I do expect it will cease to be divided. It will become all one thing, or all the other."
     },
     {
-      "id": "1b7b66a7",
+      "qid": "1b7b66a7",
+      "author": "Abraham Lincoln",
       "en": "When I am getting ready to reason with a man, I spend one-third of my time thinking about myself and what I am going to say and two-thirds about him and what he is going to say."
     },
     {
-      "id": "47fc01fc",
+      "qid": "47fc01fc",
+      "author": "Abraham Lincoln",
       "en": "Do I not destroy my enemies when I make them my friends?"
     },
     {
-      "id": "ec703c69",
+      "qid": "ec703c69",
+      "author": "Abraham Lincoln",
       "en": "The dogmas of the quiet past are inadequate to the stormy present. The occasion is piled high with difficulty, and we must rise with the occasion. As our case is new, so we must think anew and act anew."
     },
     {
-      "id": "7180746f",
+      "qid": "7180746f",
+      "author": "Abraham Lincoln",
       "en": "The way for a young man to rise is to improve himself in every way he can, never suspecting that anybody wishes to hinder him."
     },
     {
-      "id": "34bda24a",
+      "qid": "34bda24a",
+      "author": "Abraham Lincoln",
       "en": "Tact is the ability to describe others as they see themselves."
     },
     {
-      "id": "6c79f44c",
+      "qid": "6c79f44c",
+      "author": "Abraham Lincoln",
       "en": "I am like a man so busy in letting rooms in one end of his house, that he can't stop to put out the fire that is burning the other."
     },
     {
-      "id": "f8b598ad",
+      "qid": "f8b598ad",
+      "author": "Abraham Lincoln",
       "en": "Some single mind must be master, else there will be no agreement in anything."
     },
     {
-      "id": "77431da7",
+      "qid": "77431da7",
+      "author": "Abraham Lincoln",
       "en": "That some achieve great success, is proof to all that others can achieve it as well."
     },
     {
-      "id": "11a43e85",
+      "qid": "11a43e85",
+      "author": "Abraham Lincoln",
       "en": "Everybody likes a compliment."
     },
     {
-      "id": "7d10df5b",
+      "qid": "7d10df5b",
+      "author": "Abraham Lincoln",
       "en": "Whenever I hear anyone arguing for slavery, I feel a strong impulse to see it tried on him personally."
     },
     {
-      "id": "4c725ebc",
+      "qid": "4c725ebc",
+      "author": "Abraham Lincoln",
       "en": "Knavery and flattery are blood relations."
     },
     {
-      "id": "8a8d3d1e",
+      "qid": "8a8d3d1e",
+      "author": "Abraham Lincoln",
       "en": "'A living dog is better than a dead lion.' Judge Douglas, if not a dead lion for this work, is at least a caged and toothless one. How can he oppose the advances of slavery? He don't care anything about it."
     },
     {
-      "id": "ab899e17",
+      "qid": "ab899e17",
+      "author": "Abraham Lincoln",
       "en": "Repeal the Missouri Compromise - repeal all compromises - repeal the Declaration of Independence - repeal all past history, you still cannot repeal human nature. It will be the abundance of man's heart that slavery extension is wrong; and out of the abundance of his heart, his mouth will continue to speak."
     },
     {
-      "id": "bb473884",
+      "qid": "bb473884",
+      "author": "Abraham Lincoln",
       "en": "We think the Dred Scott decision is erroneous. We know the court that made it has often overruled its own decisions, and we shall do what we can to have it overrule this."
     },
     {
-      "id": "d91f87cc",
+      "qid": "d91f87cc",
+      "author": "Abraham Lincoln",
       "en": "It was that which gave promise that in due time the weights should be lifted from the shoulders of all men, and that all should have an equal chance. This is the sentiment embodied in that Declaration of Independence."
     },
     {
-      "id": "97b3ce45",
+      "qid": "97b3ce45",
+      "author": "Abraham Lincoln",
       "en": "The people themselves, and not their servants, can safely reverse their own deliberate decisions."
     },
     {
-      "id": "9d047b2d",
+      "qid": "9d047b2d",
+      "author": "Abraham Lincoln",
       "en": "If once you forfeit the confidence of your fellow-citizens, you can never regain their respect and esteem."
     },
     {
-      "id": "0c04a0ec",
+      "qid": "0c04a0ec",
+      "author": "Abraham Lincoln",
       "en": "These men ask for just the same thing, fairness, and fairness only. This, so far as in my power, they, and all others, shall have."
     },
     {
-      "id": "947a1905",
+      "qid": "947a1905",
+      "author": "Abraham Lincoln",
       "en": "It is a quality of revolutions not to go by old lines or old laws, but to break up both and make new ones."
     },
     {
-      "id": "b034af49",
+      "qid": "b034af49",
+      "author": "Abraham Lincoln",
       "en": "Those who deny freedom to others deserve it not for themselves; and under the rule of a just God, cannot long retain it."
     },
     {
-      "id": "f815fa48",
+      "qid": "f815fa48",
+      "author": "Abraham Lincoln",
       "en": "For my part, I desire to see the time when education - and by its means, morality, sobriety, enterprise and industry - shall become much more general than at present, and should be gratified to have it in my power to contribute something to the advancement of any measure which might have a tendency to accelerate the happy period."
     },
     {
-      "id": "a922e364",
+      "qid": "a922e364",
+      "author": "Abraham Lincoln",
       "en": "I desire so to conduct the affairs of this administration that if at the end... I have lost every other friend on earth, I shall at least have one friend left, and that friend shall be down inside of me."
     },
     {
-      "id": "fc8ba505",
+      "qid": "fc8ba505",
+      "author": "Abraham Lincoln",
       "en": "If we could first know where we are, and whither we are tending, we could then better judge what to do, and how to do it."
     },
     {
-      "id": "6de3b3b0",
+      "qid": "6de3b3b0",
+      "author": "Abraham Lincoln",
       "en": "At what point then is the approach of danger to be expected? I answer, if it ever reach us, it must spring up amongst us. It cannot come from abroad. If destruction be our lot, we must ourselves be its author and finisher. As a nation of freemen, we must live through all time, or die by suicide."
     },
     {
-      "id": "f15384a7",
+      "qid": "f15384a7",
+      "author": "Abraham Lincoln",
       "en": "In this sad world of ours, sorrow comes to all; and to the young, it comes with bitterest agony because it takes them unawares. I have had experience enough to know what I say."
     },
     {
-      "id": "53b42e2f",
+      "qid": "53b42e2f",
+      "author": "Abraham Lincoln",
       "en": "All the armies of Europe, Asia and Africa combined, with all the treasure of the earth (our own excepted) in their military chest; with a Buonaparte for a commander, could not by force, take a drink from the Ohio, or make a track on the Blue Ridge, in a trial of a thousand years."
     },
     {
-      "id": "a6f5efcf",
+      "qid": "a6f5efcf",
+      "author": "Abraham Lincoln",
       "en": "The highest art is always the most religious, and the greatest artist is always a devout person."
     },
     {
-      "id": "1441f94b",
+      "qid": "1441f94b",
+      "author": "Abraham Lincoln",
       "en": "Better to remain silent and be thought a fool than to speak out and remove all doubt."
     },
     {
-      "id": "df1a3d42",
+      "qid": "df1a3d42",
+      "author": "Abraham Lincoln",
       "en": "Common looking people are the best in the world: that is the reason the Lord makes so many of them."
     },
     {
-      "id": "22d1f146",
+      "qid": "22d1f146",
+      "author": "Abraham Lincoln",
       "en": "I have always found that mercy bears richer fruits than strict justice."
     },
     {
-      "id": "22c3073e",
+      "qid": "22c3073e",
+      "author": "Abraham Lincoln",
       "en": "There may sometimes be ungenerous attempts to keep a young man down; and they will succeed, too, if he allows his mind to be diverted from its true channel to brood over the attempted injury."
     },
     {
-      "id": "114a41b2",
+      "qid": "114a41b2",
+      "author": "Abraham Lincoln",
       "en": "I am a slow walker, but I never walk back."
     },
     {
-      "id": "108c90b3",
+      "qid": "108c90b3",
+      "author": "Abraham Lincoln",
       "en": "You cannot escape the responsibility of tomorrow by evading it today."
     },
     {
-      "id": "b6cacea4",
+      "qid": "b6cacea4",
+      "author": "Abraham Lincoln",
       "en": "It is rather for us here dedicated to the great task remaining before us, that from these honored dead we take increased devotion to that cause for which they gave the last full measure of devotion."
     },
     {
-      "id": "b24a8925",
+      "qid": "b24a8925",
+      "author": "Abraham Lincoln",
       "en": "I do not think I could myself be brought to support a man for office whom I knew to be an open enemy of, and scoffer at, religion."
     },
     {
-      "id": "d9ee65fb",
+      "qid": "d9ee65fb",
+      "author": "Abraham Lincoln",
       "en": "I will prepare and some day my chance will come."
     },
     {
-      "id": "ace30e97",
+      "qid": "ace30e97",
+      "author": "Abraham Lincoln",
       "en": "Let not him who is houseless pull down the house of another, but let him work diligently and build one for himself, thus by example assuring that his own shall be safe from violence when built."
     },
     {
-      "id": "c209874a",
+      "qid": "c209874a",
+      "author": "Abraham Lincoln",
       "en": "It has so happened in all ages of the world that some have labored, and others have, without labor, enjoyed a large proportion of the fruits."
     },
     {
-      "id": "5d49b0c5",
+      "qid": "5d49b0c5",
+      "author": "Abraham Lincoln",
       "en": "True patriotism is better than the wrong kind of piety."
     },
     {
-      "id": "1b02b545",
+      "qid": "1b02b545",
+      "author": "Abraham Lincoln",
       "en": "I am humble Abraham Lincoln. I have been solicited by my friends to become a candidate for the Legislature. My politics are short and sweet, like the old woman's dance."
     },
     {
-      "id": "7e6de0e1",
+      "qid": "7e6de0e1",
+      "author": "Abraham Lincoln",
       "en": "Our defense is in the preservation of the spirit which prizes liberty as a heritage of all men, in all lands, everywhere. Destroy this spirit and you have planted the seeds of despotism around your own doors."
     },
     {
-      "id": "b680c432",
+      "qid": "b680c432",
+      "author": "Abraham Lincoln",
       "en": "I want it said of me by those who knew me best, that I always plucked a thistle and planted a flower where I thought a flower would grow."
     },
     {
-      "id": "ca52fc03",
+      "qid": "ca52fc03",
+      "author": "Abraham Lincoln",
       "en": "There is another old poet whose name I do not now remember who said, 'Truth is the daughter of Time.'"
     },
     {
-      "id": "73381fb5",
+      "qid": "73381fb5",
+      "author": "Abraham Lincoln",
       "en": "The man who could go to Africa and rob her of her children, and then sell them into interminable bondage, with no other motive than that which is furnished by dollars and cents, is so much worse than the most depraved murderer that he can never receive pardon at my hand."
     },
     {
-      "id": "9a7f1eea",
+      "qid": "9a7f1eea",
+      "author": "Abraham Lincoln",
       "en": "Among the friends of Union, there is great diversity of sentiment and of policy in regard to slavery and the African race among us."
     },
     {
-      "id": "48eb5cf8",
+      "qid": "48eb5cf8",
+      "author": "Abraham Lincoln",
       "en": "The things I want to know are in books; my best friend is the man who'll get me a book I ain't read."
     },
     {
-      "id": "751131fa",
+      "qid": "751131fa",
+      "author": "Abraham Lincoln",
       "en": "I am not bound to win, but I am bound to be true. I am not bound to succeed, but I am bound to live by the light that I have. I must stand with anybody that stands right, and stand with him while he is right, and part with him when he goes wrong."
     },
     {
-      "id": "989d9818",
+      "qid": "989d9818",
+      "author": "Abraham Lincoln",
       "en": "Stand with anybody that stands right, stand with him while he is right and part with him when he goes wrong."
     },
     {
-      "id": "9792aeea",
+      "qid": "9792aeea",
+      "author": "Abraham Lincoln",
       "en": "When I do good, I feel good. When I do bad, I feel bad. That's my religion."
     },
     {
-      "id": "195428b2",
+      "qid": "195428b2",
+      "author": "Abraham Lincoln",
       "en": "Marriage is neither heaven nor hell, it is simply purgatory."
     },
     {
-      "id": "2d74d44a",
+      "qid": "2d74d44a",
+      "author": "Abraham Lincoln",
       "en": "If I like a thing, it just sticks after once reading it or hearing it."
     },
     {
-      "id": "75b525be",
+      "qid": "75b525be",
+      "author": "Abraham Lincoln",
       "en": "The people will save their government, if the government itself will allow them."
     },
     {
-      "id": "0fc44f88",
+      "qid": "0fc44f88",
+      "author": "Abraham Lincoln",
       "en": "Either the opponents of slavery will arrest the further spread of it and place it where the public mind shall rest in the belief that it is in course of ultimate extinction, or its advocates will push it forward, till it shall become alike lawful in all the States - old as well as new - North as well as South."
     },
     {
-      "id": "6ec849a4",
+      "qid": "6ec849a4",
+      "author": "Abraham Lincoln",
       "en": "I don't like that man. I must get to know him better."
     },
     {
-      "id": "41016ab7",
+      "qid": "41016ab7",
+      "author": "Abraham Lincoln",
       "en": "If ever I feel the soul within me elevate and expand to those dimensions not wholly unworthy of its Almighty Architect, it is when I contemplate the cause of my country, deserted by all the world beside, and I standing up boldly and lone and hurling defiance at her victorious oppressors."
     },
     {
-      "id": "ab8abd67",
+      "qid": "ab8abd67",
+      "author": "Abraham Lincoln",
       "en": "It is a great piece of folly to attempt to make anything out of my early life."
     },
     {
-      "id": "e21fc460",
+      "qid": "e21fc460",
+      "author": "Abraham Lincoln",
       "en": "My dream is of a place and a time where America will once again be seen as the last best hope of earth."
     },
     {
-      "id": "ddc59038",
+      "qid": "ddc59038",
+      "author": "Abraham Lincoln",
       "en": "What kills a skunk is the publicity it gives itself."
     },
     {
-      "id": "9c106af7",
+      "qid": "9c106af7",
+      "author": "Abraham Lincoln",
       "en": "I remember my mother's prayers and they have always followed me. They have clung to me all my life."
     },
     {
-      "id": "29850198",
+      "qid": "29850198",
+      "author": "Abraham Lincoln",
       "en": "Always bear in mind that your own resolution to succeed is more important than any other."
     },
     {
-      "id": "2bd6797f",
+      "qid": "2bd6797f",
+      "author": "Abraham Lincoln",
       "en": "You may think it was a very little thing, and in these days it seems to me like a trifle, but it was a most important incident in my life. I could scarcely credit that I, the poor boy, had earned a dollar in less than a day; that by honest work, I had earned a dollar. I was a more hopeful and thoughtful boy from that time."
     },
     {
-      "id": "7dec26e1",
+      "qid": "7dec26e1",
+      "author": "Abraham Lincoln",
       "en": "Whatever woman may cast her lot with mine, should any ever do so, it is my intention to do all in my power to make her happy and contented; and there is nothing I can imagine that would make me more unhappy than to fail in the effort."
     },
     {
-      "id": "c2b1ebd4",
+      "qid": "c2b1ebd4",
+      "author": "Abraham Lincoln",
       "en": "The probability that we may fail in the struggle ought not to deter us from the support of a cause we believe to be just."
     },
     {
-      "id": "485f5f86",
+      "qid": "485f5f86",
+      "author": "Abraham Lincoln",
       "en": "As our case is new, we must think and act anew."
     },
     {
-      "id": "7a425d2c",
+      "qid": "7a425d2c",
+      "author": "Abraham Lincoln",
       "en": "Be sure you put your feet in the right place, then stand firm."
     },
     {
-      "id": "0f2463c8",
+      "qid": "0f2463c8",
+      "author": "Abraham Lincoln",
       "en": "Upon the subject of education, not presuming to dictate any plan or system respecting it, I can only say that I view it as the most important subject which we, as a people, can be engaged in."
     },
     {
-      "id": "2e62bd1f",
+      "qid": "2e62bd1f",
+      "author": "Abraham Lincoln",
       "en": "Surely God would not have created such a being as man, with an ability to grasp the infinite, to exist only for a day! No, no, man was made for immortality."
     },
     {
-      "id": "ee34ce84",
+      "qid": "ee34ce84",
+      "author": "Abraham Lincoln",
       "en": "Our Declaration of Independence was held sacred by all and thought to include all; but now, to aid in making the bondage of the Negro universal and eternal, it is assailed, sneered at, construed, hawked at, and torn, till, if its framers could rise from their graves, they could not at all recognize it."
     },
     {
-      "id": "f7279d6b",
+      "qid": "f7279d6b",
+      "author": "Abraham Lincoln",
       "en": "I hold that while man exists, it is his duty to improve not only his own condition, but to assist in ameliorating mankind."
     },
     {
-      "id": "d1c468d8",
+      "qid": "d1c468d8",
+      "author": "Abraham Lincoln",
       "en": "Labor is prior to, and independent of, capital. Capital is only the fruit of labor, and could never have existed if labor had not first existed. Labor is the superior of capital, and deserves much the higher consideration."
     },
     {
-      "id": "0f05616a",
+      "qid": "0f05616a",
+      "author": "Abraham Lincoln",
       "en": "I hope to stand firm enough to not go backward, and yet not go forward fast enough to wreck the country's cause."
     },
     {
-      "id": "b839d530",
+      "qid": "b839d530",
+      "author": "Abraham Lincoln",
       "en": "I believe this government cannot endure permanently, half slave and half free."
     },
     {
-      "id": "38fd8965",
+      "qid": "38fd8965",
+      "author": "Abraham Lincoln",
       "en": "Let the people on both sides keep their self-possession, and just as other clouds have cleared away in due time, so will this, and this great nation shall continue to prosper as before."
     },
     {
-      "id": "88245164",
+      "qid": "88245164",
+      "author": "Abraham Lincoln",
       "en": "Hold on with a bulldog grip, and chew and choke as much as possible."
     },
     {
-      "id": "2a19e9d0",
+      "qid": "2a19e9d0",
+      "author": "Abraham Lincoln",
       "en": "Public sentiment is everything. With public sentiment, nothing can fail. Without it, nothing can succeed."
     },
     {
-      "id": "e128d322",
+      "qid": "e128d322",
+      "author": "Abraham Lincoln",
       "en": "I have great respect for the semicolon; it is a mighty handy little fellow."
     },
     {
-      "id": "1b877425",
+      "qid": "1b877425",
+      "author": "Abraham Lincoln",
       "en": "How many legs does a dog have if you call his tail a leg? Four. Saying that a tail is a leg doesn't make it a leg."
     },
     {
-      "id": "1262ca83",
+      "qid": "1262ca83",
+      "author": "Abraham Lincoln",
       "en": "The ballot is stronger than the bullet."
     },
     {
-      "id": "8a690003",
+      "qid": "8a690003",
+      "author": "Abraham Lincoln",
       "en": "Biographies, as generally written, are not only misleading but false... In most instances, they commemorate a lie and cheat posterity out of the truth."
     },
     {
-      "id": "cbef95e4",
+      "qid": "cbef95e4",
+      "author": "Abraham Lincoln",
       "en": "Every one desires to live long, but no one would be old."
     },
     {
-      "id": "572a6452",
+      "qid": "572a6452",
+      "author": "Abraham Lincoln",
       "en": "Standing as I do, with my hand upon this staff, and under the folds of the American flag, I ask you to stand by me so long as I stand by it."
     },
     {
-      "id": "f8376791",
+      "qid": "f8376791",
+      "author": "Abraham Lincoln",
       "en": "No policy that does not rest upon some philosophical public opinion can be permanently maintained."
     },
     {
-      "id": "376e0268",
+      "qid": "376e0268",
+      "author": "Abraham Lincoln",
       "en": "Slavery is founded in the selfishness of man's nature - opposition to it is his love of justice. These principles are an eternal antagonism; and when brought into collision so fiercely, as slavery extension brings them, shocks and throes and convulsions must ceaselessly follow."
     },
     {
-      "id": "161844e4",
+      "qid": "161844e4",
+      "author": "Abraham Lincoln",
       "en": "I do the very best I know how - the very best I can; and I mean to keep on doing so until the end."
     },
     {
-      "id": "04c2a92f",
+      "qid": "04c2a92f",
+      "author": "Abraham Lincoln",
       "en": "I don't know who my grandfather was; I am much more concerned to know what his grandson will be."
     },
     {
-      "id": "32c60a70",
+      "qid": "32c60a70",
+      "author": "Abraham Lincoln",
       "en": "Oh, yes; you Virginians shed barrels of perspiration while standing off at a distance and superintending the work your slaves do for you. It is different with us. Here it is every fellow for himself, or he doesn't get there."
     },
     {
-      "id": "21f981cd",
+      "qid": "21f981cd",
+      "author": "Abraham Lincoln",
       "en": "Important principles may, and must, be inflexible."
     },
     {
-      "id": "85cd02cb",
+      "qid": "85cd02cb",
+      "author": "Abraham Lincoln",
       "en": "My parents were both born in Virginia, of undistinguished families - second families, perhaps I should say."
     },
     {
-      "id": "6458dc8d",
+      "qid": "6458dc8d",
+      "author": "Abraham Lincoln",
       "en": "Republicans are for both the man and the dollar, but in case of conflict the man before the dollar."
     },
     {
-      "id": "5fb97025",
+      "qid": "5fb97025",
+      "author": "Abraham Lincoln",
       "en": "Avoid popularity if you would have peace."
     },
     {
-      "id": "56f46b2e",
+      "qid": "56f46b2e",
+      "author": "Abraham Lincoln",
       "en": "Never regret what you don't write."
     },
     {
-      "id": "7abc080e",
+      "qid": "7abc080e",
+      "author": "Abraham Lincoln",
       "en": "That our government should have been maintained in its original form from its establishment until now is not much to be wondered at. It had many props to support it through that period, which now are decayed and crumbled away. Through that period, it was felt by all to be an undecided experiment; now, it is understood to be a successful one."
     },
     {
-      "id": "3ec972e2",
+      "qid": "3ec972e2",
+      "author": "Abraham Lincoln",
       "en": "You have to do your own growing no matter how tall your grandfather was."
     },
     {
-      "id": "b0f9f53d",
+      "qid": "b0f9f53d",
+      "author": "Abraham Lincoln",
       "en": "When I hear a man preach, I like to see him act as if he were fighting bees."
     },
     {
-      "id": "08ae0650",
+      "qid": "08ae0650",
+      "author": "Abraham Lincoln",
       "en": "Gold is good in its place; but loving, brave, patriotic men are better than gold."
     },
     {
-      "id": "f5171928",
+      "qid": "f5171928",
+      "author": "Abraham Lincoln",
       "en": "Don't worry when you are not recognized, but strive to be worthy of recognition."
     },
     {
-      "id": "3c87b7ef",
+      "qid": "3c87b7ef",
+      "author": "Abraham Lincoln",
       "en": "I am rather inclined to silence."
     },
     {
-      "id": "06a991ef",
+      "qid": "06a991ef",
+      "author": "Abraham Lincoln",
       "en": "A private soldier has as much right to justice as a major-general."
     },
     {
-      "id": "c06f30cc",
+      "qid": "c06f30cc",
+      "author": "Abraham Lincoln",
       "en": "If I were to try to read, much less answer, all the attacks made on me, this shop might as well be closed for any other business."
     },
     {
-      "id": "2595cf3f",
+      "qid": "2595cf3f",
+      "author": "Abraham Lincoln",
       "en": "We find ourselves under the government of a system of political institutions, conducing more essentially to the ends of civil and religious liberty, than any of which the history of former times tells us."
     },
     {
-      "id": "1670c1af",
+      "qid": "1670c1af",
+      "author": "Abraham Lincoln",
       "en": "It would astonish if not amuse the older citizens to learn that I (a strange, friendless, uneducated, penniless boy, working at ten dollars per month) have been put down as the candidate of pride, wealth, and aristocratic family distinction."
     },
     {
-      "id": "2ceb0767",
+      "qid": "2ceb0767",
+      "author": "Abraham Lincoln",
       "en": "America will never be destroyed from the outside. If we falter and lose our freedoms, it will be because we destroyed ourselves."
     },
     {
-      "id": "831f3775",
+      "qid": "831f3775",
+      "author": "Abraham Lincoln",
       "en": "The legal right of the Southern people to reclaim their fugitives I have constantly admitted. The legal right of Congress to interfere with their institution in the states, I have constantly denied."
     },
     {
-      "id": "1b70844b",
+      "qid": "1b70844b",
+      "author": "Abraham Lincoln",
       "en": "When the white man governs himself, that is self-government; but when he governs himself and also governs another man, that is more than self-government - that is despotism."
     },
     {
-      "id": "6890d020",
+      "qid": "6890d020",
+      "author": "Abraham Lincoln",
       "en": "I have talked with great men, and I do not see how they differ from others."
     },
     {
-      "id": "ebf5d76c",
+      "qid": "ebf5d76c",
+      "author": "Abraham Lincoln",
       "en": "When you have got an elephant by the hind legs and he is trying to run away, it's best to let him run."
     },
     {
-      "id": "4189454d",
+      "qid": "4189454d",
+      "author": "Abraham Lincoln",
       "en": "The mystic cords of memory, stretching from every battlefield and patriot grave to every living heart and hearthstone, all over this broad land, will yet swell the chorus of the Union, when again touched, as surely they will be, by the angels of our nature."
     },
     {
-      "id": "37b6a94a",
+      "qid": "37b6a94a",
+      "author": "Abraham Lincoln",
       "en": "Towering genius disdains a beaten path. It seeks regions hitherto unexplored."
     },
     {
-      "id": "cf5d068d",
+      "qid": "cf5d068d",
+      "author": "Abraham Lincoln",
       "en": "No man has a good enough memory to be a successful liar."
     },
     {
-      "id": "74ff77a6",
+      "qid": "74ff77a6",
+      "author": "Abraham Lincoln",
       "en": "I do not think much of a man who is not wiser today than he was yesterday."
     },
     {
-      "id": "8aa4c6f6",
+      "qid": "8aa4c6f6",
+      "author": "Abraham Lincoln",
       "en": "I perhaps ought to say that individually I never was much interested in the Texas question. I never could see much good to come of annexation, inasmuch as they were already a free republican people on our own model."
     },
     {
-      "id": "920c9bd4",
+      "qid": "920c9bd4",
+      "author": "Abraham Lincoln",
       "en": "Lets have faith that right makes might; and in that faith let us, to the end, dare to do our duty as we understand it."
     },
     {
-      "id": "ad1cb25d",
+      "qid": "ad1cb25d",
+      "author": "Abraham Lincoln",
       "en": "Extemporaneous speaking should be practiced and cultivated. It is the lawyer's avenue to the public. However able and faithful he may be in other respects, people are slow to bring him business if he cannot make a speech."
     },
     {
-      "id": "6be15e21",
+      "qid": "6be15e21",
+      "author": "Abraham Lincoln",
       "en": "Allow the president to invade a neighboring nation whenever he shall deem it necessary to repel an invasion,and you allow him to do so whenever he may choose to say he deems it necessary for such purpose - and you allow him to make war at pleasure."
     },
     {
-      "id": "faa0e99c",
+      "qid": "faa0e99c",
+      "author": "Abraham Lincoln",
       "en": "Nearly all men can stand adversity, but if you want to test a man's character, give him power."
     },
     {
-      "id": "826fb068",
+      "qid": "826fb068",
+      "author": "Abraham Lincoln",
       "en": "Never stir up litigation. A worse man can scarcely be found than one who does this."
     },
     {
-      "id": "37370119",
+      "qid": "37370119",
+      "author": "Abraham Lincoln",
       "en": "There is no grievance that is a fit object of redress by mob law."
     },
     {
-      "id": "6846896c",
+      "qid": "6846896c",
+      "author": "Abraham Lincoln",
       "en": "You can fool all the people some of the time, and some of the people all the time, but you cannot fool all the people all the time."
     },
     {
-      "id": "844869e7",
+      "qid": "844869e7",
+      "author": "Abraham Lincoln",
       "en": "Don't swap horses in crossing a stream."
     },
     {
-      "id": "7f9c5017",
+      "qid": "7f9c5017",
+      "author": "Abraham Lincoln",
       "en": "I go to assume a task more difficult than that which devolved upon Washington. Unless the great God, who assisted him, shall be with me and aid me, I must fail; but if the same omniscient mind and almighty arm that directed and protected him shall guide and support me, I shall not fail - I shall succeed."
     },
     {
-      "id": "cd1f2e99",
+      "qid": "cd1f2e99",
+      "author": "Abraham Lincoln",
       "en": "We can succeed only by concert. It is not, 'Can any of us imagine better,' but, 'Can we all do better?'"
     },
     {
-      "id": "f2e8c4fa",
+      "qid": "f2e8c4fa",
+      "author": "Abraham Lincoln",
       "en": "Government of the people, by the people, for the people, shall not perish from the Earth."
     },
     {
-      "id": "495f704d",
+      "qid": "495f704d",
+      "author": "Abraham Lincoln",
       "en": "Why was the amendment, expressly declaring the right of the people to exclude slavery, voted down? Plainly enough now, the adoption of it would have spoiled the niche for the Dred Scott decision."
     },
     {
-      "id": "ab555c14",
+      "qid": "ab555c14",
+      "author": "Abraham Lincoln",
       "en": "I care not much for a man's religion whose dog and cat are not the better for it."
     },
     {
-      "id": "37b679ed",
+      "qid": "37b679ed",
+      "author": "Abraham Lincoln",
       "en": "Let reverence for the laws be breathed by every American mother to the lisping babe that prattles on her lap - let it be taught in schools, in seminaries, and in colleges; let it be written in primers, spelling books, and in almanacs; let it be preached from the pulpit, proclaimed in legislative halls, and enforced in courts of justice."
     },
     {
-      "id": "aa4f649c",
+      "qid": "aa4f649c",
+      "author": "Abraham Lincoln",
       "en": "If this is coffee, please bring me some tea; but if this is tea, please bring me some coffee."
     },
     {
-      "id": "fcf8051a",
+      "qid": "fcf8051a",
+      "author": "Abraham Lincoln",
       "en": "Four score and seven years ago our fathers brought forth on this continent, a new nation, conceived in Liberty, and dedicated to the proposition that all men are created equal."
     },
     {
-      "id": "5f7d07f4",
+      "qid": "5f7d07f4",
+      "author": "Abraham Lincoln",
       "en": "If a man had more than one life, I think a little hanging would not hurt this one; but after he is once dead, we cannot bring him back, no matter how sorry we may be; so the boy shall be pardoned."
     },
     {
-      "id": "2e43ee2d",
+      "qid": "2e43ee2d",
+      "author": "Abraham Lincoln",
       "en": "To give victory to the right, not bloody bullets, but peaceful ballots only, are necessary."
     },
     {
-      "id": "c4865d00",
+      "qid": "c4865d00",
+      "author": "Abraham Lincoln",
       "en": "I can express all my views on the slavery question by quotations from Henry Clay."
     },
     {
-      "id": "f2dc8fcb",
+      "qid": "f2dc8fcb",
+      "author": "Abraham Lincoln",
       "en": "I have said a hundred times, and I have no inclination to take it back, that I believe there is no right, and ought to be no inclination in the people of the free States to enter into the slave States, and to interfere with the question of slavery at all. I have said that always."
     },
     {
-      "id": "d64bfbb5",
+      "qid": "d64bfbb5",
+      "author": "Abraham Lincoln",
       "en": "Most folks are as happy as they make up their minds to be."
     },
     {
-      "id": "d32ab693",
+      "qid": "d32ab693",
+      "author": "Abraham Lincoln",
       "en": "This country, with its institutions, belongs to the people who inhabit it. Whenever they shall grow weary of the existing government, they can exercise their constitutional right of amending it, or exercise their revolutionary right to overthrow it."
     },
     {
-      "id": "05ad5cbf",
+      "qid": "05ad5cbf",
+      "author": "Abraham Lincoln",
       "en": "With public sentiment, nothing can fail. Without it, nothing can succeed."
     },
     {
-      "id": "6fb46b96",
+      "qid": "6fb46b96",
+      "author": "Abraham Lincoln",
       "en": "I am naturally anti-slavery. If slavery is not wrong, nothing is wrong. I can not remember when I did not so think and feel."
     },
     {
-      "id": "74272695",
+      "qid": "74272695",
+      "author": "Abraham Lincoln",
       "en": "I was born and have ever remained in the most humble walks of life."
     },
     {
-      "id": "b3982285",
+      "qid": "b3982285",
+      "author": "Abraham Lincoln",
       "en": "He has a right to criticize, who has a heart to help."
     },
     {
-      "id": "87e38e57",
+      "qid": "87e38e57",
+      "author": "Abraham Lincoln",
       "en": "The philosophy of the school room in one generation will be the philosophy of government in the next."
     },
     {
-      "id": "ab2a8f8e",
+      "qid": "ab2a8f8e",
+      "author": "Abraham Lincoln",
       "en": "A friend is one who has the same enemies as you have."
     },
     {
-      "id": "72350d5e",
+      "qid": "72350d5e",
+      "author": "Abraham Lincoln",
       "en": "Give me six hours to chop down a tree and I will spend the first four sharpening the axe."
     },
     {
-      "id": "b1be6727",
+      "qid": "b1be6727",
+      "author": "Abraham Lincoln",
       "en": "Don't interfere with anything in the Constitution. That must be maintained, for it is the only safeguard of our liberties."
     },
     {
-      "id": "a7bada6a",
+      "qid": "a7bada6a",
+      "author": "Abraham Lincoln",
       "en": "In so far as the government lands can be disposed of, I am in favor of cutting up the wild lands into parcels so that every poor man may have a home."
     },
     {
-      "id": "cac66f0d",
+      "qid": "cac66f0d",
+      "author": "Abraham Lincoln",
       "en": "I have always hated slavery, I think, as much as any abolitionist. I have been an Old Line Whig. I have always hated it, but I have always been quiet about it until this new era of the introduction of the Nebraska Bill began."
     },
     {
-      "id": "61c4affc",
+      "qid": "61c4affc",
+      "author": "Abraham Lincoln",
       "en": "The leading rule for the lawyer, as for the man of every calling, is diligence."
     },
     {
-      "id": "084581d4",
+      "qid": "084581d4",
+      "author": "Abraham Lincoln",
       "en": "Ballots are the rightful and peaceful successors to bullets."
     },
     {
-      "id": "ebcddaa5",
+      "qid": "ebcddaa5",
+      "author": "Abraham Lincoln",
       "en": "My father... removed from Kentucky to... Indiana, in my eighth year... It was a wild region, with many bears and other wild animals still in the woods. There I grew up... Of course when I came of age, I did not know much. Still somehow, I could read, write, and cipher... but that was all."
     },
     {
-      "id": "cc7bc26e",
+      "qid": "cc7bc26e",
+      "author": "Abraham Lincoln",
       "en": "If there is anything that a man can do well, I say let him do it. Give him a chance."
     },
     {
-      "id": "a5a86a4a",
+      "qid": "a5a86a4a",
+      "author": "Abraham Lincoln",
       "en": "Whether slavery shall go into Nebraska, or other new territories, is not a matter of exclusive concern to the people who may go there. The whole nation is interested that the best use shall be made of these territories. We want them for the homes of free white people."
     },
     {
-      "id": "d4127bca",
+      "qid": "d4127bca",
+      "author": "Abraham Lincoln",
       "en": "A man watches his pear tree day after day, impatient for the ripening of the fruit. Let him attempt to force the process, and he may spoil both fruit and tree. But let him patiently wait, and the ripe pear at length falls into his lap."
     },
     {
-      "id": "6ecc96ff",
+      "qid": "6ecc96ff",
+      "author": "Abraham Lincoln",
       "en": "If I were two-faced, would I be wearing this one?"
     },
     {
-      "id": "29f005d7",
+      "qid": "29f005d7",
+      "author": "Abraham Lincoln",
       "en": "Upon the subjects of which I have treated, I have spoken as I have thought. I may be wrong in regard to any or all of them; but, holding it a sound maxim that it is better only sometimes to be right than at all times to be wrong, so soon as I discover my opinions to be erroneous, I shall be ready to renounce them."
     },
     {
-      "id": "35d1b36d",
+      "qid": "35d1b36d",
+      "author": "Abraham Lincoln",
       "en": "No man is good enough to govern another man without the other's consent."
     },
     {
-      "id": "862347c7",
+      "qid": "862347c7",
+      "author": "Abraham Lincoln",
       "en": "To the best of my judgment, I have labored for, and not against, the Union. As I have not felt, so I have not expressed any harsh sentiment towards our Southern brethren. I have constantly declared, as I really believed, the only difference between them and us is the difference of circumstances."
     },
     {
-      "id": "a42010d6",
+      "qid": "a42010d6",
+      "author": "Abraham Lincoln",
       "en": "In my view of the present aspect of affairs, there is no need of bloodshed and war. There is no necessity for it. I am not in favor of such a course, and I may say in advance, there will be no blood shed unless it be forced upon the government. The government will not use force unless force is used against it."
     }
   ]

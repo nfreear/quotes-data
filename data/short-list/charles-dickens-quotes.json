@@ -1,309 +1,385 @@
 {
-  "name": "Charles Dickens",
-  "image": "Charles-Dickens",
-  "quotes": [
+  "author": "Charles Dickens",
+  "imageId": "Charles-Dickens",
+  "data": [
     {
-      "id": "fc0f99c7",
+      "qid": "fc0f99c7",
+      "author": "Charles Dickens",
       "en": "There is a wisdom of the head, and a wisdom of the heart."
     },
     {
-      "id": "54d8c39a",
+      "qid": "54d8c39a",
+      "author": "Charles Dickens",
       "en": "Oh the nerves, the nerves; the mysteries of this machine called man! Oh the little that unhinges it, poor creatures that we are!"
     },
     {
-      "id": "ce0ca5f7",
+      "qid": "ce0ca5f7",
+      "author": "Charles Dickens",
       "en": "Most men are individuals no longer so far as their business, its activities, or its moralities are concerned. They are not units but fractions."
     },
     {
-      "id": "d9bc3ae9",
+      "qid": "d9bc3ae9",
+      "author": "Charles Dickens",
       "en": "Home is a name, a word, it is a strong one; stronger than magician ever spoke, or spirit ever answered to, in the strongest conjuration."
     },
     {
-      "id": "890dde76",
+      "qid": "890dde76",
+      "author": "Charles Dickens",
       "en": "The whole difference between construction and creation is exactly this: that a thing constructed can only be loved after it is constructed; but a thing created is loved before it exists."
     },
     {
-      "id": "258a48a3",
+      "qid": "258a48a3",
+      "author": "Charles Dickens",
       "en": "The age of chivalry is past. Bores have succeeded to dragons."
     },
     {
-      "id": "86c6e818",
+      "qid": "86c6e818",
+      "author": "Charles Dickens",
       "en": "I know I do not exaggerate, unconsciously and unintentionally, the scantiness of my resources and the difficulty of my life... I know that, but for the mercy of God, I might easily have been, for any care that was taken of me, a little robber or a vagabond."
     },
     {
-      "id": "81d68147",
+      "qid": "81d68147",
+      "author": "Charles Dickens",
       "en": "In the little world in which children have their existence, whosoever brings them up, there is nothing so finely perceived and so finely felt, as injustice."
     },
     {
-      "id": "f9b85bb1",
+      "qid": "f9b85bb1",
+      "author": "Charles Dickens",
       "en": "That sort of half sigh, which, accompanied by two or three slight nods of the head, is pity's small change in general society."
     },
     {
-      "id": "ba0d680f",
+      "qid": "ba0d680f",
+      "author": "Charles Dickens",
       "en": "Papa, potatoes, poultry, prunes and prism, are all very good words for the lips."
     },
     {
-      "id": "b36091c9",
+      "qid": "b36091c9",
+      "author": "Charles Dickens",
       "en": "Whatever I have tried to do in life, I have tried with all my heart to do it well; whatever I have devoted myself to, I have devoted myself completely; in great aims and in small I have always thoroughly been in earnest."
     },
     {
-      "id": "dd86f1ee",
+      "qid": "dd86f1ee",
+      "author": "Charles Dickens",
       "en": "When a man bleeds inwardly, it is a dangerous thing for himself; but when he laughs inwardly, it bodes no good to other people."
     },
     {
-      "id": "f5bbbe18",
+      "qid": "f5bbbe18",
+      "author": "Charles Dickens",
       "en": "'Do you spell it with a 'V' or a 'W'?' inquired the judge. 'That depends upon the taste and fancy of the speller, my Lord'."
     },
     {
-      "id": "9c505ea1",
+      "qid": "9c505ea1",
+      "author": "Charles Dickens",
       "en": "There are not a few among the disciples of charity who require, in their vocation, scarcely less excitement than the votaries of pleasure in theirs."
     },
     {
-      "id": "d9d94954",
+      "qid": "d9d94954",
+      "author": "Charles Dickens",
       "en": "The one great principle of English law is to make business for itself."
     },
     {
-      "id": "f71bc85a",
+      "qid": "f71bc85a",
+      "author": "Charles Dickens",
       "en": "A person who can't pay gets another person who can't pay to guarantee that he can pay. Like a person with two wooden legs getting another person with two wooden legs to guarantee that he has got two natural legs. It don't make either of them able to do a walking-match."
     },
     {
-      "id": "7fc5e2ec",
+      "qid": "7fc5e2ec",
+      "author": "Charles Dickens",
       "en": "Although a skillful flatterer is a most delightful companion if you have him all to yourself, his taste becomes very doubtful when he takes to complimenting other people."
     },
     {
-      "id": "5a8ed2af",
+      "qid": "5a8ed2af",
+      "author": "Charles Dickens",
       "en": "It is a melancholy truth that even great men have their poor relations."
     },
     {
-      "id": "d2308d38",
+      "qid": "d2308d38",
+      "author": "Charles Dickens",
       "en": "A wonderful fact to reflect upon, that every human creature is constituted to be that profound secret and mystery to every other."
     },
     {
-      "id": "39ff0772",
+      "qid": "39ff0772",
+      "author": "Charles Dickens",
       "en": "Nature gives to every time and season some beauties of its own; and from morning to night, as from the cradle to the grave, it is but a succession of changes so gentle and easy that we can scarcely mark their progress."
     },
     {
-      "id": "b9fc3e19",
+      "qid": "b9fc3e19",
+      "author": "Charles Dickens",
       "en": "If there were no bad people, there would be no good lawyers."
     },
     {
-      "id": "0a00efad",
+      "qid": "0a00efad",
+      "author": "Charles Dickens",
       "en": "Charity begins at home, and justice begins next door."
     },
     {
-      "id": "2b6f3903",
+      "qid": "2b6f3903",
+      "author": "Charles Dickens",
       "en": "It was the best of times, it was the worst of times."
     },
     {
-      "id": "9a3690a9",
+      "qid": "9a3690a9",
+      "author": "Charles Dickens",
       "en": "It opens the lungs, washes the countenance, exercises the eyes, and softens down the temper; so cry away."
     },
     {
-      "id": "aae4a3d3",
+      "qid": "aae4a3d3",
+      "author": "Charles Dickens",
       "en": "There is nothing so strong or safe in an emergency of life as the simple truth."
     },
     {
-      "id": "7eb116f3",
+      "qid": "7eb116f3",
+      "author": "Charles Dickens",
       "en": "Great men are seldom over-scrupulous in the arrangement of their attire."
     },
     {
-      "id": "3b35fb18",
+      "qid": "3b35fb18",
+      "author": "Charles Dickens",
       "en": "It is a far, far better thing that I do, than I have ever done; it is a far, far better rest that I go to, than I have ever known."
     },
     {
-      "id": "be270fdf",
+      "qid": "be270fdf",
+      "author": "Charles Dickens",
       "en": "It is a pleasant thing to reflect upon, and furnishes a complete answer to those who contend for the gradual degeneration of the human species, that every baby born into the world is a finer one than the last."
     },
     {
-      "id": "a4c6909c",
+      "qid": "a4c6909c",
+      "author": "Charles Dickens",
       "en": "Little Red Riding Hood was my first love. I felt that if I could have married Little Red Riding Hood, I should have known perfect bliss."
     },
     {
-      "id": "5cb22bd7",
+      "qid": "5cb22bd7",
+      "author": "Charles Dickens",
       "en": "I only ask to be free. The butterflies are free."
     },
     {
-      "id": "14e34cca",
+      "qid": "14e34cca",
+      "author": "Charles Dickens",
       "en": "We are so very 'umble."
     },
     {
-      "id": "ab6a5e05",
+      "qid": "ab6a5e05",
+      "author": "Charles Dickens",
       "en": "The men who learn endurance, are they who call the whole world, brother."
     },
     {
-      "id": "949d45eb",
+      "qid": "949d45eb",
+      "author": "Charles Dickens",
       "en": "Dignity, and even holiness too, sometimes, are more questions of coat and waistcoat than some people imagine."
     },
     {
-      "id": "0ec9d1fc",
+      "qid": "0ec9d1fc",
+      "author": "Charles Dickens",
       "en": "We forge the chains we wear in life."
     },
     {
-      "id": "9a2203fa",
+      "qid": "9a2203fa",
+      "author": "Charles Dickens",
       "en": "Credit is a system whereby a person who can not pay gets another person who can not pay to guarantee that he can pay."
     },
     {
-      "id": "ef058600",
+      "qid": "ef058600",
+      "author": "Charles Dickens",
       "en": "I never could have done what I have done without the habits of punctuality, order, and diligence, without the determination to concentrate myself on one subject at a time."
     },
     {
-      "id": "1acb5739",
+      "qid": "1acb5739",
+      "author": "Charles Dickens",
       "en": "An idea, like a ghost, must be spoken to a little before it will explain itself."
     },
     {
-      "id": "dda505f8",
+      "qid": "dda505f8",
+      "author": "Charles Dickens",
       "en": "Let us be moral. Let us contemplate existence."
     },
     {
-      "id": "e1d25749",
+      "qid": "e1d25749",
+      "author": "Charles Dickens",
       "en": "The first rule of business is: Do other men for they would do you."
     },
     {
-      "id": "b3e4929b",
+      "qid": "b3e4929b",
+      "author": "Charles Dickens",
       "en": "Anything for the quick life, as the man said when he took the situation at the lighthouse."
     },
     {
-      "id": "83ae7e23",
+      "qid": "83ae7e23",
+      "author": "Charles Dickens",
       "en": "Fan the sinking flame of hilarity with the wing of friendship; and pass the rosy wine."
     },
     {
-      "id": "36e6a31a",
+      "qid": "36e6a31a",
+      "author": "Charles Dickens",
       "en": "There are dark shadows on the earth, but its lights are stronger in the contrast."
     },
     {
-      "id": "7a217c95",
+      "qid": "7a217c95",
+      "author": "Charles Dickens",
       "en": "Bring in the bottled lightning, a clean tumbler, and a corkscrew."
     },
     {
-      "id": "fd18a069",
+      "qid": "fd18a069",
+      "author": "Charles Dickens",
       "en": "Vices are sometimes only virtues carried to excess!"
     },
     {
-      "id": "01459430",
+      "qid": "01459430",
+      "author": "Charles Dickens",
       "en": "This is a world of action, and not for moping and droning in."
     },
     {
-      "id": "b6b6e0f5",
+      "qid": "b6b6e0f5",
+      "author": "Charles Dickens",
       "en": "Life is made of ever so many partings welded together."
     },
     {
-      "id": "2f2cde78",
+      "qid": "2f2cde78",
+      "author": "Charles Dickens",
       "en": "Christmas time! That man must be a misanthrope indeed, in whose breast something like a jovial feeling is not roused - in whose mind some pleasant associations are not awakened - by the recurrence of Christmas."
     },
     {
-      "id": "b2d656ab",
+      "qid": "b2d656ab",
+      "author": "Charles Dickens",
       "en": "He had but one eye and the pocket of prejudice runs in favor of two."
     },
     {
-      "id": "60afdb2a",
+      "qid": "60afdb2a",
+      "author": "Charles Dickens",
       "en": "A loving heart is the truest wisdom."
     },
     {
-      "id": "4f3d03ae",
+      "qid": "4f3d03ae",
+      "author": "Charles Dickens",
       "en": "Cows are my passion. What I have ever sighed for has been to retreat to a Swiss farm, and live entirely surrounded by cows - and china."
     },
     {
-      "id": "54023316",
+      "qid": "54023316",
+      "author": "Charles Dickens",
       "en": "There are books of which the backs and covers are by far the best parts."
     },
     {
-      "id": "7697f430",
+      "qid": "7697f430",
+      "author": "Charles Dickens",
       "en": "A boy's story is the best that is ever told."
     },
     {
-      "id": "c24f5e58",
+      "qid": "c24f5e58",
+      "author": "Charles Dickens",
       "en": "Electric communication will never be a substitute for the face of someone who with their soul encourages another person to be brave and true."
     },
     {
-      "id": "fa0eabfc",
+      "qid": "fa0eabfc",
+      "author": "Charles Dickens",
       "en": "It was one of those March days when the sun shines hot and the wind blows cold: when it is summer in the light, and winter in the shade."
     },
     {
-      "id": "17c07b5e",
+      "qid": "17c07b5e",
+      "author": "Charles Dickens",
       "en": "I have known a vast quantity of nonsense talked about bad men not looking you in the face. Don't trust that conventional idea. Dishonesty will stare honesty out of countenance any day in the week, if there is anything to be got by it."
     },
     {
-      "id": "0a581843",
+      "qid": "0a581843",
+      "author": "Charles Dickens",
       "en": "Regrets are the natural property of grey hairs."
     },
     {
-      "id": "3781d026",
+      "qid": "3781d026",
+      "author": "Charles Dickens",
       "en": "Reflect upon your present blessings of which every man has many - not on your past misfortunes, of which all men have some."
     },
     {
-      "id": "a62f2218",
+      "qid": "a62f2218",
+      "author": "Charles Dickens",
       "en": "'Tis love that makes the world go round, my baby."
     },
     {
-      "id": "c9ea8a2b",
+      "qid": "c9ea8a2b",
+      "author": "Charles Dickens",
       "en": "It's my old girl that advises. She has the head. But I never own to it before her. Discipline must be maintained."
     },
     {
-      "id": "ea67f9b2",
+      "qid": "ea67f9b2",
+      "author": "Charles Dickens",
       "en": "You don't carry in your countenance a letter of recommendation."
     },
     {
-      "id": "24d78f17",
+      "qid": "24d78f17",
+      "author": "Charles Dickens",
       "en": "Any man may be in good spirits and good temper when he's well dressed. There ain't much credit in that."
     },
     {
-      "id": "ab6d1804",
+      "qid": "ab6d1804",
+      "author": "Charles Dickens",
       "en": "To conceal anything from those to whom I am attached, is not in my nature. I can never close my lips where I have opened my heart."
     },
     {
-      "id": "701e7aad",
+      "qid": "701e7aad",
+      "author": "Charles Dickens",
       "en": "A day wasted on others is not wasted on one's self."
     },
     {
-      "id": "bb4b29cf",
+      "qid": "bb4b29cf",
+      "author": "Charles Dickens",
       "en": "Subdue your appetites, my dears, and you've conquered human nature."
     },
     {
-      "id": "112245a6",
+      "qid": "112245a6",
+      "author": "Charles Dickens",
       "en": "May not the complaint, that common people are above their station, often take its rise in the fact of uncommon people being below theirs?"
     },
     {
-      "id": "23057073",
+      "qid": "23057073",
+      "author": "Charles Dickens",
       "en": "There are strings in the human heart that had better not be vibrated."
     },
     {
-      "id": "3aacea1b",
+      "qid": "3aacea1b",
+      "author": "Charles Dickens",
       "en": "No one is useless in this world who lightens the burden of it to anyone else."
     },
     {
-      "id": "a0bcdc1f",
+      "qid": "a0bcdc1f",
+      "author": "Charles Dickens",
       "en": "I will honor Christmas in my heart, and try to keep it all the year."
     },
     {
-      "id": "7848b770",
+      "qid": "7848b770",
+      "author": "Charles Dickens",
       "en": "Renunciation remains sorrow, though a sorrow borne willingly."
     },
     {
-      "id": "33a7c6e2",
+      "qid": "33a7c6e2",
+      "author": "Charles Dickens",
       "en": "He would make a lovely corpse."
     },
     {
-      "id": "516fb34e",
+      "qid": "516fb34e",
+      "author": "Charles Dickens",
       "en": "The civility which money will purchase, is rarely extended to those who have none."
     },
     {
-      "id": "70774524",
+      "qid": "70774524",
+      "author": "Charles Dickens",
       "en": "Happy, happy Christmas, that can win us back to the delusions of our childhood days, recall to the old man the pleasures of his youth, and transport the traveler back to his own fireside and quiet home!"
     },
     {
-      "id": "1c90b549",
+      "qid": "1c90b549",
+      "author": "Charles Dickens",
       "en": "Have a heart that never hardens, and a temper that never tires, and a touch that never hurts."
     },
     {
-      "id": "4747449b",
+      "qid": "4747449b",
+      "author": "Charles Dickens",
       "en": "The pain of parting is nothing to the joy of meeting again."
     },
     {
-      "id": "775c019f",
+      "qid": "775c019f",
+      "author": "Charles Dickens",
       "en": "There are only two styles of portrait painting; the serious and the smirk."
     },
     {
-      "id": "ef7f9a61",
+      "qid": "ef7f9a61",
+      "author": "Charles Dickens",
       "en": "Send forth the child and childish man together, and blush for the pride that libels our own old happy state, and gives its title to an ugly and distorted image."
     }
   ]

@@ -1,37 +1,45 @@
 {
-  "name": "Hans Christian Andersen",
-  "image": "Hans-Christian-Andersen",
-  "quotes": [
+  "author": "Hans Christian Andersen",
+  "imageId": "Hans-Christian-Andersen",
+  "data": [
     {
-      "id": "bee7af80",
+      "qid": "bee7af80",
+      "author": "Hans Christian Andersen",
       "en": "Most of the people who will walk after me will be children, so make the beat keep time with short steps."
     },
     {
-      "id": "84f0f842",
+      "qid": "84f0f842",
+      "author": "Hans Christian Andersen",
       "en": "Every man's life is a fairy tale written by God's fingers."
     },
     {
-      "id": "128b9357",
+      "qid": "128b9357",
+      "author": "Hans Christian Andersen",
       "en": "Life itself is the most wonderful fairy tale."
     },
     {
-      "id": "f7e8cdcd",
+      "qid": "f7e8cdcd",
+      "author": "Hans Christian Andersen",
       "en": "Travelling expands the mind rarely."
     },
     {
-      "id": "81c47308",
+      "qid": "81c47308",
+      "author": "Hans Christian Andersen",
       "en": "Where words fail, music speaks."
     },
     {
-      "id": "90593f13",
+      "qid": "90593f13",
+      "author": "Hans Christian Andersen",
       "en": "Just living is not enough... one must have sunshine, freedom, and a little flower."
     },
     {
-      "id": "bae73cd5",
+      "qid": "bae73cd5",
+      "author": "Hans Christian Andersen",
       "en": "My life is a lovely story, happy and full of incident."
     },
     {
-      "id": "485d2858",
+      "qid": "485d2858",
+      "author": "Hans Christian Andersen",
       "en": "Being born in a duck yard does not matter, if only you are hatched from a swan's egg."
     }
   ]

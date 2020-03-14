@@ -1,601 +1,750 @@
 {
-  "name": "Plato",
-  "image": "Plato",
-  "quotes": [
+  "author": "Plato",
+  "imageId": "Plato",
+  "data": [
     {
-      "id": "51c7f197",
+      "qid": "51c7f197",
+      "author": "Plato",
       "en": "Music is a moral law. It gives soul to the universe, wings to the mind, flight to the imagination, and charm and gaiety to life and to everything."
     },
     {
-      "id": "57f48ca9",
+      "qid": "57f48ca9",
+      "author": "Plato",
       "en": "There's a victory, and defeat; the first and best of victories, the lowest and worst of defeats which each man gains or sustains at the hands not of another, but of himself."
     },
     {
-      "id": "2211b638",
+      "qid": "2211b638",
+      "author": "Plato",
       "en": "For a man to conquer himself is the first and noblest of all victories."
     },
     {
-      "id": "bb2e2a3d",
+      "qid": "bb2e2a3d",
+      "author": "Plato",
       "en": "Philosophy is the highest music."
     },
     {
-      "id": "537b72ac",
+      "qid": "537b72ac",
+      "author": "Plato",
       "en": "For good nurture and education implant good constitutions."
     },
     {
-      "id": "7f8d7580",
+      "qid": "7f8d7580",
+      "author": "Plato",
       "en": "Astronomy compels the soul to look upwards and leads us from this world to another."
     },
     {
-      "id": "da058972",
+      "qid": "da058972",
+      "author": "Plato",
       "en": "Injustice is censured because the censures are afraid of suffering, and not from any fear which they have of doing injustice."
     },
     {
-      "id": "1ac9e012",
+      "qid": "1ac9e012",
+      "author": "Plato",
       "en": "No one ever teaches well who wants to teach, or governs well who wants to govern."
     },
     {
-      "id": "580d4719",
+      "qid": "580d4719",
+      "author": "Plato",
       "en": "They certainly give very strange names to diseases."
     },
     {
-      "id": "77b4b5fa",
+      "qid": "77b4b5fa",
+      "author": "Plato",
       "en": "The good is the beautiful."
     },
     {
-      "id": "d6a595d5",
+      "qid": "d6a595d5",
+      "author": "Plato",
       "en": "All men are by nature equal, made all of the same earth by one Workman; and however we deceive ourselves, as dear unto God is the poor peasant as the mighty prince."
     },
     {
-      "id": "b70cbe96",
+      "qid": "b70cbe96",
+      "author": "Plato",
       "en": "There are two things a person should never be angry at, what they can help, and what they cannot."
     },
     {
-      "id": "88c576ec",
+      "qid": "88c576ec",
+      "author": "Plato",
       "en": "A hero is born among a hundred, a wise man is found among a thousand, but an accomplished one might not be found even among a hundred thousand men."
     },
     {
-      "id": "5b49100c",
+      "qid": "5b49100c",
+      "author": "Plato",
       "en": "Any man may easily do harm, but not every man can do good to another."
     },
     {
-      "id": "d13dd4b6",
+      "qid": "d13dd4b6",
+      "author": "Plato",
       "en": "When the tyrant has disposed of foreign enemies by conquest or treaty, and there is nothing more to fear from them, then he is always stirring up some war or other, in order that the people may require a leader."
     },
     {
-      "id": "09bcf682",
+      "qid": "09bcf682",
+      "author": "Plato",
       "en": "Knowledge without justice ought to be called cunning rather than wisdom."
     },
     {
-      "id": "057b3424",
+      "qid": "057b3424",
+      "author": "Plato",
       "en": "To prefer evil to good is not in human nature; and when a man is compelled to choose one of two evils, no one will choose the greater when he might have the less."
     },
     {
-      "id": "c7f186af",
+      "qid": "c7f186af",
+      "author": "Plato",
       "en": "To go to the world below, having a soul which is like a vessel full of injustice, is the last and worst of all the evils."
     },
     {
-      "id": "b9897e9f",
+      "qid": "b9897e9f",
+      "author": "Plato",
       "en": "There is no harm in repeating a good thing."
     },
     {
-      "id": "814789f7",
+      "qid": "814789f7",
+      "author": "Plato",
       "en": "Ignorance, the root and stem of all evil."
     },
     {
-      "id": "efcf6e00",
+      "qid": "efcf6e00",
+      "author": "Plato",
       "en": "The first and greatest victory is to conquer yourself; to be conquered by yourself is of all things most shameful and vile."
     },
     {
-      "id": "fcdfce55",
+      "qid": "fcdfce55",
+      "author": "Plato",
       "en": "The learning and knowledge that we have, is, at the most, but little compared with that of which we are ignorant."
     },
     {
-      "id": "a90e9e22",
+      "qid": "a90e9e22",
+      "author": "Plato",
       "en": "The most virtuous are those who content themselves with being virtuous without seeking to appear so."
     },
     {
-      "id": "fec82eed",
+      "qid": "fec82eed",
+      "author": "Plato",
       "en": "Man - a being in search of meaning."
     },
     {
-      "id": "341d5ac2",
+      "qid": "341d5ac2",
+      "author": "Plato",
       "en": "The beginning is the most important part of the work."
     },
     {
-      "id": "9d191638",
+      "qid": "9d191638",
+      "author": "Plato",
       "en": "No one is a friend to his friend who does not love in return."
     },
     {
-      "id": "4d52bdf1",
+      "qid": "4d52bdf1",
+      "author": "Plato",
       "en": "It is clear to everyone that astronomy at all events compels the soul to look upwards, and draws it from the things of this world to the other."
     },
     {
-      "id": "b6d7b503",
+      "qid": "b6d7b503",
+      "author": "Plato",
       "en": "There will be no end to the troubles of states, or of humanity itself, till philosophers become kings in this world, or till those we now call kings and rulers really and truly become philosophers, and political power and philosophy thus come into the same hands."
     },
     {
-      "id": "a7e59108",
+      "qid": "a7e59108",
+      "author": "Plato",
       "en": "Those who intend on becoming great should love neither themselves nor their own things, but only what is just, whether it happens to be done by themselves or others."
     },
     {
-      "id": "2f23c425",
+      "qid": "2f23c425",
+      "author": "Plato",
       "en": "You can discover more about a person in an hour of play than in a year of conversation."
     },
     {
-      "id": "a9efb293",
+      "qid": "a9efb293",
+      "author": "Plato",
       "en": "We can easily forgive a child who is afraid of the dark; the real tragedy of life is when men are afraid of the light."
     },
     {
-      "id": "84574ac6",
+      "qid": "84574ac6",
+      "author": "Plato",
       "en": "Let parents bequeath to their children not riches, but the spirit of reverence."
     },
     {
-      "id": "098edc78",
+      "qid": "098edc78",
+      "author": "Plato",
       "en": "The punishment which the wise suffer who refuse to take part in the government, is to live under the government of worse men."
     },
     {
-      "id": "340f2a0a",
+      "qid": "340f2a0a",
+      "author": "Plato",
       "en": "Justice in the life and conduct of the State is possible only as first it resides in the hearts and souls of the citizens."
     },
     {
-      "id": "10f469a9",
+      "qid": "10f469a9",
+      "author": "Plato",
       "en": "He who is not a good servant will not be a good master."
     },
     {
-      "id": "29548055",
+      "qid": "29548055",
+      "author": "Plato",
       "en": "A good decision is based on knowledge and not on numbers."
     },
     {
-      "id": "5fdebec7",
+      "qid": "5fdebec7",
+      "author": "Plato",
       "en": "Death is not the worst that can happen to men."
     },
     {
-      "id": "16609aa5",
+      "qid": "16609aa5",
+      "author": "Plato",
       "en": "Wise men speak because they have something to say; Fools because they have to say something."
     },
     {
-      "id": "a28205c0",
+      "qid": "a28205c0",
+      "author": "Plato",
       "en": "To love rightly is to love what is orderly and beautiful in an educated and disciplined way."
     },
     {
-      "id": "5ca198d6",
+      "qid": "5ca198d6",
+      "author": "Plato",
       "en": "The most important part of education is proper training in the nursery."
     },
     {
-      "id": "74499642",
+      "qid": "74499642",
+      "author": "Plato",
       "en": "Poetry is nearer to vital truth than history."
     },
     {
-      "id": "c5782179",
+      "qid": "c5782179",
+      "author": "Plato",
       "en": "Excess generally causes reaction, and produces a change in the opposite direction, whether it be in the seasons, or in individuals, or in governments."
     },
     {
-      "id": "0cd21681",
+      "qid": "0cd21681",
+      "author": "Plato",
       "en": "The curse of me and my nation is that we always think things can be bettered by immediate action of some sort, any sort rather than no sort."
     },
     {
-      "id": "ed8c779b",
+      "qid": "ed8c779b",
+      "author": "Plato",
       "en": "Better a little which is well done, than a great deal imperfectly."
     },
     {
-      "id": "8e719eab",
+      "qid": "8e719eab",
+      "author": "Plato",
       "en": "Rhetoric is the art of ruling the minds of men."
     },
     {
-      "id": "10aef5c2",
+      "qid": "10aef5c2",
+      "author": "Plato",
       "en": "Democracy... is a charming form of government, full of variety and disorder; and dispensing a sort of equality to equals and unequals alike."
     },
     {
-      "id": "12c9a978",
+      "qid": "12c9a978",
+      "author": "Plato",
       "en": "Apply yourself both now and in the next life. Without effort, you cannot be prosperous. Though the land be good, You cannot have an abundant crop without cultivation."
     },
     {
-      "id": "d881a677",
+      "qid": "d881a677",
+      "author": "Plato",
       "en": "Ignorance of all things is an evil neither terrible nor excessive, nor yet the greatest of all; but great cleverness and much learning, if they be accompanied by a bad training, are a much greater misfortune."
     },
     {
-      "id": "04eb854c",
+      "qid": "04eb854c",
+      "author": "Plato",
       "en": "Man never legislates, but destinies and accidents, happening in all sorts of ways, legislate in all sorts of ways."
     },
     {
-      "id": "261a8acf",
+      "qid": "261a8acf",
+      "author": "Plato",
       "en": "No man should bring children into the world who is unwilling to persevere to the end in their nature and education."
     },
     {
-      "id": "1a56f8c5",
+      "qid": "1a56f8c5",
+      "author": "Plato",
       "en": "The blame is his who chooses: God is blameless."
     },
     {
-      "id": "b3cd9dd2",
+      "qid": "b3cd9dd2",
+      "author": "Plato",
       "en": "Then not only custom, but also nature affirms that to do is more disgraceful than to suffer injustice, and that justice is equality."
     },
     {
-      "id": "13691f25",
+      "qid": "13691f25",
+      "author": "Plato",
       "en": "The rulers of the state are the only persons who ought to have the privilege of lying, either at home or abroad; they may be allowed to lie for the good of the state."
     },
     {
-      "id": "955fcb39",
+      "qid": "955fcb39",
+      "author": "Plato",
       "en": "To suffer the penalty of too much haste, which is too little speed."
     },
     {
-      "id": "c1bf69cd",
+      "qid": "c1bf69cd",
+      "author": "Plato",
       "en": "Entire ignorance is not so terrible or extreme an evil, and is far from being the greatest of all; too much cleverness and too much learning, accompanied with ill bringing-up, are far more fatal."
     },
     {
-      "id": "b2c2b915",
+      "qid": "b2c2b915",
+      "author": "Plato",
       "en": "Knowledge which is acquired under compulsion obtains no hold on the mind."
     },
     {
-      "id": "60f61fbe",
+      "qid": "60f61fbe",
+      "author": "Plato",
       "en": "Then not only an old man, but also a drunkard, becomes a second time a child."
     },
     {
-      "id": "3a0c9aef",
+      "qid": "3a0c9aef",
+      "author": "Plato",
       "en": "Not to help justice in her need would be an impiety."
     },
     {
-      "id": "e78716ff",
+      "qid": "e78716ff",
+      "author": "Plato",
       "en": "Truth is the beginning of every good to the gods, and of every good to man."
     },
     {
-      "id": "84a3002c",
+      "qid": "84a3002c",
+      "author": "Plato",
       "en": "I never did anything worth doing by accident, nor did any of my inventions come by accident; they came by work."
     },
     {
-      "id": "a0b681f7",
+      "qid": "a0b681f7",
+      "author": "Plato",
       "en": "Tyranny naturally arises out of democracy."
     },
     {
-      "id": "e3f594b9",
+      "qid": "e3f594b9",
+      "author": "Plato",
       "en": "Life must be lived as play."
     },
     {
-      "id": "e04eb620",
+      "qid": "e04eb620",
+      "author": "Plato",
       "en": "If particulars are to have meaning, there must be universals."
     },
     {
-      "id": "45e330d4",
+      "qid": "45e330d4",
+      "author": "Plato",
       "en": "Good people do not need laws to tell them to act responsibly, while bad people will find a way around the laws."
     },
     {
-      "id": "3078de7e",
+      "qid": "3078de7e",
+      "author": "Plato",
       "en": "I would fain grow old learning many things."
     },
     {
-      "id": "cc84b475",
+      "qid": "cc84b475",
+      "author": "Plato",
       "en": "Know one knows whether death, which people fear to be the greatest evil, may not be the greatest good."
     },
     {
-      "id": "23d25cc5",
+      "qid": "23d25cc5",
+      "author": "Plato",
       "en": "Human behavior flows from three main sources: desire, emotion, and knowledge."
     },
     {
-      "id": "29cb0578",
+      "qid": "29cb0578",
+      "author": "Plato",
       "en": "The measure of a man is what he does with power."
     },
     {
-      "id": "41eac456",
+      "qid": "41eac456",
+      "author": "Plato",
       "en": "Dictatorship naturally arises out of democracy, and the most aggravated form of tyranny and slavery out of the most extreme liberty."
     },
     {
-      "id": "6996f092",
+      "qid": "6996f092",
+      "author": "Plato",
       "en": "Virtue is relative to the actions and ages of each of us in all that we do."
     },
     {
-      "id": "02d2d908",
+      "qid": "02d2d908",
+      "author": "Plato",
       "en": "How can you prove whether at this moment we are sleeping, and all our thoughts are a dream; or whether we are awake, and talking to one another in the waking state?"
     },
     {
-      "id": "6e35d3c5",
+      "qid": "6e35d3c5",
+      "author": "Plato",
       "en": "We ought to fly away from earth to heaven as quickly as we can; and to fly away is to become like God, as far as this is possible; and to become like him is to become holy, just, and wise."
     },
     {
-      "id": "479d9d7f",
+      "qid": "479d9d7f",
+      "author": "Plato",
       "en": "There is no such thing as a lovers' oath."
     },
     {
-      "id": "807176f5",
+      "qid": "807176f5",
+      "author": "Plato",
       "en": "Wisdom alone is the science of other sciences."
     },
     {
-      "id": "4d170096",
+      "qid": "4d170096",
+      "author": "Plato",
       "en": "Science is nothing but perception."
     },
     {
-      "id": "8e5d2d26",
+      "qid": "8e5d2d26",
+      "author": "Plato",
       "en": "The direction in which education starts a man will determine his future in life."
     },
     {
-      "id": "380cb1a1",
+      "qid": "380cb1a1",
+      "author": "Plato",
       "en": "I have hardly ever known a mathematician who was capable of reasoning."
     },
     {
-      "id": "cd7a8fd9",
+      "qid": "cd7a8fd9",
+      "author": "Plato",
       "en": "States are as the men, they grow out of human characters."
     },
     {
-      "id": "dddb1cca",
+      "qid": "dddb1cca",
+      "author": "Plato",
       "en": "When the mind is thinking it is talking to itself."
     },
     {
-      "id": "f0fdb67f",
+      "qid": "f0fdb67f",
+      "author": "Plato",
       "en": "Must not all things at the last be swallowed up in death?"
     },
     {
-      "id": "7e00ac4f",
+      "qid": "7e00ac4f",
+      "author": "Plato",
       "en": "Opinion is the medium between knowledge and ignorance."
     },
     {
-      "id": "94286eaa",
+      "qid": "94286eaa",
+      "author": "Plato",
       "en": "It is right to give every man his due."
     },
     {
-      "id": "6ac61611",
+      "qid": "6ac61611",
+      "author": "Plato",
       "en": "One of the penalties for refusing to participate in politics is that you end up being governed by your inferiors."
     },
     {
-      "id": "905bf4db",
+      "qid": "905bf4db",
+      "author": "Plato",
       "en": "No evil can happen to a good man, either in life or after death."
     },
     {
-      "id": "57616669",
+      "qid": "57616669",
+      "author": "Plato",
       "en": "He who commits injustice is ever made more wretched than he who suffers it."
     },
     {
-      "id": "0a879eea",
+      "qid": "0a879eea",
+      "author": "Plato",
       "en": "People are like dirt. They can either nourish you and help you grow as a person or they can stunt your growth and make you wilt and die."
     },
     {
-      "id": "eaf0aff7",
+      "qid": "eaf0aff7",
+      "author": "Plato",
       "en": "The excessive increase of anything causes a reaction in the opposite direction."
     },
     {
-      "id": "db1ea2b0",
+      "qid": "db1ea2b0",
+      "author": "Plato",
       "en": "This City is what it is because our citizens are what they are."
     },
     {
-      "id": "3a444b70",
+      "qid": "3a444b70",
+      "author": "Plato",
       "en": "All things will be produced in superior quantity and quality, and with greater ease, when each man works at a single occupation, in accordance with his natural gifts, and at the right moment, without meddling with anything else."
     },
     {
-      "id": "bbce6430",
+      "qid": "bbce6430",
+      "author": "Plato",
       "en": "Philosophy begins in wonder."
     },
     {
-      "id": "fc223942",
+      "qid": "fc223942",
+      "author": "Plato",
       "en": "He who steals a little steals with the same wish as he who steals much, but with less power."
     },
     {
-      "id": "fe5b6fed",
+      "qid": "fe5b6fed",
+      "author": "Plato",
       "en": "Whatever deceives men seems to produce a magical enchantment."
     },
     {
-      "id": "597559d5",
+      "qid": "597559d5",
+      "author": "Plato",
       "en": "Courage is a kind of salvation."
     },
     {
-      "id": "2e1424b3",
+      "qid": "2e1424b3",
+      "author": "Plato",
       "en": "Necessity... the mother of invention."
     },
     {
-      "id": "5a13c403",
+      "qid": "5a13c403",
+      "author": "Plato",
       "en": "When there is an income tax, the just man will pay more and the unjust less on the same amount of income."
     },
     {
-      "id": "c63b295b",
+      "qid": "c63b295b",
+      "author": "Plato",
       "en": "Excess of liberty, whether it lies in state or individuals, seems only to pass into excess of slavery."
     },
     {
-      "id": "ec148a0e",
+      "qid": "ec148a0e",
+      "author": "Plato",
       "en": "Man is a wingless animal with two feet and flat nails."
     },
     {
-      "id": "5476d4c4",
+      "qid": "5476d4c4",
+      "author": "Plato",
       "en": "At the touch of love everyone becomes a poet."
     },
     {
-      "id": "5a8f90c0",
+      "qid": "5a8f90c0",
+      "author": "Plato",
       "en": "Nothing can be more absurd than the practice that prevails in our country of men and women not following the same pursuits with all their strengths and with one mind, for thus, the state instead of being whole is reduced to half."
     },
     {
-      "id": "f6007814",
+      "qid": "f6007814",
+      "author": "Plato",
       "en": "It is a common saying, and in everybody's mouth, that life is but a sojourn."
     },
     {
-      "id": "6e755338",
+      "qid": "6e755338",
+      "author": "Plato",
       "en": "Our object in the construction of the state is the greatest happiness of the whole, and not that of any one class."
     },
     {
-      "id": "29a64237",
+      "qid": "29a64237",
+      "author": "Plato",
       "en": "I exhort you also to take part in the great combat, which is the combat of life, and greater than every other earthly conflict."
     },
     {
-      "id": "b8377168",
+      "qid": "b8377168",
+      "author": "Plato",
       "en": "They do certainly give very strange, and newfangled, names to diseases."
     },
     {
-      "id": "86d682c4",
+      "qid": "86d682c4",
+      "author": "Plato",
       "en": "The wisest have the most authority."
     },
     {
-      "id": "9621157e",
+      "qid": "9621157e",
+      "author": "Plato",
       "en": "Twice and thrice over, as they say, good is it to repeat and review what is good."
     },
     {
-      "id": "3c8e6db3",
+      "qid": "3c8e6db3",
+      "author": "Plato",
       "en": "The community which has neither poverty nor riches will always have the noblest principles."
     },
     {
-      "id": "6d5c4b67",
+      "qid": "6d5c4b67",
+      "author": "Plato",
       "en": "There must always remain something that is antagonistic to good."
     },
     {
-      "id": "5de5ce8d",
+      "qid": "5de5ce8d",
+      "author": "Plato",
       "en": "When men speak ill of thee, live so as nobody may believe them."
     },
     {
-      "id": "08aad277",
+      "qid": "08aad277",
+      "author": "Plato",
       "en": "The highest reach of injustice is to be deemed just when you are not."
     },
     {
-      "id": "01b33386",
+      "qid": "01b33386",
+      "author": "Plato",
       "en": "Music is the movement of sound to reach the soul for the education of its virtue."
     },
     {
-      "id": "d5e415db",
+      "qid": "d5e415db",
+      "author": "Plato",
       "en": "We ought to esteem it of the greatest importance that the fictions which children first hear should be adapted in the most perfect manner to the promotion of virtue."
     },
     {
-      "id": "431e6a41",
+      "qid": "431e6a41",
+      "author": "Plato",
       "en": "Cunning... is but the low mimic of wisdom."
     },
     {
-      "id": "118b143f",
+      "qid": "118b143f",
+      "author": "Plato",
       "en": "No trace of slavery ought to mix with the studies of the freeborn man. No study, pursued under compulsion, remains rooted in the memory."
     },
     {
-      "id": "153a0fdb",
+      "qid": "153a0fdb",
+      "author": "Plato",
       "en": "Democracy passes into despotism."
     },
     {
-      "id": "c0f18022",
+      "qid": "c0f18022",
+      "author": "Plato",
       "en": "The man who makes everything that leads to happiness depends upon himself, and not upon other men, has adopted the very best plan for living happily. This is the man of moderation, the man of manly character and of wisdom."
     },
     {
-      "id": "28185a82",
+      "qid": "28185a82",
+      "author": "Plato",
       "en": "When a Benefit is wrongly conferred, the author of the Benefit may often be said to injure."
     },
     {
-      "id": "ad6c446e",
+      "qid": "ad6c446e",
+      "author": "Plato",
       "en": "Wonder is the feeling of the philosopher, and philosophy begins in wonder."
     },
     {
-      "id": "19b02601",
+      "qid": "19b02601",
+      "author": "Plato",
       "en": "Attention to health is life's greatest hindrance."
     },
     {
-      "id": "1f5efe7c",
+      "qid": "1f5efe7c",
+      "author": "Plato",
       "en": "Knowledge becomes evil if the aim be not virtuous."
     },
     {
-      "id": "e10a15d2",
+      "qid": "e10a15d2",
+      "author": "Plato",
       "en": "Nothing in the affairs of men is worthy of great anxiety."
     },
     {
-      "id": "67dd0a44",
+      "qid": "67dd0a44",
+      "author": "Plato",
       "en": "Every heart sings a song, incomplete, until another heart whispers back. Those who wish to sing always find a song. At the touch of a lover, everyone becomes a poet."
     },
     {
-      "id": "b20f0b6d",
+      "qid": "b20f0b6d",
+      "author": "Plato",
       "en": "Hardly any human being is capable of pursuing two professions or two arts rightly."
     },
     {
-      "id": "5719edc2",
+      "qid": "5719edc2",
+      "author": "Plato",
       "en": "Thinking: the talking of the soul with itself."
     },
     {
-      "id": "c6d99503",
+      "qid": "c6d99503",
+      "author": "Plato",
       "en": "We are twice armed if we fight with faith."
     },
     {
-      "id": "548a7e71",
+      "qid": "548a7e71",
+      "author": "Plato",
       "en": "Poets utter great and wise things which they do not themselves understand."
     },
     {
-      "id": "2b66e415",
+      "qid": "2b66e415",
+      "author": "Plato",
       "en": "Courage is knowing what not to fear."
     },
     {
-      "id": "f3c54239",
+      "qid": "f3c54239",
+      "author": "Plato",
       "en": "A state arises, as I conceive, out of the needs of mankind; no one is self-sufficing, but all of us have many wants."
     },
     {
-      "id": "0cfc18ad",
+      "qid": "0cfc18ad",
+      "author": "Plato",
       "en": "If a man neglects education, he walks lame to the end of his life."
     },
     {
-      "id": "d1f405b6",
+      "qid": "d1f405b6",
+      "author": "Plato",
       "en": "Love is a serious mental disease."
     },
     {
-      "id": "8decf133",
+      "qid": "8decf133",
+      "author": "Plato",
       "en": "Knowledge is true opinion."
     },
     {
-      "id": "bc101ee7",
+      "qid": "bc101ee7",
+      "author": "Plato",
       "en": "This and no other is the root from which a tyrant springs; when he first appears he is a protector."
     },
     {
-      "id": "43fa2059",
+      "qid": "43fa2059",
+      "author": "Plato",
       "en": "Love is the joy of the good, the wonder of the wise, the amazement of the Gods."
     },
     {
-      "id": "366317f6",
+      "qid": "366317f6",
+      "author": "Plato",
       "en": "He who is of calm and happy nature will hardly feel the pressure of age, but to him who is of an opposite disposition youth and age are equally a burden."
     },
     {
-      "id": "e5790966",
+      "qid": "e5790966",
+      "author": "Plato",
       "en": "To be sure I must; and therefore I may assume that your silence gives consent."
     },
     {
-      "id": "39152624",
+      "qid": "39152624",
+      "author": "Plato",
       "en": "The gods' service is tolerable, man's intolerable."
     },
     {
-      "id": "1153ab51",
+      "qid": "1153ab51",
+      "author": "Plato",
       "en": "There are three classes of men; lovers of wisdom, lovers of honor, and lovers of gain."
     },
     {
-      "id": "1f85450d",
+      "qid": "1f85450d",
+      "author": "Plato",
       "en": "The eyes of the soul of the multitudes are unable to endure the vision of the divine."
     },
     {
-      "id": "aca82b63",
+      "qid": "aca82b63",
+      "author": "Plato",
       "en": "Honesty is for the most part less profitable than dishonesty."
     },
     {
-      "id": "33182e24",
+      "qid": "33182e24",
+      "author": "Plato",
       "en": "All the gold which is under or upon the earth is not enough to give in exchange for virtue."
     },
     {
-      "id": "ef8c1e19",
+      "qid": "ef8c1e19",
+      "author": "Plato",
       "en": "The god of love lives in a state of need. It is a need. It is an urge. It is a homeostatic imbalance. Like hunger and thirst, it's almost impossible to stamp out."
     },
     {
-      "id": "3e66d4bc",
+      "qid": "3e66d4bc",
+      "author": "Plato",
       "en": "The greatest wealth is to live content with little."
     },
     {
-      "id": "c044edce",
+      "qid": "c044edce",
+      "author": "Plato",
       "en": "We do not learn; and what we call learning is only a process of recollection."
     },
     {
-      "id": "9a7c7526",
+      "qid": "9a7c7526",
+      "author": "Plato",
       "en": "No law or ordinance is mightier than understanding."
     },
     {
-      "id": "bf3eef92",
+      "qid": "bf3eef92",
+      "author": "Plato",
       "en": "Wealth is well known to be a great comforter."
     },
     {
-      "id": "781457fd",
+      "qid": "781457fd",
+      "author": "Plato",
       "en": "One man cannot practice many arts with success."
     },
     {
-      "id": "43eb25ec",
+      "qid": "43eb25ec",
+      "author": "Plato",
       "en": "As the builders say, the larger stones do not lie well without the lesser."
     },
     {
-      "id": "2b218155",
+      "qid": "2b218155",
+      "author": "Plato",
       "en": "Justice means minding one's own business and not meddling with other men's concerns."
     },
     {
-      "id": "540bb331",
+      "qid": "540bb331",
+      "author": "Plato",
       "en": "And what, Socrates, is the food of the soul? Surely, I said, knowledge is the food of the soul."
     },
     {
-      "id": "20d9312d",
+      "qid": "20d9312d",
+      "author": "Plato",
       "en": "For the introduction of a new kind of music must be shunned as imperiling the whole state; since styles of music are never disturbed without affecting the most important political institutions."
     }
   ]

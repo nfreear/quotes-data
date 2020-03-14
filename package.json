@@ -11,6 +11,7 @@
     "count": "ls -l data/short-list/ | wc -l",
     "grep": "cat data/authors.txt | grep -rni '\\-twain'",
     "start": "node src/parse.js",
+    "test": "jest --verbose",
     "zip": "zip -r ./data.zip data"
   },
   "files": [

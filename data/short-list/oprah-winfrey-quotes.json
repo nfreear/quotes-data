@@ -1,385 +1,480 @@
 {
-  "name": "Oprah Winfrey",
-  "image": "Oprah-Winfrey",
-  "quotes": [
+  "author": "Oprah Winfrey",
+  "imageId": "Oprah-Winfrey",
+  "data": [
     {
-      "id": "9fef8393",
+      "qid": "9fef8393",
+      "author": "Oprah Winfrey",
       "en": "You are responsible for the energy that you create for yourself, and you're responsible for the energy that you bring to others."
     },
     {
-      "id": "ae592fc8",
+      "qid": "ae592fc8",
+      "author": "Oprah Winfrey",
       "en": "Be thankful for what you have; you'll end up having more. If you concentrate on what you don't have, you will never, ever have enough."
     },
     {
-      "id": "9a5211db",
+      "qid": "9a5211db",
+      "author": "Oprah Winfrey",
       "en": "When you forgive somebody, it doesn't necessarily mean you want to invite them to your table."
     },
     {
-      "id": "42b5c200",
+      "qid": "42b5c200",
+      "author": "Oprah Winfrey",
       "en": "Even if you flippin' fries at McDonald's, if you are excellent, everybody wants to be in your line."
     },
     {
-      "id": "66046440",
+      "qid": "66046440",
+      "author": "Oprah Winfrey",
       "en": "I had no idea that being your authentic self could make me as rich as I've become. If I had, I'd have done it a lot earlier."
     },
     {
-      "id": "92c1e07e",
+      "qid": "92c1e07e",
+      "author": "Oprah Winfrey",
       "en": "When you're the most successful person in your family, in your neighborhood, and in your town, everybody thinks you're the First National Bank, and you have to figure out for yourself where those boundaries are."
     },
     {
-      "id": "a47924c1",
+      "qid": "a47924c1",
+      "author": "Oprah Winfrey",
       "en": "Do the one thing you think you cannot do. Fail at it. Try again. Do better the second time. The only people who never tumble are those who never mount the high wire. This is your moment. Own it."
     },
     {
-      "id": "76de0838",
+      "qid": "76de0838",
+      "author": "Oprah Winfrey",
       "en": "I think people who have good parents come into the world with a strength, yes, and an advantage."
     },
     {
-      "id": "a0327b38",
+      "qid": "a0327b38",
+      "author": "Oprah Winfrey",
       "en": "Every stumble is not a fall, and every fall does not mean failure."
     },
     {
-      "id": "488f2eae",
+      "qid": "488f2eae",
+      "author": "Oprah Winfrey",
       "en": "What I know is, is that if you do work that you love, and the work fulfills you, the rest will come."
     },
     {
-      "id": "35bab724",
+      "qid": "35bab724",
+      "author": "Oprah Winfrey",
       "en": "Breathe. Let go. And remind yourself that this very moment is the only one you know you have for sure."
     },
     {
-      "id": "cdf4ddd5",
+      "qid": "cdf4ddd5",
+      "author": "Oprah Winfrey",
       "en": "I always knew I was destined for greatness."
     },
     {
-      "id": "d07c442c",
+      "qid": "d07c442c",
+      "author": "Oprah Winfrey",
       "en": "Your job is not just to do what your parents say, what your teachers say, what society says, but to figure out what your heart calling is and to be led by that."
     },
     {
-      "id": "09e1a2bd",
+      "qid": "09e1a2bd",
+      "author": "Oprah Winfrey",
       "en": "Surround yourself with only people who are going to lift you higher."
     },
     {
-      "id": "f37631e5",
+      "qid": "f37631e5",
+      "author": "Oprah Winfrey",
       "en": "The thing you fear most has no power. Your fear of it is what has the power. Facing the truth really will set you free."
     },
     {
-      "id": "9cb623f2",
+      "qid": "9cb623f2",
+      "author": "Oprah Winfrey",
       "en": "You're either humble or you're not. If you were a jerk before the fame, you just become a jerk with a bigger spotlight. Whoever you are really comes through."
     },
     {
-      "id": "ca9bbd7e",
+      "qid": "ca9bbd7e",
+      "author": "Oprah Winfrey",
       "en": "I'm sick of people sittin' in chairs stating their problems. Then we roll the videotape... then we have our experts on the topic... I'm in the 'What's next?' phase of my career."
     },
     {
-      "id": "2e9590a5",
+      "qid": "2e9590a5",
+      "author": "Oprah Winfrey",
       "en": "Real integrity is doing the right thing, knowing that nobody's going to know whether you did it or not."
     },
     {
-      "id": "36f3a098",
+      "qid": "36f3a098",
+      "author": "Oprah Winfrey",
       "en": "You CAN have it all. You just can't have it all at once."
     },
     {
-      "id": "febc799b",
+      "qid": "febc799b",
+      "author": "Oprah Winfrey",
       "en": "My first day in Chicago, September 4, 1983. I set foot in this city, and just walking down the street, it was like roots, like the motherland. I knew I belonged here."
     },
     {
-      "id": "4ccb3493",
+      "qid": "4ccb3493",
+      "author": "Oprah Winfrey",
       "en": "I always feel that until you take your last breath, you're always growing."
     },
     {
-      "id": "b99fecad",
+      "qid": "b99fecad",
+      "author": "Oprah Winfrey",
       "en": "You become what you believe, not what you think or what you want."
     },
     {
-      "id": "050ebe09",
+      "qid": "050ebe09",
+      "author": "Oprah Winfrey",
       "en": "What material success does is provide you with the ability to concentrate on other things that really matter. And that is being able to make a difference, not only in your own life, but in other people's lives."
     },
     {
-      "id": "e120ccdd",
+      "qid": "e120ccdd",
+      "author": "Oprah Winfrey",
       "en": "I remember a specific moment, watching my grandmother hang the clothes on the line, and her saying to me, 'you are going to have to learn to do this,' and me being in that space of awareness and knowing that my life would not be the same as my grandmother's life."
     },
     {
-      "id": "0404e42f",
+      "qid": "0404e42f",
+      "author": "Oprah Winfrey",
       "en": "Being human means you will make mistakes. And you will make mistakes, because failure is God's way of moving you in another direction."
     },
     {
-      "id": "f1468f22",
+      "qid": "f1468f22",
+      "author": "Oprah Winfrey",
       "en": "That's the gift that a mother can give, to make everyone feel like they are the special one."
     },
     {
-      "id": "e4b11453",
+      "qid": "e4b11453",
+      "author": "Oprah Winfrey",
       "en": "You alone are enough."
     },
     {
-      "id": "e47f1c14",
+      "qid": "e47f1c14",
+      "author": "Oprah Winfrey",
       "en": "I feel that luck is preparation meeting opportunity."
     },
     {
-      "id": "f71c8132",
+      "qid": "f71c8132",
+      "author": "Oprah Winfrey",
       "en": "The challenge of life, I have found, is to build a resume that doesn't simply tell a story about what you want to be, but it's a story about who you want to be."
     },
     {
-      "id": "4891299f",
+      "qid": "4891299f",
+      "author": "Oprah Winfrey",
       "en": "If you want to feel good, you have to go out and do some good."
     },
     {
-      "id": "5ec93880",
+      "qid": "5ec93880",
+      "author": "Oprah Winfrey",
       "en": "My whole reason for creating a network is literally to bring little pieces of light. It's to continue to spread little pieces of light in the world, to illuminate the possibility of the human spirit."
     },
     {
-      "id": "01449f5e",
+      "qid": "01449f5e",
+      "author": "Oprah Winfrey",
       "en": "My therapy has come from paying attention to my life."
     },
     {
-      "id": "aa38d6a3",
+      "qid": "aa38d6a3",
+      "author": "Oprah Winfrey",
       "en": "I had become so accustomed to succeeding that I no longer even remembered what it was like to fail."
     },
     {
-      "id": "d275221e",
+      "qid": "d275221e",
+      "author": "Oprah Winfrey",
       "en": "So go ahead. Fall down. The world looks different from the ground."
     },
     {
-      "id": "7dbdcb76",
+      "qid": "7dbdcb76",
+      "author": "Oprah Winfrey",
       "en": "I try to basically keep my opinions to myself when it comes to people who are charged with crimes that I don't know anything about."
     },
     {
-      "id": "60f7dcba",
+      "qid": "60f7dcba",
+      "author": "Oprah Winfrey",
       "en": "Acting is about going into the space, and there are just some places that I'm not willing to go."
     },
     {
-      "id": "7f1adfa0",
+      "qid": "7f1adfa0",
+      "author": "Oprah Winfrey",
       "en": "I don't think you ever stop giving. I really don't. I think it's an on-going process. And it's not just about being able to write a check. It's being able to touch somebody's life."
     },
     {
-      "id": "cb021a0f",
+      "qid": "cb021a0f",
+      "author": "Oprah Winfrey",
       "en": "As you become more clear about who you really are, you'll be better able to decide what is best for you - the first time around."
     },
     {
-      "id": "fd7520dc",
+      "qid": "fd7520dc",
+      "author": "Oprah Winfrey",
       "en": "Even people who believe they deserve to be happy and have nice things often don't feel worthy once they have them."
     },
     {
-      "id": "a4b3fb2f",
+      "qid": "a4b3fb2f",
+      "author": "Oprah Winfrey",
       "en": "Doing the best at this moment puts you in the best place for the next moment."
     },
     {
-      "id": "7367e959",
+      "qid": "7367e959",
+      "author": "Oprah Winfrey",
       "en": "My idea of heaven is a great big baked potato and someone to share it with."
     },
     {
-      "id": "75e819f3",
+      "qid": "75e819f3",
+      "author": "Oprah Winfrey",
       "en": "I know that inner wisdom is more precious than wealth. The more you spend it, the more you gain."
     },
     {
-      "id": "63ecd2b9",
+      "qid": "63ecd2b9",
+      "author": "Oprah Winfrey",
       "en": "Most people honestly want to do as well as they can in their lives."
     },
     {
-      "id": "1ae1f819",
+      "qid": "1ae1f819",
+      "author": "Oprah Winfrey",
       "en": "If you're constantly pushing yourself higher, higher, the law of averages - not to mention the myth of Icarus - predicts that you will at some point fall. And when you do, I want you to know this, remember this: There is no such thing as failure."
     },
     {
-      "id": "9639ec52",
+      "qid": "9639ec52",
+      "author": "Oprah Winfrey",
       "en": "I don't think of myself as a poor deprived ghetto girl who made good. I think of myself as somebody who from an early age knew I was responsible for myself, and I had to make good."
     },
     {
-      "id": "150c8c54",
+      "qid": "150c8c54",
+      "author": "Oprah Winfrey",
       "en": "Turn your wounds into wisdom."
     },
     {
-      "id": "7207b61d",
+      "qid": "7207b61d",
+      "author": "Oprah Winfrey",
       "en": "It isn't until you come to a spiritual understanding of who you are - not necessarily a religious feeling, but deep down, the spirit within - that you can begin to take control."
     },
     {
-      "id": "49f075f4",
+      "qid": "49f075f4",
+      "author": "Oprah Winfrey",
       "en": "Books were my pass to personal freedom. I learned to read at age three, and soon discovered there was a whole world to conquer that went beyond our farm in Mississippi."
     },
     {
-      "id": "aa714147",
+      "qid": "aa714147",
+      "author": "Oprah Winfrey",
       "en": "I don't believe in failure. It is not failure if you enjoyed the process."
     },
     {
-      "id": "c0964432",
+      "qid": "c0964432",
+      "author": "Oprah Winfrey",
       "en": "The greatest discovery of all time is that a person can change his future by merely changing his attitude."
     },
     {
-      "id": "6e45ad8e",
+      "qid": "6e45ad8e",
+      "author": "Oprah Winfrey",
       "en": "The goal of my shows, my interviews, my business, my philanthropy, all of it, whatever ventures I might pursue, would be to make clear that what unites us is ultimately far more redeeming and compelling than anything that separates me."
     },
     {
-      "id": "3b864c99",
+      "qid": "3b864c99",
+      "author": "Oprah Winfrey",
       "en": "It does not matter how you came into the world, what matters is that you are here."
     },
     {
-      "id": "59b7a78e",
+      "qid": "59b7a78e",
+      "author": "Oprah Winfrey",
       "en": "If you come to fame not understanding who you are, it will define who you are."
     },
     {
-      "id": "eddb48fe",
+      "qid": "eddb48fe",
+      "author": "Oprah Winfrey",
       "en": "With age comes the understanding and appreciation of your most important asset, your health."
     },
     {
-      "id": "80ffe37b",
+      "qid": "80ffe37b",
+      "author": "Oprah Winfrey",
       "en": "You can either see yourself as a wave in the ocean or you can see yourself as the ocean."
     },
     {
-      "id": "0c89e288",
+      "qid": "0c89e288",
+      "author": "Oprah Winfrey",
       "en": "Excellence is the best deterrent to racism or sexism."
     },
     {
-      "id": "f04cc0c0",
+      "qid": "f04cc0c0",
+      "author": "Oprah Winfrey",
       "en": "Whatever has happened to you in your past has no power over this present moment, because life is now."
     },
     {
-      "id": "0ecbabad",
+      "qid": "0ecbabad",
+      "author": "Oprah Winfrey",
       "en": "I consider the world, this Earth, to be like a school, and our life the classrooms."
     },
     {
-      "id": "b4b4799f",
+      "qid": "b4b4799f",
+      "author": "Oprah Winfrey",
       "en": "Over the years, I've interviewed thousands of people, most of them women, and I would say that the root of every dysfunction I've ever encountered, every problem, has been some sense of a lacking of self-value or of self-worth."
     },
     {
-      "id": "55e9ee83",
+      "qid": "55e9ee83",
+      "author": "Oprah Winfrey",
       "en": "The more you praise and celebrate your life, the more there is in life to celebrate."
     },
     {
-      "id": "37c19328",
+      "qid": "37c19328",
+      "author": "Oprah Winfrey",
       "en": "I'm not even kind of a lesbian."
     },
     {
-      "id": "befdbcd6",
+      "qid": "befdbcd6",
+      "author": "Oprah Winfrey",
       "en": "If you want to accomplish the goals of your life, you have to begin with the spirit."
     },
     {
-      "id": "0acc8a37",
+      "qid": "0acc8a37",
+      "author": "Oprah Winfrey",
       "en": "I believe that every single event in life happens in an opportunity to choose love over fear."
     },
     {
-      "id": "403a915d",
+      "qid": "403a915d",
+      "author": "Oprah Winfrey",
       "en": "When you think about growing and being empowered yourself, it is what you've been able to do for other people that leaves you the fullest."
     },
     {
-      "id": "b1ef6c48",
+      "qid": "b1ef6c48",
+      "author": "Oprah Winfrey",
       "en": "I am a woman in process. I'm just trying like everybody else. I try to take every conflict, every experience, and learn from it. Life is never dull."
     },
     {
-      "id": "2e8b7d4a",
+      "qid": "2e8b7d4a",
+      "author": "Oprah Winfrey",
       "en": "Understand that the right to choose your own path is a sacred privilege. Use it. Dwell in possibility."
     },
     {
-      "id": "08a32917",
+      "qid": "08a32917",
+      "author": "Oprah Winfrey",
       "en": "The whole point of being alive is to evolve into the complete person you were intended to be."
     },
     {
-      "id": "730cad74",
+      "qid": "730cad74",
+      "author": "Oprah Winfrey",
       "en": "Where there is no struggle, there is no strength."
     },
     {
-      "id": "a9252d84",
+      "qid": "a9252d84",
+      "author": "Oprah Winfrey",
       "en": "Think like a queen. A queen is not afraid to fail. Failure is another steppingstone to greatness."
     },
     {
-      "id": "02c4f949",
+      "qid": "02c4f949",
+      "author": "Oprah Winfrey",
       "en": "Love somebody. Just one person. And then spread that to two. And as many as you can. You'll see the difference it makes."
     },
     {
-      "id": "38e41cdf",
+      "qid": "38e41cdf",
+      "author": "Oprah Winfrey",
       "en": "Biology is the least of what makes someone a mother."
     },
     {
-      "id": "89438446",
+      "qid": "89438446",
+      "author": "Oprah Winfrey",
       "en": "I still have my feet on the ground, I just wear better shoes."
     },
     {
-      "id": "cd1eb797",
+      "qid": "cd1eb797",
+      "author": "Oprah Winfrey",
       "en": "Unless you choose to do great things with it, it makes no difference how much you are rewarded, or how much power you have."
     },
     {
-      "id": "23b8d34d",
+      "qid": "23b8d34d",
+      "author": "Oprah Winfrey",
       "en": "It's much easier for me to make major life, multi-million dollar decisions, than it is to decide on a carpet for my front porch. That's the truth."
     },
     {
-      "id": "4631c5c4",
+      "qid": "4631c5c4",
+      "author": "Oprah Winfrey",
       "en": "You are who you are at this moment because of everything that's ever happened to you, everything that you carried forward for yourself."
     },
     {
-      "id": "6e1a1b6b",
+      "qid": "6e1a1b6b",
+      "author": "Oprah Winfrey",
       "en": "Follow your instincts. That's where true wisdom manifests itself."
     },
     {
-      "id": "18fdeaae",
+      "qid": "18fdeaae",
+      "author": "Oprah Winfrey",
       "en": "My philosophy is that not only are you responsible for your life, but doing the best at this moment puts you I the best place for the next moment."
     },
     {
-      "id": "95074b29",
+      "qid": "95074b29",
+      "author": "Oprah Winfrey",
       "en": "What God intended for you goes far beyond anything you can imagine."
     },
     {
-      "id": "a8c89a72",
+      "qid": "a8c89a72",
+      "author": "Oprah Winfrey",
       "en": "The struggle of my life created empathy - I could relate to pain, being abandoned, having people not love me."
     },
     {
-      "id": "a5af1300",
+      "qid": "a5af1300",
+      "author": "Oprah Winfrey",
       "en": "Passion is energy. Feel the power that comes from focusing on what excites you."
     },
     {
-      "id": "4894d582",
+      "qid": "4894d582",
+      "author": "Oprah Winfrey",
       "en": "I have a lot of things to prove to myself. One is that I can live my life fearlessly."
     },
     {
-      "id": "3733b36c",
+      "qid": "3733b36c",
+      "author": "Oprah Winfrey",
       "en": "For everyone of us that succeeds, it's because there's somebody there to show you the way out."
     },
     {
-      "id": "28f361e2",
+      "qid": "28f361e2",
+      "author": "Oprah Winfrey",
       "en": "Money is worth nothing if it can't buy you the opportunity to love more."
     },
     {
-      "id": "d042408d",
+      "qid": "d042408d",
+      "author": "Oprah Winfrey",
       "en": "The biggest adventure you can take is to live the life of your dreams."
     },
     {
-      "id": "69ad380e",
+      "qid": "69ad380e",
+      "author": "Oprah Winfrey",
       "en": "Every day, you're only as good as your last show."
     },
     {
-      "id": "a1d960a6",
+      "qid": "a1d960a6",
+      "author": "Oprah Winfrey",
       "en": "Look at how hard it was to get to where I am. It doesn't make sense to give it up."
     },
     {
-      "id": "b14ea7d1",
+      "qid": "b14ea7d1",
+      "author": "Oprah Winfrey",
       "en": "You know you are on the road to success if you would do your job, and not be paid for it."
     },
     {
-      "id": "3d7e1434",
+      "qid": "3d7e1434",
+      "author": "Oprah Winfrey",
       "en": "I was raised to believe that excellence is the best deterrent to racism or sexism. And that's how I operate my life."
     },
     {
-      "id": "09cb2efd",
+      "qid": "09cb2efd",
+      "author": "Oprah Winfrey",
       "en": "No matter who we are or what we look like or what we may believe, it is both possible and, more importantly, it becomes powerful to come together in common purpose and common effort."
     },
     {
-      "id": "dbc0f598",
+      "qid": "dbc0f598",
+      "author": "Oprah Winfrey",
       "en": "Don't let people talk you into what they think is you."
     },
     {
-      "id": "015c5725",
+      "qid": "015c5725",
+      "author": "Oprah Winfrey",
       "en": "To me, the money is - it's certainly a wonderful thing. But it is in direct proportion to how you're able to bless yourself and bless others with it."
     },
     {
-      "id": "98c22319",
+      "qid": "98c22319",
+      "author": "Oprah Winfrey",
       "en": "Cheers to a new year and another chance for us to get it right."
     },
     {
-      "id": "a061be4c",
+      "qid": "a061be4c",
+      "author": "Oprah Winfrey",
       "en": "I'm black, I don't feel burdened by it and I don't think it's a huge responsibility. It's part of who I am. It does not define me."
     },
     {
-      "id": "9489a162",
+      "qid": "9489a162",
+      "author": "Oprah Winfrey",
       "en": "When I look into the future, it's so bright it burns my eyes."
     },
     {
-      "id": "5eb38a14",
+      "qid": "5eb38a14",
+      "author": "Oprah Winfrey",
       "en": "Lots of people want to ride with you in the limo, but what you want is someone who will take the bus with you when the limo breaks down."
     }
   ]

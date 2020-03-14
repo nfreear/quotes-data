@@ -2,7 +2,6 @@
   "meta": {
     "title": "A short-list of authors and their quotes in 'Open Quotes'.",
     "copyright": "'All quotations remain the intellectual property of their authors...'",
-    "count": 46,
     "authorList": "data/authors.txt",
     "authorPath": "data/short-list/{ID}-quotes.json",
     "locales": [ "en", "zh" ],

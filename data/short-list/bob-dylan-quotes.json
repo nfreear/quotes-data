@@ -1,409 +1,510 @@
 {
-  "name": "Bob Dylan",
-  "image": "Bob-Dylan",
-  "quotes": [
+  "author": "Bob Dylan",
+  "imageId": "Bob-Dylan",
+  "data": [
     {
-      "id": "23a46949",
+      "qid": "23a46949",
+      "author": "Bob Dylan",
       "en": "It's not easy to define poetry."
     },
     {
-      "id": "4250d50a",
+      "qid": "4250d50a",
+      "author": "Bob Dylan",
       "en": "A hero is someone who understands the responsibility that comes with his freedom."
     },
     {
-      "id": "7bb5cb46",
+      "qid": "7bb5cb46",
+      "author": "Bob Dylan",
       "en": "What did I owe the rest of the world? Nothing."
     },
     {
-      "id": "032c4da3",
+      "qid": "032c4da3",
+      "author": "Bob Dylan",
       "en": "My songs always sound a lot better in person than they do on the record."
     },
     {
-      "id": "5b42bef2",
+      "qid": "5b42bef2",
+      "author": "Bob Dylan",
       "en": "I kinda live where I find myself."
     },
     {
-      "id": "972f72b9",
+      "qid": "972f72b9",
+      "author": "Bob Dylan",
       "en": "I'm not the kind of cat that's going to cut off an ear if I can't do something."
     },
     {
-      "id": "82263197",
+      "qid": "82263197",
+      "author": "Bob Dylan",
       "en": "It's hard to speculate what tomorrow may bring."
     },
     {
-      "id": "db88bb50",
+      "qid": "db88bb50",
+      "author": "Bob Dylan",
       "en": "Look, when I started out, mainstream culture was Sinatra, Perry Como, Andy Williams, Sound of Music. There was no fitting into it then and of course, there's no fitting into it now."
     },
     {
-      "id": "5e030a8f",
+      "qid": "5e030a8f",
+      "author": "Bob Dylan",
       "en": "I consider myself a poet first and a musician second. I live like a poet and I'll die like a poet."
     },
     {
-      "id": "f4551ac2",
+      "qid": "f4551ac2",
+      "author": "Bob Dylan",
       "en": "I'm just glad to be feeling better. I really thought I'd be seeing Elvis soon."
     },
     {
-      "id": "fff11a48",
+      "qid": "fff11a48",
+      "author": "Bob Dylan",
       "en": "Death to me means nothing as long as I can die fast."
     },
     {
-      "id": "4d77e17a",
+      "qid": "4d77e17a",
+      "author": "Bob Dylan",
       "en": "Some people seem to fade away but then when they are truly gone, it's like they didn't fade away at all."
     },
     {
-      "id": "913d103d",
+      "qid": "913d103d",
+      "author": "Bob Dylan",
       "en": "I'm speaking for all of us. I'm the spokesman for a generation."
     },
     {
-      "id": "cb0af8e4",
+      "qid": "cb0af8e4",
+      "author": "Bob Dylan",
       "en": "Being noticed can be a burden. Jesus got himself crucified because he got himself noticed. So I disappear a lot."
     },
     {
-      "id": "f24e68fb",
+      "qid": "f24e68fb",
+      "author": "Bob Dylan",
       "en": "You learn from a conglomeration of the incredible past - whatever experience gotten in any way whatsoever."
     },
     {
-      "id": "d1858731",
+      "qid": "d1858731",
+      "author": "Bob Dylan",
       "en": "I felt like I might as well have been living in another part of the solar system."
     },
     {
-      "id": "8bb4287a",
+      "qid": "8bb4287a",
+      "author": "Bob Dylan",
       "en": "I really didn't consider myself happy or unhappy."
     },
     {
-      "id": "50360c13",
+      "qid": "50360c13",
+      "author": "Bob Dylan",
       "en": "My father probably thought the capital of the world was wherever he was at the time. It couldn't possibly be anyplace else. Where he and his wife were in their own home, that, for them, was the capital of the world."
     },
     {
-      "id": "1e83f1b1",
+      "qid": "1e83f1b1",
+      "author": "Bob Dylan",
       "en": "Just because you like my stuff doesn't mean I owe you anything."
     },
     {
-      "id": "7b43ed30",
+      "qid": "7b43ed30",
+      "author": "Bob Dylan",
       "en": "I'm mortified to be on the stage, but then again, it's the only place where I'm happy."
     },
     {
-      "id": "50580f53",
+      "qid": "50580f53",
+      "author": "Bob Dylan",
       "en": "All the truth in the world adds up to one big lie."
     },
     {
-      "id": "725af848",
+      "qid": "725af848",
+      "author": "Bob Dylan",
       "en": "You hear a lot about God these days: God, the beneficent; God, the all-great; God, the Almighty; God, the most powerful; God, the giver of life; God, the creator of death. I mean, we're hearing about God all the time, so we better learn how to deal with it. But if we know anything about God, God is arbitrary."
     },
     {
-      "id": "e4ba5037",
+      "qid": "e4ba5037",
+      "author": "Bob Dylan",
       "en": "A song is anything that can walk by itself."
     },
     {
-      "id": "7e1d6305",
+      "qid": "7e1d6305",
+      "author": "Bob Dylan",
       "en": "To live outside the law, you must be honest."
     },
     {
-      "id": "c8c2c1cf",
+      "qid": "c8c2c1cf",
+      "author": "Bob Dylan",
       "en": "I realize I don't do a very good job in keeping up to date, but I try to."
     },
     {
-      "id": "705cff00",
+      "qid": "705cff00",
+      "author": "Bob Dylan",
       "en": "The land created me. I'm wild and lonesome. Even as I travel the cities, I'm more at home in the vacant lots."
     },
     {
-      "id": "acd27804",
+      "qid": "acd27804",
+      "author": "Bob Dylan",
       "en": "I accept chaos, I'm not sure whether it accepts me."
     },
     {
-      "id": "4b5168c6",
+      "qid": "4b5168c6",
+      "author": "Bob Dylan",
       "en": "A lot of people can't stand touring but to me it's like breathing. I do it because I'm driven to do it."
     },
     {
-      "id": "57b71bff",
+      "qid": "57b71bff",
+      "author": "Bob Dylan",
       "en": "Chaos is a friend of mine."
     },
     {
-      "id": "282e4886",
+      "qid": "282e4886",
+      "author": "Bob Dylan",
       "en": "What good are fans? You can't eat applause for breakfast. You can't sleep with it."
     },
     {
-      "id": "c28647f2",
+      "qid": "c28647f2",
+      "author": "Bob Dylan",
       "en": "I don't think I've ever been an agnostic. I've always thought there's a superior power, that this is not the real world and that there's a world to come."
     },
     {
-      "id": "f3c6a444",
+      "qid": "f3c6a444",
+      "author": "Bob Dylan",
       "en": "I became interested in folk music because I had to make it somehow."
     },
     {
-      "id": "78e672e5",
+      "qid": "78e672e5",
+      "author": "Bob Dylan",
       "en": "The radio makes hideous sounds."
     },
     {
-      "id": "509109d7",
+      "qid": "509109d7",
+      "author": "Bob Dylan",
       "en": "The people in my songs are all me."
     },
     {
-      "id": "dcb5e194",
+      "qid": "dcb5e194",
+      "author": "Bob Dylan",
       "en": "I'm sick of giving creeps money off my soul."
     },
     {
-      "id": "cef8dbd3",
+      "qid": "cef8dbd3",
+      "author": "Bob Dylan",
       "en": "A lot of people don't like the road, but it's as natural to me as breathing."
     },
     {
-      "id": "e55dd2bd",
+      "qid": "e55dd2bd",
+      "author": "Bob Dylan",
       "en": "All this talk about equality. The only thing people really have in common is that they are all going to die."
     },
     {
-      "id": "ee4335f1",
+      "qid": "ee4335f1",
+      "author": "Bob Dylan",
       "en": "I've never written a political song. Songs can't save the world. I've gone through all that."
     },
     {
-      "id": "957fcd2a",
+      "qid": "957fcd2a",
+      "author": "Bob Dylan",
       "en": "Folk music is a bunch of fat people."
     },
     {
-      "id": "ff8eca5f",
+      "qid": "ff8eca5f",
+      "author": "Bob Dylan",
       "en": "Yesterday's just a memory, tomorrow is never what it's supposed to be."
     },
     {
-      "id": "f5ca687a",
+      "qid": "f5ca687a",
+      "author": "Bob Dylan",
       "en": "No one is free, even the birds are chained to the sky."
     },
     {
-      "id": "bd7006cc",
+      "qid": "bd7006cc",
+      "author": "Bob Dylan",
       "en": "I'm more of an adventurous type than a relationship type."
     },
     {
-      "id": "9fdab948",
+      "qid": "9fdab948",
+      "author": "Bob Dylan",
       "en": "I'll let you be in my dreams if I can be in yours."
     },
     {
-      "id": "d1c26206",
+      "qid": "d1c26206",
+      "author": "Bob Dylan",
       "en": "A mistake is to commit a misunderstanding."
     },
     {
-      "id": "ee5ea8bd",
+      "qid": "ee5ea8bd",
+      "author": "Bob Dylan",
       "en": "Nothing can affect my voice, it's so bad."
     },
     {
-      "id": "78a90dec",
+      "qid": "78a90dec",
+      "author": "Bob Dylan",
       "en": "Don't matter how much money you got, there's only two kinds of people: there's saved people and there's lost people."
     },
     {
-      "id": "ca6208c8",
+      "qid": "ca6208c8",
+      "author": "Bob Dylan",
       "en": "What's money? A man is a success if he gets up in the morning and goes to bed at night and in between does what he wants to do."
     },
     {
-      "id": "1c322425",
+      "qid": "1c322425",
+      "author": "Bob Dylan",
       "en": "Being on tour is like being in limbo. It's like going from nowhere to nowhere."
     },
     {
-      "id": "d94f1a10",
+      "qid": "d94f1a10",
+      "author": "Bob Dylan",
       "en": "In ceremonies of the horsemen, even the pawn must hold a grudge."
     },
     {
-      "id": "fad13944",
+      "qid": "fad13944",
+      "author": "Bob Dylan",
       "en": "I'm inconsistent, even to myself."
     },
     {
-      "id": "4678adcc",
+      "qid": "4678adcc",
+      "author": "Bob Dylan",
       "en": "But even the President of the United States sometimes must have to stand naked."
     },
     {
-      "id": "10c097dc",
+      "qid": "10c097dc",
+      "author": "Bob Dylan",
       "en": "A poem is a naked person... Some people say that I am a poet."
     },
     {
-      "id": "4213ec3f",
+      "qid": "4213ec3f",
+      "author": "Bob Dylan",
       "en": "When you cease to exist, then who will you blame?"
     },
     {
-      "id": "df9a1871",
+      "qid": "df9a1871",
+      "author": "Bob Dylan",
       "en": "I don't think the human mind can comprehend the past and the future. They are both just illusions that can manipulate you into thinking theres some kind of change."
     },
     {
-      "id": "e69bb0ae",
+      "qid": "e69bb0ae",
+      "author": "Bob Dylan",
       "en": "Democracy don't rule the world, You'd better get that in your head; This world is ruled by violence, But I guess that's better left unsaid."
     },
     {
-      "id": "fbf58561",
+      "qid": "fbf58561",
+      "author": "Bob Dylan",
       "en": "Having these colossal accolades and titles, they get in the way."
     },
     {
-      "id": "10e99275",
+      "qid": "10e99275",
+      "author": "Bob Dylan",
       "en": "Here's the thing with me and the religious thing. This is the flat-out truth: I find the religiosity and philosophy in the music. I don't find it anywhere else."
     },
     {
-      "id": "6fe5b94a",
+      "qid": "6fe5b94a",
+      "author": "Bob Dylan",
       "en": "I stopped smoking. When I stopped smoking, my voice changed... so drastically, I couldn't believe it myself."
     },
     {
-      "id": "4bae1de9",
+      "qid": "4bae1de9",
+      "author": "Bob Dylan",
       "en": "Take care of all your memories. For you cannot relive them."
     },
     {
-      "id": "a51c0a1b",
+      "qid": "a51c0a1b",
+      "author": "Bob Dylan",
       "en": "I can't see myself singing the same song twice in a row. That's terrible."
     },
     {
-      "id": "7efee13d",
+      "qid": "7efee13d",
+      "author": "Bob Dylan",
       "en": "Basically you have to suppress your own ambitions in order to be who you need to be."
     },
     {
-      "id": "8f3ef012",
+      "qid": "8f3ef012",
+      "author": "Bob Dylan",
       "en": "All I can do is be me, whoever that is."
     },
     {
-      "id": "a0906fc3",
+      "qid": "a0906fc3",
+      "author": "Bob Dylan",
       "en": "I can be jubilant one moment and pensive the next, and a cloud could go by and make that happen."
     },
     {
-      "id": "e96c1f62",
+      "qid": "e96c1f62",
+      "author": "Bob Dylan",
       "en": "I paint mostly from real life. It has to start with that. Real people, real street scenes, behind the curtain scenes, live models, paintings, photographs, staged setups, architecture, grids, graphic design. Whatever it takes to make it work."
     },
     {
-      "id": "ee681fc6",
+      "qid": "ee681fc6",
+      "author": "Bob Dylan",
       "en": "You're going to die. You're going to be dead. It could be 20 years, it could be tomorrow, anytime. So am I. I mean, we're just going to be gone. The world's going to go on without us. All right now. You do your job in the face of that, and how seriously you take yourself you decide for yourself."
     },
     {
-      "id": "f870255a",
+      "qid": "f870255a",
+      "author": "Bob Dylan",
       "en": "Some formulas are too complex and I don't want anything to do with them."
     },
     {
-      "id": "538a6078",
+      "qid": "538a6078",
+      "author": "Bob Dylan",
       "en": "If I wasn't Bob Dylan, I'd probably think that Bob Dylan has a lot of answers myself."
     },
     {
-      "id": "2dfefdcf",
+      "qid": "2dfefdcf",
+      "author": "Bob Dylan",
       "en": "I change during the course of a day. I wake and I'm one person, and when I go to sleep I know for certain I'm somebody else."
     },
     {
-      "id": "be8cf4df",
+      "qid": "be8cf4df",
+      "author": "Bob Dylan",
       "en": "I think I have a dualistic nature."
     },
     {
-      "id": "51b8939f",
+      "qid": "51b8939f",
+      "author": "Bob Dylan",
       "en": "People seldom do what they believe in. They do what is convenient, then repent."
     },
     {
-      "id": "a824ec18",
+      "qid": "a824ec18",
+      "author": "Bob Dylan",
       "en": "I don't think I'm tangible to myself."
     },
     {
-      "id": "a8e76714",
+      "qid": "a8e76714",
+      "author": "Bob Dylan",
       "en": "He not busy being born is busy dying."
     },
     {
-      "id": "07049ce8",
+      "qid": "07049ce8",
+      "author": "Bob Dylan",
       "en": "I think a poet is anybody who wouldn't call himself a poet."
     },
     {
-      "id": "2718224f",
+      "qid": "2718224f",
+      "author": "Bob Dylan",
       "en": "The songs are my lexicon. I believe the songs."
     },
     {
-      "id": "69d56cb4",
+      "qid": "69d56cb4",
+      "author": "Bob Dylan",
       "en": "I never saw myself as a folk singer."
     },
     {
-      "id": "ca48ad87",
+      "qid": "ca48ad87",
+      "author": "Bob Dylan",
       "en": "My range is limited."
     },
     {
-      "id": "990de26a",
+      "qid": "990de26a",
+      "author": "Bob Dylan",
       "en": "You can't do something forever."
     },
     {
-      "id": "ef234b17",
+      "qid": "ef234b17",
+      "author": "Bob Dylan",
       "en": "Well, the future for me is already a thing of the past."
     },
     {
-      "id": "624702fe",
+      "qid": "624702fe",
+      "author": "Bob Dylan",
       "en": "You can't imagine parlor ballads drifting out of high-rise multi-towered buildings. That kind of music existed in a more timeless state of life."
     },
     {
-      "id": "5e9a959d",
+      "qid": "5e9a959d",
+      "author": "Bob Dylan",
       "en": "You can't be happy by doing something groovy."
     },
     {
-      "id": "523e7a21",
+      "qid": "523e7a21",
+      "author": "Bob Dylan",
       "en": "Colleges are like old-age homes, except for the fact that more people die in colleges."
     },
     {
-      "id": "fe91155c",
+      "qid": "fe91155c",
+      "author": "Bob Dylan",
       "en": "In the dime stores and bus stations, people talk of situations, read books, repeat quotations, draw conclusions on the wall."
     },
     {
-      "id": "1ce7a3d5",
+      "qid": "1ce7a3d5",
+      "author": "Bob Dylan",
       "en": "I have dined with kings, I've been offered wings. And I've never been too impressed."
     },
     {
-      "id": "88219e3a",
+      "qid": "88219e3a",
+      "author": "Bob Dylan",
       "en": "You call yourself what you want to call yourself."
     },
     {
-      "id": "b83929a1",
+      "qid": "b83929a1",
+      "author": "Bob Dylan",
       "en": "Anybody can be specific and obvious. That's always been the easy way. It's not that it's so difficult to be unspecific and less obvious; it's just that there's nothing, absolutely nothing, to be specific and obvious about."
     },
     {
-      "id": "a059cbe1",
+      "qid": "a059cbe1",
+      "author": "Bob Dylan",
       "en": "I am against nature. I don't dig nature at all. I think nature is very unnatural. I think the truly natural things are dreams, which nature can't touch with decay."
     },
     {
-      "id": "148c8959",
+      "qid": "148c8959",
+      "author": "Bob Dylan",
       "en": "I can't stand to see myself on television."
     },
     {
-      "id": "7ecbe2b5",
+      "qid": "7ecbe2b5",
+      "author": "Bob Dylan",
       "en": "Money doesn't talk, it swears."
     },
     {
-      "id": "b9fd62cb",
+      "qid": "b9fd62cb",
+      "author": "Bob Dylan",
       "en": "I define nothing. Not beauty, not patriotism. I take each thing as it is, without prior rules about what it should be."
     },
     {
-      "id": "0cd9a024",
+      "qid": "0cd9a024",
+      "author": "Bob Dylan",
       "en": "You just don't wake up one day and decide that you need to write songs."
     },
     {
-      "id": "f9935f8c",
+      "qid": "f9935f8c",
+      "author": "Bob Dylan",
       "en": "There is nothing so stable as change."
     },
     {
-      "id": "c5bfe360",
+      "qid": "c5bfe360",
+      "author": "Bob Dylan",
       "en": "This land is your land and this land is my land, sure, but the world is run by those that never listen to music anyway."
     },
     {
-      "id": "fb2cea88",
+      "qid": "fb2cea88",
+      "author": "Bob Dylan",
       "en": "I can't act!"
     },
     {
-      "id": "7e2a86a9",
+      "qid": "7e2a86a9",
+      "author": "Bob Dylan",
       "en": "I like America, just as everybody else does. I love America, I gotta say that. But America will be judged."
     },
     {
-      "id": "3dbcf317",
+      "qid": "3dbcf317",
+      "author": "Bob Dylan",
       "en": "People have different emotional levels. Especially when you're young."
     },
     {
-      "id": "82bc9acf",
+      "qid": "82bc9acf",
+      "author": "Bob Dylan",
       "en": "I think of a hero as someone who understands the degree of responsibility that comes with his freedom."
     },
     {
-      "id": "28d9efe1",
+      "qid": "28d9efe1",
+      "author": "Bob Dylan",
       "en": "People today are still living off the table scraps of the sixties. They are still being passed around - the music and the ideas."
     },
     {
-      "id": "211164cd",
+      "qid": "211164cd",
+      "author": "Bob Dylan",
       "en": "Inspiration is hard to come by. You have to take it where you find it."
     },
     {
-      "id": "a8b1d915",
+      "qid": "a8b1d915",
+      "author": "Bob Dylan",
       "en": "At times in my life the only place I have been happy is when I am on stage."
     },
     {
-      "id": "0af6c97b",
+      "qid": "0af6c97b",
+      "author": "Bob Dylan",
       "en": "I say there're no depressed words just depressed minds."
     },
     {
-      "id": "0e9582b6",
+      "qid": "0e9582b6",
+      "author": "Bob Dylan",
       "en": "I'm not a playwright."
     }
   ]

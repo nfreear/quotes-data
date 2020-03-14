@@ -1,69 +1,85 @@
 {
-  "name": "Pliny the Elder",
-  "image": "Pliny-the-Elder",
-  "quotes": [
+  "author": "Pliny the Elder",
+  "imageId": "Pliny-the-Elder",
+  "data": [
     {
-      "id": "8f9079fe",
+      "qid": "8f9079fe",
+      "author": "Pliny the Elder",
       "en": "No mortal man, moreover is wise at all moments."
     },
     {
-      "id": "57ac6b5d",
+      "qid": "57ac6b5d",
+      "author": "Pliny the Elder",
       "en": "The depth of darkness to which you can descend and still live is an exact measure of the height to which you can aspire to reach."
     },
     {
-      "id": "ae8ac705",
+      "qid": "ae8ac705",
+      "author": "Pliny the Elder",
       "en": "There is always something new out of Africa."
     },
     {
-      "id": "a81d77c1",
+      "qid": "a81d77c1",
+      "author": "Pliny the Elder",
       "en": "An object in possession seldom retains the same charm that it had in pursuit."
     },
     {
-      "id": "aa1e1755",
+      "qid": "aa1e1755",
+      "author": "Pliny the Elder",
       "en": "The best plan is to profit by the folly of others."
     },
     {
-      "id": "7a9717cf",
+      "qid": "7a9717cf",
+      "author": "Pliny the Elder",
       "en": "In comparing various authors with one another, I have discovered that some of the gravest and latest writers have transcribed, word for word, from former works, without making acknowledgment."
     },
     {
-      "id": "2d350f17",
+      "qid": "2d350f17",
+      "author": "Pliny the Elder",
       "en": "From the end spring new beginnings."
     },
     {
-      "id": "4ccb27f5",
+      "qid": "4ccb27f5",
+      "author": "Pliny the Elder",
       "en": "It is generally much more shameful to lose a good reputation than never to have acquired it."
     },
     {
-      "id": "faff6171",
+      "qid": "faff6171",
+      "author": "Pliny the Elder",
       "en": "The lust of avarice as so totally seized upon mankind that their wealth seems rather to possess them than they possess their wealth."
     },
     {
-      "id": "c6760c30",
+      "qid": "c6760c30",
+      "author": "Pliny the Elder",
       "en": "The only certainty is that nothing is certain."
     },
     {
-      "id": "b51b1d9e",
+      "qid": "b51b1d9e",
+      "author": "Pliny the Elder",
       "en": "Such is the audacity of man, that he hath learned to counterfeit Nature, yea, and is so bold as to challenge her in her work."
     },
     {
-      "id": "9b74fdc1",
+      "qid": "9b74fdc1",
+      "author": "Pliny the Elder",
       "en": "Home is where the heart is."
     },
     {
-      "id": "6a9fb600",
+      "qid": "6a9fb600",
+      "author": "Pliny the Elder",
       "en": "Truth comes out in wine."
     },
     {
-      "id": "a6c58868",
+      "qid": "a6c58868",
+      "author": "Pliny the Elder",
       "en": "Grief has limits, whereas apprehension has none. For we grieve only for what we know has happened, but we fear all that possibly may happen."
     },
     {
-      "id": "dfab2951",
+      "qid": "dfab2951",
+      "author": "Pliny the Elder",
       "en": "In these matters the only certainty is that nothing is certain."
     },
     {
-      "id": "56bd75da",
+      "qid": "56bd75da",
+      "author": "Pliny the Elder",
       "en": "Hope is the pillar that holds up the world. Hope is the dream of a waking man."
     }
   ]

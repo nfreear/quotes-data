@@ -1,65 +1,80 @@
 {
-  "name": "Zhuangzi",
-  "image": "Zhuangzi",
-  "quotes": [
+  "author": "Zhuangzi",
+  "imageId": "Zhuangzi",
+  "data": [
     {
-      "id": "4b5dde5c",
+      "qid": "4b5dde5c",
+      "author": "Zhuangzi",
       "en": "Men honor what lies within the sphere of their knowledge, but do not realize how dependent they are on what lies beyond it."
     },
     {
-      "id": "1a00e768",
+      "qid": "1a00e768",
+      "author": "Zhuangzi",
       "en": "Flow with whatever may happen and let your mind be free. Stay centered by accepting whatever you are doing. This is the ultimate."
     },
     {
-      "id": "21f139cd",
+      "qid": "21f139cd",
+      "author": "Zhuangzi",
       "en": "All existing things are really one. We regard those that are beautiful and rare as valuable, and those that are ugly as foul and rotten The foul and rotten may come to be transformed into what is rare and valuable, and the rare and valuable into what is foul and rotten."
     },
     {
-      "id": "c0ac1df2",
+      "qid": "c0ac1df2",
+      "author": "Zhuangzi",
       "en": "I dreamed I was a butterfly, flitting around in the sky; then I awoke. Now I wonder: Am I a man who dreamt of being a butterfly, or am I a butterfly dreaming that I am a man?"
     },
     {
-      "id": "691d4aee",
+      "qid": "691d4aee",
+      "author": "Zhuangzi",
       "en": "Where can I find a man who has forgotten words so I can have a word with him?"
     },
     {
-      "id": "cf866750",
+      "qid": "cf866750",
+      "author": "Zhuangzi",
       "en": "Those who realize their folly are not true fools."
     },
     {
-      "id": "5fb3b4c5",
+      "qid": "5fb3b4c5",
+      "author": "Zhuangzi",
       "en": "Those who seek to satisfy the mind of man by hampering it with ceremonies and music and affecting charity and devotion have lost their original nature."
     },
     {
-      "id": "ca5a51a4",
+      "qid": "ca5a51a4",
+      "author": "Zhuangzi",
       "en": "We cling to our own point of view, as though everything depended on it. Yet our opinions have no permanence; like autumn and winter, they gradually pass away."
     },
     {
-      "id": "47bd32a6",
+      "qid": "47bd32a6",
+      "author": "Zhuangzi",
       "en": "Rewards and punishments are the lowest form of education."
     },
     {
-      "id": "f506d338",
+      "qid": "f506d338",
+      "author": "Zhuangzi",
       "en": "I know the joy of fishes in the river through my own joy, as I go walking along the same river."
     },
     {
-      "id": "83a730c0",
+      "qid": "83a730c0",
+      "author": "Zhuangzi",
       "en": "Great wisdom is generous; petty wisdom is contentious. Great speech is impassioned, small speech cantankerous."
     },
     {
-      "id": "4a10fc4b",
+      "qid": "4a10fc4b",
+      "author": "Zhuangzi",
       "en": "Happiness is the absence of the striving for happiness."
     },
     {
-      "id": "46631ff5",
+      "qid": "46631ff5",
+      "author": "Zhuangzi",
       "en": "I do not know whether I was then a man dreaming I was a butterfly, or whether I am now a butterfly dreaming I am a man."
     },
     {
-      "id": "84f62b0f",
+      "qid": "84f62b0f",
+      "author": "Zhuangzi",
       "en": "Cherish that which is within you, and shut off that which is without; for much knowledge is a curse."
     },
     {
-      "id": "2acd1bf7",
+      "qid": "2acd1bf7",
+      "author": "Zhuangzi",
       "en": "Life comes from the earth and life returns to the earth."
     }
   ]

@@ -1,721 +1,900 @@
 {
-  "name": "Albert Einstein",
-  "image": "Albert-Einstein",
-  "quotes": [
+  "author": "Albert Einstein",
+  "imageId": "Albert-Einstein",
+  "data": [
     {
-      "id": "96d5492c",
+      "qid": "96d5492c",
+      "author": "Albert Einstein",
       "en": "Reading, after a certain age, diverts the mind too much from its creative pursuits. Any man who reads too much and uses his own brain too little falls into lazy habits of thinking."
     },
     {
-      "id": "cf13760a",
+      "qid": "cf13760a",
+      "author": "Albert Einstein",
       "en": "I think and think for months and years. Ninety-nine times, the conclusion is false. The hundredth time I am right."
     },
     {
-      "id": "2b554b90",
+      "qid": "2b554b90",
+      "author": "Albert Einstein",
       "en": "If we knew what it was we were doing, it would not be called research, would it?"
     },
     {
-      "id": "1226528e",
+      "qid": "1226528e",
+      "author": "Albert Einstein",
       "en": "Force always attracts men of low morality."
     },
     {
-      "id": "89ff5f6f",
+      "qid": "89ff5f6f",
+      "author": "Albert Einstein",
       "en": "The pursuit of truth and beauty is a sphere of activity in which we are permitted to remain children all our lives."
     },
     {
-      "id": "01f3c01a",
+      "qid": "01f3c01a",
+      "author": "Albert Einstein",
       "en": "Isn't it strange that I who have written only unpopular books should be such a popular fellow?"
     },
     {
-      "id": "fd5169d2",
+      "qid": "fd5169d2",
+      "author": "Albert Einstein",
       "en": "The difference between stupidity and genius is that genius has its limits."
     },
     {
-      "id": "f78f8cd1",
+      "qid": "f78f8cd1",
+      "author": "Albert Einstein",
       "en": "Intellectual growth should commence at birth and cease only at death."
     },
     {
-      "id": "acdea509",
+      "qid": "acdea509",
+      "author": "Albert Einstein",
       "en": "The distinction between the past, present and future is only a stubbornly persistent illusion."
     },
     {
-      "id": "c9b418f0",
+      "qid": "c9b418f0",
+      "author": "Albert Einstein",
       "en": "Insanity: doing the same thing over and over again and expecting different results."
     },
     {
-      "id": "b3236b34",
+      "qid": "b3236b34",
+      "author": "Albert Einstein",
       "en": "The most incomprehensible thing about the world is that it is comprehensible."
     },
     {
-      "id": "67d2b69c",
+      "qid": "67d2b69c",
+      "author": "Albert Einstein",
       "en": "The hardest thing to understand in the world is the income tax."
     },
     {
-      "id": "b80c9d47",
+      "qid": "b80c9d47",
+      "author": "Albert Einstein",
       "en": "People love chopping wood. In this activity one immediately sees results."
     },
     {
-      "id": "53b32a03",
+      "qid": "53b32a03",
+      "author": "Albert Einstein",
       "en": "Human beings must have action; and they will make it if they cannot find it."
     },
     {
-      "id": "22b354de",
+      "qid": "22b354de",
+      "author": "Albert Einstein",
       "en": "The most beautiful thing we can experience is the mysterious. It is the source of all true art and science."
     },
     {
-      "id": "3e236487",
+      "qid": "3e236487",
+      "author": "Albert Einstein",
       "en": "Try not to become a man of success, but rather try to become a man of value."
     },
     {
-      "id": "c259e614",
+      "qid": "c259e614",
+      "author": "Albert Einstein",
       "en": "Morality is of the highest importance - but for us, not for God."
     },
     {
-      "id": "d03300e8",
+      "qid": "d03300e8",
+      "author": "Albert Einstein",
       "en": "A table, a chair, a bowl of fruit and a violin; what else does a man need to be happy?"
     },
     {
-      "id": "01078287",
+      "qid": "01078287",
+      "author": "Albert Einstein",
       "en": "If people are good only because they fear punishment, and hope for reward, then we are a sorry lot indeed."
     },
     {
-      "id": "ed8a87bb",
+      "qid": "ed8a87bb",
+      "author": "Albert Einstein",
       "en": "The important thing is not to stop questioning. Curiosity has its own reason for existing."
     },
     {
-      "id": "1eb8be63",
+      "qid": "1eb8be63",
+      "author": "Albert Einstein",
       "en": "It stands to the everlasting credit of science that by acting on the human mind it has overcome man's insecurity before himself and before nature."
     },
     {
-      "id": "685a07d5",
+      "qid": "685a07d5",
+      "author": "Albert Einstein",
       "en": "Everything should be made as simple as possible, but not simpler."
     },
     {
-      "id": "9f673ff2",
+      "qid": "9f673ff2",
+      "author": "Albert Einstein",
       "en": "All these primary impulses, not easily described in words, are the springs of man's actions."
     },
     {
-      "id": "dab0cf10",
+      "qid": "dab0cf10",
+      "author": "Albert Einstein",
       "en": "It was the experience of mystery - even if mixed with fear - that engendered religion."
     },
     {
-      "id": "9405dcbd",
+      "qid": "9405dcbd",
+      "author": "Albert Einstein",
       "en": "The road to perdition has ever been accompanied by lip service to an ideal."
     },
     {
-      "id": "f4ac23c4",
+      "qid": "f4ac23c4",
+      "author": "Albert Einstein",
       "en": "Love is a better teacher than duty."
     },
     {
-      "id": "97c89b6b",
+      "qid": "97c89b6b",
+      "author": "Albert Einstein",
       "en": "Everyone should be respected as an individual, but no one idolized."
     },
     {
-      "id": "74dbde07",
+      "qid": "74dbde07",
+      "author": "Albert Einstein",
       "en": "It is only to the individual that a soul is given."
     },
     {
-      "id": "e6a7a80a",
+      "qid": "e6a7a80a",
+      "author": "Albert Einstein",
       "en": "In matters of truth and justice, there is no difference between large and small problems, for issues concerning the treatment of people are all the same."
     },
     {
-      "id": "e10def02",
+      "qid": "e10def02",
+      "author": "Albert Einstein",
       "en": "A person who never made a mistake never tried anything new."
     },
     {
-      "id": "84d2d196",
+      "qid": "84d2d196",
+      "author": "Albert Einstein",
       "en": "Intellectuals solve problems, geniuses prevent them."
     },
     {
-      "id": "e954a1f2",
+      "qid": "e954a1f2",
+      "author": "Albert Einstein",
       "en": "I believe that a simple and unassuming manner of life is best for everyone, best both for the body and the mind."
     },
     {
-      "id": "465480f5",
+      "qid": "465480f5",
+      "author": "Albert Einstein",
       "en": "Strive not to be a success, but rather to be of value."
     },
     {
-      "id": "e3107339",
+      "qid": "e3107339",
+      "author": "Albert Einstein",
       "en": "Only one who devotes himself to a cause with his whole strength and soul can be a true master. For this reason mastery demands all of a person."
     },
     {
-      "id": "186b2b13",
+      "qid": "186b2b13",
+      "author": "Albert Einstein",
       "en": "I very rarely think in words at all. A thought comes, and I may try to express it in words afterwards."
     },
     {
-      "id": "246196d4",
+      "qid": "246196d4",
+      "author": "Albert Einstein",
       "en": "Our task must be to free ourselves by widening our circle of compassion to embrace all living creatures and the whole of nature and its beauty."
     },
     {
-      "id": "174b636b",
+      "qid": "174b636b",
+      "author": "Albert Einstein",
       "en": "We cannot despair of humanity, since we ourselves are human beings."
     },
     {
-      "id": "3a10d369",
+      "qid": "3a10d369",
+      "author": "Albert Einstein",
       "en": "We cannot solve our problems with the same thinking we used when we created them."
     },
     {
-      "id": "327304e4",
+      "qid": "327304e4",
+      "author": "Albert Einstein",
       "en": "True religion is real living; living with all one's soul, with all one's goodness and righteousness."
     },
     {
-      "id": "ad9d13c7",
+      "qid": "ad9d13c7",
+      "author": "Albert Einstein",
       "en": "We can't solve problems by using the same kind of thinking we used when we created them."
     },
     {
-      "id": "001faa0c",
+      "qid": "001faa0c",
+      "author": "Albert Einstein",
       "en": "We should take care not to make the intellect our god; it has, of course, powerful muscles, but no personality."
     },
     {
-      "id": "0e8c36ae",
+      "qid": "0e8c36ae",
+      "author": "Albert Einstein",
       "en": "I have just got a new theory of eternity."
     },
     {
-      "id": "b23e9e6d",
+      "qid": "b23e9e6d",
+      "author": "Albert Einstein",
       "en": "No amount of experimentation can ever prove me right; a single experiment can prove me wrong."
     },
     {
-      "id": "e07486da",
+      "qid": "e07486da",
+      "author": "Albert Einstein",
       "en": "As far as the laws of mathematics refer to reality, they are not certain, and as far as they are certain, they do not refer to reality."
     },
     {
-      "id": "0cf4d93f",
+      "qid": "0cf4d93f",
+      "author": "Albert Einstein",
       "en": "Technological progress is like an axe in the hands of a pathological criminal."
     },
     {
-      "id": "395a7505",
+      "qid": "395a7505",
+      "author": "Albert Einstein",
       "en": "Whoever is careless with the truth in small matters cannot be trusted with important matters."
     },
     {
-      "id": "c8c30980",
+      "qid": "c8c30980",
+      "author": "Albert Einstein",
       "en": "Great spirits have always encountered violent opposition from mediocre minds."
     },
     {
-      "id": "57dd9a32",
+      "qid": "57dd9a32",
+      "author": "Albert Einstein",
       "en": "It gives me great pleasure indeed to see the stubbornness of an incorrigible nonconformist warmly acclaimed."
     },
     {
-      "id": "c907c43f",
+      "qid": "c907c43f",
+      "author": "Albert Einstein",
       "en": "Logic will get you from A to B. Imagination will take you everywhere."
     },
     {
-      "id": "a6f586f2",
+      "qid": "a6f586f2",
+      "author": "Albert Einstein",
       "en": "It is my conviction that killing under the cloak of war is nothing but an act of murder."
     },
     {
-      "id": "5e9116e1",
+      "qid": "5e9116e1",
+      "author": "Albert Einstein",
       "en": "A question that sometimes drives me hazy: am I or are the others crazy?"
     },
     {
-      "id": "5d179343",
+      "qid": "5d179343",
+      "author": "Albert Einstein",
       "en": "Life is like riding a bicycle. To keep your balance, you must keep moving."
     },
     {
-      "id": "2891349b",
+      "qid": "2891349b",
+      "author": "Albert Einstein",
       "en": "When you are courting a nice girl an hour seems like a second. When you sit on a red-hot cinder a second seems like an hour. That's relativity."
     },
     {
-      "id": "bc1ff228",
+      "qid": "bc1ff228",
+      "author": "Albert Einstein",
       "en": "The only real valuable thing is intuition."
     },
     {
-      "id": "2ad1a996",
+      "qid": "2ad1a996",
+      "author": "Albert Einstein",
       "en": "In order to be an immaculate member of a flock of sheep, one must above all be a sheep oneself."
     },
     {
-      "id": "83f958ee",
+      "qid": "83f958ee",
+      "author": "Albert Einstein",
       "en": "A man should look for what is, and not for what he thinks should be."
     },
     {
-      "id": "51ef7770",
+      "qid": "51ef7770",
+      "author": "Albert Einstein",
       "en": "You ask me if I keep a notebook to record my great ideas. I've only ever had one."
     },
     {
-      "id": "6158b069",
+      "qid": "6158b069",
+      "author": "Albert Einstein",
       "en": "Most of the fundamental ideas of science are essentially simple, and may, as a rule, be expressed in a language comprehensible to everyone."
     },
     {
-      "id": "4b95102e",
+      "qid": "4b95102e",
+      "author": "Albert Einstein",
       "en": "God may be subtle, but he isn't plain mean."
     },
     {
-      "id": "a8dcd3ae",
+      "qid": "a8dcd3ae",
+      "author": "Albert Einstein",
       "en": "I cannot imagine a God who rewards and punishes the objects of his creation and is but a reflection of human frailty."
     },
     {
-      "id": "baa47a77",
+      "qid": "baa47a77",
+      "author": "Albert Einstein",
       "en": "Solitude is painful when one is young, but delightful when one is more mature."
     },
     {
-      "id": "2d12adff",
+      "qid": "2d12adff",
+      "author": "Albert Einstein",
       "en": "One may say the eternal mystery of the world is its comprehensibility."
     },
     {
-      "id": "ba2a27d1",
+      "qid": "ba2a27d1",
+      "author": "Albert Einstein",
       "en": "I am enough of an artist to draw freely upon my imagination."
     },
     {
-      "id": "53a5c215",
+      "qid": "53a5c215",
+      "author": "Albert Einstein",
       "en": "When the solution is simple, God is answering."
     },
     {
-      "id": "c46a6191",
+      "qid": "c46a6191",
+      "author": "Albert Einstein",
       "en": "Few are those who see with their own eyes and feel with their own hearts."
     },
     {
-      "id": "2895a3da",
+      "qid": "2895a3da",
+      "author": "Albert Einstein",
       "en": "If you can't explain it simply, you don't understand it well enough."
     },
     {
-      "id": "892ab013",
+      "qid": "892ab013",
+      "author": "Albert Einstein",
       "en": "I do not believe in the God of theology who rewards good and punishes evil."
     },
     {
-      "id": "33304c03",
+      "qid": "33304c03",
+      "author": "Albert Einstein",
       "en": "Pure mathematics is, in its way, the poetry of logical ideas."
     },
     {
-      "id": "1ed16455",
+      "qid": "1ed16455",
+      "author": "Albert Einstein",
       "en": "He who can no longer pause to wonder and stand rapt in awe, is as good as dead; his eyes are closed."
     },
     {
-      "id": "2668c613",
+      "qid": "2668c613",
+      "author": "Albert Einstein",
       "en": "It should be possible to explain the laws of physics to a barmaid."
     },
     {
-      "id": "98ad6f1f",
+      "qid": "98ad6f1f",
+      "author": "Albert Einstein",
       "en": "Too many of us look upon Americans as dollar chasers. This is a cruel libel, even if it is reiterated thoughtlessly by the Americans themselves."
     },
     {
-      "id": "1379dcc2",
+      "qid": "1379dcc2",
+      "author": "Albert Einstein",
       "en": "He who joyfully marches to music in rank and file has already earned my contempt. He has been given a large brain by mistake, since for him the spinal cord would suffice."
     },
     {
-      "id": "bd86dbdd",
+      "qid": "bd86dbdd",
+      "author": "Albert Einstein",
       "en": "I am a deeply religious nonbeliever - this is a somewhat new kind of religion."
     },
     {
-      "id": "9da7ed67",
+      "qid": "9da7ed67",
+      "author": "Albert Einstein",
       "en": "Concern for man and his fate must always form the chief interest of all technical endeavors. Never forget this in the midst of your diagrams and equations."
     },
     {
-      "id": "f243f2ff",
+      "qid": "f243f2ff",
+      "author": "Albert Einstein",
       "en": "The only thing that interferes with my learning is my education."
     },
     {
-      "id": "0f4155b8",
+      "qid": "0f4155b8",
+      "author": "Albert Einstein",
       "en": "The value of a man should be seen in what he gives and not in what he is able to receive."
     },
     {
-      "id": "5e6b4a58",
+      "qid": "5e6b4a58",
+      "author": "Albert Einstein",
       "en": "There could be no fairer destiny for any physical theory than that it should point the way to a more comprehensive theory in which it lives on as a limiting case."
     },
     {
-      "id": "0c5facf5",
+      "qid": "0c5facf5",
+      "author": "Albert Einstein",
       "en": "The grand aim of all science is to cover the greatest number of empirical facts by logical deduction from the smallest number of hypotheses or axioms."
     },
     {
-      "id": "2f55988c",
+      "qid": "2f55988c",
+      "author": "Albert Einstein",
       "en": "The release of atomic energy has not created a new problem. It has merely made more urgent the necessity of solving an existing one."
     },
     {
-      "id": "cc5dcc70",
+      "qid": "cc5dcc70",
+      "author": "Albert Einstein",
       "en": "It is strange to be known so universally and yet to be so lonely."
     },
     {
-      "id": "e10a048a",
+      "qid": "e10a048a",
+      "author": "Albert Einstein",
       "en": "The gift of fantasy has meant more to me than my talent for absorbing positive knowledge."
     },
     {
-      "id": "bf9cf404",
+      "qid": "bf9cf404",
+      "author": "Albert Einstein",
       "en": "Mozart's music is so pure and beautiful that I see it as a reflection of the inner beauty of the universe."
     },
     {
-      "id": "c231b3ef",
+      "qid": "c231b3ef",
+      "author": "Albert Einstein",
       "en": "Learn from yesterday, live for today, hope for tomorrow. The important thing is not to stop questioning."
     },
     {
-      "id": "e9886477",
+      "qid": "e9886477",
+      "author": "Albert Einstein",
       "en": "Look deep into nature, and then you will understand everything better."
     },
     {
-      "id": "185d7cab",
+      "qid": "185d7cab",
+      "author": "Albert Einstein",
       "en": "There is no logical way to the discovery of these elemental laws. There is only the way of intuition, which is helped by a feeling for the order lying behind the appearance."
     },
     {
-      "id": "66ccbf37",
+      "qid": "66ccbf37",
+      "author": "Albert Einstein",
       "en": "Information is not knowledge."
     },
     {
-      "id": "a5d2b024",
+      "qid": "a5d2b024",
+      "author": "Albert Einstein",
       "en": "Reality is merely an illusion, albeit a very persistent one."
     },
     {
-      "id": "704df6e2",
+      "qid": "704df6e2",
+      "author": "Albert Einstein",
       "en": "I live in that solitude which is painful in youth, but delicious in the years of maturity."
     },
     {
-      "id": "12c18c6b",
+      "qid": "12c18c6b",
+      "author": "Albert Einstein",
       "en": "Never lose a holy curiosity."
     },
     {
-      "id": "6da43c85",
+      "qid": "6da43c85",
+      "author": "Albert Einstein",
       "en": "Sometimes one pays most for the things one gets for nothing."
     },
     {
-      "id": "9e002abd",
+      "qid": "9e002abd",
+      "author": "Albert Einstein",
       "en": "I am not only a pacifist but a militant pacifist. I am willing to fight for peace. Nothing will end war unless the people themselves refuse to go to war."
     },
     {
-      "id": "cfa2ede6",
+      "qid": "cfa2ede6",
+      "author": "Albert Einstein",
       "en": "Gravitation is not responsible for people falling in love."
     },
     {
-      "id": "2c64bbbd",
+      "qid": "2c64bbbd",
+      "author": "Albert Einstein",
       "en": "I want to know all Gods thoughts; all the rest are just details."
     },
     {
-      "id": "9692c993",
+      "qid": "9692c993",
+      "author": "Albert Einstein",
       "en": "I never think of the future - it comes soon enough."
     },
     {
-      "id": "e83c476e",
+      "qid": "e83c476e",
+      "author": "Albert Einstein",
       "en": "Nationalism is an infantile disease. It is the measles of mankind."
     },
     {
-      "id": "212b55da",
+      "qid": "212b55da",
+      "author": "Albert Einstein",
       "en": "Occurrences in this domain are beyond the reach of exact prediction because of the variety of factors in operation, not because of any lack of order in nature."
     },
     {
-      "id": "634cb1a7",
+      "qid": "634cb1a7",
+      "author": "Albert Einstein",
       "en": "Education is what remains after one has forgotten what one has learned in school."
     },
     {
-      "id": "3cc99864",
+      "qid": "3cc99864",
+      "author": "Albert Einstein",
       "en": "That deep emotional conviction of the presence of a superior reasoning power, which is revealed in the incomprehensible universe, forms my idea of God."
     },
     {
-      "id": "e647126e",
+      "qid": "e647126e",
+      "author": "Albert Einstein",
       "en": "To the Master's honor all must turn, each in its track, without a sound, forever tracing Newton's ground."
     },
     {
-      "id": "9f616348",
+      "qid": "9f616348",
+      "author": "Albert Einstein",
       "en": "Anger dwells only in the bosom of fools."
     },
     {
-      "id": "8a9c491c",
+      "qid": "8a9c491c",
+      "author": "Albert Einstein",
       "en": "I do not believe that civilization will be wiped out in a war fought with the atomic bomb. Perhaps two-thirds of the people of the earth will be killed."
     },
     {
-      "id": "af2abce5",
+      "qid": "af2abce5",
+      "author": "Albert Einstein",
       "en": "The high destiny of the individual is to serve rather than to rule."
     },
     {
-      "id": "0fce6d01",
+      "qid": "0fce6d01",
+      "author": "Albert Einstein",
       "en": "We still do not know one thousandth of one percent of what nature has revealed to us."
     },
     {
-      "id": "8245c213",
+      "qid": "8245c213",
+      "author": "Albert Einstein",
       "en": "No problem can be solved from the same level of consciousness that created it."
     },
     {
-      "id": "6a3b724f",
+      "qid": "6a3b724f",
+      "author": "Albert Einstein",
       "en": "The world is a dangerous place to live; not because of the people who are evil, but because of the people who don't do anything about it."
     },
     {
-      "id": "4bc8c9a8",
+      "qid": "4bc8c9a8",
+      "author": "Albert Einstein",
       "en": "Nothing is more destructive of respect for the government and the law of the land than passing laws which cannot be enforced."
     },
     {
-      "id": "02925522",
+      "qid": "02925522",
+      "author": "Albert Einstein",
       "en": "Once we accept our limits, we go beyond them."
     },
     {
-      "id": "602be329",
+      "qid": "602be329",
+      "author": "Albert Einstein",
       "en": "Memory is deceptive because it is colored by today's events."
     },
     {
-      "id": "129375b6",
+      "qid": "129375b6",
+      "author": "Albert Einstein",
       "en": "Any man who can drive safely while kissing a pretty girl is simply not giving the kiss the attention it deserves."
     },
     {
-      "id": "c139c5c2",
+      "qid": "c139c5c2",
+      "author": "Albert Einstein",
       "en": "The faster you go, the shorter you are."
     },
     {
-      "id": "7ab391e2",
+      "qid": "7ab391e2",
+      "author": "Albert Einstein",
       "en": "If I were not a physicist, I would probably be a musician. I often think in music. I live my daydreams in music. I see my life in terms of music."
     },
     {
-      "id": "0b151acf",
+      "qid": "0b151acf",
+      "author": "Albert Einstein",
       "en": "My religion consists of a humble admiration of the illimitable superior spirit who reveals himself in the slight details we are able to perceive with our frail and feeble mind."
     },
     {
-      "id": "42060d50",
+      "qid": "42060d50",
+      "author": "Albert Einstein",
       "en": "There are two ways to live: you can live as if nothing is a miracle; you can live as if everything is a miracle."
     },
     {
-      "id": "9d996033",
+      "qid": "9d996033",
+      "author": "Albert Einstein",
       "en": "Imagination is more important than knowledge."
     },
     {
-      "id": "8c82fae2",
+      "qid": "8c82fae2",
+      "author": "Albert Einstein",
       "en": "The true sign of intelligence is not knowledge but imagination."
     },
     {
-      "id": "50152a7c",
+      "qid": "50152a7c",
+      "author": "Albert Einstein",
       "en": "God does not play dice."
     },
     {
-      "id": "3e063ab7",
+      "qid": "3e063ab7",
+      "author": "Albert Einstein",
       "en": "Science without religion is lame, religion without science is blind."
     },
     {
-      "id": "e509471f",
+      "qid": "e509471f",
+      "author": "Albert Einstein",
       "en": "Only two things are infinite, the universe and human stupidity, and I'm not sure about the former."
     },
     {
-      "id": "6284d93e",
+      "qid": "6284d93e",
+      "author": "Albert Einstein",
       "en": "Put your hand on a hot stove for a minute and it seems like an hour. Sit with a pretty girl for an hour, and it seems like a minute."
     },
     {
-      "id": "8ccf6543",
+      "qid": "8ccf6543",
+      "author": "Albert Einstein",
       "en": "I shall never believe that God plays dice with the world."
     },
     {
-      "id": "e9584012",
+      "qid": "e9584012",
+      "author": "Albert Einstein",
       "en": "It has become appallingly obvious that our technology has exceeded our humanity."
     },
     {
-      "id": "26b06975",
+      "qid": "26b06975",
+      "author": "Albert Einstein",
       "en": "If the facts don't fit the theory, change the facts."
     },
     {
-      "id": "90a37d1b",
+      "qid": "90a37d1b",
+      "author": "Albert Einstein",
       "en": "It is the supreme art of the teacher to awaken joy in creative expression and knowledge."
     },
     {
-      "id": "11eb87ce",
+      "qid": "11eb87ce",
+      "author": "Albert Einstein",
       "en": "I do not believe in immortality of the individual, and I consider ethics to be an exclusively human concern with no superhuman authority behind it."
     },
     {
-      "id": "dddf0bd7",
+      "qid": "dddf0bd7",
+      "author": "Albert Einstein",
       "en": "You can't blame gravity for falling in love."
     },
     {
-      "id": "3eeb252e",
+      "qid": "3eeb252e",
+      "author": "Albert Einstein",
       "en": "Peace cannot be kept by force; it can only be achieved by understanding."
     },
     {
-      "id": "2fa90ae7",
+      "qid": "2fa90ae7",
+      "author": "Albert Einstein",
       "en": "Imagination is everything. It is the preview of life's coming attractions."
     },
     {
-      "id": "a6bc8b06",
+      "qid": "a6bc8b06",
+      "author": "Albert Einstein",
       "en": "Few people are capable of expressing with equanimity opinions which differ from the prejudices of their social environment. Most people are even incapable of forming such opinions."
     },
     {
-      "id": "f77d6a0a",
+      "qid": "f77d6a0a",
+      "author": "Albert Einstein",
       "en": "The whole of science is nothing more than a refinement of everyday thinking."
     },
     {
-      "id": "f8fcb7a9",
+      "qid": "f8fcb7a9",
+      "author": "Albert Einstein",
       "en": "The process of scientific discovery is, in effect, a continual flight from wonder."
     },
     {
-      "id": "21661c9e",
+      "qid": "21661c9e",
+      "author": "Albert Einstein",
       "en": "I know not with what weapons World War III will be fought, but World War IV will be fought with sticks and stones."
     },
     {
-      "id": "d4a4fd64",
+      "qid": "d4a4fd64",
+      "author": "Albert Einstein",
       "en": "Heroism on command, senseless violence, and all the loathsome nonsense that goes by the name of patriotism - how passionately I hate them!"
     },
     {
-      "id": "c1667f3e",
+      "qid": "c1667f3e",
+      "author": "Albert Einstein",
       "en": "Common sense is the collection of prejudices acquired by age eighteen."
     },
     {
-      "id": "e9bcde84",
+      "qid": "e9bcde84",
+      "author": "Albert Einstein",
       "en": "Anyone who doesn't take truth seriously in small matters cannot be trusted in large ones either."
     },
     {
-      "id": "891cf6d3",
+      "qid": "891cf6d3",
+      "author": "Albert Einstein",
       "en": "The unleashed power of the atom has changed everything save our modes of thinking and we thus drift toward unparalleled catastrophe."
     },
     {
-      "id": "65037224",
+      "qid": "65037224",
+      "author": "Albert Einstein",
       "en": "Never do anything against conscience even if the state demands it."
     },
     {
-      "id": "b9cca68a",
+      "qid": "b9cca68a",
+      "author": "Albert Einstein",
       "en": "Without deep reflection one knows from daily life that one exists for other people."
     },
     {
-      "id": "e5515821",
+      "qid": "e5515821",
+      "author": "Albert Einstein",
       "en": "Science is a wonderful thing if one does not have to earn one's living at it."
     },
     {
-      "id": "8b4faae6",
+      "qid": "8b4faae6",
+      "author": "Albert Einstein",
       "en": "Before God we are all equally wise - and equally foolish."
     },
     {
-      "id": "568696c3",
+      "qid": "568696c3",
+      "author": "Albert Einstein",
       "en": "I have no special talent. I am only passionately curious."
     },
     {
-      "id": "0ebe4132",
+      "qid": "0ebe4132",
+      "author": "Albert Einstein",
       "en": "Most people say that it is the intellect which makes a great scientist. They are wrong: it is character."
     },
     {
-      "id": "8edaad63",
+      "qid": "8edaad63",
+      "author": "Albert Einstein",
       "en": "The only reason for time is so that everything doesn't happen at once."
     },
     {
-      "id": "a72aa95a",
+      "qid": "a72aa95a",
+      "author": "Albert Einstein",
       "en": "I used to go away for weeks in a state of confusion."
     },
     {
-      "id": "63e433f3",
+      "qid": "63e433f3",
+      "author": "Albert Einstein",
       "en": "Weakness of attitude becomes weakness of character."
     },
     {
-      "id": "643883b6",
+      "qid": "643883b6",
+      "author": "Albert Einstein",
       "en": "Knowledge of what is does not open the door directly to what should be."
     },
     {
-      "id": "54127c42",
+      "qid": "54127c42",
+      "author": "Albert Einstein",
       "en": "You cannot simultaneously prevent and prepare for war."
     },
     {
-      "id": "dee9e0a0",
+      "qid": "dee9e0a0",
+      "author": "Albert Einstein",
       "en": "Whoever undertakes to set himself up as a judge of Truth and Knowledge is shipwrecked by the laughter of the gods."
     },
     {
-      "id": "cc73139a",
+      "qid": "cc73139a",
+      "author": "Albert Einstein",
       "en": "The monotony and solitude of a quiet life stimulates the creative mind."
     },
     {
-      "id": "1fb7035a",
+      "qid": "1fb7035a",
+      "author": "Albert Einstein",
       "en": "The devil has put a penalty on all things we enjoy in life. Either we suffer in health or we suffer in soul or we get fat."
     },
     {
-      "id": "2781471e",
+      "qid": "2781471e",
+      "author": "Albert Einstein",
       "en": "Anyone who has never made a mistake has never tried anything new."
     },
     {
-      "id": "dba0d304",
+      "qid": "dba0d304",
+      "author": "Albert Einstein",
       "en": "Any man who reads too much and uses his own brain too little falls into lazy habits of thinking."
     },
     {
-      "id": "658102bb",
+      "qid": "658102bb",
+      "author": "Albert Einstein",
       "en": "Let every man be respected as an individual and no man idolized."
     },
     {
-      "id": "6d848540",
+      "qid": "6d848540",
+      "author": "Albert Einstein",
       "en": "You can never solve a problem on the level on which it was created."
     },
     {
-      "id": "76964b7c",
+      "qid": "76964b7c",
+      "author": "Albert Einstein",
       "en": "Politics is for the present, but an equation is for eternity."
     },
     {
-      "id": "f5190718",
+      "qid": "f5190718",
+      "author": "Albert Einstein",
       "en": "The man of science is a poor philosopher."
     },
     {
-      "id": "3e33f08d",
+      "qid": "3e33f08d",
+      "author": "Albert Einstein",
       "en": "The attempt to combine wisdom and power has only rarely been successful and then only for a short while."
     },
     {
-      "id": "5542703d",
+      "qid": "5542703d",
+      "author": "Albert Einstein",
       "en": "As far as I'm concerned, I prefer silent vice to ostentatious virtue."
     },
     {
-      "id": "792f0779",
+      "qid": "792f0779",
+      "author": "Albert Einstein",
       "en": "All that is valuable in human society depends upon the opportunity for development accorded the individual."
     },
     {
-      "id": "2eec6aea",
+      "qid": "2eec6aea",
+      "author": "Albert Einstein",
       "en": "I want to go when I want. It is tasteless to prolong life artificially. I have done my share; it is time to go. I will do it elegantly."
     },
     {
-      "id": "e3a85105",
+      "qid": "e3a85105",
+      "author": "Albert Einstein",
       "en": "The fear of death is the most unjustified of all fears, for there's no risk of accident for someone who's dead."
     },
     {
-      "id": "2c9f36c3",
+      "qid": "2c9f36c3",
+      "author": "Albert Einstein",
       "en": "An empty stomach is not a good political adviser."
     },
     {
-      "id": "5e8ab655",
+      "qid": "5e8ab655",
+      "author": "Albert Einstein",
       "en": "It is a miracle that curiosity survives formal education."
     },
     {
-      "id": "2c891240",
+      "qid": "2c891240",
+      "author": "Albert Einstein",
       "en": "Do not worry about your difficulties in Mathematics. I can assure you mine are still greater."
     },
     {
-      "id": "20d4706b",
+      "qid": "20d4706b",
+      "author": "Albert Einstein",
       "en": "Only a life lived for others is a life worthwhile."
     },
     {
-      "id": "54d6483f",
+      "qid": "54d6483f",
+      "author": "Albert Einstein",
       "en": "We shall require a substantially new manner of thinking if mankind is to survive."
     },
     {
-      "id": "46ae82cd",
+      "qid": "46ae82cd",
+      "author": "Albert Einstein",
       "en": "Joy in looking and comprehending is nature's most beautiful gift."
     },
     {
-      "id": "e4d8099e",
+      "qid": "e4d8099e",
+      "author": "Albert Einstein",
       "en": "To raise new questions, new possibilities, to regard old problems from a new angle, requires creative imagination and marks real advance in science."
     },
     {
-      "id": "8e0386cb",
+      "qid": "8e0386cb",
+      "author": "Albert Einstein",
       "en": "If you are out to describe the truth, leave elegance to the tailor."
     },
     {
-      "id": "438e288a",
+      "qid": "438e288a",
+      "author": "Albert Einstein",
       "en": "Small is the number of people who see with their eyes and think with their minds."
     },
     {
-      "id": "2c86e5fc",
+      "qid": "2c86e5fc",
+      "author": "Albert Einstein",
       "en": "True art is characterized by an irresistible urge in the creative artist."
     },
     {
-      "id": "c72b2d8a",
+      "qid": "c72b2d8a",
+      "author": "Albert Einstein",
       "en": "One strength of the communist system of the East is that it has some of the character of a religion and inspires the emotions of a religion."
     },
     {
-      "id": "b871f130",
+      "qid": "b871f130",
+      "author": "Albert Einstein",
       "en": "Coincidence is God's way of remaining anonymous."
     },
     {
-      "id": "8d8f790e",
+      "qid": "8d8f790e",
+      "author": "Albert Einstein",
       "en": "The only source of knowledge is experience."
     },
     {
-      "id": "c716e8e9",
+      "qid": "c716e8e9",
+      "author": "Albert Einstein",
       "en": "All religions, arts and sciences are branches of the same tree."
     },
     {
-      "id": "131e553e",
+      "qid": "131e553e",
+      "author": "Albert Einstein",
       "en": "God always takes the simplest way."
     },
     {
-      "id": "3e20e78f",
+      "qid": "3e20e78f",
+      "author": "Albert Einstein",
       "en": "It's not that I'm so smart, it's just that I stay with problems longer."
     },
     {
-      "id": "969dddaa",
+      "qid": "969dddaa",
+      "author": "Albert Einstein",
       "en": "There comes a time when the mind takes a higher plane of knowledge but can never prove how it got there."
     },
     {
-      "id": "aec93039",
+      "qid": "aec93039",
+      "author": "Albert Einstein",
       "en": "The environment is everything that isn't me."
     },
     {
-      "id": "ed6c8f9b",
+      "qid": "ed6c8f9b",
+      "author": "Albert Einstein",
       "en": "Confusion of goals and perfection of means seems, in my opinion, to characterize our age."
     }
   ]

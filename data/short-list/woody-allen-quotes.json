@@ -1,305 +1,380 @@
 {
-  "name": "Woody Allen",
-  "image": "Woody-Allen",
-  "quotes": [
+  "author": "Woody Allen",
+  "imageId": "Woody-Allen",
+  "data": [
     {
-      "id": "f5618909",
+      "qid": "f5618909",
+      "author": "Woody Allen",
       "en": "I don't have to 'freedom-kiss' my wife when what I really want to do is French-kiss her."
     },
     {
-      "id": "408f4680",
+      "qid": "408f4680",
+      "author": "Woody Allen",
       "en": "Man consists of two parts, his mind and his body, only the body has more fun."
     },
     {
-      "id": "774cefe0",
+      "qid": "774cefe0",
+      "author": "Woody Allen",
       "en": "As the poet said, 'Only God can make a tree,' probably because it's so hard to figure out how to get the bark on."
     },
     {
-      "id": "a7af16dc",
+      "qid": "a7af16dc",
+      "author": "Woody Allen",
       "en": "When I was kidnapped, my parents snapped into action. They rented out my room."
     },
     {
-      "id": "bc1495c0",
+      "qid": "bc1495c0",
+      "author": "Woody Allen",
       "en": "I ran into Isosceles. He had a great idea for a new triangle!"
     },
     {
-      "id": "410ca994",
+      "qid": "410ca994",
+      "author": "Woody Allen",
       "en": "In my house I'm the boss, my wife is just the decision maker."
     },
     {
-      "id": "ceeffcd8",
+      "qid": "ceeffcd8",
+      "author": "Woody Allen",
       "en": "What if nothing exists and we're all in somebody's dream?"
     },
     {
-      "id": "db8205c3",
+      "qid": "db8205c3",
+      "author": "Woody Allen",
       "en": "The talent for being happy is appreciating and liking what you have, instead of what you don't have."
     },
     {
-      "id": "8d70b7c2",
+      "qid": "8d70b7c2",
+      "author": "Woody Allen",
       "en": "I was nauseous and tingly all over. I was either in love or I had smallpox."
     },
     {
-      "id": "fe9f3742",
+      "qid": "fe9f3742",
+      "author": "Woody Allen",
       "en": "Money is better than poverty, if only for financial reasons."
     },
     {
-      "id": "9c9a5c67",
+      "qid": "9c9a5c67",
+      "author": "Woody Allen",
       "en": "Eighty percent of success is showing up."
     },
     {
-      "id": "37018d3b",
+      "qid": "37018d3b",
+      "author": "Woody Allen",
       "en": "There are worse things in life than death. Have you ever spent an evening with an insurance salesman?"
     },
     {
-      "id": "a72e8c3a",
+      "qid": "a72e8c3a",
+      "author": "Woody Allen",
       "en": "Students achieving Oneness will move on to Twoness."
     },
     {
-      "id": "913ccd40",
+      "qid": "913ccd40",
+      "author": "Woody Allen",
       "en": "I had a terrible education. I attended a school for emotionally disturbed teachers."
     },
     {
-      "id": "168f94ec",
+      "qid": "168f94ec",
+      "author": "Woody Allen",
       "en": "Life is divided into the horrible and the miserable."
     },
     {
-      "id": "814a0b63",
+      "qid": "814a0b63",
+      "author": "Woody Allen",
       "en": "Dying is one of the few things that can be done as easily lying down."
     },
     {
-      "id": "d1fccdcd",
+      "qid": "d1fccdcd",
+      "author": "Woody Allen",
       "en": "If you're not failing every now and again, it's a sign you're not doing anything very innovative."
     },
     {
-      "id": "7530b6df",
+      "qid": "7530b6df",
+      "author": "Woody Allen",
       "en": "Not only is there no God, but try finding a plumber on Sunday."
     },
     {
-      "id": "2ec62181",
+      "qid": "2ec62181",
+      "author": "Woody Allen",
       "en": "I'm such a good lover because I practice a lot on my own."
     },
     {
-      "id": "f911f36c",
+      "qid": "f911f36c",
+      "author": "Woody Allen",
       "en": "Basically my wife was immature. I'd be at home in the bath and she'd come in and sink my boats."
     },
     {
-      "id": "2aa3fd59",
+      "qid": "2aa3fd59",
+      "author": "Woody Allen",
       "en": "To you I'm an atheist; to God, I'm the Loyal Opposition."
     },
     {
-      "id": "4bdc5889",
+      "qid": "4bdc5889",
+      "author": "Woody Allen",
       "en": "I failed to make the chess team because of my height."
     },
     {
-      "id": "eb3a2e36",
+      "qid": "eb3a2e36",
+      "author": "Woody Allen",
       "en": "When we played softball, I'd steal second base, feel guilty and go back."
     },
     {
-      "id": "be0891f5",
+      "qid": "be0891f5",
+      "author": "Woody Allen",
       "en": "Why are our days numbered and not, say, lettered?"
     },
     {
-      "id": "611017cb",
+      "qid": "611017cb",
+      "author": "Woody Allen",
       "en": "My one regret in life is that I am not someone else."
     },
     {
-      "id": "0ccdba03",
+      "qid": "0ccdba03",
+      "author": "Woody Allen",
       "en": "I'm not afraid to die, I just don't want to be there when it happens."
     },
     {
-      "id": "2be6f1f4",
+      "qid": "2be6f1f4",
+      "author": "Woody Allen",
       "en": "It is impossible to experience one's death objectively and still carry a tune."
     },
     {
-      "id": "1422cc9d",
+      "qid": "1422cc9d",
+      "author": "Woody Allen",
       "en": "Tradition is the illusion of permanance."
     },
     {
-      "id": "3be88787",
+      "qid": "3be88787",
+      "author": "Woody Allen",
       "en": "His lack of education is more than compensated for by his keenly developed moral bankruptcy."
     },
     {
-      "id": "1c10638f",
+      "qid": "1c10638f",
+      "author": "Woody Allen",
       "en": "It seemed the world was divided into good and bad people. The good ones slept better while the bad ones seemed to enjoy the waking hours much more."
     },
     {
-      "id": "05c4e28f",
+      "qid": "05c4e28f",
+      "author": "Woody Allen",
       "en": "I think being funny is not anyone's first choice."
     },
     {
-      "id": "6ebebbe6",
+      "qid": "6ebebbe6",
+      "author": "Woody Allen",
       "en": "If my films don't show a profit, I know I'm doing something right."
     },
     {
-      "id": "707524d8",
+      "qid": "707524d8",
+      "author": "Woody Allen",
       "en": "Comedy just pokes at problems, rarely confronts them squarely. Drama is like a plate of meat and potatoes, comedy is rather the dessert, a bit like meringue."
     },
     {
-      "id": "de74883c",
+      "qid": "de74883c",
+      "author": "Woody Allen",
       "en": "Seventy percent of success in life is showing up."
     },
     {
-      "id": "0e2df11c",
+      "qid": "0e2df11c",
+      "author": "Woody Allen",
       "en": "He was so depressed, he tried to commit suicide by inhaling next to an Armenian."
     },
     {
-      "id": "79f3dc01",
+      "qid": "79f3dc01",
+      "author": "Woody Allen",
       "en": "I am not afraid of death, I just don't want to be there when it happens."
     },
     {
-      "id": "ea0c1203",
+      "qid": "ea0c1203",
+      "author": "Woody Allen",
       "en": "The food here is terrible, and the portions are too small."
     },
     {
-      "id": "97a7a2ae",
+      "qid": "97a7a2ae",
+      "author": "Woody Allen",
       "en": "I believe there is something out there watching us. Unfortunately, it's the government."
     },
     {
-      "id": "ce91cdb8",
+      "qid": "ce91cdb8",
+      "author": "Woody Allen",
       "en": "Sex without love is a meaningless experience, but as far as meaningless experiences go its pretty damn good."
     },
     {
-      "id": "5ad4541a",
+      "qid": "5ad4541a",
+      "author": "Woody Allen",
       "en": "I tended to place my wife under a pedestal."
     },
     {
-      "id": "0531345e",
+      "qid": "0531345e",
+      "author": "Woody Allen",
       "en": "Some guy hit my fender, and I told him, 'Be fruitful and multiply,' but not in those words."
     },
     {
-      "id": "9826db47",
+      "qid": "9826db47",
+      "author": "Woody Allen",
       "en": "Eternal nothingness is fine if you happen to be dressed for it."
     },
     {
-      "id": "32638caf",
+      "qid": "32638caf",
+      "author": "Woody Allen",
       "en": "My luck is getting worse and worse. Last night, for instance, I was mugged by a quaker."
     },
     {
-      "id": "cc2bf8c0",
+      "qid": "cc2bf8c0",
+      "author": "Woody Allen",
       "en": "The lion and the calf shall lie down together but the calf won't get much sleep."
     },
     {
-      "id": "5fc310e3",
+      "qid": "5fc310e3",
+      "author": "Woody Allen",
       "en": "I will not eat oysters. I want my food dead. Not sick. Not wounded. Dead."
     },
     {
-      "id": "9fb05ffb",
+      "qid": "9fb05ffb",
+      "author": "Woody Allen",
       "en": "I don't think my parents liked me. They put a live teddy bear in my crib."
     },
     {
-      "id": "f8655423",
+      "qid": "f8655423",
+      "author": "Woody Allen",
       "en": "Right now it's only a notion, but I think I can get the money to make it into a concept, and later turn it into an idea."
     },
     {
-      "id": "a2dfb49a",
+      "qid": "a2dfb49a",
+      "author": "Woody Allen",
       "en": "Marriage is the death of hope."
     },
     {
-      "id": "fc9269b3",
+      "qid": "fc9269b3",
+      "author": "Woody Allen",
       "en": "What if everything is an illusion and nothing exists? In that case, I definitely overpaid for my carpet."
     },
     {
-      "id": "02cab224",
+      "qid": "02cab224",
+      "author": "Woody Allen",
       "en": "Who bothers to cook TV dinners? I suck them frozen."
     },
     {
-      "id": "4f150a65",
+      "qid": "4f150a65",
+      "author": "Woody Allen",
       "en": "Most of the time I don't have much fun. The rest of the time I don't have any fun at all."
     },
     {
-      "id": "397f6ff8",
+      "qid": "397f6ff8",
+      "author": "Woody Allen",
       "en": "I am two with nature."
     },
     {
-      "id": "f5e49fcc",
+      "qid": "f5e49fcc",
+      "author": "Woody Allen",
       "en": "I don't want to achieve immortality through my work. I want to achieve it through not dying."
     },
     {
-      "id": "6a92bae1",
+      "qid": "6a92bae1",
+      "author": "Woody Allen",
       "en": "I'd call him a sadistic, hippophilic necrophile, but that would be beating a dead horse."
     },
     {
-      "id": "e57bdb1d",
+      "qid": "e57bdb1d",
+      "author": "Woody Allen",
       "en": "Harvard makes mistakes too, you know. Kissinger taught there."
     },
     {
-      "id": "1554c285",
+      "qid": "1554c285",
+      "author": "Woody Allen",
       "en": "It's not that I'm afraid to die. I just don't want to be there when it happens."
     },
     {
-      "id": "2fa650f3",
+      "qid": "2fa650f3",
+      "author": "Woody Allen",
       "en": "You can live to be a hundred if you give up all the things that make you want to live to be a hundred."
     },
     {
-      "id": "fe5dec1e",
+      "qid": "fe5dec1e",
+      "author": "Woody Allen",
       "en": "In Beverly Hills... they don't throw their garbage away. They make it into television shows."
     },
     {
-      "id": "37157e14",
+      "qid": "37157e14",
+      "author": "Woody Allen",
       "en": "Why does man kill? He kills for food. And not only food: frequently there must be a beverage."
     },
     {
-      "id": "bc6f8d40",
+      "qid": "bc6f8d40",
+      "author": "Woody Allen",
       "en": "I am thankful for laughter, except when milk comes out of my nose."
     },
     {
-      "id": "e90b7130",
+      "qid": "e90b7130",
+      "author": "Woody Allen",
       "en": "I don't believe in the after life, although I am bringing a change of underwear."
     },
     {
-      "id": "fd6cfe7a",
+      "qid": "fd6cfe7a",
+      "author": "Woody Allen",
       "en": "Life doesn't imitate art, it imitates bad television."
     },
     {
-      "id": "932dce0e",
+      "qid": "932dce0e",
+      "author": "Woody Allen",
       "en": "If only God would give me some clear sign! Like making a large deposit in my name at a Swiss bank."
     },
     {
-      "id": "72e5ac49",
+      "qid": "72e5ac49",
+      "author": "Woody Allen",
       "en": "I've never been an intellectual but I have this look."
     },
     {
-      "id": "4d7b8c1a",
+      "qid": "4d7b8c1a",
+      "author": "Woody Allen",
       "en": "If my films make one more person miserable, I'll feel I have done my job."
     },
     {
-      "id": "fc865f49",
+      "qid": "fc865f49",
+      "author": "Woody Allen",
       "en": "If you want to make God laugh, tell him about your plans."
     },
     {
-      "id": "b71a2948",
+      "qid": "b71a2948",
+      "author": "Woody Allen",
       "en": "I'm astounded by people who want to 'know' the universe when it's hard enough to find your way around Chinatown."
     },
     {
-      "id": "f727c212",
+      "qid": "f727c212",
+      "author": "Woody Allen",
       "en": "Life is full of misery, loneliness, and suffering - and it's all over much too soon."
     },
     {
-      "id": "8dc5bed3",
+      "qid": "8dc5bed3",
+      "author": "Woody Allen",
       "en": "In California, they don't throw their garbage away - they make it into TV shows."
     },
     {
-      "id": "61868bf2",
+      "qid": "61868bf2",
+      "author": "Woody Allen",
       "en": "On the plus side, death is one of the few things that can be done as easily lying down ."
     },
     {
-      "id": "24303531",
+      "qid": "24303531",
+      "author": "Woody Allen",
       "en": "Organized crime in America takes in over forty billion dollars a year and spends very little on office supplies."
     },
     {
-      "id": "75d5a21f",
+      "qid": "75d5a21f",
+      "author": "Woody Allen",
       "en": "I have bad reflexes. I was once run over by a car being pushed by two guys."
     },
     {
-      "id": "0923e731",
+      "qid": "0923e731",
+      "author": "Woody Allen",
       "en": "Bisexuality immediately doubles your chances for a date on Saturday night."
     },
     {
-      "id": "27c03cdc",
+      "qid": "27c03cdc",
+      "author": "Woody Allen",
       "en": "I took a speed-reading course and read War and Peace in twenty minutes. It involves Russia."
     },
     {
-      "id": "56cae747",
+      "qid": "56cae747",
+      "author": "Woody Allen",
       "en": "I'm very proud of my gold pocket watch. My grandfather, on his deathbed, sold me this watch."
     }
   ]

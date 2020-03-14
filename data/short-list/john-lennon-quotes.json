@@ -1,225 +1,280 @@
 {
-  "name": "John Lennon",
-  "image": "John-Lennon",
-  "quotes": [
+  "author": "John Lennon",
+  "imageId": "John-Lennon",
+  "data": [
     {
-      "id": "18b1e9fb",
+      "qid": "18b1e9fb",
+      "author": "John Lennon",
       "en": "My role in society, or any artist's or poet's role, is to try and express what we all feel. Not to tell people how to feel. Not as a preacher, not as a leader, but as a reflection of us all."
     },
     {
-      "id": "267b4500",
+      "qid": "267b4500",
+      "author": "John Lennon",
       "en": "All we are saying is give peace a chance."
     },
     {
-      "id": "e6f46bee",
+      "qid": "e6f46bee",
+      "author": "John Lennon",
       "en": "It was like being in the eye of a hurricane. You'd wake up in a concert and think, Wow, how did I get here?"
     },
     {
-      "id": "0e94b0e4",
+      "qid": "0e94b0e4",
+      "author": "John Lennon",
       "en": "Surrealism had a great effect on me because then I realised that the imagery in my mind wasn't insanity. Surrealism to me is reality."
     },
     {
-      "id": "140613ac",
+      "qid": "140613ac",
+      "author": "John Lennon",
       "en": "We've got this gift of love, but love is like a precious plant. You can't just accept it and leave it in the cupboard or just think it's going to get on by itself. You've got to keep watering it. You've got to really look after it and nurture it."
     },
     {
-      "id": "71037387",
+      "qid": "71037387",
+      "author": "John Lennon",
       "en": "Reality leaves a lot to the imagination."
     },
     {
-      "id": "e86336dc",
+      "qid": "e86336dc",
+      "author": "John Lennon",
       "en": "It doesn't matter how long my hair is or what colour my skin is or whether I'm a woman or a man."
     },
     {
-      "id": "20affc74",
+      "qid": "20affc74",
+      "author": "John Lennon",
       "en": "I believe in God, but not as one thing, not as an old man in the sky. I believe that what people call God is something in all of us. I believe that what Jesus and Mohammed and Buddha and all the rest said was right. It's just that the translations have gone wrong."
     },
     {
-      "id": "7392edf8",
+      "qid": "7392edf8",
+      "author": "John Lennon",
       "en": "If everyone demanded peace instead of another television set, then there'd be peace."
     },
     {
-      "id": "599a7e33",
+      "qid": "599a7e33",
+      "author": "John Lennon",
       "en": "You don't need anybody to tell you who you are or what you are. You are what you are!"
     },
     {
-      "id": "9f677594",
+      "qid": "9f677594",
+      "author": "John Lennon",
       "en": "I don't believe in killing whatever the reason!"
     },
     {
-      "id": "60ea41c4",
+      "qid": "60ea41c4",
+      "author": "John Lennon",
       "en": "Christianity will go. It will vanish and shrink. I needn't argue with that; I'm right and I will be proved right. We're more popular than Jesus now; I don't know which will go first - rock and roll or Christianity."
     },
     {
-      "id": "7d527ebc",
+      "qid": "7d527ebc",
+      "author": "John Lennon",
       "en": "Imagine all the people living life in peace. You may say I'm a dreamer, but I'm not the only one. I hope someday you'll join us, and the world will be as one."
     },
     {
-      "id": "7c97583d",
+      "qid": "7c97583d",
+      "author": "John Lennon",
       "en": "Part of me suspects that I'm a loser, and the other part of me thinks I'm God Almighty."
     },
     {
-      "id": "38f36de7",
+      "qid": "38f36de7",
+      "author": "John Lennon",
       "en": "Everything is clearer when you're in love."
     },
     {
-      "id": "7f78a4b9",
+      "qid": "7f78a4b9",
+      "author": "John Lennon",
       "en": "I believe in everything until it's disproved. So I believe in fairies, the myths, dragons. It all exists, even if it's in your mind. Who's to say that dreams and nightmares aren't as real as the here and now?"
     },
     {
-      "id": "fc0975d5",
+      "qid": "fc0975d5",
+      "author": "John Lennon",
       "en": "Will the people in the cheaper seats clap your hands? And the rest of you, if you'll just rattle your jewelry."
     },
     {
-      "id": "1662e5b7",
+      "qid": "1662e5b7",
+      "author": "John Lennon",
       "en": "Yeah we all shine on, like the moon, and the stars, and the sun."
     },
     {
-      "id": "8d526300",
+      "qid": "8d526300",
+      "author": "John Lennon",
       "en": "The postman wants an autograph. The cab driver wants a picture. The waitress wants a handshake. Everyone wants a piece of you."
     },
     {
-      "id": "a8952c4e",
+      "qid": "a8952c4e",
+      "author": "John Lennon",
       "en": "Lots of people who complained about us receiving the MBE received theirs for heroism in the war - for killing people. We received ours for entertaining other people. I'd say we deserve ours more."
     },
     {
-      "id": "c82be7a7",
+      "qid": "c82be7a7",
+      "author": "John Lennon",
       "en": "You're just left with yourself all the time, whatever you do anyway. You've got to get down to your own God in your own temple. It's all down to you, mate."
     },
     {
-      "id": "365a9cbe",
+      "qid": "365a9cbe",
+      "author": "John Lennon",
       "en": "Love is the answer, and you know that for sure; Love is a flower, you've got to let it grow."
     },
     {
-      "id": "b3ff0c2a",
+      "qid": "b3ff0c2a",
+      "author": "John Lennon",
       "en": "Rituals are important. Nowadays it's hip not to be married. I'm not interested in being hip."
     },
     {
-      "id": "205d2b4d",
+      "qid": "205d2b4d",
+      "author": "John Lennon",
       "en": "Jesus was all right, but his disciples were thick and ordinary. It's them twisting it that ruins it for me."
     },
     {
-      "id": "dc7b5360",
+      "qid": "dc7b5360",
+      "author": "John Lennon",
       "en": "The thing the sixties did was to show us the possibilities and the responsibility that we all had. It wasn't the answer. It just gave us a glimpse of the possibility."
     },
     {
-      "id": "2a6fb1b9",
+      "qid": "2a6fb1b9",
+      "author": "John Lennon",
       "en": "As usual, there is a great woman behind every idiot."
     },
     {
-      "id": "faf0d7ae",
+      "qid": "faf0d7ae",
+      "author": "John Lennon",
       "en": "I believe time wounds all heels."
     },
     {
-      "id": "10d41d75",
+      "qid": "10d41d75",
+      "author": "John Lennon",
       "en": "All you need is love."
     },
     {
-      "id": "b2d79e43",
+      "qid": "b2d79e43",
+      "author": "John Lennon",
       "en": "If you tried to give rock and roll another name, you might call it 'Chuck Berry'."
     },
     {
-      "id": "682592b0",
+      "qid": "682592b0",
+      "author": "John Lennon",
       "en": "The cross of the Legion of Honor has been conferred on me. However, few escape that distinction."
     },
     {
-      "id": "c658925f",
+      "qid": "c658925f",
+      "author": "John Lennon",
       "en": "I'm not claiming divinity. I've never claimed purity of soul. I've never claimed to have the answers to life. I only put out songs and answer questions as honestly as I can... But I still believe in peace, love and understanding."
     },
     {
-      "id": "c27d84cf",
+      "qid": "c27d84cf",
+      "author": "John Lennon",
       "en": "We're more popular than Jesus now; I don't know which will go first, rock 'n' roll or Christianity."
     },
     {
-      "id": "ed7ea566",
+      "qid": "ed7ea566",
+      "author": "John Lennon",
       "en": "Everybody loves you when you're six foot in the ground."
     },
     {
-      "id": "3d9b9a63",
+      "qid": "3d9b9a63",
+      "author": "John Lennon",
       "en": "Music is everybody's possession. It's only publishers who think that people own it."
     },
     {
-      "id": "cbaf6d20",
+      "qid": "cbaf6d20",
+      "author": "John Lennon",
       "en": "Our society is run by insane people for insane objectives. I think we're being run by maniacs for maniacal ends and I think I'm liable to be put away as insane for expressing that. That's what's insane about it."
     },
     {
-      "id": "2b0d7349",
+      "qid": "2b0d7349",
+      "author": "John Lennon",
       "en": "If being an egomaniac means I believe in what I do and in my art or music, then in that respect you can call me that... I believe in what I do, and I'll say it."
     },
     {
-      "id": "672a5cb8",
+      "qid": "672a5cb8",
+      "author": "John Lennon",
       "en": "I'm not going to change the way I look or the way I feel to conform to anything. I've always been a freak. So I've been a freak all my life and I have to live with that, you know. I'm one of those people."
     },
     {
-      "id": "ffc33294",
+      "qid": "ffc33294",
+      "author": "John Lennon",
       "en": "You have to be a bastard to make it, and that's a fact. And the Beatles are the biggest bastards on earth."
     },
     {
-      "id": "4475c0b1",
+      "qid": "4475c0b1",
+      "author": "John Lennon",
       "en": "The more I see the less I know for sure."
     },
     {
-      "id": "bf74728c",
+      "qid": "bf74728c",
+      "author": "John Lennon",
       "en": "And God help Bruce Springsteen when they decide he's no longer God... They'll turn on him, and I hope he survives it."
     },
     {
-      "id": "e306252c",
+      "qid": "e306252c",
+      "author": "John Lennon",
       "en": "Time you enjoy wasting, was not wasted."
     },
     {
-      "id": "fcf52beb",
+      "qid": "fcf52beb",
+      "author": "John Lennon",
       "en": "These critics with the illusions they've created about artists - it's like idol worship. They only like people when they're on their way up... I cannot be on the way up again."
     },
     {
-      "id": "166eda97",
+      "qid": "166eda97",
+      "author": "John Lennon",
       "en": "Guilt for being rich, and guilt thinking that perhaps love and peace isn't enough and you have to go and get shot or something."
     },
     {
-      "id": "cf75a288",
+      "qid": "cf75a288",
+      "author": "John Lennon",
       "en": "Love is the flower you've got to let grow."
     },
     {
-      "id": "57e71fd9",
+      "qid": "57e71fd9",
+      "author": "John Lennon",
       "en": "We were all on this ship in the sixties, our generation, a ship going to discover the New World. And the Beatles were in the crow's nest of that ship."
     },
     {
-      "id": "6b8534c0",
+      "qid": "6b8534c0",
+      "author": "John Lennon",
       "en": "When you're drowning, you don't say 'I would be incredibly pleased if someone would have the foresight to notice me drowning and come and help me,' you just scream."
     },
     {
-      "id": "ba726c9a",
+      "qid": "ba726c9a",
+      "author": "John Lennon",
       "en": "He didn't come out of my belly, but my God, I've made his bones, because I've attended to every meal, and how he sleeps, and the fact that he swims like a fish because I took him to the ocean. I'm so proud of all those things. But he is my biggest pride."
     },
     {
-      "id": "ccb4256d",
+      "qid": "ccb4256d",
+      "author": "John Lennon",
       "en": "You either get tired fighting for peace, or you die."
     },
     {
-      "id": "0db5a5e5",
+      "qid": "0db5a5e5",
+      "author": "John Lennon",
       "en": "I don't know which will go first - rock 'n' roll or Christianity."
     },
     {
-      "id": "88efa47b",
+      "qid": "88efa47b",
+      "author": "John Lennon",
       "en": "The basic thing nobody asks is why do people take drugs of any sort? Why do we have these accessories to normal living to live? I mean, is there something wrong with society that's making us so pressurized, that we cannot live without guarding ourselves against it?"
     },
     {
-      "id": "13bd5975",
+      "qid": "13bd5975",
+      "author": "John Lennon",
       "en": "Possession isn't nine-tenths of the law. It's nine-tenths of the problem."
     },
     {
-      "id": "d6dbd351",
+      "qid": "d6dbd351",
+      "author": "John Lennon",
       "en": "There's nothing you can know that isn't known."
     },
     {
-      "id": "96a510c4",
+      "qid": "96a510c4",
+      "author": "John Lennon",
       "en": "God is a concept by which we measure our pain."
     },
     {
-      "id": "341344e7",
+      "qid": "341344e7",
+      "author": "John Lennon",
       "en": "If someone thinks that love and peace is a cliche that must have been left behind in the Sixties, that's his problem. Love and peace are eternal."
     },
     {
-      "id": "9c1a3b1a",
+      "qid": "9c1a3b1a",
+      "author": "John Lennon",
       "en": "Life is what happens while you are busy making other plans."
     }
   ]

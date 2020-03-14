@@ -1,361 +1,450 @@
 {
-  "name": "Confucius",
-  "image": "Confucius",
-  "quotes": [
+  "author": "Confucius",
+  "imageId": "Confucius",
+  "data": [
     {
-      "id": "d481c7b4",
+      "qid": "d481c7b4",
+      "author": "Confucius",
       "en": "To practice five things under all circumstances constitutes perfect virtue; these five are gravity, generosity of soul, sincerity, earnestness, and kindness."
     },
     {
-      "id": "d1b3cb59",
+      "qid": "d1b3cb59",
+      "author": "Confucius",
       "en": "Better a diamond with a flaw than a pebble without."
     },
     {
-      "id": "e11e01e8",
+      "qid": "e11e01e8",
+      "author": "Confucius",
       "en": "In a country well governed, poverty is something to be ashamed of. In a country badly governed, wealth is something to be ashamed of."
     },
     {
-      "id": "a7cc36ab",
+      "qid": "a7cc36ab",
+      "author": "Confucius",
       "en": "The superior man acts before he speaks, and afterwards speaks according to his action."
     },
     {
-      "id": "2837835e",
+      "qid": "2837835e",
+      "author": "Confucius",
       "en": "Success depends upon previous preparation, and without such preparation there is sure to be failure."
     },
     {
-      "id": "9ee3692f",
+      "qid": "9ee3692f",
+      "author": "Confucius",
       "en": "The will to win, the desire to succeed, the urge to reach your full potential... these are the keys that will unlock the door to personal excellence."
     },
     {
-      "id": "361f3044",
+      "qid": "361f3044",
+      "author": "Confucius",
       "en": "I am not one who was born in the possession of knowledge; I am one who is fond of antiquity, and earnest in seeking it there."
     },
     {
-      "id": "8b611789",
+      "qid": "8b611789",
+      "author": "Confucius",
       "en": "The strength of a nation derives from the integrity of the home."
     },
     {
-      "id": "0ba99c56",
+      "qid": "0ba99c56",
+      "author": "Confucius",
       "en": "Heaven means to be one with God."
     },
     {
-      "id": "8feea738",
+      "qid": "8feea738",
+      "author": "Confucius",
       "en": "A youth, when at home, should be filial and, abroad, respectful to his elders. He should be earnest and truthful. He should overflow in love to all and cultivate the friendship of the good. When he has time and opportunity, after the performance of these things, he should employ them in polite studies."
     },
     {
-      "id": "07165f44",
+      "qid": "07165f44",
+      "author": "Confucius",
       "en": "A superior man is modest in his speech, but exceeds in his actions."
     },
     {
-      "id": "741200a9",
+      "qid": "741200a9",
+      "author": "Confucius",
       "en": "To those whose talents are above mediocrity, the highest subjects may be announced. To those who are below mediocrity, the highest subjects may not be announced."
     },
     {
-      "id": "e9eec9f1",
+      "qid": "e9eec9f1",
+      "author": "Confucius",
       "en": "I will not be concerned at other men's not knowing me; I will be concerned at my own want of ability."
     },
     {
-      "id": "435ca34f",
+      "qid": "435ca34f",
+      "author": "Confucius",
       "en": "An oppressive government is more to be feared than a tiger."
     },
     {
-      "id": "a5930466",
+      "qid": "a5930466",
+      "author": "Confucius",
       "en": "If I am walking with two other men, each of them will serve as my teacher. I will pick out the good points of the one and imitate them, and the bad points of the other and correct them in myself."
     },
     {
-      "id": "746b2125",
+      "qid": "746b2125",
+      "author": "Confucius",
       "en": "The superior man does not, even for the space of a single meal, act contrary to virtue. In moments of haste, he cleaves to it. In seasons of danger, he cleaves to it."
     },
     {
-      "id": "d18f9b5e",
+      "qid": "d18f9b5e",
+      "author": "Confucius",
       "en": "Virtue is not left to stand alone. He who practices it will have neighbors."
     },
     {
-      "id": "0da87216",
+      "qid": "0da87216",
+      "author": "Confucius",
       "en": "Study the past, if you would divine the future."
     },
     {
-      "id": "e71119ab",
+      "qid": "e71119ab",
+      "author": "Confucius",
       "en": "Choose a job you love, and you will never have to work a day in your life."
     },
     {
-      "id": "38943f65",
+      "qid": "38943f65",
+      "author": "Confucius",
       "en": "Go before the people with your example, and be laborious in their affairs."
     },
     {
-      "id": "e47928c2",
+      "qid": "e47928c2",
+      "author": "Confucius",
       "en": "When you know a thing, to hold that you know it, and when you do not know a thing, to allow that you do not know it - this is knowledge."
     },
     {
-      "id": "8065779a",
+      "qid": "8065779a",
+      "author": "Confucius",
       "en": "When you are laboring for others let it be with the same zeal as if it were for yourself."
     },
     {
-      "id": "9c6558ec",
+      "qid": "9c6558ec",
+      "author": "Confucius",
       "en": "Without feelings of respect, what is there to distinguish men from beasts?"
     },
     {
-      "id": "c91cdd09",
+      "qid": "c91cdd09",
+      "author": "Confucius",
       "en": "To rule a country of a thousand chariots, there must be reverent attention to business, and sincerity; economy in expenditure, and love for men; and the employment of the people at the proper seasons."
     },
     {
-      "id": "065bdb4a",
+      "qid": "065bdb4a",
+      "author": "Confucius",
       "en": "Death and life have their determined appointments; riches and honors depend upon heaven."
     },
     {
-      "id": "137d3427",
+      "qid": "137d3427",
+      "author": "Confucius",
       "en": "It is easy to hate and it is difficult to love. This is how the whole scheme of things works. All good things are difficult to achieve; and bad things are very easy to get."
     },
     {
-      "id": "ac7368ed",
+      "qid": "ac7368ed",
+      "author": "Confucius",
       "en": "Silence is a true friend who never betrays."
     },
     {
-      "id": "58288dec",
+      "qid": "58288dec",
+      "author": "Confucius",
       "en": "To see what is right and not to do it is want of courage, or of principle."
     },
     {
-      "id": "a51c1bd1",
+      "qid": "a51c1bd1",
+      "author": "Confucius",
       "en": "How to play music may be known. At the commencement of the piece, all the parts should sound together. As it proceeds, they should be in harmony while severally distinct and flowing without break, and thus on to the conclusion."
     },
     {
-      "id": "478a0209",
+      "qid": "478a0209",
+      "author": "Confucius",
       "en": "He who learns but does not think, is lost! He who thinks but does not learn is in great danger."
     },
     {
-      "id": "2ba93e1a",
+      "qid": "2ba93e1a",
+      "author": "Confucius",
       "en": "The superior man thinks always of virtue; the common man thinks of comfort."
     },
     {
-      "id": "8f9b8ff9",
+      "qid": "8f9b8ff9",
+      "author": "Confucius",
       "en": "He who speaks without modesty will find it difficult to make his words good."
     },
     {
-      "id": "6d454bf4",
+      "qid": "6d454bf4",
+      "author": "Confucius",
       "en": "To go beyond is as wrong as to fall short."
     },
     {
-      "id": "e4d11591",
+      "qid": "e4d11591",
+      "author": "Confucius",
       "en": "Ability will never catch up with the demand for it."
     },
     {
-      "id": "4d223baa",
+      "qid": "4d223baa",
+      "author": "Confucius",
       "en": "If you think in terms of a year, plant a seed; if in terms of ten years, plant trees; if in terms of 100 years, teach the people."
     },
     {
-      "id": "7032e970",
+      "qid": "7032e970",
+      "author": "Confucius",
       "en": "It is more shameful to distrust our friends than to be deceived by them."
     },
     {
-      "id": "b61fd0d8",
+      "qid": "b61fd0d8",
+      "author": "Confucius",
       "en": "To see the right and not to do it is cowardice."
     },
     {
-      "id": "71c17cfe",
+      "qid": "71c17cfe",
+      "author": "Confucius",
       "en": "The faults of a superior person are like the sun and moon. They have their faults, and everyone sees them; they change and everyone looks up to them."
     },
     {
-      "id": "3e5bc97a",
+      "qid": "3e5bc97a",
+      "author": "Confucius",
       "en": "The superior man is distressed by the limitations of his ability; he is not distressed by the fact that men do not recognize the ability that he has."
     },
     {
-      "id": "42b1f9a6",
+      "qid": "42b1f9a6",
+      "author": "Confucius",
       "en": "Only the wisest and stupidest of men never change."
     },
     {
-      "id": "467f4d34",
+      "qid": "467f4d34",
+      "author": "Confucius",
       "en": "Wisdom, compassion, and courage are the three universally recognized moral qualities of men."
     },
     {
-      "id": "1804e52e",
+      "qid": "1804e52e",
+      "author": "Confucius",
       "en": "Faced with what is right, to leave it undone shows a lack of courage."
     },
     {
-      "id": "ea993ec4",
+      "qid": "ea993ec4",
+      "author": "Confucius",
       "en": "When we see persons of worth, we should think of equaling them; when we see persons of a contrary character, we should turn inwards and examine ourselves."
     },
     {
-      "id": "a268a7d1",
+      "qid": "a268a7d1",
+      "author": "Confucius",
       "en": "Virtuous people often revenge themselves for the constraints to which they submit by the boredom which they inspire."
     },
     {
-      "id": "1e25f6f3",
+      "qid": "1e25f6f3",
+      "author": "Confucius",
       "en": "What you do not want done to yourself, do not do to others."
     },
     {
-      "id": "85590ad0",
+      "qid": "85590ad0",
+      "author": "Confucius",
       "en": "By three methods we may learn wisdom: First, by reflection, which is noblest; Second, by imitation, which is easiest; and third by experience, which is the bitterest."
     },
     {
-      "id": "b8eda490",
+      "qid": "b8eda490",
+      "author": "Confucius",
       "en": "Everything has beauty, but not everyone sees it."
     },
     {
-      "id": "368df2e7",
+      "qid": "368df2e7",
+      "author": "Confucius",
       "en": "The book salesman should be honored because he brings to our attention, as a rule, the very books we need most and neglect most."
     },
     {
-      "id": "638ca159",
+      "qid": "638ca159",
+      "author": "Confucius",
       "en": "You cannot open a book without learning something."
     },
     {
-      "id": "525b369d",
+      "qid": "525b369d",
+      "author": "Confucius",
       "en": "To know what you know and what you do not know, that is true knowledge."
     },
     {
-      "id": "64e1b20a",
+      "qid": "64e1b20a",
+      "author": "Confucius",
       "en": "He who acts with a constant view to his own advantage will be much murmured against."
     },
     {
-      "id": "8f500bb3",
+      "qid": "8f500bb3",
+      "author": "Confucius",
       "en": "To be wronged is nothing unless you continue to remember it."
     },
     {
-      "id": "f77e0322",
+      "qid": "f77e0322",
+      "author": "Confucius",
       "en": "The superior man makes the difficulty to be overcome his first interest; success only comes later."
     },
     {
-      "id": "45bb92ba",
+      "qid": "45bb92ba",
+      "author": "Confucius",
       "en": "Old age, believe me, is a good and pleasant thing. It is true you are gently shouldered off the stage, but then you are given such a comfortable front stall as spectator."
     },
     {
-      "id": "7890dd14",
+      "qid": "7890dd14",
+      "author": "Confucius",
       "en": "When anger rises, think of the consequences."
     },
     {
-      "id": "187d3b74",
+      "qid": "187d3b74",
+      "author": "Confucius",
       "en": "We should feel sorrow, but not sink under its oppression."
     },
     {
-      "id": "312f9f2d",
+      "qid": "312f9f2d",
+      "author": "Confucius",
       "en": "When it is obvious that the goals cannot be reached, don't adjust the goals, adjust the action steps."
     },
     {
-      "id": "3373c79a",
+      "qid": "3373c79a",
+      "author": "Confucius",
       "en": "A gentleman would be ashamed should his deeds not match his words."
     },
     {
-      "id": "bedfbeb0",
+      "qid": "bedfbeb0",
+      "author": "Confucius",
       "en": "Our greatest glory is not in never falling, but in rising every time we fall."
     },
     {
-      "id": "c4dda613",
+      "qid": "c4dda613",
+      "author": "Confucius",
       "en": "Humility is the solid foundation of all virtues."
     },
     {
-      "id": "95556ade",
+      "qid": "95556ade",
+      "author": "Confucius",
       "en": "Wherever you go, go with all your heart."
     },
     {
-      "id": "a7a58e61",
+      "qid": "a7a58e61",
+      "author": "Confucius",
       "en": "The superior man understands what is right; the inferior man understands what will sell."
     },
     {
-      "id": "0cc25b2a",
+      "qid": "0cc25b2a",
+      "author": "Confucius",
       "en": "Look at the means which a man employs, consider his motives, observe his pleasures. A man simply cannot conceal himself!"
     },
     {
-      "id": "987aa5cf",
+      "qid": "987aa5cf",
+      "author": "Confucius",
       "en": "I hear and I forget. I see and I remember. I do and I understand."
     },
     {
-      "id": "3a7577fe",
+      "qid": "3a7577fe",
+      "author": "Confucius",
       "en": "Never contract friendship with a man that is not better than thyself."
     },
     {
-      "id": "8a632d26",
+      "qid": "8a632d26",
+      "author": "Confucius",
       "en": "The object of the superior man is truth."
     },
     {
-      "id": "4adee13b",
+      "qid": "4adee13b",
+      "author": "Confucius",
       "en": "He who exercises government by means of his virtue may be compared to the north polar star, which keeps its place and all the stars turn towards it."
     },
     {
-      "id": "a5a3d7fb",
+      "qid": "a5a3d7fb",
+      "author": "Confucius",
       "en": "If you look into your own heart, and you find nothing wrong there, what is there to worry about? What is there to fear?"
     },
     {
-      "id": "366ddbd6",
+      "qid": "366ddbd6",
+      "author": "Confucius",
       "en": "If some years were added to my life, I would give fifty to the study of the Yi, and then I might come to be without great faults."
     },
     {
-      "id": "ba6e26c4",
+      "qid": "ba6e26c4",
+      "author": "Confucius",
       "en": "There are three methods to gaining wisdom. The first is reflection, which is the highest. The second is limitation, which is the easiest. The third is experience, which is the bitterest."
     },
     {
-      "id": "5e57746f",
+      "qid": "5e57746f",
+      "author": "Confucius",
       "en": "To see and listen to the wicked is already the beginning of wickedness."
     },
     {
-      "id": "5cdc578b",
+      "qid": "5cdc578b",
+      "author": "Confucius",
       "en": "Speak the truth, do not yield to anger; give, if thou art asked for little; by these three steps thou wilt go near the gods."
     },
     {
-      "id": "24ca07a8",
+      "qid": "24ca07a8",
+      "author": "Confucius",
       "en": "The more man meditates upon good thoughts, the better will be his world and the world at large."
     },
     {
-      "id": "1d8e55f3",
+      "qid": "1d8e55f3",
+      "author": "Confucius",
       "en": "I want you to be everything that's you, deep at the center of your being."
     },
     {
-      "id": "bd1d30ed",
+      "qid": "bd1d30ed",
+      "author": "Confucius",
       "en": "Learning without thought is labor lost; thought without learning is perilous."
     },
     {
-      "id": "9a3661ec",
+      "qid": "9a3661ec",
+      "author": "Confucius",
       "en": "Real knowledge is to know the extent of one's ignorance."
     },
     {
-      "id": "9dbd3eea",
+      "qid": "9dbd3eea",
+      "author": "Confucius",
       "en": "The superior man is modest in his speech, but exceeds in his actions."
     },
     {
-      "id": "ecfbc0f7",
+      "qid": "ecfbc0f7",
+      "author": "Confucius",
       "en": "The cautious seldom err."
     },
     {
-      "id": "b3f06682",
+      "qid": "b3f06682",
+      "author": "Confucius",
       "en": "Life is really simple, but we insist on making it complicated."
     },
     {
-      "id": "e2d40736",
+      "qid": "e2d40736",
+      "author": "Confucius",
       "en": "Never give a sword to a man who can't dance."
     },
     {
-      "id": "ed54e31c",
+      "qid": "ed54e31c",
+      "author": "Confucius",
       "en": "If we don't know life, how can we know death?"
     },
     {
-      "id": "e7477e09",
+      "qid": "e7477e09",
+      "author": "Confucius",
       "en": "The expectations of life depend upon diligence; the mechanic that would perfect his work must first sharpen his tools."
     },
     {
-      "id": "bd1c2eaa",
+      "qid": "bd1c2eaa",
+      "author": "Confucius",
       "en": "It does not matter how slowly you go as long as you do not stop."
     },
     {
-      "id": "c5047a4c",
+      "qid": "c5047a4c",
+      "author": "Confucius",
       "en": "Instead of being concerned that you have no office, be concerned to think how you may fit yourself for office. Instead of being concerned that you are not known, seek to be worthy of being known."
     },
     {
-      "id": "ca79ab49",
+      "qid": "ca79ab49",
+      "author": "Confucius",
       "en": "I hear, I know. I see, I remember. I do, I understand."
     },
     {
-      "id": "98faefcd",
+      "qid": "98faefcd",
+      "author": "Confucius",
       "en": "Look not at what is contrary to propriety; listen not to what is contrary to propriety; speak not what is contrary to propriety; make no movement which is contrary to propriety."
     },
     {
-      "id": "c629d774",
+      "qid": "c629d774",
+      "author": "Confucius",
       "en": "The firm, the enduring, the simple, and the modest are near to virtue."
     },
     {
-      "id": "3296a852",
+      "qid": "3296a852",
+      "author": "Confucius",
       "en": "They must often change, who would be constant in happiness or wisdom."
     },
     {
-      "id": "28407404",
+      "qid": "28407404",
+      "author": "Confucius",
       "en": "Do not impose on others what you yourself do not desire."
     }
   ]

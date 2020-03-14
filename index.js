@@ -1,34 +1,41 @@
 /**
+ * Collate the short-list quotes as a merged array.
  *
  * @author NDF, 09-March-2020.
  */
 
-const SHORT_LIST = require('./data/short-list');
+const { meta, urls, data } = require('./data/short-list');
+
+const QUOTES = mergeAuthorQuotes(data);
+const count = {
+  authors: data.length,
+  quotes: QUOTES.length,
+}
 
 const OPEN_QUOTES_EN = {
-  meta: SHORT_LIST.meta,
-  shortList: SHORT_LIST.data,
-  data: mergeAuthorQuotes (SHORT_LIST),
+  meta,
+  urls,
+  count,
+  shortList: data,
+  data: QUOTES,
 };
 
-module.exports = { OPEN_QUOTES_EN };
+module.exports = OPEN_QUOTES_EN;
 
 // --------------------------------------------
 
-function mergeAuthorQuotes(shortList) {
+function mergeAuthorQuotes (shortList) {
   let allQuotes = [];
 
-  shortList.data.forEach(author => {
-    const QUOTES = require(`./data/short-list/${author.id}-quotes.json`);
+  shortList.forEach(author => {
+    const QUOTES = require(`./data/short-list/${author.id}-quotes.json`).data;
 
-    const quotes = QUOTES.quotes.map(quote => {
+    /* NOT needed. ~ const quotes = QUOTES.quotes.map(quote => {
       return { id: quote.id, en: quote.en, name: QUOTES.name };
-    });
+    }); */
 
-    allQuotes = [ ...allQuotes, ...quotes ];
+    allQuotes = [ ...allQuotes, ...QUOTES ];
   });
-
-  console.log('Quotes:', allQuotes);
 
   return allQuotes;
 }

@@ -1,69 +1,85 @@
 {
-  "name": "Jack London",
-  "image": "Jack-London",
-  "quotes": [
+  "author": "Jack London",
+  "imageId": "Jack-London",
+  "data": [
     {
-      "id": "0b01469f",
+      "qid": "0b01469f",
+      "author": "Jack London",
       "en": "Darn the wheel of the world! Why must it continually turn over? Where is the reverse gear?"
     },
     {
-      "id": "175da5cc",
+      "qid": "175da5cc",
+      "author": "Jack London",
       "en": "You can't wait for inspiration. You have to go after it with a club."
     },
     {
-      "id": "bedefb68",
+      "qid": "bedefb68",
+      "author": "Jack London",
       "en": "San Francisco is gone. Nothing remains of it but memories."
     },
     {
-      "id": "cf86f723",
+      "qid": "cf86f723",
+      "author": "Jack London",
       "en": "I write for no other purpose than to add to the beauty that now belongs to me. I write a book for no other reason than to add three or four hundred acres to my magnificent estate."
     },
     {
-      "id": "e19e4323",
+      "qid": "e19e4323",
+      "author": "Jack London",
       "en": "I would rather be ashes than dust! I would rather be a superb meteor, every atom of me in magnificent glow, than a sleepy and permanent planet."
     },
     {
-      "id": "2ebf922a",
+      "qid": "2ebf922a",
+      "author": "Jack London",
       "en": "There is an ecstasy that marks the summit of life, and beyond which life cannot rise. And such is the paradox of living, this ecstasy comes when one is most alive, and it comes as a complete forgetfulness that one is alive."
     },
     {
-      "id": "077322f9",
+      "qid": "077322f9",
+      "author": "Jack London",
       "en": "Life is not a matter of holding good cards, but sometimes, playing a poor hand well."
     },
     {
-      "id": "e14c831e",
+      "qid": "e14c831e",
+      "author": "Jack London",
       "en": "A bone to the dog is not charity. Charity is the bone shared with the dog, when you are just as hungry as the dog."
     },
     {
-      "id": "6ed51da8",
+      "qid": "6ed51da8",
+      "author": "Jack London",
       "en": "I would rather be a superb meteor, every atom of me in magnificent glow, than a sleepy and permanent planet."
     },
     {
-      "id": "921c7a94",
+      "qid": "921c7a94",
+      "author": "Jack London",
       "en": "The proper function of man is to live, not to exist. I shall not waste my days in trying to prolong them. I shall use my time."
     },
     {
-      "id": "232b9afb",
+      "qid": "232b9afb",
+      "author": "Jack London",
       "en": "If cash comes with fame, come fame; if cash comes without fame, come cash."
     },
     {
-      "id": "a354ac42",
+      "qid": "a354ac42",
+      "author": "Jack London",
       "en": "The scab is a traitor to his God, his mother, and his class."
     },
     {
-      "id": "827c30f4",
+      "qid": "827c30f4",
+      "author": "Jack London",
       "en": "Life is so short. I would rather sing one song than interpret the thousand."
     },
     {
-      "id": "304fe049",
+      "qid": "304fe049",
+      "author": "Jack London",
       "en": "One cannot violate the promptings of one's nature without having that nature recoil upon itself."
     },
     {
-      "id": "ce0d56b8",
+      "qid": "ce0d56b8",
+      "author": "Jack London",
       "en": "Affluence means influence."
     },
     {
-      "id": "249466e9",
+      "qid": "249466e9",
+      "author": "Jack London",
       "en": "Do you know the only value life has is what life puts on itself?"
     }
   ]

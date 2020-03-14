@@ -1,393 +1,490 @@
 {
-  "name": "Lao Tzu",
-  "image": "Lao-Tzu",
-  "quotes": [
+  "author": "Lao Tzu",
+  "imageId": "Lao-Tzu",
+  "data": [
     {
-      "id": "4e788c37",
+      "qid": "4e788c37",
+      "author": "Lao Tzu",
       "en": "The more laws and order are made prominent, the more thieves and robbers there will be."
     },
     {
-      "id": "ff3eb32b",
+      "qid": "ff3eb32b",
+      "author": "Lao Tzu",
       "en": "Great indeed is the sublimity of the Creative, to which all beings owe their beginning and which permeates all heaven."
     },
     {
-      "id": "ef94d61d",
+      "qid": "ef94d61d",
+      "author": "Lao Tzu",
       "en": "Treat those who are good with goodness, and also treat those who are not good with goodness. Thus goodness is attained. Be honest to those who are honest, and be also honest to those who are not honest. Thus honesty is attained."
     },
     {
-      "id": "7eff4b3f",
+      "qid": "7eff4b3f",
+      "author": "Lao Tzu",
       "en": "When you are content to be simply yourself and don't compare or compete, everybody will respect you."
     },
     {
-      "id": "91c3065c",
+      "qid": "91c3065c",
+      "author": "Lao Tzu",
       "en": "Silence is a source of great strength."
     },
     {
-      "id": "4bd9078f",
+      "qid": "4bd9078f",
+      "author": "Lao Tzu",
       "en": "Health is the greatest possession. Contentment is the greatest treasure. Confidence is the greatest friend. Non-being is the greatest joy."
     },
     {
-      "id": "0b9028f7",
+      "qid": "0b9028f7",
+      "author": "Lao Tzu",
       "en": "Manifest plainness, embrace simplicity, reduce selfishness, have few desires."
     },
     {
-      "id": "b02301b2",
+      "qid": "b02301b2",
+      "author": "Lao Tzu",
       "en": "A leader is best when people barely know he exists, when his work is done, his aim fulfilled, they will say: we did it ourselves."
     },
     {
-      "id": "003be6ec",
+      "qid": "003be6ec",
+      "author": "Lao Tzu",
       "en": "The wicked leader is he who the people despise. The good leader is he who the people revere. The great leader is he who the people say, 'We did it ourselves.'"
     },
     {
-      "id": "0d20ceb6",
+      "qid": "0d20ceb6",
+      "author": "Lao Tzu",
       "en": "Without stirring abroad, One can know the whole world; Without looking out of the window One can see the way of heaven. The further one goes The less one knows."
     },
     {
-      "id": "6ad55d1e",
+      "qid": "6ad55d1e",
+      "author": "Lao Tzu",
       "en": "Anticipate the difficult by managing the easy."
     },
     {
-      "id": "49ecde2e",
+      "qid": "49ecde2e",
+      "author": "Lao Tzu",
       "en": "There was something undifferentiated and yet complete, which existed before Heaven and Earth. Soundless and formless, it depends on nothing and does not change. It operates everywhere and is free from danger. It may be considered the mother of the universe. I do not know its name; I call it Tao."
     },
     {
-      "id": "06b01ed4",
+      "qid": "06b01ed4",
+      "author": "Lao Tzu",
       "en": "To the mind that is still, the whole universe surrenders."
     },
     {
-      "id": "dba4b6ec",
+      "qid": "dba4b6ec",
+      "author": "Lao Tzu",
       "en": "Heaven is long-enduring, and earth continues long. The reason why heaven and earth are able to endure and continue thus long is because they do not live of, or for, themselves."
     },
     {
-      "id": "2a074bf7",
+      "qid": "2a074bf7",
+      "author": "Lao Tzu",
       "en": "One who is too insistent on his own views, finds few to agree with him."
     },
     {
-      "id": "c951c3e3",
+      "qid": "c951c3e3",
+      "author": "Lao Tzu",
       "en": "One can not reflect in streaming water. Only those who know internal peace can give it to others."
     },
     {
-      "id": "99e267bc",
+      "qid": "99e267bc",
+      "author": "Lao Tzu",
       "en": "He who is contented is rich."
     },
     {
-      "id": "5901348d",
+      "qid": "5901348d",
+      "author": "Lao Tzu",
       "en": "If you would take, you must first give, this is the beginning of intelligence."
     },
     {
-      "id": "f7ce68c6",
+      "qid": "f7ce68c6",
+      "author": "Lao Tzu",
       "en": "The key to growth is the introduction of higher dimensions of consciousness into our awareness."
     },
     {
-      "id": "6d756c5b",
+      "qid": "6d756c5b",
+      "author": "Lao Tzu",
       "en": "Be the chief but never the lord."
     },
     {
-      "id": "9c9d1168",
+      "qid": "9c9d1168",
+      "author": "Lao Tzu",
       "en": "In dwelling, live close to the ground. In thinking, keep to the simple. In conflict, be fair and generous. In governing, don't try to control. In work, do what you enjoy. In family life, be completely present."
     },
     {
-      "id": "b054633a",
+      "qid": "b054633a",
+      "author": "Lao Tzu",
       "en": "Violence, even well intentioned, always rebounds upon oneself."
     },
     {
-      "id": "202debcf",
+      "qid": "202debcf",
+      "author": "Lao Tzu",
       "en": "To know yet to think that one does not know is best; Not to know yet to think that one knows will lead to difficulty."
     },
     {
-      "id": "346eaf7e",
+      "qid": "346eaf7e",
+      "author": "Lao Tzu",
       "en": "To see things in the seed, that is genius."
     },
     {
-      "id": "17c63e0f",
+      "qid": "17c63e0f",
+      "author": "Lao Tzu",
       "en": "For the wise man looks into space and he knows there is no limited dimensions."
     },
     {
-      "id": "a02c5574",
+      "qid": "a02c5574",
+      "author": "Lao Tzu",
       "en": "People in their handlings of affairs often fail when they are about to succeed. If one remains as careful at the end as he was at the beginning, there will be no failure."
     },
     {
-      "id": "478db2de",
+      "qid": "478db2de",
+      "author": "Lao Tzu",
       "en": "When a nation is filled with strife, then do patriots flourish."
     },
     {
-      "id": "13d2ba42",
+      "qid": "13d2ba42",
+      "author": "Lao Tzu",
       "en": "Do the difficult things while they are easy and do the great things while they are small. A journey of a thousand miles must begin with a single step."
     },
     {
-      "id": "9d91a20f",
+      "qid": "9d91a20f",
+      "author": "Lao Tzu",
       "en": "Sincere words are not fine; fine words are not sincere."
     },
     {
-      "id": "dc30c76a",
+      "qid": "dc30c76a",
+      "author": "Lao Tzu",
       "en": "How could man rejoice in victory and delight in the slaughter of men?"
     },
     {
-      "id": "eae429ae",
+      "qid": "eae429ae",
+      "author": "Lao Tzu",
       "en": "To lead people walk behind them."
     },
     {
-      "id": "b121ad5f",
+      "qid": "b121ad5f",
+      "author": "Lao Tzu",
       "en": "Respond intelligently even to unintelligent treatment."
     },
     {
-      "id": "5d02b4da",
+      "qid": "5d02b4da",
+      "author": "Lao Tzu",
       "en": "Love is of all passions the strongest, for it attacks simultaneously the head, the heart and the senses."
     },
     {
-      "id": "845dc29e",
+      "qid": "845dc29e",
+      "author": "Lao Tzu",
       "en": "Life is a series of natural and spontaneous changes. Don't resist them - that only creates sorrow. Let reality be reality. Let things flow naturally forward in whatever way they like."
     },
     {
-      "id": "3460bed0",
+      "qid": "3460bed0",
+      "author": "Lao Tzu",
       "en": "Nothing is softer or more flexible than water, yet nothing can resist it."
     },
     {
-      "id": "9dac28bd",
+      "qid": "9dac28bd",
+      "author": "Lao Tzu",
       "en": "He who talks more is sooner exhausted."
     },
     {
-      "id": "9bf44cad",
+      "qid": "9bf44cad",
+      "author": "Lao Tzu",
       "en": "Knowing others is wisdom, knowing yourself is Enlightenment."
     },
     {
-      "id": "a74d79cc",
+      "qid": "a74d79cc",
+      "author": "Lao Tzu",
       "en": "Great acts are made up of small deeds."
     },
     {
-      "id": "1da5816e",
+      "qid": "1da5816e",
+      "author": "Lao Tzu",
       "en": "The snow goose need not bathe to make itself white. Neither need you do anything but be yourself."
     },
     {
-      "id": "5be4b893",
+      "qid": "5be4b893",
+      "author": "Lao Tzu",
       "en": "A good traveler has no fixed plans, and is not intent on arriving."
     },
     {
-      "id": "124f6928",
+      "qid": "124f6928",
+      "author": "Lao Tzu",
       "en": "Man takes his law from the Earth; the Earth takes its law from Heaven; Heaven takes its law from the Tao. The law of the Tao is its being what it is."
     },
     {
-      "id": "c16f5ba7",
+      "qid": "c16f5ba7",
+      "author": "Lao Tzu",
       "en": "He who does not trust enough, Will not be trusted."
     },
     {
-      "id": "938add29",
+      "qid": "938add29",
+      "author": "Lao Tzu",
       "en": "Governing a great nation is like cooking a small fish - too much handling will spoil it."
     },
     {
-      "id": "c3e50177",
+      "qid": "c3e50177",
+      "author": "Lao Tzu",
       "en": "I do not concern myself with gods and spirits either good or evil nor do I serve any."
     },
     {
-      "id": "0e8ccbc6",
+      "qid": "0e8ccbc6",
+      "author": "Lao Tzu",
       "en": "All things in the world come from being. And being comes from non-being."
     },
     {
-      "id": "05211a9d",
+      "qid": "05211a9d",
+      "author": "Lao Tzu",
       "en": "If you do not change direction, you may end up where you are heading."
     },
     {
-      "id": "36cf2260",
+      "qid": "36cf2260",
+      "author": "Lao Tzu",
       "en": "He who knows, does not speak. He who speaks, does not know."
     },
     {
-      "id": "d5a04c67",
+      "qid": "d5a04c67",
+      "author": "Lao Tzu",
       "en": "The sage does not hoard. The more he helps others, the more he benefits himself, The more he gives to others, the more he gets himself. The Way of Heaven does one good but never does one harm. The Way of the sage is to act but not to compete."
     },
     {
-      "id": "54a2dddb",
+      "qid": "54a2dddb",
+      "author": "Lao Tzu",
       "en": "Man's enemies are not demons, but human beings like himself."
     },
     {
-      "id": "f4cac950",
+      "qid": "f4cac950",
+      "author": "Lao Tzu",
       "en": "At the center of your being you have the answer; you know who you are and you know what you want."
     },
     {
-      "id": "8bd1a496",
+      "qid": "8bd1a496",
+      "author": "Lao Tzu",
       "en": "All difficult things have their origin in that which is easy, and great things in that which is small."
     },
     {
-      "id": "63f5cf66",
+      "qid": "63f5cf66",
+      "author": "Lao Tzu",
       "en": "Life and death are one thread, the same line viewed from different sides."
     },
     {
-      "id": "3f8a0af8",
+      "qid": "3f8a0af8",
+      "author": "Lao Tzu",
       "en": "Music in the soul can be heard by the universe."
     },
     {
-      "id": "a4650e76",
+      "qid": "a4650e76",
+      "author": "Lao Tzu",
       "en": "He who knows that enough is enough will always have enough."
     },
     {
-      "id": "6931b57e",
+      "qid": "6931b57e",
+      "author": "Lao Tzu",
       "en": "Because of a great love, one is courageous."
     },
     {
-      "id": "a62236dc",
+      "qid": "a62236dc",
+      "author": "Lao Tzu",
       "en": "He who obtains has little. He who scatters has much."
     },
     {
-      "id": "721083eb",
+      "qid": "721083eb",
+      "author": "Lao Tzu",
       "en": "The Tao that can be told is not the eternal Tao; the name that can be named is not the eternal name. The Nameless is the origin of Heaven and Earth; the Named is the mother of all things."
     },
     {
-      "id": "5c3248ff",
+      "qid": "5c3248ff",
+      "author": "Lao Tzu",
       "en": "Be content with what you have; rejoice in the way things are. When you realize there is nothing lacking, the whole world belongs to you."
     },
     {
-      "id": "2eb423d5",
+      "qid": "2eb423d5",
+      "author": "Lao Tzu",
       "en": "The softest things in the world overcome the hardest things in the world."
     },
     {
-      "id": "62800b8c",
+      "qid": "62800b8c",
+      "author": "Lao Tzu",
       "en": "He who knows himself is enlightened."
     },
     {
-      "id": "5dc23635",
+      "qid": "5dc23635",
+      "author": "Lao Tzu",
       "en": "The people are hungry: It is because those in authority eat up too much in taxes."
     },
     {
-      "id": "3b1357d9",
+      "qid": "3b1357d9",
+      "author": "Lao Tzu",
       "en": "Fill your bowl to the brim and it will spill. Keep sharpening your knife and it will blunt."
     },
     {
-      "id": "af4d8537",
+      "qid": "af4d8537",
+      "author": "Lao Tzu",
       "en": "By letting it go it all gets done. The world is won by those who let it go. But when you try and try. The world is beyond the winning."
     },
     {
-      "id": "a0d87659",
+      "qid": "a0d87659",
+      "author": "Lao Tzu",
       "en": "To realize that you do not understand is a virtue; Not to realize that you do not understand is a defect."
     },
     {
-      "id": "be29c7e7",
+      "qid": "be29c7e7",
+      "author": "Lao Tzu",
       "en": "He who knows others is wise. He who knows himself is enlightened."
     },
     {
-      "id": "d0f876a0",
+      "qid": "d0f876a0",
+      "author": "Lao Tzu",
       "en": "The wise man does not lay up his own treasures. The more he gives to others, the more he has for his own."
     },
     {
-      "id": "edb07946",
+      "qid": "edb07946",
+      "author": "Lao Tzu",
       "en": "Those who have knowledge, don't predict. Those who predict, don't have knowledge."
     },
     {
-      "id": "ceb93958",
+      "qid": "ceb93958",
+      "author": "Lao Tzu",
       "en": "Kindness in words creates confidence. Kindness in thinking creates profoundness. Kindness in giving creates love."
     },
     {
-      "id": "3f397fd4",
+      "qid": "3f397fd4",
+      "author": "Lao Tzu",
       "en": "In the world there is nothing more submissive and weak than water. Yet for attacking that which is hard and strong nothing can surpass it."
     },
     {
-      "id": "d1711e7f",
+      "qid": "d1711e7f",
+      "author": "Lao Tzu",
       "en": "Of all that is good, sublimity is supreme. Succeeding is the coming together of all that is beautiful. Furtherance is the agreement of all that is just. Perseverance is the foundation of all actions."
     },
     {
-      "id": "a247cd6f",
+      "qid": "a247cd6f",
+      "author": "Lao Tzu",
       "en": "An ant on the move does more than a dozing ox."
     },
     {
-      "id": "b43054ac",
+      "qid": "b43054ac",
+      "author": "Lao Tzu",
       "en": "Nature is not human hearted."
     },
     {
-      "id": "2ad80d9e",
+      "qid": "2ad80d9e",
+      "author": "Lao Tzu",
       "en": "The power of intuitive understanding will protect you from harm until the end of your days."
     },
     {
-      "id": "7cb719e4",
+      "qid": "7cb719e4",
+      "author": "Lao Tzu",
       "en": "When the best leader's work is done the people say, 'We did it ourselves.'"
     },
     {
-      "id": "6e8cdb1d",
+      "qid": "6e8cdb1d",
+      "author": "Lao Tzu",
       "en": "Ambition has one heel nailed in well, though she stretch her fingers to touch the heavens."
     },
     {
-      "id": "fed6ac57",
+      "qid": "fed6ac57",
+      "author": "Lao Tzu",
       "en": "The higher the sun ariseth, the less shadow doth he cast; even so the greater is the goodness, the less doth it covet praise; yet cannot avoid its rewards in honours."
     },
     {
-      "id": "0907a69e",
+      "qid": "0907a69e",
+      "author": "Lao Tzu",
       "en": "If the Great Way perishes there will morality and duty. When cleverness and knowledge arise great lies will flourish. When relatives fall out with one another there will be filial duty and love. When states are in confusion there will be faithful servants."
     },
     {
-      "id": "2c1668df",
+      "qid": "2c1668df",
+      "author": "Lao Tzu",
       "en": "Being deeply loved by someone gives you strength, while loving someone deeply gives you courage."
     },
     {
-      "id": "ac91f5b5",
+      "qid": "ac91f5b5",
+      "author": "Lao Tzu",
       "en": "He who controls others may be powerful, but he who has mastered himself is mightier still."
     },
     {
-      "id": "c0397dbb",
+      "qid": "c0397dbb",
+      "author": "Lao Tzu",
       "en": "The career of a sage is of two kinds: He is either honored by all in the world, Like a flower waving its head, Or else he disappears into the silent forest."
     },
     {
-      "id": "2ab25b5f",
+      "qid": "2ab25b5f",
+      "author": "Lao Tzu",
       "en": "When virtue is lost, benevolence appears, when benevolence is lost right conduct appears, when right conduct is lost, expedience appears. Expediency is the mere shadow of right and truth; it is the beginning of disorder."
     },
     {
-      "id": "85665e59",
+      "qid": "85665e59",
+      "author": "Lao Tzu",
       "en": "Nature does not hurry, yet everything is accomplished."
     },
     {
-      "id": "fed82e02",
+      "qid": "fed82e02",
+      "author": "Lao Tzu",
       "en": "If you realize that all things change, there is nothing you will try to hold on to. If you are not afraid of dying, there is nothing you cannot achieve."
     },
     {
-      "id": "1da22c78",
+      "qid": "1da22c78",
+      "author": "Lao Tzu",
       "en": "From wonder into wonder existence opens."
     },
     {
-      "id": "9ac37031",
+      "qid": "9ac37031",
+      "author": "Lao Tzu",
       "en": "Simulated disorder postulates perfect discipline; simulated fear postulates courage; simulated weakness postulates strength."
     },
     {
-      "id": "31494ddd",
+      "qid": "31494ddd",
+      "author": "Lao Tzu",
       "en": "From caring comes courage."
     },
     {
-      "id": "05586383",
+      "qid": "05586383",
+      "author": "Lao Tzu",
       "en": "Truthful words are not beautiful; beautiful words are not truthful. Good words are not persuasive; persuasive words are not good."
     },
     {
-      "id": "1c6f2d33",
+      "qid": "1c6f2d33",
+      "author": "Lao Tzu",
       "en": "It is better to do one's own duty, however defective it may be, than to follow the duty of another, however well one may perform it. He who does his duty as his own nature reveals it, never sins."
     },
     {
-      "id": "7401004a",
+      "qid": "7401004a",
+      "author": "Lao Tzu",
       "en": "He who conquers others is strong; He who conquers himself is mighty."
     },
     {
-      "id": "5753df33",
+      "qid": "5753df33",
+      "author": "Lao Tzu",
       "en": "If you keep feeling a point that has been sharpened, the point cannot long preserve its sharpness."
     },
     {
-      "id": "36102141",
+      "qid": "36102141",
+      "author": "Lao Tzu",
       "en": "When I let go of what I am, I become what I might be."
     },
     {
-      "id": "04ac9189",
+      "qid": "04ac9189",
+      "author": "Lao Tzu",
       "en": "A scholar who cherishes the love of comfort is not fit to be deemed a scholar."
     },
     {
-      "id": "8879d916",
+      "qid": "8879d916",
+      "author": "Lao Tzu",
       "en": "The journey of a thousand miles begins with one step."
     },
     {
-      "id": "ecff79f5",
+      "qid": "ecff79f5",
+      "author": "Lao Tzu",
       "en": "Govern a great nation as you would cook a small fish. Do not overdo it."
     },
     {
-      "id": "24921d15",
+      "qid": "24921d15",
+      "author": "Lao Tzu",
       "en": "Mastering others is strength. Mastering yourself is true power."
     },
     {
-      "id": "e3c3aace",
+      "qid": "e3c3aace",
+      "author": "Lao Tzu",
       "en": "The words of truth are always paradoxical."
     },
     {
-      "id": "b037ddd3",
+      "qid": "b037ddd3",
+      "author": "Lao Tzu",
       "en": "I have just three things to teach: simplicity, patience, compassion. These three are your greatest treasures."
     }
   ]

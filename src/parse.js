@@ -97,30 +97,27 @@ async function parseHtmlFile(authorRef = AUTHOR_REF, $dir = LETTER) {
   const $ = cheerio.load(HTML);
 
   // <span itemprop="author">A. A. Milne</span>
-  const name = $('span[ itemprop = author ]').text();
+  const author = $('span[ itemprop = author ]').text();
   const imageUrl = $('img.mauthor_img').attr('src');
-  const image = path.basename(imageUrl).replace(/-quotes\.jpg/, '');
+  const imageId = path.basename(imageUrl).replace(/-quotes\.jpg/, '');
 
   const $QUOTES = $('article p.q');
 
-  stats.push({ id: authorRef, name, count: $QUOTES.length });
+  stats.push({ id: authorRef, author, count: $QUOTES.length });
 
-  console.log('>', name, image, $QUOTES.length);
+  console.log('>', author, imageId, $QUOTES.length);
 
   let quotes = [];
 
   $QUOTES.each((idx, domQuote) => {
-    const ID = $(domQuote).attr('id');
+    const qid = $(domQuote).attr('id');
     // <span itemprop="citation">If one is to be called a liar, ... deserve the name.</span>
     const QUOTE = $(domQuote).find('span[ itemprop = citation ]').text();
 
-    // console.log(idx, ID, QUOTE);
-
-    quotes.push({ id: ID, en: QUOTE });
+    quotes.push({ qid, author, en: QUOTE });
   });
 
-
-  writeCompactJsonFile(OUTPUT, { name, image, quotes });
+  writeCompactJsonFile(OUTPUT, { author, imageId, data: quotes });
 }
 
 // End.

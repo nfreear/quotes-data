@@ -1,521 +1,650 @@
 {
-  "name": "George Eliot",
-  "image": "George-Eliot",
-  "quotes": [
+  "author": "George Eliot",
+  "imageId": "George-Eliot",
+  "data": [
     {
-      "id": "f814250c",
+      "qid": "f814250c",
+      "author": "George Eliot",
       "en": "It will never rain roses: when we want to have more roses we must plant more trees."
     },
     {
-      "id": "40388eb3",
+      "qid": "40388eb3",
+      "author": "George Eliot",
       "en": "Little children are still the symbol of the eternal marriage between love and duty."
     },
     {
-      "id": "39f0cdcc",
+      "qid": "39f0cdcc",
+      "author": "George Eliot",
       "en": "It is a common enough case, that of a man being suddenly captivated by a woman nearly the opposite of his ideal."
     },
     {
-      "id": "b3dd1849",
+      "qid": "b3dd1849",
+      "author": "George Eliot",
       "en": "When death comes it is never our tenderness that we repent from, but our severity."
     },
     {
-      "id": "54062aaf",
+      "qid": "54062aaf",
+      "author": "George Eliot",
       "en": "I'm proof against that word failure. I've seen behind it. The only failure a man ought to fear is failure of cleaving to the purpose he sees to be best."
     },
     {
-      "id": "ebcc8e98",
+      "qid": "ebcc8e98",
+      "author": "George Eliot",
       "en": "Whether happiness may come or not, one should try and prepare one's self to do without it."
     },
     {
-      "id": "21280b5c",
+      "qid": "21280b5c",
+      "author": "George Eliot",
       "en": "Marriage must be a relation either of sympathy or of conquest."
     },
     {
-      "id": "54c68b2b",
+      "qid": "54c68b2b",
+      "author": "George Eliot",
       "en": "Blessed is the influence of one true, loving human soul on another."
     },
     {
-      "id": "fa424abb",
+      "qid": "fa424abb",
+      "author": "George Eliot",
       "en": "The golden moments in the stream of life rush past us, and we see nothing but sand; the angels come to visit us, and we only know them when they are gone."
     },
     {
-      "id": "9800305e",
+      "qid": "9800305e",
+      "author": "George Eliot",
       "en": "Harold, like the rest of us, had many impressions which saved him the trouble of distinct ideas."
     },
     {
-      "id": "5ce01df9",
+      "qid": "5ce01df9",
+      "author": "George Eliot",
       "en": "More helpful than all wisdom is one draught of simple human pity that will not forsake us."
     },
     {
-      "id": "fb9e6719",
+      "qid": "fb9e6719",
+      "author": "George Eliot",
       "en": "Rome - the city of visible history, where the past of a whole hemisphere seems moving in funeral procession with strange ancestral images and trophies gathered from afar."
     },
     {
-      "id": "1248a741",
+      "qid": "1248a741",
+      "author": "George Eliot",
       "en": "There is a great deal of unmapped country within us which would have to be taken into account in an explanation of our gusts and storms."
     },
     {
-      "id": "c53d6e6a",
+      "qid": "c53d6e6a",
+      "author": "George Eliot",
       "en": "Wear a smile and have friends; wear a scowl and have wrinkles."
     },
     {
-      "id": "82524548",
+      "qid": "82524548",
+      "author": "George Eliot",
       "en": "But human experience is usually paradoxical, that means incongruous with the phrases of current talk or even current philosophy."
     },
     {
-      "id": "33b20b12",
+      "qid": "33b20b12",
+      "author": "George Eliot",
       "en": "We must not sit still and look for miracles; up and doing, and the Lord will be with thee. Prayer and pains, through faith in Christ Jesus, will do anything."
     },
     {
-      "id": "bd114932",
+      "qid": "bd114932",
+      "author": "George Eliot",
       "en": "Worldly faces never look so worldly as at a funeral. They have the same effect of grating incongruity as the sound of a coarse voice breaking the solemn silence of night."
     },
     {
-      "id": "a9307439",
+      "qid": "a9307439",
+      "author": "George Eliot",
       "en": "No evil dooms us hopelessly except the evil we love, and desire to continue in, and make no effort to escape from."
     },
     {
-      "id": "2744026e",
+      "qid": "2744026e",
+      "author": "George Eliot",
       "en": "Iteration, like friction, is likely to generate heat instead of progress."
     },
     {
-      "id": "f6fc7800",
+      "qid": "f6fc7800",
+      "author": "George Eliot",
       "en": "You may try but you can never imagine what it is to have a man's form of genius in you, and to suffer the slavery of being a girl."
     },
     {
-      "id": "c21e5c74",
+      "qid": "c21e5c74",
+      "author": "George Eliot",
       "en": "If we had a keen vision of all that is ordinary in human life, it would be like hearing the grass grow or the squirrel's heart beat, and we should die of that roar which is the other side of silence."
     },
     {
-      "id": "b4a17743",
+      "qid": "b4a17743",
+      "author": "George Eliot",
       "en": "It is easy to say how we love new friends, and what we think of them, but words can never trace out all the fibers that knit us to the old."
     },
     {
-      "id": "8af188e1",
+      "qid": "8af188e1",
+      "author": "George Eliot",
       "en": "Falsehood is easy, truth so difficult."
     },
     {
-      "id": "cd669846",
+      "qid": "cd669846",
+      "author": "George Eliot",
       "en": "The beginning of an acquaintance whether with persons or things is to get a definite outline of our ignorance."
     },
     {
-      "id": "ff9374ee",
+      "qid": "ff9374ee",
+      "author": "George Eliot",
       "en": "There is a sort of jealousy which needs very little fire; it is hardly a passion, but a blight bred in the cloudy, damp despondency of uneasy egoism."
     },
     {
-      "id": "ccaf905b",
+      "qid": "ccaf905b",
+      "author": "George Eliot",
       "en": "I desire no future that will break the ties with the past."
     },
     {
-      "id": "61b1ddb7",
+      "qid": "61b1ddb7",
+      "author": "George Eliot",
       "en": "The sons of Judah have to choose that God may again choose them. The divine principle of our race is action, choice, resolved memory."
     },
     {
-      "id": "8397c3b4",
+      "qid": "8397c3b4",
+      "author": "George Eliot",
       "en": "The reward of one duty is the power to fulfill another."
     },
     {
-      "id": "fa4636ce",
+      "qid": "fa4636ce",
+      "author": "George Eliot",
       "en": "Great things are not done by impulse, but by a series of small things brought together."
     },
     {
-      "id": "58f2c31c",
+      "qid": "58f2c31c",
+      "author": "George Eliot",
       "en": "We long for an affection altogether ignorant of our faults. Heaven has accorded this to us in the uncritical canine attachment."
     },
     {
-      "id": "e347cf4d",
+      "qid": "e347cf4d",
+      "author": "George Eliot",
       "en": "It seems to me we can never give up longing and wishing while we are thoroughly alive. There are certain things we feel to be beautiful and good, and we must hunger after them."
     },
     {
-      "id": "a191abc1",
+      "qid": "a191abc1",
+      "author": "George Eliot",
       "en": "Perhaps the most delightful friendships are those in which there is much agreement, much disputation, and yet more personal liking."
     },
     {
-      "id": "37f52773",
+      "qid": "37f52773",
+      "author": "George Eliot",
       "en": "There are many victories worse than a defeat."
     },
     {
-      "id": "73f2c295",
+      "qid": "73f2c295",
+      "author": "George Eliot",
       "en": "Play not with paradoxes. That caustic which you handle in order to scorch others may happen to sear your own fingers and make them dead to the quality of things."
     },
     {
-      "id": "75e84842",
+      "qid": "75e84842",
+      "author": "George Eliot",
       "en": "Will not a tiny speck very close to our vision blot out the glory of the world, and leave only a margin by which we see the blot? I know no speck so troublesome as self."
     },
     {
-      "id": "5bebd972",
+      "qid": "5bebd972",
+      "author": "George Eliot",
       "en": "Life began with waking up and loving my mother's face."
     },
     {
-      "id": "2054af92",
+      "qid": "2054af92",
+      "author": "George Eliot",
       "en": "Truth has rough flavours if we bite it through."
     },
     {
-      "id": "d1ab402f",
+      "qid": "d1ab402f",
+      "author": "George Eliot",
       "en": "Acting is nothing more or less than playing. The idea is to humanize life."
     },
     {
-      "id": "af705411",
+      "qid": "af705411",
+      "author": "George Eliot",
       "en": "We hand folks over to God's mercy, and show none ourselves."
     },
     {
-      "id": "1f2c83e9",
+      "qid": "1f2c83e9",
+      "author": "George Eliot",
       "en": "The finest language is mostly made up of simple unimposing words."
     },
     {
-      "id": "c90323cf",
+      "qid": "c90323cf",
+      "author": "George Eliot",
       "en": "There is no private life which has not been determined by a wider public life."
     },
     {
-      "id": "dc2c7147",
+      "qid": "dc2c7147",
+      "author": "George Eliot",
       "en": "Cruelty, like every other vice, requires no motive outside of itself; it only requires opportunity."
     },
     {
-      "id": "ffefa23b",
+      "qid": "ffefa23b",
+      "author": "George Eliot",
       "en": "What makes life dreary is the want of a motive."
     },
     {
-      "id": "075efeac",
+      "qid": "075efeac",
+      "author": "George Eliot",
       "en": "I have the conviction that excessive literary production is a social offence."
     },
     {
-      "id": "547fc6e8",
+      "qid": "547fc6e8",
+      "author": "George Eliot",
       "en": "Nothing is so good as it seems beforehand."
     },
     {
-      "id": "2a8c18ee",
+      "qid": "2a8c18ee",
+      "author": "George Eliot",
       "en": "Vanity is as ill at ease under indifference as tenderness is under a love which it cannot return."
     },
     {
-      "id": "8daff52d",
+      "qid": "8daff52d",
+      "author": "George Eliot",
       "en": "What greater thing is there for two human souls than to feel that they are joined - to strengthen each other - to be at one with each other in silent unspeakable memories."
     },
     {
-      "id": "9a0a554d",
+      "qid": "9a0a554d",
+      "author": "George Eliot",
       "en": "What loneliness is more lonely than distrust?"
     },
     {
-      "id": "dc8e1f9f",
+      "qid": "dc8e1f9f",
+      "author": "George Eliot",
       "en": "He was like a cock who thought the sun had risen to hear him crow."
     },
     {
-      "id": "4753f1bb",
+      "qid": "4753f1bb",
+      "author": "George Eliot",
       "en": "People who can't be witty exert themselves to be devout and affectionate."
     },
     {
-      "id": "1dcad016",
+      "qid": "1dcad016",
+      "author": "George Eliot",
       "en": "Animals are such agreeable friends - they ask no questions; they pass no criticisms."
     },
     {
-      "id": "a712d13c",
+      "qid": "a712d13c",
+      "author": "George Eliot",
       "en": "Delicious autumn! My very soul is wedded to it, and if I were a bird I would fly about the earth seeking the successive autumns."
     },
     {
-      "id": "8072ee96",
+      "qid": "8072ee96",
+      "author": "George Eliot",
       "en": "Opposition may become sweet to a man when he has christened it persecution."
     },
     {
-      "id": "9de9d9e4",
+      "qid": "9de9d9e4",
+      "author": "George Eliot",
       "en": "Only in the agony of parting do we look into the depths of love."
     },
     {
-      "id": "5721e965",
+      "qid": "5721e965",
+      "author": "George Eliot",
       "en": "It is never too late to be what you might have been."
     },
     {
-      "id": "7cd7d8c7",
+      "qid": "7cd7d8c7",
+      "author": "George Eliot",
       "en": "Breed is stronger than pasture."
     },
     {
-      "id": "aea66d2a",
+      "qid": "aea66d2a",
+      "author": "George Eliot",
       "en": "Excellence encourages one about life generally; it shows the spiritual wealth of the world."
     },
     {
-      "id": "df637eff",
+      "qid": "df637eff",
+      "author": "George Eliot",
       "en": "The world is full of hopeful analogies and handsome, dubious eggs, called possibilities."
     },
     {
-      "id": "958b6347",
+      "qid": "958b6347",
+      "author": "George Eliot",
       "en": "Is it not rather what we expect in men, that they should have numerous strands of experience lying side by side and never compare them with each other?"
     },
     {
-      "id": "d838be58",
+      "qid": "d838be58",
+      "author": "George Eliot",
       "en": "All the learnin' my father paid for was a bit o' birch at one end and an alphabet at the other."
     },
     {
-      "id": "e1b556c0",
+      "qid": "e1b556c0",
+      "author": "George Eliot",
       "en": "But that intimacy of mutual embarrassment, in which each feels that the other is feeling something, having once existed, its effect is not to be done away with."
     },
     {
-      "id": "3aa56a8b",
+      "qid": "3aa56a8b",
+      "author": "George Eliot",
       "en": "There is only one failure in life possible, and that is not to be true to the best one knows."
     },
     {
-      "id": "68665aa4",
+      "qid": "68665aa4",
+      "author": "George Eliot",
       "en": "The happiest women, like the happiest nations, have no history."
     },
     {
-      "id": "592a1d3b",
+      "qid": "592a1d3b",
+      "author": "George Eliot",
       "en": "No great deed is done by falterers who ask for certainty."
     },
     {
-      "id": "cd31f0cd",
+      "qid": "cd31f0cd",
+      "author": "George Eliot",
       "en": "And when a woman's will is as strong as the man's who wants to govern her, half her strength must be concealment."
     },
     {
-      "id": "fdd5ba6f",
+      "qid": "fdd5ba6f",
+      "author": "George Eliot",
       "en": "Blessed is the man, who having nothing to say, abstains from giving wordy evidence of the fact."
     },
     {
-      "id": "2165f68e",
+      "qid": "2165f68e",
+      "author": "George Eliot",
       "en": "Death is the king of this world: 'Tis his park where he breeds life to feed him. Cries of pain are music for his banquet."
     },
     {
-      "id": "78c958ca",
+      "qid": "78c958ca",
+      "author": "George Eliot",
       "en": "To have in general but little feeling, seems to be the only security against feeling too much on any particular occasion."
     },
     {
-      "id": "52f8e98c",
+      "qid": "52f8e98c",
+      "author": "George Eliot",
       "en": "In every parting there is an image of death."
     },
     {
-      "id": "0f56a93d",
+      "qid": "0f56a93d",
+      "author": "George Eliot",
       "en": "There are some cases in which the sense of injury breeds not the will to inflict injuries and climb over them as a ladder, but a hatred of all injury."
     },
     {
-      "id": "3baba431",
+      "qid": "3baba431",
+      "author": "George Eliot",
       "en": "Every woman is supposed to have the same set of motives, or else to be a monster."
     },
     {
-      "id": "df7711d2",
+      "qid": "df7711d2",
+      "author": "George Eliot",
       "en": "Adventure is not outside man; it is within."
     },
     {
-      "id": "a60e1df0",
+      "qid": "a60e1df0",
+      "author": "George Eliot",
       "en": "It always remains true that if we had been greater, circumstance would have been less strong against us."
     },
     {
-      "id": "9547a285",
+      "qid": "9547a285",
+      "author": "George Eliot",
       "en": "Excessive literary production is a social offense."
     },
     {
-      "id": "1bd7ee69",
+      "qid": "1bd7ee69",
+      "author": "George Eliot",
       "en": "Failure after long perseverance is much grander than never to have a striving good enough to be called a failure."
     },
     {
-      "id": "055932e3",
+      "qid": "055932e3",
+      "author": "George Eliot",
       "en": "The best augury of a man's success in his profession is that he thinks it the finest in the world."
     },
     {
-      "id": "bc2bd560",
+      "qid": "bc2bd560",
+      "author": "George Eliot",
       "en": "What do we live for, if not to make life less difficult for each other?"
     },
     {
-      "id": "9a0c21a3",
+      "qid": "9a0c21a3",
+      "author": "George Eliot",
       "en": "Genius at first is little more than a great capacity for receiving discipline."
     },
     {
-      "id": "60a8c9ca",
+      "qid": "60a8c9ca",
+      "author": "George Eliot",
       "en": "The egoism which enters into our theories does not affect their sincerity; rather, the more our egoism is satisfied, the more robust is our belief."
     },
     {
-      "id": "4483d1eb",
+      "qid": "4483d1eb",
+      "author": "George Eliot",
       "en": "Ignorant kindness may have the effect of cruelty; but to be angry with it as if it were direct cruelty would be an ignorant unkindness."
     },
     {
-      "id": "99974470",
+      "qid": "99974470",
+      "author": "George Eliot",
       "en": "Our words have wings, but fly not where we would."
     },
     {
-      "id": "76075489",
+      "qid": "76075489",
+      "author": "George Eliot",
       "en": "The intense happiness of our union is derived in a high degree from the perfect freedom with which we each follow and declare our own impressions."
     },
     {
-      "id": "f4f130e4",
+      "qid": "f4f130e4",
+      "author": "George Eliot",
       "en": "For what is love itself, for the one we love best? An enfolding of immeasurable cares which yet are better than any joys outside our love."
     },
     {
-      "id": "f4a5bf00",
+      "qid": "f4a5bf00",
+      "author": "George Eliot",
       "en": "Belief consists in accepting the affirmations of the soul; unbelief, in denying them."
     },
     {
-      "id": "25c2da93",
+      "qid": "25c2da93",
+      "author": "George Eliot",
       "en": "All meanings, we know, depend on the key of interpretation."
     },
     {
-      "id": "def6eb0a",
+      "qid": "def6eb0a",
+      "author": "George Eliot",
       "en": "Hobbies are apt to run away with us, you know; it doesn't do to be run away with. We must keep the reins."
     },
     {
-      "id": "a087a3fc",
+      "qid": "a087a3fc",
+      "author": "George Eliot",
       "en": "You should read history and look at ostracism, persecution, martyrdom, and that kind of thing. They always happen to the best men, you know."
     },
     {
-      "id": "d57c6508",
+      "qid": "d57c6508",
+      "author": "George Eliot",
       "en": "That's what a man wants in a wife, mostly; he wants to make sure one fool tells him he's wise."
     },
     {
-      "id": "70b7bed6",
+      "qid": "70b7bed6",
+      "author": "George Eliot",
       "en": "A woman's heart must be of such a size and no larger, else it must be pressed small, like Chinese feet; her happiness is to be made as cakes are, by a fixed recipe."
     },
     {
-      "id": "e52eedf8",
+      "qid": "e52eedf8",
+      "author": "George Eliot",
       "en": "Mortals are easily tempted to pinch the life out of their neighbour's buzzing glory, and think that such killing is no murder."
     },
     {
-      "id": "794dde75",
+      "qid": "794dde75",
+      "author": "George Eliot",
       "en": "I should like to know what is the proper function of women, if it is not to make reasons for husbands to stay at home, and still stronger reasons for bachelors to go out."
     },
     {
-      "id": "7922a6ff",
+      "qid": "7922a6ff",
+      "author": "George Eliot",
       "en": "Consequences are unpitying."
     },
     {
-      "id": "297324d8",
+      "qid": "297324d8",
+      "author": "George Eliot",
       "en": "Conscientious people are apt to see their duty in that which is the most painful course."
     },
     {
-      "id": "f7e5d579",
+      "qid": "f7e5d579",
+      "author": "George Eliot",
       "en": "I'm not denyin' the women are foolish. God Almighty made 'em to match the men."
     },
     {
-      "id": "3020f72c",
+      "qid": "3020f72c",
+      "author": "George Eliot",
       "en": "Our deeds still travel with us from afar, and what we have been makes us what we are."
     },
     {
-      "id": "4a9ce63d",
+      "qid": "4a9ce63d",
+      "author": "George Eliot",
       "en": "The years between fifty and seventy are the hardest. You are always being asked to do things, and yet you are not decrepit enough to turn them down."
     },
     {
-      "id": "c4bc429a",
+      "qid": "c4bc429a",
+      "author": "George Eliot",
       "en": "In all private quarrels the duller nature is triumphant by reason of dullness."
     },
     {
-      "id": "68d28b36",
+      "qid": "68d28b36",
+      "author": "George Eliot",
       "en": "Anger and jealousy can no more bear to lose sight of their objects than love."
     },
     {
-      "id": "b7799d4d",
+      "qid": "b7799d4d",
+      "author": "George Eliot",
       "en": "A toddling little girl is a centre of common feeling which makes the most dissimilar people understand each other."
     },
     {
-      "id": "e40d59e2",
+      "qid": "e40d59e2",
+      "author": "George Eliot",
       "en": "The important work of moving the world forward does not wait to be done by perfect men."
     },
     {
-      "id": "2fb8249f",
+      "qid": "2fb8249f",
+      "author": "George Eliot",
       "en": "Might, could, would - they are contemptible auxiliaries."
     },
     {
-      "id": "f7e2453e",
+      "qid": "f7e2453e",
+      "author": "George Eliot",
       "en": "One must be poor to know the luxury of giving!"
     },
     {
-      "id": "c320330f",
+      "qid": "c320330f",
+      "author": "George Eliot",
       "en": "No compliment can be eloquent, except as an expression of indifference."
     },
     {
-      "id": "5ef5bff2",
+      "qid": "5ef5bff2",
+      "author": "George Eliot",
       "en": "When we get to wishing a great deal for ourselves, whatever we get soon turns into mere limitation and exclusion."
     },
     {
-      "id": "94e2bb8b",
+      "qid": "94e2bb8b",
+      "author": "George Eliot",
       "en": "A difference of taste in jokes is a great strain on the affections."
     },
     {
-      "id": "cff953d1",
+      "qid": "cff953d1",
+      "author": "George Eliot",
       "en": "An ass may bray a good while before he shakes the stars down."
     },
     {
-      "id": "ba8d9580",
+      "qid": "ba8d9580",
+      "author": "George Eliot",
       "en": "When death, the great reconciler, has come, it is never our tenderness that we repent of, but our severity."
     },
     {
-      "id": "0cdbefef",
+      "qid": "0cdbefef",
+      "author": "George Eliot",
       "en": "Our dead are never dead to us, until we have forgotten them."
     },
     {
-      "id": "9c2577cc",
+      "qid": "9c2577cc",
+      "author": "George Eliot",
       "en": "But what we call our despair is often only the painful eagerness of unfed hope."
     },
     {
-      "id": "c95a904c",
+      "qid": "c95a904c",
+      "author": "George Eliot",
       "en": "Knowledge slowly builds up what Ignorance in an hour pulls down."
     },
     {
-      "id": "a9b33e03",
+      "qid": "a9b33e03",
+      "author": "George Eliot",
       "en": "There is no despair so absolute as that which comes with the first moments of our first great sorrow, when we have not yet known what it is to have suffered and be healed, to have despaired and have recovered hope."
     },
     {
-      "id": "5000ce73",
+      "qid": "5000ce73",
+      "author": "George Eliot",
       "en": "The responsibility of tolerance lies with those who have the wider vision."
     },
     {
-      "id": "dd04b238",
+      "qid": "dd04b238",
+      "author": "George Eliot",
       "en": "In spite of his practical ability, some of his experience had petrified into maxims and quotations."
     },
     {
-      "id": "117e76a9",
+      "qid": "117e76a9",
+      "author": "George Eliot",
       "en": "An election is coming. Universal peace is declared, and the foxes have a sincere interest in prolonging the lives of the poultry."
     },
     {
-      "id": "af1035d9",
+      "qid": "af1035d9",
+      "author": "George Eliot",
       "en": "Quarrel? Nonsense; we have not quarreled. If one is not to get into a rage sometimes, what is the good of being friends?"
     },
     {
-      "id": "14d78a28",
+      "qid": "14d78a28",
+      "author": "George Eliot",
       "en": "The strongest principle of growth lies in the human choice."
     },
     {
-      "id": "c345eb7c",
+      "qid": "c345eb7c",
+      "author": "George Eliot",
       "en": "I like trying to get pregnant. I'm not so sure about childbirth."
     },
     {
-      "id": "8502105e",
+      "qid": "8502105e",
+      "author": "George Eliot",
       "en": "Science is properly more scrupulous than dogma. Dogma gives a charter to mistake, but the very breath of science is a contest with mistake, and must keep the conscience alive."
     },
     {
-      "id": "e547c30c",
+      "qid": "e547c30c",
+      "author": "George Eliot",
       "en": "Different taste in jokes is a great strain on the affections."
     },
     {
-      "id": "8ea9b6e0",
+      "qid": "8ea9b6e0",
+      "author": "George Eliot",
       "en": "Our deeds determine us, as much as we determine our deeds."
     },
     {
-      "id": "90cb93d0",
+      "qid": "90cb93d0",
+      "author": "George Eliot",
       "en": "I like not only to be loved, but also to be told I am loved."
     },
     {
-      "id": "60b6e356",
+      "qid": "60b6e356",
+      "author": "George Eliot",
       "en": "The beginning of compunction is the beginning of a new life."
     },
     {
-      "id": "817f3a28",
+      "qid": "817f3a28",
+      "author": "George Eliot",
       "en": "Jealousy is never satisfied with anything short of an omniscience that would detect the subtlest fold of the heart."
     },
     {
-      "id": "6c402cd0",
+      "qid": "6c402cd0",
+      "author": "George Eliot",
       "en": "In the vain laughter of folly wisdom hears half its applause."
     },
     {
-      "id": "b88b0410",
+      "qid": "b88b0410",
+      "author": "George Eliot",
       "en": "We must find our duties in what comes to us, not in what might have been."
     },
     {
-      "id": "40c3cb52",
+      "qid": "40c3cb52",
+      "author": "George Eliot",
       "en": "Hostesses who entertain much must make up their parties as ministers make up their cabinets, on grounds other than personal liking."
     },
     {
-      "id": "12ca3a9c",
+      "qid": "12ca3a9c",
+      "author": "George Eliot",
       "en": "The only failure one should fear, is not hugging to the purpose they see as best."
     },
     {
-      "id": "3881da80",
+      "qid": "3881da80",
+      "author": "George Eliot",
       "en": "It is a narrow mind which cannot look at a subject from various points of view."
     },
     {
-      "id": "2c3cf381",
+      "qid": "2c3cf381",
+      "author": "George Eliot",
       "en": "No story is the same to us after a lapse of time; or rather we who read it are no longer the same interpreters."
     }
   ]

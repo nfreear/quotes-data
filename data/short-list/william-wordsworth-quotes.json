@@ -1,153 +1,190 @@
 {
-  "name": "William Wordsworth",
-  "image": "William-Wordsworth",
-  "quotes": [
+  "author": "William Wordsworth",
+  "imageId": "William-Wordsworth",
+  "data": [
     {
-      "id": "5f8e9adf",
+      "qid": "5f8e9adf",
+      "author": "William Wordsworth",
       "en": "Faith is a passionate intuition."
     },
     {
-      "id": "25d179c0",
+      "qid": "25d179c0",
+      "author": "William Wordsworth",
       "en": "That though the radiance which was once so bright be now forever taken from my sight. Though nothing can bring back the hour of splendor in the grass, glory in the flower. We will grieve not, rather find strength in what remains behind."
     },
     {
-      "id": "88480797",
+      "qid": "88480797",
+      "author": "William Wordsworth",
       "en": "Our birth is but a sleep and a forgetting. Not in entire forgetfulness, and not in utter nakedness, but trailing clouds of glory do we come."
     },
     {
-      "id": "09f18973",
+      "qid": "09f18973",
+      "author": "William Wordsworth",
       "en": "How does the Meadow flower its bloom unfold? Because the lovely little flower is free down to its root, and in that freedom bold."
     },
     {
-      "id": "07954e3c",
+      "qid": "07954e3c",
+      "author": "William Wordsworth",
       "en": "The human mind is capable of excitement without the application of gross and violent stimulants; and he must have a very faint perception of its beauty and dignity who does not know this."
     },
     {
-      "id": "d9b11fd8",
+      "qid": "d9b11fd8",
+      "author": "William Wordsworth",
       "en": "Golf is a day spent in a round of strenuous idleness."
     },
     {
-      "id": "51444424",
+      "qid": "51444424",
+      "author": "William Wordsworth",
       "en": "The things which I have seen I now can see no more."
     },
     {
-      "id": "6c0a2f7b",
+      "qid": "6c0a2f7b",
+      "author": "William Wordsworth",
       "en": "The mind that is wise mourns less for what age takes away; than what it leaves behind."
     },
     {
-      "id": "668d70c2",
+      "qid": "668d70c2",
+      "author": "William Wordsworth",
       "en": "To begin, begin."
     },
     {
-      "id": "8898087d",
+      "qid": "8898087d",
+      "author": "William Wordsworth",
       "en": "The best portion of a good man's life is his little, nameless, unremembered acts of kindness and of love."
     },
     {
-      "id": "c479ef6f",
+      "qid": "c479ef6f",
+      "author": "William Wordsworth",
       "en": "What is pride? A rocket that emulates the stars."
     },
     {
-      "id": "5d1af3a4",
+      "qid": "5d1af3a4",
+      "author": "William Wordsworth",
       "en": "Poetry is the spontaneous overflow of powerful feelings: it takes its origin from emotion recollected in tranquility."
     },
     {
-      "id": "410b017f",
+      "qid": "410b017f",
+      "author": "William Wordsworth",
       "en": "Getting and spending, we lay waste our powers."
     },
     {
-      "id": "7cd983f2",
+      "qid": "7cd983f2",
+      "author": "William Wordsworth",
       "en": "But an old age serene and bright, and lovely as a Lapland night, shall lead thee to thy grave."
     },
     {
-      "id": "b556ea8f",
+      "qid": "b556ea8f",
+      "author": "William Wordsworth",
       "en": "For I have learned to look on nature, not as in the hour of thoughtless youth, but hearing oftentimes the still, sad music of humanity."
     },
     {
-      "id": "a516c289",
+      "qid": "a516c289",
+      "author": "William Wordsworth",
       "en": "Wisdom is oftentimes nearer when we stoop than when we soar."
     },
     {
-      "id": "a3dd446a",
+      "qid": "a3dd446a",
+      "author": "William Wordsworth",
       "en": "Suffering is permanent, obscure and dark, And shares the nature of infinity."
     },
     {
-      "id": "0a08eebd",
+      "qid": "0a08eebd",
+      "author": "William Wordsworth",
       "en": "To me the meanest flower that blows can give thoughts that do often lie too deep for tears."
     },
     {
-      "id": "b7e67fea",
+      "qid": "b7e67fea",
+      "author": "William Wordsworth",
       "en": "With an eye made quiet by the power of harmony, and the deep power of joy, we see into the life of things."
     },
     {
-      "id": "5dd638de",
+      "qid": "5dd638de",
+      "author": "William Wordsworth",
       "en": "Pictures deface walls more often than they decorate them."
     },
     {
-      "id": "eca94944",
+      "qid": "eca94944",
+      "author": "William Wordsworth",
       "en": "What we need is not the will to believe, but the wish to find out."
     },
     {
-      "id": "a47436cb",
+      "qid": "a47436cb",
+      "author": "William Wordsworth",
       "en": "The flower that smells the sweetest is shy and lowly."
     },
     {
-      "id": "4425f338",
+      "qid": "4425f338",
+      "author": "William Wordsworth",
       "en": "Fill your paper with the breathings of your heart."
     },
     {
-      "id": "face087d",
+      "qid": "face087d",
+      "author": "William Wordsworth",
       "en": "Rapine, avarice, expense, This is idolatry; and these we adore; Plain living and high thinking are no more."
     },
     {
-      "id": "558978b7",
+      "qid": "558978b7",
+      "author": "William Wordsworth",
       "en": "In modern business it is not the crook who is to be feared most, it is the honest man who doesn't know what he is doing."
     },
     {
-      "id": "834d2a06",
+      "qid": "834d2a06",
+      "author": "William Wordsworth",
       "en": "The ocean is a mighty harmonist."
     },
     {
-      "id": "a87c8d03",
+      "qid": "a87c8d03",
+      "author": "William Wordsworth",
       "en": "When from our better selves we have too long been parted by the hurrying world, and droop. Sick of its business, of its pleasures tired, how gracious, how benign is solitude."
     },
     {
-      "id": "e727d2a1",
+      "qid": "e727d2a1",
+      "author": "William Wordsworth",
       "en": "The child is father of the man."
     },
     {
-      "id": "6cc73a17",
+      "qid": "6cc73a17",
+      "author": "William Wordsworth",
       "en": "I listened, motionless and still; And, as I mounted up the hill, The music in my heart I bore, Long after it was heard no more."
     },
     {
-      "id": "946ff144",
+      "qid": "946ff144",
+      "author": "William Wordsworth",
       "en": "A multitude of causes unknown to former times are now acting with a combined force to blunt the discriminating powers of the mind, and unfitting it for all voluntary exertion to reduce it to a state of almost savage torpor."
     },
     {
-      "id": "1f31f413",
+      "qid": "1f31f413",
+      "author": "William Wordsworth",
       "en": "Life is divided into three terms - that which was, which is, and which will be. Let us learn from the past to profit by the present, and from the present, to live better in the future."
     },
     {
-      "id": "f0b47222",
+      "qid": "f0b47222",
+      "author": "William Wordsworth",
       "en": "Not without hope we suffer and we mourn."
     },
     {
-      "id": "fcf84d20",
+      "qid": "fcf84d20",
+      "author": "William Wordsworth",
       "en": "Nature never did betray the heart that loved her."
     },
     {
-      "id": "89acd99b",
+      "qid": "89acd99b",
+      "author": "William Wordsworth",
       "en": "One impulse from a vernal wood May teach you more of man, Of moral evil and of good, Than all the sages can."
     },
     {
-      "id": "41b42945",
+      "qid": "41b42945",
+      "author": "William Wordsworth",
       "en": "The world is too much with us; late and soon, getting and spending, we lay waste our powers: Little we see in Nature that is ours."
     },
     {
-      "id": "78acf06c",
+      "qid": "78acf06c",
+      "author": "William Wordsworth",
       "en": "Come forth into the light of things, let nature be your teacher."
     },
     {
-      "id": "c08c0668",
+      "qid": "c08c0668",
+      "author": "William Wordsworth",
       "en": "That best portion of a man's life, his little, nameless, unremembered acts of kindness and love."
     }
   ]

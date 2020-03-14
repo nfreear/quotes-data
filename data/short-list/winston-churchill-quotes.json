@@ -1,673 +1,840 @@
 {
-  "name": "Winston Churchill",
-  "image": "Winston-Churchill",
-  "quotes": [
+  "author": "Winston Churchill",
+  "imageId": "Winston-Churchill",
+  "data": [
     {
-      "id": "bfdb40bc",
+      "qid": "bfdb40bc",
+      "author": "Winston Churchill",
       "en": "In war, you can only be killed once, but in politics, many times."
     },
     {
-      "id": "b267b00c",
+      "qid": "b267b00c",
+      "author": "Winston Churchill",
       "en": "I have taken more out of alcohol than alcohol has taken out of me."
     },
     {
-      "id": "95aeb933",
+      "qid": "95aeb933",
+      "author": "Winston Churchill",
       "en": "Too often the strong, silent man is silent only because he does not know what to say, and is reputed strong only because he has remained silent."
     },
     {
-      "id": "3fe85284",
+      "qid": "3fe85284",
+      "author": "Winston Churchill",
       "en": "We occasionally stumble over the truth but most of us pick ourselves up and hurry off as if nothing had happened."
     },
     {
-      "id": "340d7d14",
+      "qid": "340d7d14",
+      "author": "Winston Churchill",
       "en": "It is always wise to look ahead, but difficult to look further than you can see."
     },
     {
-      "id": "acf3dc29",
+      "qid": "acf3dc29",
+      "author": "Winston Churchill",
       "en": "The reserve of modern assertions is sometimes pushed to extremes, in which the fear of being contradicted leads the writer to strip himself of almost all sense and meaning."
     },
     {
-      "id": "162747d7",
+      "qid": "162747d7",
+      "author": "Winston Churchill",
       "en": "This report, by its very length, defends itself against the risk of being read."
     },
     {
-      "id": "3de5b0ab",
+      "qid": "3de5b0ab",
+      "author": "Winston Churchill",
       "en": "India is a geographical term. It is no more a united nation than the Equator."
     },
     {
-      "id": "61bbf2c9",
+      "qid": "61bbf2c9",
+      "author": "Winston Churchill",
       "en": "Politics is not a game. It is an earnest business."
     },
     {
-      "id": "4e83162b",
+      "qid": "4e83162b",
+      "author": "Winston Churchill",
       "en": "The empires of the future are the empires of the mind."
     },
     {
-      "id": "55c8d77b",
+      "qid": "55c8d77b",
+      "author": "Winston Churchill",
       "en": "A politician needs the ability to foretell what is going to happen tomorrow, next week, next month, and next year. And to have the ability afterwards to explain why it didn't happen."
     },
     {
-      "id": "4ec47da4",
+      "qid": "4ec47da4",
+      "author": "Winston Churchill",
       "en": "For my part, I consider that it will be found much better by all parties to leave the past to history, especially as I propose to write that history myself."
     },
     {
-      "id": "44ba5250",
+      "qid": "44ba5250",
+      "author": "Winston Churchill",
       "en": "Perhaps it is better to be irresponsible and right, than to be responsible and wrong."
     },
     {
-      "id": "dade0c3e",
+      "qid": "dade0c3e",
+      "author": "Winston Churchill",
       "en": "Everyone has his day and some days last longer than others."
     },
     {
-      "id": "4b895041",
+      "qid": "4b895041",
+      "author": "Winston Churchill",
       "en": "No crime is so great as daring to excel."
     },
     {
-      "id": "66bb84a8",
+      "qid": "66bb84a8",
+      "author": "Winston Churchill",
       "en": "I am never going to have anything more to do with politics or politicians. When this war is over I shall confine myself entirely to writing and painting."
     },
     {
-      "id": "1fc84506",
+      "qid": "1fc84506",
+      "author": "Winston Churchill",
       "en": "War is mainly a catalogue of blunders."
     },
     {
-      "id": "8774d519",
+      "qid": "8774d519",
+      "author": "Winston Churchill",
       "en": "Russia is a riddle wrapped in a mystery inside an enigma."
     },
     {
-      "id": "83bbe685",
+      "qid": "83bbe685",
+      "author": "Winston Churchill",
       "en": "The truth is incontrovertible. Malice may attack it, ignorance may deride it, but in the end, there it is."
     },
     {
-      "id": "025c0ba3",
+      "qid": "025c0ba3",
+      "author": "Winston Churchill",
       "en": "The British nation is unique in this respect. They are the only people who like to be told how bad things are, who like to be told the worst."
     },
     {
-      "id": "f066c69e",
+      "qid": "f066c69e",
+      "author": "Winston Churchill",
       "en": "The great defense against the air menace is to attack the enemy's aircraft as near as possible to their point of departure."
     },
     {
-      "id": "b24d0d11",
+      "qid": "b24d0d11",
+      "author": "Winston Churchill",
       "en": "If you have an important point to make, don't try to be subtle or clever. Use a pile driver. Hit the point once. Then come back and hit it again. Then hit it a third time - a tremendous whack."
     },
     {
-      "id": "25d28463",
+      "qid": "25d28463",
+      "author": "Winston Churchill",
       "en": "The power of an air force is terrific when there is nothing to oppose it."
     },
     {
-      "id": "1597094a",
+      "qid": "1597094a",
+      "author": "Winston Churchill",
       "en": "What kind of people do they think we are? Is it possible they do not realize that we shall never cease to persevere against them until they have been taught a lesson which they and the world will never forget?"
     },
     {
-      "id": "b65208fa",
+      "qid": "b65208fa",
+      "author": "Winston Churchill",
       "en": "Although personally I am quite content with existing explosives, I feel we must not stand in the path of improvement."
     },
     {
-      "id": "594493cf",
+      "qid": "594493cf",
+      "author": "Winston Churchill",
       "en": "Some people regard private enterprise as a predatory tiger to be shot. Others look on it as a cow they can milk. Not enough people see it as a healthy horse, pulling a sturdy wagon."
     },
     {
-      "id": "b0f71b6d",
+      "qid": "b0f71b6d",
+      "author": "Winston Churchill",
       "en": "Never, never, never give up."
     },
     {
-      "id": "949884c4",
+      "qid": "949884c4",
+      "author": "Winston Churchill",
       "en": "The price of greatness is responsibility."
     },
     {
-      "id": "619c9347",
+      "qid": "619c9347",
+      "author": "Winston Churchill",
       "en": "I am fond of pigs. Dogs look up to us. Cats look down on us. Pigs treat us as equals."
     },
     {
-      "id": "4268eb7d",
+      "qid": "4268eb7d",
+      "author": "Winston Churchill",
       "en": "In wartime, truth is so precious that she should always be attended by a bodyguard of lies."
     },
     {
-      "id": "f6cfc527",
+      "qid": "f6cfc527",
+      "author": "Winston Churchill",
       "en": "A pessimist sees the difficulty in every opportunity; an optimist sees the opportunity in every difficulty."
     },
     {
-      "id": "99000e8d",
+      "qid": "99000e8d",
+      "author": "Winston Churchill",
       "en": "If we open a quarrel between past and present, we shall find that we have lost the future."
     },
     {
-      "id": "0cfe78b0",
+      "qid": "0cfe78b0",
+      "author": "Winston Churchill",
       "en": "Courage is rightly esteemed the first of human qualities... because it is the quality which guarantees all others."
     },
     {
-      "id": "06c016ba",
+      "qid": "06c016ba",
+      "author": "Winston Churchill",
       "en": "For good or for ill, air mastery is today the supreme expression of military power and fleets and armies, however vital and important, must accept a subordinate rank."
     },
     {
-      "id": "f8990ea0",
+      "qid": "f8990ea0",
+      "author": "Winston Churchill",
       "en": "I have never developed indigestion from eating my words."
     },
     {
-      "id": "29f866b7",
+      "qid": "29f866b7",
+      "author": "Winston Churchill",
       "en": "We contend that for a nation to try to tax itself into prosperity is like a man standing in a bucket and trying to lift himself up by the handle."
     },
     {
-      "id": "9ca2dcad",
+      "qid": "9ca2dcad",
+      "author": "Winston Churchill",
       "en": "Solitary trees, if they grow at all, grow strong."
     },
     {
-      "id": "3819b9c6",
+      "qid": "3819b9c6",
+      "author": "Winston Churchill",
       "en": "Success consists of going from failure to failure without loss of enthusiasm."
     },
     {
-      "id": "2f0c8b41",
+      "qid": "2f0c8b41",
+      "author": "Winston Churchill",
       "en": "A prisoner of war is a man who tries to kill you and fails, and then asks you not to kill him."
     },
     {
-      "id": "218ed99f",
+      "qid": "218ed99f",
+      "author": "Winston Churchill",
       "en": "If the human race wishes to have a prolonged and indefinite period of material prosperity, they have only got to behave in a peaceful and helpful way toward one another."
     },
     {
-      "id": "c8b4ac6d",
+      "qid": "c8b4ac6d",
+      "author": "Winston Churchill",
       "en": "War is a game that is played with a smile. If you can't smile, grin. If you can't grin, keep out of the way till you can."
     },
     {
-      "id": "21e3200e",
+      "qid": "21e3200e",
+      "author": "Winston Churchill",
       "en": "I am prepared to meet my Maker. Whether my Maker is prepared for the great ordeal of meeting me is another matter."
     },
     {
-      "id": "2c6ecc4d",
+      "qid": "2c6ecc4d",
+      "author": "Winston Churchill",
       "en": "We have always found the Irish a bit odd. They refuse to be English."
     },
     {
-      "id": "d3fc8378",
+      "qid": "d3fc8378",
+      "author": "Winston Churchill",
       "en": "I am an optimist. It does not seem too much use being anything else."
     },
     {
-      "id": "dbb5f46f",
+      "qid": "dbb5f46f",
+      "author": "Winston Churchill",
       "en": "One does not leave a convivial party before closing time."
     },
     {
-      "id": "019403dd",
+      "qid": "019403dd",
+      "author": "Winston Churchill",
       "en": "This is no time for ease and comfort. It is time to dare and endure."
     },
     {
-      "id": "c350f644",
+      "qid": "c350f644",
+      "author": "Winston Churchill",
       "en": "Criticism may not be agreeable, but it is necessary. It fulfils the same function as pain in the human body. It calls attention to an unhealthy state of things."
     },
     {
-      "id": "c55e306d",
+      "qid": "c55e306d",
+      "author": "Winston Churchill",
       "en": "A fanatic is one who can't change his mind and won't change the subject."
     },
     {
-      "id": "ac48ddf4",
+      "qid": "ac48ddf4",
+      "author": "Winston Churchill",
       "en": "Healthy citizens are the greatest asset any country can have."
     },
     {
-      "id": "d0bf5092",
+      "qid": "d0bf5092",
+      "author": "Winston Churchill",
       "en": "He has all of the virtues I dislike and none of the vices I admire."
     },
     {
-      "id": "e4555423",
+      "qid": "e4555423",
+      "author": "Winston Churchill",
       "en": "Study history, study history. In history lies all the secrets of statecraft."
     },
     {
-      "id": "3d058c13",
+      "qid": "3d058c13",
+      "author": "Winston Churchill",
       "en": "If it weren't for painting, I wouldn't live; I couldn't bear the extra strain of things."
     },
     {
-      "id": "621fa279",
+      "qid": "621fa279",
+      "author": "Winston Churchill",
       "en": "All the great things are simple, and many can be expressed in a single word: freedom, justice, honor, duty, mercy, hope."
     },
     {
-      "id": "cf9829b6",
+      "qid": "cf9829b6",
+      "author": "Winston Churchill",
       "en": "These are not dark days: these are great days - the greatest days our country has ever lived."
     },
     {
-      "id": "94f66127",
+      "qid": "94f66127",
+      "author": "Winston Churchill",
       "en": "My most brilliant achievement was my ability to be able to persuade my wife to marry me."
     },
     {
-      "id": "a5574611",
+      "qid": "a5574611",
+      "author": "Winston Churchill",
       "en": "Although prepared for martyrdom, I preferred that it be postponed."
     },
     {
-      "id": "e7ae6ea3",
+      "qid": "e7ae6ea3",
+      "author": "Winston Churchill",
       "en": "Do not let spacious plans for a new world divert your energies from saving what is left of the old."
     },
     {
-      "id": "047e30a9",
+      "qid": "047e30a9",
+      "author": "Winston Churchill",
       "en": "Before Alamein we never had a victory. After Alamein we never had a defeat."
     },
     {
-      "id": "3f4ef914",
+      "qid": "3f4ef914",
+      "author": "Winston Churchill",
       "en": "Socialism is a philosophy of failure, the creed of ignorance, and the gospel of envy, its inherent virtue is the equal sharing of misery."
     },
     {
-      "id": "d26c59a8",
+      "qid": "d26c59a8",
+      "author": "Winston Churchill",
       "en": "Those who can win a war well can rarely make a good peace and those who could make a good peace would never have won the war."
     },
     {
-      "id": "5779d1ba",
+      "qid": "5779d1ba",
+      "author": "Winston Churchill",
       "en": "In the course of my life, I have often had to eat my words, and I must confess that I have always found it a wholesome diet."
     },
     {
-      "id": "8de2122b",
+      "qid": "8de2122b",
+      "author": "Winston Churchill",
       "en": "History is written by the victors."
     },
     {
-      "id": "f3488963",
+      "qid": "f3488963",
+      "author": "Winston Churchill",
       "en": "It is no use saying, 'We are doing our best.' You have got to succeed in doing what is necessary."
     },
     {
-      "id": "e17c5bb3",
+      "qid": "e17c5bb3",
+      "author": "Winston Churchill",
       "en": "It is a good thing for an uneducated man to read books of quotations."
     },
     {
-      "id": "f50075a6",
+      "qid": "f50075a6",
+      "author": "Winston Churchill",
       "en": "An appeaser is one who feeds a crocodile, hoping it will eat him last."
     },
     {
-      "id": "c99c0564",
+      "qid": "c99c0564",
+      "author": "Winston Churchill",
       "en": "I have been brought up and trained to have the utmost contempt for people who get drunk."
     },
     {
-      "id": "8d92bee2",
+      "qid": "8d92bee2",
+      "author": "Winston Churchill",
       "en": "We are all worms. But I believe that I am a glow-worm."
     },
     {
-      "id": "7a2fa7f4",
+      "qid": "7a2fa7f4",
+      "author": "Winston Churchill",
       "en": "A lie gets halfway around the world before the truth has a chance to get its pants on."
     },
     {
-      "id": "47d3fbae",
+      "qid": "47d3fbae",
+      "author": "Winston Churchill",
       "en": "Play the game for more than you can afford to lose... only then will you learn the game."
     },
     {
-      "id": "cd42a7a4",
+      "qid": "cd42a7a4",
+      "author": "Winston Churchill",
       "en": "We shall show mercy, but we shall not ask for it."
     },
     {
-      "id": "a9409e65",
+      "qid": "a9409e65",
+      "author": "Winston Churchill",
       "en": "It is a fine thing to be honest, but it is also very important to be right."
     },
     {
-      "id": "ec4d7453",
+      "qid": "ec4d7453",
+      "author": "Winston Churchill",
       "en": "Kites rise highest against the wind - not with it."
     },
     {
-      "id": "4c7fd67b",
+      "qid": "4c7fd67b",
+      "author": "Winston Churchill",
       "en": "Man will occasionally stumble over the truth, but most of the time he will pick himself up and continue on."
     },
     {
-      "id": "7194ad05",
+      "qid": "7194ad05",
+      "author": "Winston Churchill",
       "en": "Never in the field of human conflict was so much owed by so many to so few."
     },
     {
-      "id": "60c0053b",
+      "qid": "60c0053b",
+      "author": "Winston Churchill",
       "en": "It is more agreeable to have the power to give than to receive."
     },
     {
-      "id": "673e9105",
+      "qid": "673e9105",
+      "author": "Winston Churchill",
       "en": "I am always ready to learn although I do not always like being taught."
     },
     {
-      "id": "0bd77341",
+      "qid": "0bd77341",
+      "author": "Winston Churchill",
       "en": "Baldwin thought Europe was a bore, and Chamberlain thought it was only a greater Birmingham."
     },
     {
-      "id": "751a1412",
+      "qid": "751a1412",
+      "author": "Winston Churchill",
       "en": "When I am abroad, I always make it a rule never to criticize or attack the government of my own country. I make up for lost time when I come home."
     },
     {
-      "id": "9d2b1ff3",
+      "qid": "9d2b1ff3",
+      "author": "Winston Churchill",
       "en": "We shall draw from the heart of suffering itself the means of inspiration and survival."
     },
     {
-      "id": "ab6c6e45",
+      "qid": "ab6c6e45",
+      "author": "Winston Churchill",
       "en": "My wife and I tried two or three times in the last 40 years to have breakfast together, but it was so disagreeable we had to stop."
     },
     {
-      "id": "ca2259ec",
+      "qid": "ca2259ec",
+      "author": "Winston Churchill",
       "en": "We are masters of the unsaid words, but slaves of those we let slip out."
     },
     {
-      "id": "ddb9a9b6",
+      "qid": "ddb9a9b6",
+      "author": "Winston Churchill",
       "en": "Courage is what it takes to stand up and speak; courage is also what it takes to sit down and listen."
     },
     {
-      "id": "4591a6a6",
+      "qid": "4591a6a6",
+      "author": "Winston Churchill",
       "en": "When the war of the giants is over the wars of the pygmies will begin."
     },
     {
-      "id": "3cb26b93",
+      "qid": "3cb26b93",
+      "author": "Winston Churchill",
       "en": "Eating words has never given me indigestion."
     },
     {
-      "id": "7fc4d846",
+      "qid": "7fc4d846",
+      "author": "Winston Churchill",
       "en": "When you have to kill a man, it costs nothing to be polite."
     },
     {
-      "id": "5197b596",
+      "qid": "5197b596",
+      "author": "Winston Churchill",
       "en": "We are stripped bare by the curse of plenty."
     },
     {
-      "id": "96005b1d",
+      "qid": "96005b1d",
+      "author": "Winston Churchill",
       "en": "I'm just preparing my impromptu remarks."
     },
     {
-      "id": "7bc56007",
+      "qid": "7bc56007",
+      "author": "Winston Churchill",
       "en": "There is no such thing as public opinion. There is only published opinion."
     },
     {
-      "id": "b8349e1e",
+      "qid": "b8349e1e",
+      "author": "Winston Churchill",
       "en": "You have enemies? Good. That means you've stood up for something, sometime in your life."
     },
     {
-      "id": "8abecca1",
+      "qid": "8abecca1",
+      "author": "Winston Churchill",
       "en": "Personally I'm always ready to learn, although I do not always like being taught."
     },
     {
-      "id": "2e930d4d",
+      "qid": "2e930d4d",
+      "author": "Winston Churchill",
       "en": "Battles are won by slaughter and maneuver. The greater the general, the more he contributes in maneuver, the less he demands in slaughter."
     },
     {
-      "id": "64fa9303",
+      "qid": "64fa9303",
+      "author": "Winston Churchill",
       "en": "No idea is so outlandish that it should not be considered with a searching but at the same time a steady eye."
     },
     {
-      "id": "e20f1fd6",
+      "qid": "e20f1fd6",
+      "author": "Winston Churchill",
       "en": "The first quality that is needed is audacity."
     },
     {
-      "id": "9e3e148a",
+      "qid": "9e3e148a",
+      "author": "Winston Churchill",
       "en": "It is a mistake to look too far ahead. Only one link of the chain of destiny can be handled at a time."
     },
     {
-      "id": "4a2f5420",
+      "qid": "4a2f5420",
+      "author": "Winston Churchill",
       "en": "Mr. Attlee is a very modest man. Indeed he has a lot to be modest about."
     },
     {
-      "id": "22f14a69",
+      "qid": "22f14a69",
+      "author": "Winston Churchill",
       "en": "The power of man has grown in every sphere, except over himself."
     },
     {
-      "id": "05fa5d74",
+      "qid": "05fa5d74",
+      "author": "Winston Churchill",
       "en": "Nothing can be more abhorrent to democracy than to imprison a person or keep him in prison because he is unpopular. This is really the test of civilization."
     },
     {
-      "id": "dc738522",
+      "qid": "dc738522",
+      "author": "Winston Churchill",
       "en": "The farther backward you can look, the farther forward you can see."
     },
     {
-      "id": "9e9eaa12",
+      "qid": "9e9eaa12",
+      "author": "Winston Churchill",
       "en": "Really I feel less keen about the Army every day. I think the Church would suit me better."
     },
     {
-      "id": "b0341786",
+      "qid": "b0341786",
+      "author": "Winston Churchill",
       "en": "I like a man who grins when he fights."
     },
     {
-      "id": "f68a7d32",
+      "qid": "f68a7d32",
+      "author": "Winston Churchill",
       "en": "I never worry about action, but only inaction."
     },
     {
-      "id": "14fa0832",
+      "qid": "14fa0832",
+      "author": "Winston Churchill",
       "en": "To build may have to be the slow and laborious task of years. To destroy can be the thoughtless act of a single day."
     },
     {
-      "id": "654ddf0b",
+      "qid": "654ddf0b",
+      "author": "Winston Churchill",
       "en": "We do not covet anything from any nation except their respect."
     },
     {
-      "id": "d72e03f6",
+      "qid": "d72e03f6",
+      "author": "Winston Churchill",
       "en": "History will be kind to me for I intend to write it."
     },
     {
-      "id": "bf6f2698",
+      "qid": "bf6f2698",
+      "author": "Winston Churchill",
       "en": "We shall defend our island, whatever the cost may be, we shall fight on the beaches, we shall fight on the landing grounds, we shall fight in the fields and in the streets, we shall fight in the hills; we shall never surrender."
     },
     {
-      "id": "085f95f4",
+      "qid": "085f95f4",
+      "author": "Winston Churchill",
       "en": "I may be drunk, Miss, but in the morning I will be sober and you will still be ugly."
     },
     {
-      "id": "77b3fe4e",
+      "qid": "77b3fe4e",
+      "author": "Winston Churchill",
       "en": "Never give in - never, never, never, never, in nothing great or small, large or petty, never give in except to convictions of honour and good sense."
     },
     {
-      "id": "4c11d79a",
+      "qid": "4c11d79a",
+      "author": "Winston Churchill",
       "en": "Christmas is a season not only of rejoicing but of reflection."
     },
     {
-      "id": "8bf356d4",
+      "qid": "8bf356d4",
+      "author": "Winston Churchill",
       "en": "The best argument against democracy is a five-minute conversation with the average voter."
     },
     {
-      "id": "ede6ad8b",
+      "qid": "ede6ad8b",
+      "author": "Winston Churchill",
       "en": "If you go on with this nuclear arms race, all you are going to do is make the rubble bounce."
     },
     {
-      "id": "497c7c0c",
+      "qid": "497c7c0c",
+      "author": "Winston Churchill",
       "en": "One ought never to turn one's back on a threatened danger and try to run away from it. If you do that, you will double the danger. But if you meet it promptly and without flinching, you will reduce the danger by half. Never run away from anything. Never!"
     },
     {
-      "id": "539f64cd",
+      "qid": "539f64cd",
+      "author": "Winston Churchill",
       "en": "'No comment' is a splendid expression. I am using it again and again."
     },
     {
-      "id": "f267a4bf",
+      "qid": "f267a4bf",
+      "author": "Winston Churchill",
       "en": "I have nothing to offer but blood, toil, tears and sweat."
     },
     {
-      "id": "15c7784e",
+      "qid": "15c7784e",
+      "author": "Winston Churchill",
       "en": "Continuous effort - not strength or intelligence - is the key to unlocking our potential."
     },
     {
-      "id": "65fcfe9e",
+      "qid": "65fcfe9e",
+      "author": "Winston Churchill",
       "en": "Never hold discussions with the monkey when the organ grinder is in the room."
     },
     {
-      "id": "0c5c2db7",
+      "qid": "0c5c2db7",
+      "author": "Winston Churchill",
       "en": "We make a living by what we get, but we make a life by what we give."
     },
     {
-      "id": "a2af86b5",
+      "qid": "a2af86b5",
+      "author": "Winston Churchill",
       "en": "Politics is almost as exciting as war, and quite as dangerous. In war you can only be killed once, but in politics many times."
     },
     {
-      "id": "df66aa3e",
+      "qid": "df66aa3e",
+      "author": "Winston Churchill",
       "en": "It has been said that democracy is the worst form of government except all the others that have been tried."
     },
     {
-      "id": "0e143140",
+      "qid": "0e143140",
+      "author": "Winston Churchill",
       "en": "If you have ten thousand regulations you destroy all respect for the law."
     },
     {
-      "id": "c76f5392",
+      "qid": "c76f5392",
+      "author": "Winston Churchill",
       "en": "Victory at all costs, victory in spite of all terror, victory however long and hard the road may be; for without victory, there is no survival."
     },
     {
-      "id": "625417ae",
+      "qid": "625417ae",
+      "author": "Winston Churchill",
       "en": "I was only the servant of my country and had I, at any moment, failed to express her unflinching resolve to fight and conquer, I should at once have been rightly cast aside."
     },
     {
-      "id": "36a89157",
+      "qid": "36a89157",
+      "author": "Winston Churchill",
       "en": "From Stettin in the Baltic to Trieste in the Adriatic, an iron curtain has descended across the Continent."
     },
     {
-      "id": "32b06877",
+      "qid": "32b06877",
+      "author": "Winston Churchill",
       "en": "There are two things that are more difficult than making an after-dinner speech: climbing a wall which is leaning toward you and kissing a girl who is leaning away from you."
     },
     {
-      "id": "4d8f5605",
+      "qid": "4d8f5605",
+      "author": "Winston Churchill",
       "en": "To jaw-jaw is always better than to war-war."
     },
     {
-      "id": "6d4460a1",
+      "qid": "6d4460a1",
+      "author": "Winston Churchill",
       "en": "To improve is to change; to be perfect is to change often."
     },
     {
-      "id": "b7ca9c10",
+      "qid": "b7ca9c10",
+      "author": "Winston Churchill",
       "en": "The pessimist sees difficulty in every opportunity. The optimist sees the opportunity in every difficulty."
     },
     {
-      "id": "72b78745",
+      "qid": "72b78745",
+      "author": "Winston Churchill",
       "en": "In war as in life, it is often necessary when some cherished scheme has failed, to take up the best alternative open, and if so, it is folly not to work for it with all your might."
     },
     {
-      "id": "c9434726",
+      "qid": "c9434726",
+      "author": "Winston Churchill",
       "en": "There are a terrible lot of lies going about the world, and the worst of it is that half of them are true."
     },
     {
-      "id": "95480445",
+      "qid": "95480445",
+      "author": "Winston Churchill",
       "en": "I am easily satisfied with the very best."
     },
     {
-      "id": "5c4ecebe",
+      "qid": "5c4ecebe",
+      "author": "Winston Churchill",
       "en": "Let our advance worrying become advance thinking and planning."
     },
     {
-      "id": "552701fd",
+      "qid": "552701fd",
+      "author": "Winston Churchill",
       "en": "Want of foresight, unwillingness to act when action would be simple and effective, lack of clear thinking, confusion of counsel until the emergency comes, until self-preservation strikes its jarring gong - these are the features which constitute the endless repetition of history."
     },
     {
-      "id": "8f61ab9e",
+      "qid": "8f61ab9e",
+      "author": "Winston Churchill",
       "en": "Attitude is a little thing that makes a big difference."
     },
     {
-      "id": "33fa7f10",
+      "qid": "33fa7f10",
+      "author": "Winston Churchill",
       "en": "Success is not final, failure is not fatal: it is the courage to continue that counts."
     },
     {
-      "id": "4c6dfcf2",
+      "qid": "4c6dfcf2",
+      "author": "Winston Churchill",
       "en": "I am certainly not one of those who need to be prodded. In fact, if anything, I am the prod."
     },
     {
-      "id": "4f01e641",
+      "qid": "4f01e641",
+      "author": "Winston Churchill",
       "en": "Meeting Franklin Roosevelt was like opening your first bottle of champagne; knowing him was like drinking it."
     },
     {
-      "id": "1e0b053b",
+      "qid": "1e0b053b",
+      "author": "Winston Churchill",
       "en": "A state of society where men may not speak their minds cannot long endure."
     },
     {
-      "id": "4db5a8f2",
+      "qid": "4db5a8f2",
+      "author": "Winston Churchill",
       "en": "Politics is the ability to foretell what is going to happen tomorrow, next week, next month and next year. And to have the ability afterwards to explain why it didn't happen."
     },
     {
-      "id": "ed88db2b",
+      "qid": "ed88db2b",
+      "author": "Winston Churchill",
       "en": "We shape our buildings; thereafter they shape us."
     },
     {
-      "id": "644f5d85",
+      "qid": "644f5d85",
+      "author": "Winston Churchill",
       "en": "I always seem to get inspiration and renewed vitality by contact with this great novel land of yours which sticks up out of the Atlantic."
     },
     {
-      "id": "05e0c5e7",
+      "qid": "05e0c5e7",
+      "author": "Winston Churchill",
       "en": "You can always count on Americans to do the right thing - after they've tried everything else."
     },
     {
-      "id": "8467b499",
+      "qid": "8467b499",
+      "author": "Winston Churchill",
       "en": "My rule of life prescribed as an absolutely sacred rite smoking cigars and also the drinking of alcohol before, after and if need be during all meals and in the intervals between them."
     },
     {
-      "id": "20cf1a6f",
+      "qid": "20cf1a6f",
+      "author": "Winston Churchill",
       "en": "In those days he was wiser than he is now; he used to frequently take my advice."
     },
     {
-      "id": "836b1484",
+      "qid": "836b1484",
+      "author": "Winston Churchill",
       "en": "I cannot pretend to be impartial about the colours. I rejoice with the brilliant ones, and am genuinely sorry for the poor browns."
     },
     {
-      "id": "5ee1eb1c",
+      "qid": "5ee1eb1c",
+      "author": "Winston Churchill",
       "en": "If the Almighty were to rebuild the world and asked me for advice, I would have English Channels round every country. And the atmosphere would be such that anything which attempted to fly would be set on fire."
     },
     {
-      "id": "58c57f95",
+      "qid": "58c57f95",
+      "author": "Winston Churchill",
       "en": "It was the nation and the race dwelling all round the globe that had the lion's heart. I had the luck to be called upon to give the roar."
     },
     {
-      "id": "c0f489b2",
+      "qid": "c0f489b2",
+      "author": "Winston Churchill",
       "en": "We are asking the nations of Europe between whom rivers of blood have flowed to forget the feuds of a thousand years."
     },
     {
-      "id": "179619b2",
+      "qid": "179619b2",
+      "author": "Winston Churchill",
       "en": "Now this is not the end. It is not even the beginning of the end. But it is, perhaps, the end of the beginning."
     },
     {
-      "id": "e94f93ea",
+      "qid": "e94f93ea",
+      "author": "Winston Churchill",
       "en": "Sure I am of this, that you have only to endure to conquer."
     },
     {
-      "id": "274e4ceb",
+      "qid": "274e4ceb",
+      "author": "Winston Churchill",
       "en": "Short words are best and the old words when short are best of all."
     },
     {
-      "id": "6ee67e05",
+      "qid": "6ee67e05",
+      "author": "Winston Churchill",
       "en": "If Hitler invaded hell I would make at least a favourable reference to the devil in the House of Commons."
     },
     {
-      "id": "206328ac",
+      "qid": "206328ac",
+      "author": "Winston Churchill",
       "en": "True genius resides in the capacity for evaluation of uncertain, hazardous, and conflicting information."
     },
     {
-      "id": "08cabd0a",
+      "qid": "08cabd0a",
+      "author": "Winston Churchill",
       "en": "Difficulties mastered are opportunities won."
     },
     {
-      "id": "1fc9c94b",
+      "qid": "1fc9c94b",
+      "author": "Winston Churchill",
       "en": "When you are winning a war almost everything that happens can be claimed to be right and wise."
     },
     {
-      "id": "d9660410",
+      "qid": "d9660410",
+      "author": "Winston Churchill",
       "en": "The inherent vice of capitalism is the unequal sharing of blessings; the inherent virtue of socialism is the equal sharing of miseries."
     },
     {
-      "id": "6dbff2e6",
+      "qid": "6dbff2e6",
+      "author": "Winston Churchill",
       "en": "It is a fine game to play - the game of politics - and it is well worth waiting for a good hand before really plunging."
     },
     {
-      "id": "2e3a6f16",
+      "qid": "2e3a6f16",
+      "author": "Winston Churchill",
       "en": "Politics are very much like war. We may even have to use poison gas at times."
     },
     {
-      "id": "314e04ed",
+      "qid": "314e04ed",
+      "author": "Winston Churchill",
       "en": "Nothing in life is so exhilarating as to be shot at without result."
     },
     {
-      "id": "b62b67aa",
+      "qid": "b62b67aa",
+      "author": "Winston Churchill",
       "en": "I always avoid prophesying beforehand, because it is a much better policy to prophesy after the event has already taken place."
     },
     {
-      "id": "4a58f131",
+      "qid": "4a58f131",
+      "author": "Winston Churchill",
       "en": "Broadly speaking, the short words are the best, and the old words best of all."
     },
     {
-      "id": "c527e247",
+      "qid": "c527e247",
+      "author": "Winston Churchill",
       "en": "The short words are best, and the old words are the best of all."
     },
     {
-      "id": "aba6ca87",
+      "qid": "aba6ca87",
+      "author": "Winston Churchill",
       "en": "Without tradition, art is a flock of sheep without a shepherd. Without innovation, it is a corpse."
     },
     {
-      "id": "29d6ec98",
+      "qid": "29d6ec98",
+      "author": "Winston Churchill",
       "en": "Men occasionally stumble over the truth, but most of them pick themselves up and hurry off as if nothing had happened."
     },
     {
-      "id": "4ed9aa7d",
+      "qid": "4ed9aa7d",
+      "author": "Winston Churchill",
       "en": "Great and good are seldom the same man."
     },
     {
-      "id": "d7f98226",
+      "qid": "d7f98226",
+      "author": "Winston Churchill",
       "en": "If you're going through hell, keep going."
     },
     {
-      "id": "d98cfa23",
+      "qid": "d98cfa23",
+      "author": "Winston Churchill",
       "en": "No part of the education of a politician is more indispensable than the fighting of elections."
     },
     {
-      "id": "4b69dfa7",
+      "qid": "4b69dfa7",
+      "author": "Winston Churchill",
       "en": "Ending a sentence with a preposition is something up with which I will not put."
     },
     {
-      "id": "0409e63f",
+      "qid": "0409e63f",
+      "author": "Winston Churchill",
       "en": "The problems of victory are more agreeable than those of defeat, but they are no less difficult."
     }
   ]
