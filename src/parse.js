@@ -10,16 +10,16 @@ const SHORT_LIST = require('../data/short-list');
 const cheerio = require('cheerio');
 const fs = require('fs');
 const readline = require('readline');
-const path = require('path');
+const { join, basename } = require('path');
 
 const BY_LETTER = false;
 
-const AUTHOR_REF = 'a-a-milne';
+const AUTHOR_ID = 'a-a-milne';
 const LETTER = 'a';
 const LIMIT = 999;
 const COMPACT_JSON = false;
 const INPUT_DIR = 'openquotes.github.io';
-const STATS_FILE = path.join(__dirname, '..', 'data', 'stats', `${LETTER}.json`);
+const STATS_FILE = join(__dirname, '..', 'data', 'stats', `${LETTER}.json`);
 
 let authorRefs;
 if (BY_LETTER) {
@@ -42,8 +42,10 @@ authorRefs.then(async refs => {
   writeCompactJsonFile(STATS_FILE, { stats });
 });
 
+// --------------------------------------------
+
 async function getAuthorsStarting(letter = 'a') {
-  const FILE = path.join(__dirname, '..', 'data', 'authors.txt');
+  const FILE = join(__dirname, '..', 'data', 'authors.txt');
 
   let authorRefs = [];
 
@@ -90,9 +92,9 @@ function writeCompactJsonFile(filePath, data) {
   fs.promises.writeFile(filePath, compacted);
 }
 
-async function parseHtmlFile(authorRef = AUTHOR_REF, outDir = LETTER) {
-  const INPUT  = path.join(__dirname, '..', INPUT_DIR, 'authors', `${authorRef}-quotes`, 'index.html');
-  const OUTPUT = path.join(__dirname, '..', 'data', outDir, `${authorRef}-quotes.json`);
+async function parseHtmlFile(authorId = AUTHOR_REF, outDir = LETTER) {
+  const INPUT  = join(__dirname, '..', INPUT_DIR, 'authors', `${authorId}-quotes`, 'index.html');
+  const OUTPUT = join(__dirname, '..', 'data', outDir, `${authorId}-quotes.json`);
 
   const HTML = await fs.promises.readFile(INPUT, 'utf8');
   const $ = cheerio.load(HTML);
@@ -100,11 +102,11 @@ async function parseHtmlFile(authorRef = AUTHOR_REF, outDir = LETTER) {
   // <span itemprop="author">A. A. Milne</span>
   const author = $('span[ itemprop = author ]').text();
   const imageUrl = $('img.mauthor_img').attr('src');
-  const imageId = path.basename(imageUrl).replace(/-quotes\.jpg/, '');
+  const imageId = basename(imageUrl).replace(/-quotes\.jpg/, '');
 
   const $QUOTES = $('article p.q');
 
-  stats.push({ id: authorRef, author, count: $QUOTES.length });
+  stats.push({ id: authorId, author, count: $QUOTES.length });
 
   console.log('>', author, imageId, $QUOTES.length);
 

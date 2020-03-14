@@ -6,26 +6,26 @@
 
 const { meta, url, count, shortList, data } = require('../index');
 
-describe('Tests on the Open Quotes short-list data:', () => {
+describe('Tests on the OpenQuotes short-list data:', () => {
 
-  it('meta', () => {
+  it("meta - Has a 'title' property containing 'quote'.", () => {
     expect(meta.title).toMatch(/quote/i);
 
     console.log('Counts:', count);
   });
 
-  it('url', () => {
+  it("url  - Contains an 'image' property.", () => {
     expect(url.image).toContain('/img/');
   });
 
-  test('count', () => {
+  it("count- Contains numeric 'authors' & 'quotes' properties.", () => {
     expect(count).toEqual({
       authors: shortList.length, quotes: data.length
     });
     expect(count.authors).toBeGreaterThanOrEqual(52);
   });
 
-  test('data (quote: Milne)', () => {
+  it("data - Array contains a specific quote by 'A.A. Milne'.", () => {
     const QUOTE = data.find(quote => /to be called a liar/.test(quote.en));
 
     expect(QUOTE).toHaveProperty('author', 'A. A. Milne');
@@ -34,7 +34,7 @@ describe('Tests on the Open Quotes short-list data:', () => {
     console.log('Quote found:', QUOTE);
   });
 
-  test('data (quote: Zhuangzi)', () => {
+  it("data - Array contains a specific quote by 'Zhuangzi' (莊子).", () => {
     const QUOTE = data.find(quote => /Life comes from the earth/.test(quote.en));
 
     expect(QUOTE).toHaveProperty('author', 'Zhuangzi');

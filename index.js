@@ -10,7 +10,7 @@ const QUOTES = mergeAuthorQuotes(data);
 const count = {
   authors: data.length,
   quotes: QUOTES.length,
-}
+};
 
 const OPEN_QUOTES_EN = {
   meta,
@@ -28,11 +28,7 @@ function mergeAuthorQuotes (shortList) {
   let allQuotes = [];
 
   shortList.forEach(author => {
-    const QUOTES = require(`./data/short-list/${author.id}-quotes.json`).data;
-
-    /* NOT needed. ~ const quotes = QUOTES.quotes.map(quote => {
-      return { id: quote.id, en: quote.en, name: QUOTES.name };
-    }); */
+    const QUOTES = require(`./data/short-list/${author.id}-quotes`).data;
 
     allQuotes = [ ...allQuotes, ...QUOTES ];
   });
