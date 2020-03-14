@@ -4,7 +4,7 @@
  * @author NDF, 09-March-2020.
  */
 
-const { meta, urls, data } = require('./data/short-list');
+const { meta, url, data } = require('./data/short-list');
 
 const QUOTES = mergeAuthorQuotes(data);
 const count = {
@@ -14,7 +14,7 @@ const count = {
 
 const OPEN_QUOTES_EN = {
   meta,
-  urls,
+  url,
   count,
   shortList: data,
   data: QUOTES,

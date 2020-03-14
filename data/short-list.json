@@ -1,24 +1,27 @@
 {
   "meta": {
-    "title": "A short-list of authors and their quotes in 'Open Quotes'.",
+    "title": "A short-list of authors and their quote-data from 'OpenQuotes'.",
+    "author": "OpenQuotes",
     "copyright": "'All quotations remain the intellectual property of their authors...'",
     "authorList": "data/authors.txt",
     "authorPath": "data/short-list/{ID}-quotes.json",
-    "locales": [ "en", "zh" ],
-    "properties": [ "id", "name" ]
+    "locales": [ "en" ],
+    "properties": [ "id", "qid", "author", "alt" ]
   },
 
-  "urls": {
+  "url": {
     "author": "https://openquotes.github.io/authors/{ID}",
     "copyright": "https://openquotes.github.io/copyright/",
-    "image": "https://openquotes.github.io/img/authors/{ID}-quotes.jpg"
+    "image": "https://openquotes.github.io/img/authors/{ID}-quotes.jpg",
+    "source": "https://github.com/openquotes/openquotes.github.io"
   },
 
   "#": [
+    "http://www.thebest100lists.com/best100historicalfigures/",
     "http://www.thebest100lists.com/best100authors/",
     "https://en.wikipedia.org/wiki/List_of_Chinese_philosophers",
     "https://github.com/nfreear/data/blob/master/data/gist-signed0-quotes.en.json",
-    " .. Mozi; Zhuangzi; siddhartha-mukherjee .."
+    " .. Mozi; siddhartha-mukherjee; John Cooper Clarke"
   ],
 
   "data": [
@@ -28,24 +31,30 @@
     { "id": "albert-einstein" },
     { "id": "anne-frank" },
     { "id": "aretha-franklin" },
-    { "id": "aristotle" },
+    { "id": "aristotle", "locale": "el", "alt": "Ἀριστοτέλης" },
+    { "id": "arthur-conan-doyle" },
     { "id": "benjamin-franklin" },
     { "id": "bob-dylan" },
     { "id": "booker-t-washington" },
+    { "id": "buddha", "locale": "san", "alt": "Siddhārtha Gautama" },
+    { "id": "charles-darwin" },
     { "id": "charles-dickens" },
     { "id": "charlotte-bronte" },
-    { "id": "confucius" },
+    { "id": "confucius", "locale": "zh", "alt": "孔子 Kǒngzǐ (Kǒng Fūzǐ)" },
     { "id": "franz-kafka" },
-    { "id": "fyodor-dostoevsky" },
+    { "id": "fyodor-dostoevsky", "locale": "ru", "alt": "Фёдор Михайлович Достоевский" },
     { "id": "george-eliot" },
     { "id": "hans-christian-andersen" },
     { "id": "henry-ford" },
+    { "id": "j-k-rowling" },
     { "id": "jack-london" },
     { "id": "jane-austen" },
     { "id": "jesse-owens" },
     { "id": "jesus-christ" },
+    { "id": "joan-of-arc" },
     { "id": "john-lennon" },
-    { "id": "lao-tzu", "zh": "老子", "name": "Lǎozǐ (Lao Tzŭ)" },
+    { "id": "karl-marx" },
+    { "id": "lao-tzu", "locale": "zh", "alt": "老子 Lǎozǐ (Lao Tzŭ)" },
     { "id": "mahatma-gandhi" },
     { "id": "mark-twain" },
     { "id": "martin-luther-king-jr" },
@@ -54,19 +63,19 @@
     { "id": "oprah-winfrey" },
     { "id": "oscar-wilde" },
     { "id": "pablo-picasso" },
-    { "id": "plato" },
+    { "id": "plato", "locale": "el", "alt": "Πλάτων" },
     { "id": "pliny-the-elder" },
     { "id": "richard-p-feynman" },
     { "id": "roald-dahl" },
     { "id": "rosa-parks" },
     { "id": "siddhartha-mukherjee" },
-    { "id": "socrates" },
+    { "id": "socrates", "locale": "el", "alt": "Σωκρᾰ́της" },
     { "id": "tony-robbins" },
     { "id": "unknown" },
     { "id": "william-shakespeare" },
     { "id": "winston-churchill" },
     { "id": "woody-allen" },
     { "id": "william-wordsworth" },
-    { "id": "zhuangzi", "zh": "莊子", "name": "Zhuang Zhou (Chuang Tzŭ)" }
+    { "id": "zhuangzi", "locale": "zh", "alt": "莊子 Zhuang Zhou (Chuang Tzŭ)" }
   ]
 }

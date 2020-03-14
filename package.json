@@ -2,7 +2,7 @@
   "private": true,
   "name": "openquotes-data",
   "version": "0.8.0",
-  "description": "...",
+  "description": "A short-list of authors and their quote-data from 'Open Quotes'.",
   "x-copyright": "Content owned by the authors, individuals, and publishers.",
   "license": "UNLICENSED",
   "repository": "https://github.com/nfreear/quotes-data.git",
@@ -10,13 +10,14 @@
   "scripts": {
     "count": "ls -l data/short-list/ | wc -l",
     "grep": "cat data/authors.txt | grep -rni '\\-twain'",
-    "start": "node src/parse.js",
-    "test": "jest --verbose",
+    "parse": "node src/parse.js",
+    "test": "jsonlint -qc data/*.json && jest --verbose",
     "zip": "zip -r ./data.zip data"
   },
   "files": [
     "data/authors.txt",
-    "data/short-list.json"
+    "data/short-list.json",
+    "data/short-list/*.json"
   ],
   "devDependencies": {
     "cheerio": "^1.0.0-rc.3",
@@ -28,7 +29,6 @@
   },
   "x": {
     "homepage": "https://openquotes.github.io/",
-    "copyright": "https://openquotes.github.io/copyright/",
-    "imageUrl": "https://openquotes.github.io/img/authors/{REF}-quotes.jpg"
+    "copyright": "https://openquotes.github.io/copyright/"
   }
 }

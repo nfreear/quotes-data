@@ -1,4 +1,5 @@
 /**
+ * Parse (off-line) author-quote page(s) from 'Open Quotes', extracting the quote-text, etc.
  *
  * @author NDF / 09-March-2020.
  * @see https://openquotes.github.io/authors/a-a-milne-quotes/index.html
@@ -17,6 +18,7 @@ const AUTHOR_REF = 'a-a-milne';
 const LETTER = 'a';
 const LIMIT = 999;
 const COMPACT_JSON = false;
+const INPUT_DIR = 'openquotes.github.io';
 const STATS_FILE = path.join(__dirname, '..', 'data', 'stats', `${LETTER}.json`);
 
 let authorRefs;
@@ -24,18 +26,17 @@ if (BY_LETTER) {
   authorRefs = getAuthorsStarting(LETTER);
 } else {
   authorRefs = Promise.resolve(SHORT_LIST.data.map(author => author.id));
+
   console.log('By short-list:', authorRefs);
 }
 
-// process.exit( 1 );
-
-const DIR = BY_LETTER ? LETTER : 'short-list';
+const OUTPUT_DIR = BY_LETTER ? LETTER : 'short-list';
 
 let stats = [];
 
 authorRefs.then(async refs => {
   await refs.slice(0, LIMIT).forEach(async (ref) => {
-    await parseHtmlFile(ref, DIR);
+    await parseHtmlFile(ref, OUTPUT_DIR);
   });
 
   writeCompactJsonFile(STATS_FILE, { stats });
@@ -89,9 +90,9 @@ function writeCompactJsonFile(filePath, data) {
   fs.promises.writeFile(filePath, compacted);
 }
 
-async function parseHtmlFile(authorRef = AUTHOR_REF, $dir = LETTER) {
-  const INPUT  = path.join(__dirname, '..', 'openquotes.github.io', 'authors', `${authorRef}-quotes`, 'index.html');
-  const OUTPUT = path.join(__dirname, '..', 'data', $dir, `${authorRef}-quotes.json`);
+async function parseHtmlFile(authorRef = AUTHOR_REF, outDir = LETTER) {
+  const INPUT  = path.join(__dirname, '..', INPUT_DIR, 'authors', `${authorRef}-quotes`, 'index.html');
+  const OUTPUT = path.join(__dirname, '..', 'data', outDir, `${authorRef}-quotes.json`);
 
   const HTML = await fs.promises.readFile(INPUT, 'utf8');
   const $ = cheerio.load(HTML);

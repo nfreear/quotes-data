@@ -4,23 +4,25 @@
  * @author NDF, 14-March-2020.
  */
 
-const { meta, urls, count, shortList, data } = require('../index');
+const { meta, url, count, shortList, data } = require('../index');
 
 describe('Tests on the Open Quotes short-list data:', () => {
 
-  test('meta', () => {
-    expect(meta.title).toContain('quotes');
+  it('meta', () => {
+    expect(meta.title).toMatch(/quote/i);
 
     console.log('Counts:', count);
   });
 
-  test('urls', () => {
-    expect(urls.image).toContain('/img/');
+  it('url', () => {
+    expect(url.image).toContain('/img/');
   });
 
   test('count', () => {
-    expect(count.authors).toEqual(shortList.length);
-    expect(count.quotes).toEqual(data.length);
+    expect(count).toEqual({
+      authors: shortList.length, quotes: data.length
+    });
+    expect(count.authors).toBeGreaterThanOrEqual(52);
   });
 
   test('data (quote: Milne)', () => {
